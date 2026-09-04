@@ -1,0 +1,612 @@
+{
+  "country": "Kenya",
+  "universities": {
+    "federal": [],
+    "state": [{
+        "name": "University of Nairobi",
+        "acronym": "UoN",
+        "type": "Public Chartered University",
+        "location": "Nairobi",
+        "website": "uonbi.ac.ke"
+      },
+      {
+        "name": "Moi University",
+        "acronym": "MU",
+        "type": "Public Chartered University",
+        "location": "Eldoret",
+        "website": "mu.ac.ke"
+      },
+      {
+        "name": "Kenyatta University",
+        "acronym": "KU",
+        "type": "Public Chartered University",
+        "location": "Nairobi",
+        "website": "ku.ac.ke"
+      },
+      {
+        "name": "Egerton University",
+        "acronym": "EGU",
+        "type": "Public Chartered University",
+        "location": "Njoro / Nakuru",
+        "website": "egerton.ac.ke"
+      },
+      {
+        "name": "Jomo Kenyatta University of Agriculture and Technology",
+        "acronym": "JKUAT",
+        "type": "Public Chartered University",
+        "location": "Juja",
+        "website": "jkuat.ac.ke"
+      },
+      {
+        "name": "Maseno University",
+        "acronym": "Maseno",
+        "type": "Public Chartered University",
+        "location": "Maseno",
+        "website": ""
+      },
+      {
+        "name": "Masinde Muliro University of Science and Technology",
+        "acronym": "MMUST",
+        "type": "Public Chartered University",
+        "location": "Kakamega",
+        "website": "mmust.ac.ke"
+      },
+      {
+        "name": "Dedan Kimathi University of Technology",
+        "acronym": "DeKUT",
+        "type": "Public Chartered University",
+        "location": "Nyeri",
+        "website": "dkut.ac.ke"
+      },
+      {
+        "name": "Chuka University",
+        "acronym": "CU",
+        "type": "Public Chartered University",
+        "location": "Chuka",
+        "website": "chuka.ac.ke"
+      },
+      {
+        "name": "Technical University of Kenya",
+        "acronym": "TUK",
+        "type": "Public Chartered University",
+        "location": "Nairobi",
+        "website": "tukenya.ac.ke"
+      },
+      {
+        "name": "Technical University of Mombasa",
+        "acronym": "TUM",
+        "type": "Public Chartered University",
+        "location": "Mombasa",
+        "website": "tum.ac.ke"
+      },
+      {
+        "name": "Pwani University",
+        "acronym": "PU",
+        "type": "Public Chartered University",
+        "location": "Kilifi",
+        "website": "pu.ac.ke"
+      },
+{
+        "name": "Kisii University",
+        "acronym": "KSU",
+        "type": "Public Chartered University",
+        "location": "Kisii",
+        "website": "kisiiuniversity.ac.ke"
+      },
+      {
+        "name": "University of Eldoret",
+        "acronym": "UoE",
+        "type": "Public Chartered University",
+        "location": "Eldoret",
+        "website": "uoeld.ac.ke"
+      },
+      {
+        "name": "Maasai Mara University",
+        "acronym": "MMU",
+        "type": "Public Chartered University",
+        "location": "Narok",
+        "website": "mmarau.ac.ke"
+      },
+      {
+        "name": "Jaramogi Oginga Odinga University of Science and Technology",
+        "acronym": "JOOUST",
+        "type": "Public Chartered University",
+        "location": "Bondo",
+        "website": "jooust.ac.ke"
+      },
+      {
+        "name": "Laikipia University",
+        "acronym": "LU",
+        "type": "Public Chartered University",
+        "location": "Nyahururu",
+        "website": "laikipia.ac.ke"
+      },
+      {
+        "name": "South Eastern Kenya University",
+        "acronym": "SEKU",
+        "type": "Public Chartered University",
+        "location": "Kitui",
+        "website": "seku.ac.ke"
+      },
+      {
+        "name": "Meru University of Science and Technology",
+        "acronym": "MUST",
+        "type": "Public Chartered University",
+        "location": "Meru",
+        "website": "must.ac.ke"
+      },
+      {
+        "name": "Multimedia University of Kenya",
+        "acronym": "MMU",
+        "type": "Public Chartered University",
+        "location": "Nairobi",
+        "website": "mmu.ac.ke"
+      },
+      {
+        "name": "University of Kabianga",
+        "acronym": "UoK",
+        "type": "Public Chartered University",
+        "location": "Kericho",
+        "website": "kabianga.ac.ke"
+      },
+      {
+        "name": "Karatina University",
+        "acronym": "KARU",
+        "type": "Public Chartered University",
+        "location": "Karatina",
+        "website": "karu.ac.ke"
+      },
+      {
+        "name": "Kibabii University",
+        "acronym": "KIBU",
+        "type": "Public Chartered University",
+        "location": "Bungoma",
+        "website": "kibu.ac.ke"
+      },
+      {
+        "name": "Rongo University",
+        "acronym": "RU",
+        "type": "Public Chartered University",
+        "location": "Rongo",
+        "website": ""
+      },
+{
+        "name": "The Co-operative University of Kenya",
+        "acronym": "CUK",
+        "type": "Public Chartered University",
+        "location": "Nairobi",
+        "website": "cuk.ac.ke"
+      },
+      {
+        "name": "Taita Taveta University",
+        "acronym": "TTU",
+        "type": "Public Chartered University",
+        "location": "Voi",
+        "website": "ttu.ac.ke"
+      },
+      {
+        "name": "Murang'a University of Technology",
+        "acronym": "MUT",
+        "type": "Public Chartered University",
+        "location": "Murang'a",
+        "website": "mut.ac.ke"
+      },
+      {
+        "name": "University of Embu",
+        "acronym": "UoEM",
+        "type": "Public Chartered University",
+        "location": "Embu",
+        "website": "embuni.ac.ke"
+      },
+      {
+        "name": "Machakos University",
+        "acronym": "MKS",
+        "type": "Public Chartered University",
+        "location": "Machakos",
+        "website": "mksu.ac.ke"
+      },
+      {
+        "name": "Kirinyaga University",
+        "acronym": "KyU",
+        "type": "Public Chartered University",
+        "location": "Kutus",
+        "website": "kyu.ac.ke"
+      },
+      {
+        "name": "Garissa University",
+        "acronym": "GSU",
+        "type": "Public Chartered University",
+        "location": "Garissa",
+        "website": "gau.ac.ke"
+      },
+      {
+        "name": "Alupe University",
+        "acronym": "ALUPE",
+        "type": "Public Chartered University",
+        "location": "Busia",
+        "website": "au.ac.ke"
+      },
+      {
+        "name": "Kaimosi Friends University",
+        "acronym": "KAFU",
+        "type": "Public Chartered University",
+        "location": "Kaimosi",
+        "website": "kafu.ac.ke"
+      },
+      {
+        "name": "Tom Mboya University",
+        "acronym": "TMU",
+        "type": "Public Chartered University",
+        "location": "Homa Bay",
+        "website": "tmu.ac.ke"
+      },
+      {
+        "name": "Tharaka University",
+        "acronym": "TU",
+        "type": "Public Chartered University",
+        "location": "Tharaka Nithi",
+        "website": "tharaka.ac.ke"
+      },
+{
+        "name": "National Defence University-Kenya",
+        "acronym": "NDU-K",
+        "type": "Specialized Public Degree-Awarding University",
+        "location": "Kenya",
+        "website": "ndu.ac.ke"
+      },
+      {
+        "name": "Open University of Kenya",
+        "acronym": "OUK",
+        "type": "Specialized Public Degree-Awarding University",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "National Intelligence Research University",
+        "acronym": "",
+        "type": "Specialized Public Degree-Awarding University",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Kenya Advanced Institute of Science and Technology",
+        "acronym": "KAIST",
+        "type": "Specialized Public Degree-Awarding University",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Kenya Medical Research Institute",
+        "acronym": "KEMRI",
+        "type": "Specialized Public Degree-Awarding University",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Turkana University College",
+        "acronym": "TUC",
+        "type": "Public University Constituent College",
+        "location": "Turkana",
+        "website": "tuc.ac.ke"
+      },
+      {
+        "name": "Koitaleel Samoei University College",
+        "acronym": "KSUC",
+        "type": "Public University Constituent College",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Mama Ngina University College",
+        "acronym": "MNUC",
+        "type": "Public University Constituent College",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Nyandarua University College",
+        "acronym": "",
+        "type": "Public University Constituent College",
+        "location": "Nyandarua",
+        "website": ""
+      },
+      {
+        "name": "Kabarnet University College",
+        "acronym": "",
+        "type": "Public University Constituent College",
+        "location": "Kabarnet",
+        "website": ""
+      },
+      {
+        "name": "Makueni University College",
+        "acronym": "",
+        "type": "Public University Constituent College",
+        "location": "Makueni",
+        "website": ""
+      }
+    ],
+    "private": [{
+        "name": "University of Eastern Africa, Baraton",
+        "acronym": "UEAB",
+        "type": "Private Chartered University",
+        "location": "Eldoret",
+        "website": "ueab.ac.ke"
+      },
+      {
+        "name": "Catholic University of Eastern Africa",
+        "acronym": "CUEA",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "cuea.edu"
+      },
+      {
+        "name": "Daystar University",
+        "acronym": "Daystar",
+        "type": "Private Chartered University",
+        "location": "Nairobi / Athi River",
+        "website": "daystar.ac.ke"
+      },
+      {
+        "name": "Scott Christian University",
+        "acronym": "SCU",
+        "type": "Private Chartered University",
+        "location": "Machakos",
+        "website": "scott.ac.ke"
+      },
+      {
+        "name": "United States International University Africa",
+        "acronym": "USIU-Africa",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "usiu.ac.ke"
+      },
+      {
+        "name": "Africa Nazarene University",
+        "acronym": "ANU",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "anu.ac.ke"
+      },
+      {
+        "name": "Kenya Methodist University",
+        "acronym": "KeMU",
+        "type": "Private Chartered University",
+        "location": "Meru / Nairobi",
+        "website": "kemu.ac.ke"
+      },
+      {
+        "name": "St. Paul's University",
+        "acronym": "SPU",
+        "type": "Private Chartered University",
+        "location": "Limuru",
+        "website": "spu.ac.ke"
+      },
+      {
+        "name": "Pan Africa Christian University",
+        "acronym": "PAC",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "pacuniversity.ac.ke"
+      },
+      {
+        "name": "Strathmore University",
+        "acronym": "SU",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "strathmore.edu"
+      },
+      {
+        "name": "Kabarak University",
+        "acronym": "KABU",
+        "type": "Private Chartered University",
+        "location": "Nakuru",
+        "website": "kabarak.ac.ke"
+      },
+      {
+        "name": "Mount Kenya University",
+        "acronym": "MKU",
+        "type": "Private Chartered University",
+        "location": "Thika",
+        "website": "mku.ac.ke"
+      },
+      {
+        "name": "Africa International University",
+        "acronym": "AIU",
+        "type": "Private Chartered University",
+        "location": "Karen, Nairobi",
+        "website": "aiu.ac.ke"
+      },
+      {
+        "name": "Kenya Highlands Evangelical University",
+        "acronym": "KHEU",
+        "type": "Private Chartered University",
+        "location": "Kericho",
+        "website": "khu.ac.ke"
+      },
+      {
+        "name": "Great Lakes University of Kisumu",
+        "acronym": "GLUK",
+        "type": "Private Chartered University",
+        "location": "Kisumu",
+        "website": "gluk.ac.ke"
+      },
+      {
+        "name": "KCA University",
+        "acronym": "KCA",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "kca.ac.ke"
+      },
+{
+        "name": "Adventist University of Africa",
+        "acronym": "AUA",
+        "type": "Private Chartered University",
+        "location": "Ongata Rongai",
+        "website": "aua.ac.ke"
+      },
+      {
+        "name": "KAG EAST University",
+        "acronym": "KAG EAST",
+        "type": "Private Chartered University",
+        "location": "Buruburu, Nairobi",
+        "website": "east.ac.ke"
+      },
+      {
+        "name": "Umma University",
+        "acronym": "UMMA",
+        "type": "Private Chartered University",
+        "location": "Kajiado",
+        "website": "umma.ac.ke"
+      },
+      {
+        "name": "Presbyterian University of East Africa",
+        "acronym": "PUEA",
+        "type": "Private Chartered University",
+        "location": "Kikuyu",
+        "website": "puea.ac.ke"
+      },
+      {
+        "name": "Aga Khan University",
+        "acronym": "AKU",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "aku.edu"
+      },
+      {
+        "name": "Kiriri Women's University of Science and Technology",
+        "acronym": "KWUST",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "kwust.ac.ke"
+      },
+      {
+        "name": "The East African University",
+        "acronym": "TEAU",
+        "type": "Private Chartered University",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Zetech University",
+        "acronym": "ZETECH",
+        "type": "Private Chartered University",
+        "location": "Ruiru / Nairobi",
+        "website": "zetech.ac.ke"
+      },
+      {
+        "name": "Lukenya University",
+        "acronym": "LU",
+        "type": "Private Chartered University",
+        "location": "Makueni",
+        "website": "lukenyauniversity.ac.ke"
+      },
+      {
+        "name": "Management University of Africa",
+        "acronym": "MUA",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "mua.ac.ke"
+      },
+      {
+        "name": "Tangaza University",
+        "acronym": "TANGAZA",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "tangaza.ac.ke"
+      },
+      {
+        "name": "Islamic University of Kenya",
+        "acronym": "IUK",
+        "type": "Private Chartered University",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Riara University",
+        "acronym": "RU",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "riarauniversity.ac.ke"
+      },
+      {
+        "name": "Uzima University",
+        "acronym": "UZU",
+        "type": "Private Chartered University",
+        "location": "Kisumu",
+        "website": "uzimauniversity.ac.ke"
+      },
+      {
+        "name": "Gretsa University",
+        "acronym": "GREATSA",
+        "type": "Private Chartered University",
+        "location": "Thika",
+        "website": "gretsauniversity.ac.ke"
+      },
+      {
+        "name": "Amref International University",
+        "acronym": "AMREF",
+        "type": "Private Chartered University",
+        "location": "Nairobi",
+        "website": "amref.ac.ke"
+      },
+{
+        "name": "Pioneer International University",
+        "acronym": "PIU",
+        "type": "Private University (Letter of Interim Authority)",
+        "location": "Nairobi",
+        "website": "piu.ac.ke"
+      },
+      {
+        "name": "International Leadership University",
+        "acronym": "ILU",
+        "type": "Private University (Letter of Interim Authority)",
+        "location": "Nairobi",
+        "website": "ilu.ac.ke"
+      },
+      {
+        "name": "Consolata International University",
+        "acronym": "CIU",
+        "type": "Private University (Letter of Interim Authority)",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Outspan Global University",
+        "acronym": "OGU",
+        "type": "Private University (Letter of Interim Authority)",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "The African Talent University",
+        "acronym": "ATU",
+        "type": "Private University (Letter of Interim Authority)",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "East Kenya Integrated University",
+        "acronym": "EKIU",
+        "type": "Private University (Letter of Interim Authority)",
+        "location": "Kenya",
+        "website": ""
+      },
+      {
+        "name": "Hekima University College",
+        "acronym": "Hekima",
+        "type": "Private University Constituent College",
+        "location": "Nairobi",
+        "website": ""
+      },
+      {
+        "name": "Marist International University College",
+        "acronym": "MIUC",
+        "type": "Private University Constituent College",
+        "location": "Nairobi",
+        "website": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "country": "Congo, ",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Université Marien Ngouabi",
+        "acronym": "UMNG",
+        "location": "Brazzaville",
+        "website": "umng.cg"
+      },
+      {
+        "name": "Université Denis Sassou-Nguesso",
+        "acronym": "UDSN",
+        "location": "Kintelé (Brazzaville)",
+        "website": "udsn.cg"
+      }
+    ],
+    "private": [
+      {
+        "name": "École Supérieure de Gestion et d'Administration des Entreprises",
+        "acronym": "ESGAE",
+        "location": "Brazzaville",
+        "website": "esgae.org"
+      },
+      {
+        "name": "Université Libre du Congo",
+        "acronym": "ULC",
+        "location": "Brazzaville",
+        "website": "universitelibreducongo.com"
+      },
+      {
+        "name": "Université Protestante de Brazzaville",
+        "acronym": "UPB",
+        "location": "Brazzaville",
+        "website": "uniprobrazza.com"
+      },
+      {
+        "name": "Institut Management de Brazzaville",
+        "acronym": "IMB",
+        "location": "Brazzaville",
+        "website": "imb-congo.com"
+      },
+      {
+        "name": "École Supérieure de Technologie du Littoral",
+        "acronym": "ESTL",
+        "location": "Pointe-Noire",
+        "website": "estl-cg.com"
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

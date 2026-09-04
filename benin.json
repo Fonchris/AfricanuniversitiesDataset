@@ -1,0 +1,557 @@
+{
+  "country": "Benin",
+  "universities": [
+    {
+      "name": "Université d'Abomey-Calavi (UAC)",
+      "city": "Abomey-Calavi",
+      "department": "Not specified",
+      "type": "Université",
+      "status": "Public",
+      "website": ""
+    },
+    {
+      "name": "Université de Parakou (UP)",
+      "city": "Parakou",
+      "department": "Not specified",
+      "type": "Université",
+      "status": "Public",
+      "website": ""
+    },
+    {
+      "name": "Université Nationale des Sciences, Technologies, Ingénierie et Mathématiques (UNSTIM)",
+      "city": "Abomey",
+      "department": "Not specified",
+      "type": "Université",
+      "status": "Public",
+      "website": ""
+    },
+    {
+      "name": "Université Nationale d'Agriculture (UNA)",
+      "city": "Porto-Novo",
+      "department": "Not specified",
+      "type": "Université",
+      "status": "Public",
+      "website": ""
+    },
+    {
+      "name": "African School of Economics (ASE)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "ASSANA-FORMATION",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Centre d'Études Touristiques de l'Agence Africaine de Tourisme (CET-AAT-IPAAM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Centre de Formation Professionnelle aux Métiers des Médias (CFPMM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Centre de Formation Professionnelle et de Perfectionnement (CFPP)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Centre de Formation Touristique et Hôtelière (CFTH)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Centre International Universitaire des Meilleurs",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Classes Préparatoires Audacia (CP-A)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole de Commerce de Lyon Campus Bénin",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole de Formation des Enseignants du Secondaire - SAPIENTIA",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole de Techniciens Supérieurs du Bénin (ECOTES)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Internationale de Théâtre du Bénin (EITB)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Polytechnique Universitaire des Métiers d'Avenirs (EPUMA)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Professionnelle Salésienne Saint Jean Bosco",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure de Technologie et de Gestion (ESTG)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Polytechnique (ESP)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Enseignement Professionnel (ESEP Le Berger)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure d'Entrepreneuriat et de la Prospérité (ESPERANZA)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure de Commerce et d'Administration des Entreprises (ESCAE)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure de Génie Civil Verechaguine A.K. (ESGC)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure de Gestion et de Technologie (ESGT)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure de Journalisme et de Communication (ESJC/UAFPJ)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure de Management (ESM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure des Techniques Industrielles et de Management (ESTIM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure des Cadres du Funéraire",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure des Cadres et Techniciens (ESCT)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure des Ingénieurs Géomètres Topographes (ESIGT)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure des Sciences et Technologies de Lokossa (ESST-L)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure des Techniques d'Administration et de Gestion (ESTAG)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure des Technologies Avancées et du Management des Réseaux Informatiques (ESTAM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Jean Michel Le Faucon (ESJMF)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Panafricaine de Management Appliqué (ESPAM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Polytechnique Le Pharaon",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure pour la Formation et le Recyclage d'Enseignants (ESFRE)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Privée des Sciences Agronomiques Kigani Dada de Kpessou (ESPSA/K.D-K)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Sainte Félicité (ESSF)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Saint-Louis d’Afrique",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Ecole Supérieure Universitaire St Clements and Commonwealth",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "PIGIER BENIN",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "EPS « La Cité »",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "ESFAM-BENIN",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Haute Ecole d’Industrie et de Management (HEIM WELDIOS)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Haute Ecole de Commerce et de Management (HECM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Haute Ecole de Gestion et de Journalisme de Bohicon (HEGJ)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Haute Ecole de Gestion et de Technologie (HEGT)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Haute Ecole des Métiers Techniques (HECOMET)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Haute Ecole du Numérique et des Sciences des Affaires (HENSA)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Houdégbé North American University Benin (HNAUB)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Africain Ibn Batouta (IAIB)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut CERCO",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut de Formations Avancées (IFA TOSSI)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Interafricain de Formation en Gestion, Informatique et Tourisme (IIFGIT)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut International de Finance, Management et d’Expertise Comptable (IIFMEC)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Polytechnique Le Citoyen",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Polytechnique Paul Hazoumé (IPPH)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Régional de Formation Professionnelle (IRFP)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Régional Supérieur des Beaux-Arts, de la Culture et de la Communication (IRSBAC-COM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur Agro-Pastoral de Biotechnologie et de l’Environnement (ISAPAB)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur de Communication et d’Organisation et de Management (ISCOM)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur de Communication et de Gestion (ISCG)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur de Formation Professionnelle (ISFOP)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur de Formation Professionnelle et d’Appui à la Sécurité Économique (IS FOPASE)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur de Génie-Civil et de Géomètre-Topographe (ISGG)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur de l’Afrique de l’Ouest (ISAO)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    },
+    {
+      "name": "Institut Supérieur de Management Adonaï (ISM Adonaï)",
+      "city": "Not specified",
+      "department": "Not specified",
+      "type": "Private higher-education institution",
+      "status": "Private",
+      "website": ""
+    }
+  ]
+}

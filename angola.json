@@ -1,0 +1,805 @@
+{
+  "country": "Angola",
+  "universities": [
+    {
+      "name": "Universidade Agostinho Neto",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Pública",
+      "type": "University",
+      "website": "https://uan.ao/"
+    },
+    {
+      "name": "Universidade de Luanda",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Pública",
+      "type": "University",
+      "website": "https://uniluanda.ao/"
+    },
+    {
+      "name": "Universidade Katyavala Bwila",
+      "province": "Benguela",
+      "municipality": "Benguela",
+      "nature": "Pública",
+      "type": "University",
+      "website": "https://ukb.ed.ao/"
+    },
+    {
+      "name": "Universidade José Eduardo dos Santos",
+      "province": "Huambo",
+      "municipality": "Huambo",
+      "nature": "Pública",
+      "type": "University",
+      "website": "https://ujes.ao/"
+    },
+    {
+      "name": "Universidade Cuíto Cuanavale",
+      "province": "Cuando Cubango",
+      "municipality": "Menongue",
+      "nature": "Pública",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade KimpaVita",
+      "province": "Uíge",
+      "municipality": "Uíge",
+      "nature": "Pública",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade Lueji a Nkonde",
+      "province": "Lunda Norte",
+      "municipality": "Dundo",
+      "nature": "Pública",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade Mandume Ya Ndemufayo",
+      "province": "Huíla",
+      "municipality": "Lubango",
+      "nature": "Pública",
+      "type": "University",
+      "website": "https://umn.ed.ao/"
+    },
+    {
+      "name": "Universidade 11 de Novembro",
+      "province": "Cabinda",
+      "municipality": "Cabinda",
+      "nature": "Pública",
+      "type": "University",
+      "website": "https://www.uon.ed.ao/"
+    },
+    {
+      "name": "Universidade do Namibe",
+      "province": "Namibe",
+      "municipality": "Moçâmedes",
+      "nature": "Pública",
+      "type": "University",
+      "website": "https://uninamibe.ao/"
+    },
+    {
+      "name": "Universidade Rainha Njinga a Mbande",
+      "province": "Malanje",
+      "municipality": "Malanje",
+      "nature": "Pública",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Educação de Luanda",
+      "province": "Luanda",
+      "municipality": "Belas",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Educação de Benguela",
+      "province": "Benguela",
+      "municipality": "Benguela",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Educação de Cabinda",
+      "province": "Cabinda",
+      "municipality": "Cabinda",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Educação do Sumbe",
+      "province": "Cuanza Sul",
+      "municipality": "Sumbe",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Educação do Huambo",
+      "province": "Huambo",
+      "municipality": "Huambo",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Educação da Huíla",
+      "province": "Huíla",
+      "municipality": "Lubango",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Educação do Uíge",
+      "province": "Uíge",
+      "municipality": "Uíge",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Cuanza Sul",
+      "province": "Cuanza Sul",
+      "municipality": "Sumbe",
+      "nature": "Pública",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Soyo",
+      "province": "Zaire",
+      "municipality": "Soyo",
+      "nature": "Pública",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Bié",
+      "province": "Bié",
+      "municipality": "Cuito",
+      "nature": "Pública",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico de Ndalatando",
+      "province": "Cuanza Norte",
+      "municipality": "Ndalatando",
+      "nature": "Pública",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Moxico",
+      "province": "Moxico",
+      "municipality": "Luena",
+      "nature": "Pública",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Escola Superior Pedagógica do Bengo",
+      "province": "Bengo",
+      "municipality": "Caxito",
+      "nature": "Pública",
+      "type": "Escola Superior",
+      "website": ""
+    },
+    {
+      "name": "Escola Superior Pedagógica do Bié",
+      "province": "Bié",
+      "municipality": "Cuito",
+      "nature": "Pública",
+      "type": "Escola Superior",
+      "website": ""
+    },
+    {
+      "name": "Escola Superior Pedagógica do Cuanza Norte",
+      "province": "Cuanza Norte",
+      "municipality": "Ndalatando",
+      "nature": "Pública",
+      "type": "Escola Superior",
+      "website": ""
+    },
+    {
+      "name": "Escola Superior de Ciências Sociais, Artes e Humanidades",
+      "province": "Zaire",
+      "municipality": "Mbanza Congo",
+      "nature": "Pública",
+      "type": "Escola Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Técnico Militar",
+      "province": "Luanda",
+      "municipality": "Kilamba Kiaxi",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências Policiais e Criminais General Osvaldo Serra Van-Dúnem",
+      "province": "Luanda",
+      "municipality": "Belas",
+      "nature": "Pública",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Academia de Ciências Sociais e Tecnologia",
+      "province": "Luanda",
+      "municipality": "Belas",
+      "nature": "Pública",
+      "type": "Academia",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Bengo",
+      "province": "Bengo",
+      "municipality": "Caxito",
+      "nature": "Pública",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Universidade Católica de Angola",
+      "province": "Luanda",
+      "municipality": "Kilamba Kiaxi",
+      "nature": "Privada",
+      "type": "University",
+      "website": "https://www.ucan.edu/"
+    },
+    {
+      "name": "Universidade Jean Piaget de Angola",
+      "province": "Luanda",
+      "municipality": "Viana",
+      "nature": "Privada",
+      "type": "University",
+      "website": "https://www.unipiaget-angola.org/"
+    },
+    {
+      "name": "Universidade Lusíada de Angola",
+      "province": "Luanda",
+      "municipality": "Luanda",
+      "nature": "Privada",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade Independente de Angola",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade Gregório Semedo",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade de Belas",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade Óscar Ribas",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "University",
+      "website": "https://www.uor.edu.ao/"
+    },
+    {
+      "name": "Universidade Privada de Angola",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade Técnica de Angola",
+      "province": "Luanda",
+      "municipality": "Kilamba Kiaxi",
+      "nature": "Privada",
+      "type": "University",
+      "website": ""
+    },
+    {
+      "name": "Universidade Metodista de Angola",
+      "province": "Luanda",
+      "municipality": "Luanda",
+      "nature": "Privada",
+      "type": "University",
+      "website": "https://uma.co.ao/"
+    },
+    {
+      "name": "Instituto Superior Politécnico de Tecnologias e Ciências",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico de Ciências e Tecnologia - INSUTEC",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Katangoji",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências de Administração e Humanas",
+      "province": "Luanda",
+      "municipality": "Belas",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ciências Sociais e Relações Internacionais",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Internacional de Angola",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Metropolitano",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Alvorecer da Juventude",
+      "province": "Luanda",
+      "municipality": "Kilamba Kiaxi",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Técnico de Angola",
+      "province": "Luanda",
+      "municipality": "Kilamba Kiaxi",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Cazenga",
+      "province": "Luanda",
+      "municipality": "Cazenga",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Kalandula de Angola",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico de Kangonjo",
+      "province": "Luanda",
+      "municipality": "Cacuaco",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Atlântida",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Angola",
+      "province": "Luanda",
+      "municipality": "Cacuaco",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Zango",
+      "province": "Luanda",
+      "municipality": "Viana",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Tocoísta",
+      "province": "Luanda",
+      "municipality": "Kilamba Kiaxi",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Deolinda Rodrigues",
+      "province": "Luanda",
+      "municipality": "Kilamba Kiaxi",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Técnico de Administração e Finanças",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Intercontinental de Luanda",
+      "province": "Luanda",
+      "municipality": "Cacuaco",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Nelson Mandela",
+      "province": "Luanda",
+      "municipality": "Viana",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Crescente",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Bita",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Privado do Kilamba",
+      "province": "Luanda",
+      "municipality": "Belas",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Escola Superior Técnica de Ciências do Desporto",
+      "province": "Luanda",
+      "municipality": "Talatona",
+      "nature": "Privada",
+      "type": "Escola Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico de Porto Amboim",
+      "province": "Cuanza Sul",
+      "municipality": "Porto Amboim",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Libolo",
+      "province": "Cuanza Sul",
+      "municipality": "Libolo",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico de Benguela",
+      "province": "Benguela",
+      "municipality": "Benguela",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Lusíada de Benguela",
+      "province": "Benguela",
+      "municipality": "Lobito",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Jean Piaget de Benguela",
+      "province": "Benguela",
+      "municipality": "Benguela",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Maravilha",
+      "province": "Benguela",
+      "municipality": "Benguela",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Católico de Benguela",
+      "province": "Benguela",
+      "municipality": "Catumbela",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Escola Superior Politécnica de Benguela",
+      "province": "Benguela",
+      "municipality": "Benguela",
+      "nature": "Privada",
+      "type": "Escola Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Sol Nascente",
+      "province": "Huambo",
+      "municipality": "Huambo",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Lusíada do Huambo",
+      "province": "Huambo",
+      "municipality": "Huambo",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico de Humanidades e Tecnologias - EKUIKUI II",
+      "province": "Huambo",
+      "municipality": "Huambo",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico da Caála",
+      "province": "Huambo",
+      "municipality": "Caála",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Católico do Huambo",
+      "province": "Huambo",
+      "municipality": "Huambo",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico do Cuito",
+      "province": "Bié",
+      "municipality": "Cuito",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Ndunduma",
+      "province": "Bié",
+      "municipality": "Cuito",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Independente",
+      "province": "Huíla",
+      "municipality": "Lubango",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Gregório Semedo",
+      "province": "Huíla",
+      "municipality": "Lubango",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico da Tundavala",
+      "province": "Huíla",
+      "municipality": "Lubango",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Sinodal",
+      "province": "Huíla",
+      "municipality": "Lubango",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Evangélico do Lubango",
+      "province": "Huíla",
+      "municipality": "Lubango",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Cardeal Dom Alexandre do Nascimento",
+      "province": "Malanje",
+      "municipality": "Malanje",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Privado da Catepa",
+      "province": "Malanje",
+      "municipality": "Malanje",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Walinga",
+      "province": "Moxico",
+      "municipality": "Luena",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Privado do Luena",
+      "province": "Moxico",
+      "municipality": "Luena",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Lusíada da Lunda Sul",
+      "province": "Lunda Sul",
+      "municipality": "Saurimo",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico de Cabinda",
+      "province": "Cabinda",
+      "municipality": "Cabinda",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Lusíada de Cabinda",
+      "province": "Cabinda",
+      "municipality": "Cabinda",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Privado do Zaire",
+      "province": "Zaire",
+      "municipality": "Mbanza Congo",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Privado do Uíge",
+      "province": "Uíge",
+      "municipality": "Uíge",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Politécnico Privado de Menongue",
+      "province": "Cuando Cubango",
+      "municipality": "Menongue",
+      "nature": "Privada",
+      "type": "Instituto Superior Politécnico",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior de Ombaka",
+      "province": "Benguela",
+      "municipality": "Benguela",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Privado Nzenzu Estrela",
+      "province": "Zaire",
+      "municipality": "Mbanza Congo",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Instituto Superior Nimi ya Lukeni",
+      "province": "Uíge",
+      "municipality": "Uíge",
+      "nature": "Privada",
+      "type": "Instituto Superior",
+      "website": ""
+    },
+    {
+      "name": "Universidade Internacional do Cuanza",
+      "province": "Bié",
+      "municipality": "Cuito",
+      "nature": "Privada",
+      "type": "University",
+      "website": "https://www.uicuanda.ao/"
+    },
+    {
+      "name": "Escola Superior de Saúde Castelo",
+      "province": "Luanda",
+      "municipality": "Luanda",
+      "nature": "Privada",
+      "type": "Escola Superior",
+      "website": ""
+    }
+  ]
+}

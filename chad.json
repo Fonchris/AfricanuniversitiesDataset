@@ -1,0 +1,223 @@
+{
+  "country": "Chad",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Université de N'Djamena",
+        "acronym": "UN",
+        "website": "https://www.universite-ndjamena.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université d'Abéché",
+        "acronym": "UNABA",
+        "website": "http://www.unaba.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université de Moundou",
+        "acronym": "UDM",
+        "website": "https://universite-moundou.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université de Sarh",
+        "acronym": "UTS",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université de Doba",
+        "acronym": "UD",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université de Ati",
+        "acronym": "UAT",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université de Bongor",
+        "acronym": "UB",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université de Bol",
+        "acronym": "UBOL",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université de Faya-Largeau",
+        "acronym": "UFL",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut National Supérieur des Sciences et Techniques d'Abéché",
+        "acronym": "INSTA",
+        "website": "http://insta.td/",
+        "status": "Active"
+      },
+      {
+        "name": "École Nationale Supérieure des Travaux Publics",
+        "acronym": "ENSTP",
+        "website": "https://enstp-ndjamena.td/",
+        "status": "Active"
+      },
+      {
+        "name": "École Nationale d'Administration",
+        "acronym": "ENA",
+        "website": "https://ena.td/",
+        "status": "Active"
+      },
+      {
+        "name": "École Nationale Supérieure des Technologies de l'Information et de la Communication",
+        "acronym": "ENASTIC",
+        "website": "https://www.enastic.td/",
+        "status": "Active"
+      },
+      {
+        "name": "École Normale Supérieure (N'Djamena, Bongor, Abéché)",
+        "acronym": "ENS",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut National Supérieur du Pétrole de Mao",
+        "acronym": "INSP-Mao",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut National Supérieur des Arts et Métiers de Mongo",
+        "acronym": "INSAM",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut National Supérieur d'Agronomie et de Technologies de Laï",
+        "acronym": "INSAT",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut National Supérieur d'Élevage de Moussoro",
+        "acronym": "INSEM",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur des Sciences de l'Éducation",
+        "acronym": "ISSED",
+        "website": "https://mesrsfp.gouv.td/",
+        "status": "Active"
+      }
+    ],
+    "private": [
+      {
+        "name": "Hautes Études Commerciales du Tchad",
+        "acronym": "HEC-Tchad",
+        "website": "https://hec-tchad.org/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur Polytechnique La Grâce",
+        "acronym": "ISPLG",
+        "website": "https://isplg-tchad.com/",
+        "status": "Active"
+      },
+      {
+        "name": "Université Évangélique du Tchad",
+        "acronym": "UET",
+        "website": "https://uet-tchad.org/",
+        "status": "Active"
+      },
+      {
+        "name": "Université Roi Fayçal du Tchad",
+        "acronym": "URFT",
+        "website": "https://urft.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Université HEC-Tchad",
+        "acronym": "U-HEC",
+        "website": "https://u-hec.td/",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur de Management et de Technologie",
+        "acronym": "ISMT",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur de Gestion et de Comptabilité",
+        "acronym": "ISGC",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur des Sciences de la Santé",
+        "acronym": "ISSS",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur d'Informatique et de Gestion",
+        "acronym": "ISIG",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur des Techniques Médicales du Tchad",
+        "acronym": "ISTMT",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur de Commerce et de Management",
+        "acronym": "ISCM",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur des Métiers du Tertiaire",
+        "acronym": "ISMT-Tchad",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur des Sciences Agronomiques et de l'Environnement",
+        "acronym": "ISSAE",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur des Sciences Appliquées et de Technologie",
+        "acronym": "ISSAT",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      },
+      {
+        "name": "Institut Supérieur de Télécommunication et Informatique",
+        "acronym": "ISTI",
+        "website": "https://enseignementsuptchad.net",
+        "status": "Active"
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": [
+      {
+        "name": "Université Virtuelle du Tchad",
+        "acronym": "UVT",
+        "website": "https://uvt.td/",
+        "status": "Active"
+      }
+    ]
+  }
+}

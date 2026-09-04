@@ -1,0 +1,125 @@
+{
+  "country": "Equatorial Guinea",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Universidad Nacional de Guinea Ecuatorial",
+        "acronym": "UNGE",
+        "type": "Public National University",
+        "location": "Malabo and Bata",
+        "website": "https://ungecampus.com/"
+      },
+      {
+        "name": "Universidad Afro-Americana de África Central",
+        "acronym": "AAUCA",
+        "type": "Public Autonomous University",
+        "location": "Ciudad de la Paz, Djibloho",
+        "website": "https://www.aaucauniversity.com/"
+      },
+      {
+        "name": "Instituto Superior de Telecomunicaciones y Tecnologías de la Información y Comunicación",
+        "acronym": "INSTTIC",
+        "type": "Higher Professional Institute (Telecommunications & ICT)",
+        "location": "Ciudad de la Paz / Djibloho",
+        "website": ""
+      },
+      {
+        "name": "Centro Internacional de Postgrados de Guinea Ecuatorial",
+        "acronym": "CIPGE",
+        "type": "Postgraduate Education Centre",
+        "location": "Bata",
+        "website": ""
+      },
+      {
+        "name": "Instituto Tecnológico de Minas e Hidrocarburos",
+        "acronym": "INTGE",
+        "type": "Technology Institute (Mining & Hydrocarbons)",
+        "location": "Equatorial Guinea",
+        "website": ""
+      },
+      {
+        "name": "Instituto Politécnico de Bata",
+        "acronym": "",
+        "type": "Higher Technical & Professional Institute",
+        "location": "Bata",
+        "website": ""
+      },
+      {
+        "name": "Instituto de Formación Profesional 12 de Octubre",
+        "acronym": "",
+        "type": "Industrial & Vocational Professional Training",
+        "location": "Malabo",
+        "website": ""
+      },
+      {
+        "name": "Centro de Turismo y Hostelería de Mongomo",
+        "acronym": "",
+        "type": "Tourism & Hospitality Training Centre",
+        "location": "Mongomo",
+        "website": ""
+      },
+      {
+        "name": "Centro de Formación Profesional San José Obrero",
+        "acronym": "",
+        "type": "Occupational & Professional Training Centre",
+        "location": "Adjab, Bata",
+        "website": ""
+      },
+      {
+        "name": "Centro de Formación Profesional Eulogio Oyo Riquesa",
+        "acronym": "",
+        "type": "Occupational & Professional Training Centre",
+        "location": "Baney",
+        "website": ""
+      },
+      {
+        "name": "Centro de Formación Profesional Ciriaco Tamarite Burgos",
+        "acronym": "",
+        "type": "Occupational & Professional Training Centre",
+        "location": "Annobón",
+        "website": ""
+      },
+      {
+        "name": "Centro de Formación Profesional SANE",
+        "acronym": "",
+        "type": "Professional Training Centre",
+        "location": "Continental Region",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Instituto Superior de Formación Profesional y Lingüística",
+        "acronym": "INSFOPLI",
+        "type": "Higher Professional Institute (Business, IT, Languages)",
+        "location": "Bata",
+        "website": "https://insfopli.com/"
+      },
+      {
+        "name": "Instituto Nostradamus de Formación Técnica y Profesional",
+        "acronym": "NOSTRADAMUS",
+        "type": "Private Professional & Technical Training Institute",
+        "location": "Malabo II",
+        "website": ""
+      }
+    ],
+    "transnational": [
+      {
+        "name": "Universidad Nacional de Educación a Distancia - Malabo",
+        "acronym": "UNED",
+        "type": "Foreign Public University Centre (Spain)",
+        "location": "Malabo",
+        "website": "https://www.uned.es/"
+      },
+      {
+        "name": "Universidad Nacional de Educación a Distancia - Bata",
+        "acronym": "UNED",
+        "type": "Foreign Public University Centre (Spain)",
+        "location": "Bata",
+        "website": "https://www.uned.es/"
+      }
+    ],
+    "distanceLearning": []
+  }
+}

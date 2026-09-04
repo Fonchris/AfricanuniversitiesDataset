@@ -1,0 +1,215 @@
+{
+  "country": "Gambia",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "University of The Gambia",
+        "acronym": "UTG",
+        "type": "Public University",
+        "location": "Kanifing, Greater Banjul Area",
+        "website": "https://utg.edu.gm"
+      },
+      {
+        "name": "Civil Service University",
+        "acronym": "CSU",
+        "type": "Public University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "University of Education The Gambia",
+        "acronym": "UEG",
+        "type": "Public University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "University of Applied Science, Engineering and Technology",
+        "acronym": "USET",
+        "type": "Public University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Management Development Institute",
+        "acronym": "MDI",
+        "type": "Public Higher Education Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Gambia College",
+        "acronym": "",
+        "type": "Public Higher Education College",
+        "location": "Brikama",
+        "website": ""
+      },
+      {
+        "name": "Institute of Technical Training",
+        "acronym": "ITT",
+        "type": "Public Tertiary / Technical Institution (formerly GTTI)",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Gambia Tourism and Hospitality Institute",
+        "acronym": "GTHI",
+        "type": "Public Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Gambia Public Procurement Institute",
+        "acronym": "GPPI",
+        "type": "Public Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Gambia Telecommunication and Multimedia Institute",
+        "acronym": "GTMI",
+        "type": "Public Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "International Open University",
+        "acronym": "IOU",
+        "type": "Private University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Groupe École Supérieur de Commerce de Dakar (Sup De Co)",
+        "acronym": "SUP DE CO",
+        "type": "Private University (Banjul)",
+        "location": "Banjul",
+        "website": ""
+      },
+      {
+        "name": "Al Hikma University",
+        "acronym": "",
+        "type": "Private University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Euclid University",
+        "acronym": "EUCLID",
+        "type": "Private / Intergovernmental University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Al Ihsan University",
+        "acronym": "",
+        "type": "Private University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "American International University West Africa",
+        "acronym": "AIUWA",
+        "type": "Private University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Imam Bukhary University",
+        "acronym": "",
+        "type": "Private University",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Insight Training Centre",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Suna Institute of Science and Technology",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Quest Institute of Technology",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Smart Professional College",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Nusrat Institute of Professional Studies",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Media Academy for Journalism and Communication",
+        "acronym": "MAJC",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Institute of Bankers of The Gambia",
+        "acronym": "",
+        "type": "Tertiary / Professional Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Stratford College of Management",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "St. Francis Technical and Vocational College",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Sami College of Nursing and Health Sciences",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "SDA School of Allied Health Sciences",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      },
+      {
+        "name": "Al-Imam Al-Buhary College",
+        "acronym": "",
+        "type": "Private Tertiary Institution",
+        "location": "Gambia",
+        "website": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

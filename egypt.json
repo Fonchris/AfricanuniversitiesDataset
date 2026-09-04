@@ -1,0 +1,637 @@
+{
+  "country": "Egypt",
+  "universities": {
+    "federal": [],
+    "state": [{
+        "name": "Cairo University",
+        "acronym": "CU",
+        "type": "Public University",
+        "location": "Giza",
+        "yearEstablished": 1908,
+        "website": "cu.edu.eg"
+      },
+      {
+        "name": "Alexandria University",
+        "acronym": "ALEXU",
+        "type": "Public University",
+        "location": "Alexandria",
+        "yearEstablished": 1938,
+        "website": "alexu.edu.eg"
+      },
+      {
+        "name": "Ain Shams University",
+        "acronym": "ASU",
+        "type": "Public University",
+        "location": "Cairo",
+        "yearEstablished": 1950,
+        "website": "asu.edu.eg"
+      },
+      {
+        "name": "Assiut University",
+        "acronym": "AUN",
+        "type": "Public University",
+        "location": "Assiut",
+        "yearEstablished": 1957,
+        "website": "aun.edu.eg"
+      },
+      {
+        "name": "Tanta University",
+        "acronym": "TU",
+        "type": "Public University",
+        "location": "Tanta",
+        "yearEstablished": 1972,
+        "website": "tanta.edu.eg"
+      },
+      {
+        "name": "Mansoura University",
+        "acronym": "MANS",
+        "type": "Public University",
+        "location": "Mansoura",
+        "yearEstablished": 1972,
+        "website": "mans.edu.eg"
+      },
+      {
+        "name": "Zagazig University",
+        "acronym": "ZU",
+        "type": "Public University",
+        "location": "Zagazig",
+        "yearEstablished": 1974,
+        "website": "zu.edu.eg"
+      },
+      {
+        "name": "Helwan University",
+        "acronym": "HU",
+        "type": "Public University",
+        "location": "Cairo (Helwan)",
+        "yearEstablished": 1975,
+        "website": "helwan.edu.eg"
+      },
+      {
+        "name": "Minia University",
+        "acronym": "MU",
+        "type": "Public University",
+        "location": "Minia",
+        "yearEstablished": 1976,
+        "website": "minia.edu.eg"
+      },
+      {
+        "name": "Menoufia University",
+        "acronym": "MNF",
+        "type": "Public University",
+        "location": "Menoufia",
+        "yearEstablished": 1976,
+        "website": "menofia.edu.eg"
+      },
+      {
+        "name": "Suez Canal University",
+        "acronym": "SCU",
+        "type": "Public University",
+        "location": "Ismailia",
+        "yearEstablished": 1976,
+        "website": "suez.edu.eg"
+      },
+      {
+        "name": "South Valley University",
+        "acronym": "SVU",
+        "type": "Public University",
+        "location": "Qena",
+        "yearEstablished": 1995,
+        "website": "svu.edu.eg"
+      },
+      {
+        "name": "Beni-Suef University",
+        "acronym": "BSU",
+        "type": "Public University",
+        "location": "Beni-Suef",
+        "yearEstablished": 2005,
+        "website": "bsu.edu.eg"
+      },
+      {
+        "name": "Fayoum University",
+        "acronym": "FU",
+        "type": "Public University",
+        "location": "Fayoum",
+        "yearEstablished": 2005,
+        "website": "fayoum.edu.eg"
+      },{
+        "name": "Benha University",
+        "acronym": "BU",
+        "type": "Public University",
+        "location": "Benha",
+        "yearEstablished": 2005,
+        "website": "bu.edu.eg"
+      },
+      {
+        "name": "Sohag University",
+        "acronym": "SOHAG",
+        "type": "Public University",
+        "location": "Sohag",
+        "yearEstablished": 2006,
+        "website": "sohag-univ.edu.eg"
+      },
+      {
+        "name": "Kafrelsheikh University",
+        "acronym": "KFS",
+        "type": "Public University",
+        "location": "Kafrelsheikh",
+        "yearEstablished": 2006,
+        "website": "kfs.edu.eg"
+      },
+      {
+        "name": "Port Said University",
+        "acronym": "PSU",
+        "type": "Public University",
+        "location": "Port Said",
+        "yearEstablished": 2010,
+        "website": "psu.edu.eg"
+      },
+      {
+        "name": "Damanhour University",
+        "acronym": "DAM",
+        "type": "Public University",
+        "location": "Damanhour",
+        "yearEstablished": 2010,
+        "website": "damanhour.edu.eg"
+      },
+      {
+        "name": "Aswan University",
+        "acronym": "ASWU",
+        "type": "Public University",
+        "location": "Aswan",
+        "yearEstablished": 2012,
+        "website": "aswu.edu.eg"
+      },
+      {
+        "name": "Damietta University",
+        "acronym": "DU",
+        "type": "Public University",
+        "location": "Damietta",
+        "yearEstablished": 2012,
+        "website": "du.edu.eg"
+      },
+      {
+        "name": "Suez University",
+        "acronym": "SU",
+        "type": "Public University",
+        "location": "Suez",
+        "yearEstablished": 2012,
+        "website": "suezuniv.edu.eg"
+      },
+      {
+        "name": "University of Sadat City",
+        "acronym": "USC",
+        "type": "Public University",
+        "location": "Sadat City",
+        "yearEstablished": 2013,
+        "website": "usc.edu.eg"
+      },
+      {
+        "name": "Arish University",
+        "acronym": "ARISH",
+        "type": "Public University",
+        "location": "North Sinai",
+        "yearEstablished": 2016,
+        "website": "aru.edu.eg"
+      },
+      {
+        "name": "Matrouh University",
+        "acronym": "MU",
+        "type": "Public University",
+        "location": "Matrouh",
+        "yearEstablished": 2018,
+        "website": "mau.edu.eg"
+      },
+      {
+        "name": "New Valley University",
+        "acronym": "NVU",
+        "type": "Public University",
+        "location": "New Valley",
+        "yearEstablished": 2018,
+        "website": "nvu.edu.eg"
+      },
+      {
+        "name": "Luxor University",
+        "acronym": "LUX",
+        "type": "Public University",
+        "location": "Luxor",
+        "yearEstablished": 2019,
+        "website": "luxor.edu.eg"
+      },
+      {
+        "name": "Red Sea University (Under Establishment)",
+        "acronym": "RSU",
+        "type": "Public University",
+        "location": "Red Sea",
+        "yearEstablished": 2024,
+        "website": "mohesr.gov.eg"
+      },{
+        "name": "Galala University",
+        "acronym": "GU",
+        "type": "National University",
+        "location": "El Galala",
+        "yearEstablished": 2020,
+        "website": "gu.edu.eg"
+      },
+      {
+        "name": "King Salman International University",
+        "acronym": "KSIU",
+        "type": "National University",
+        "location": "Sinai",
+        "yearEstablished": 2020,
+        "website": "ksiu.edu.eg"
+      },
+      {
+        "name": "Alamein International University",
+        "acronym": "AIU",
+        "type": "National University",
+        "location": "New Alamein",
+        "yearEstablished": 2020,
+        "website": "aiu.edu.eg"
+      },
+      {
+        "name": "New Mansoura University",
+        "acronym": "NMU",
+        "type": "National University",
+        "location": "New Mansoura",
+        "yearEstablished": 2021,
+        "website": "nmu.edu.eg"
+      },
+      {
+        "name": "Cairo National University",
+        "acronym": "CNU",
+        "type": "National University",
+        "location": "Obour City",
+        "yearEstablished": 2022,
+        "website": "cnu.edu.eg"
+      },
+      {
+        "name": "Ain Shams National University",
+        "acronym": "ASNU",
+        "type": "National University",
+        "location": "Obour City",
+        "yearEstablished": 2022,
+        "website": "asnu.edu.eg"
+      },
+      {
+        "name": "Alexandria National University",
+        "acronym": "ANU",
+        "type": "National University",
+        "location": "Alexandria",
+        "yearEstablished": 2022,
+        "website": "anu.edu.eg"
+      },
+      {
+        "name": "Assiut National University",
+        "acronym": "ASNU",
+        "type": "National University",
+        "location": "Assiut",
+        "yearEstablished": 2022,
+        "website": "asnu.aun.edu.eg"
+      },
+      {
+        "name": "Mansoura National University",
+        "acronym": "MNU",
+        "type": "National University",
+        "location": "Mansoura",
+        "yearEstablished": 2022,
+        "website": "mnu.edu.eg"
+      },
+      {
+        "name": "Helwan National University",
+        "acronym": "HNU",
+        "type": "National University",
+        "location": "Helwan",
+        "yearEstablished": 2022,
+        "website": "hnu.edu.eg"
+      },
+      {
+        "name": "Beni-Suef National University",
+        "acronym": "BSNU",
+        "type": "National University",
+        "location": "Beni-Suef",
+        "yearEstablished": 2022,
+        "website": "bsnu.edu.eg"
+      },
+      {
+        "name": "Benha National University",
+        "acronym": "BNU",
+        "type": "National University",
+        "location": "Obour City",
+        "yearEstablished": 2022,
+        "website": "bnu.edu.eg"
+      },
+      {
+        "name": "Zewail City of Science and Technology",
+        "acronym": "ZC",
+        "type": "National University",
+        "location": "6th of October",
+        "yearEstablished": 2011,
+        "website": "zewailcity.edu.eg"
+      },{
+        "name": "New Cairo Technological University",
+        "acronym": "NCTU",
+        "type": "State Technological University",
+        "location": "New Cairo",
+        "yearEstablished": 2019,
+        "website": "nctu.edu.eg"
+      },
+      {
+        "name": "Delta Technological University",
+        "acronym": "DTU",
+        "type": "State Technological University",
+        "location": "Qisna",
+        "yearEstablished": 2019,
+        "website": "dtu.edu.eg"
+      },
+      {
+        "name": "Beni Suef Technological University",
+        "acronym": "BSTU",
+        "type": "State Technological University",
+        "location": "Beni Suef",
+        "yearEstablished": 2019,
+        "website": "bstu.edu.eg"
+      },
+      {
+        "name": "6th of October Technological University",
+        "acronym": "O2TU",
+        "type": "State Technological University",
+        "location": "6th of October",
+        "yearEstablished": 2022,
+        "website": "mohesr.gov.eg"
+      },
+      {
+        "name": "Borg El Arab Technological University",
+        "acronym": "BATU",
+        "type": "State Technological University",
+        "location": "Borg El Arab",
+        "yearEstablished": 2022,
+        "website": "batu.edu.eg"
+      },
+      {
+        "name": "East Port Said Technological University",
+        "acronym": "EPSTU",
+        "type": "State Technological University",
+        "location": "East Port Said",
+        "yearEstablished": 2022,
+        "website": "mohesr.gov.eg"
+      },
+      {
+        "name": "Tanta Technological University",
+        "acronym": "TTU",
+        "type": "State Technological University",
+        "location": "Tanta",
+        "yearEstablished": 2022,
+        "website": "mohesr.gov.eg"
+      },
+      {
+        "name": "Assiut Technological University",
+        "acronym": "ATU",
+        "type": "State Technological University",
+        "location": "Assiut",
+        "yearEstablished": 2022,
+        "website": "mohesr.gov.eg"
+      },
+      {
+        "name": "Samnouod Technological University",
+        "acronym": "STU",
+        "type": "State Technological University",
+        "location": "Gharbia",
+        "yearEstablished": 2022,
+        "website": "mohesr.gov.eg"
+      },
+      {
+        "name": "Egypt-Korea Technological University",
+        "acronym": "EKTU",
+        "type": "State Technological University",
+        "location": "Beni Suef",
+        "yearEstablished": 2019,
+        "website": "bstu.edu.eg"
+      },{
+        "name": "Al-Azhar University",
+        "acronym": "AZHAR",
+        "type": "Special Public University",
+        "location": "Cairo / Multi-campus",
+        "yearEstablished": 970,
+        "website": "azhar.edu.eg"
+      },
+      {
+        "name": "Egypt-Japan University of Science and Technology",
+        "acronym": "E-JUST",
+        "type": "Special Public University",
+        "location": "New Borg El Arab",
+        "yearEstablished": 2009,
+        "website": "ejust.edu.eg"
+      },
+      {
+        "name": "Arab Academy for Science, Technology & Maritime Transport",
+        "acronym": "AASTMT",
+        "type": "Special Public Academy",
+        "location": "Alexandria / Cairo",
+        "yearEstablished": 1972,
+        "website": "aast.edu"
+      }
+    ],
+    "private": [{
+        "name": "The American University in Cairo",
+        "acronym": "AUC",
+        "type": "Private University",
+        "location": "New Cairo",
+        "yearEstablished": 1919,
+        "website": "aucegypt.org"
+      },
+      {
+        "name": "The German University in Cairo",
+        "acronym": "GUC",
+        "type": "Private University",
+        "location": "New Cairo",
+        "yearEstablished": 2002,
+        "website": "guc.edu.eg"
+      },
+      {
+        "name": "The British University in Egypt",
+        "acronym": "BUE",
+        "type": "Private University",
+        "location": "El Sherouk",
+        "yearEstablished": 2005,
+        "website": "bue.edu.eg"
+      },
+      {
+        "name": "Misr International University",
+        "acronym": "MIU",
+        "type": "Private University",
+        "location": "Obour City",
+        "yearEstablished": 1996,
+        "website": "miuegypt.edu.eg"
+      },
+      {
+        "name": "Misr University for Science and Technology",
+        "acronym": "MUST",
+        "type": "Private University",
+        "location": "6th of October",
+        "yearEstablished": 1996,
+        "website": "must.edu.eg"
+      },
+      {
+        "name": "October University for Modern Sciences & Arts",
+        "acronym": "MSA",
+        "type": "Private University",
+        "location": "6th of October",
+        "yearEstablished": 1996,
+        "website": "msa.edu.eg"
+      },
+      {
+        "name": "Future University in Egypt",
+        "acronym": "FUE",
+        "type": "Private University",
+        "location": "New Cairo",
+        "yearEstablished": 2006,
+        "website": "fue.edu.eg"
+      },
+      {
+        "name": "Nile University",
+        "acronym": "NU",
+        "type": "Private University",
+        "location": "6th of October",
+        "yearEstablished": 2006,
+        "website": "nu.edu.eg"
+      },
+      {
+        "name": "French University in Egypt",
+        "acronym": "UFE",
+        "type": "Private University",
+        "location": "El Sherouk",
+        "yearEstablished": 2002,
+        "website": "ufe.edu.eg"
+      },
+      {
+        "name": "Ahram Canadian University",
+        "acronym": "ACU",
+        "type": "Private University",
+        "location": "6th of October",
+        "yearEstablished": 2005,
+        "website": "acu.edu.eg"
+      },{
+        "name": "Pharos University in Alexandria",
+        "acronym": "PUA",
+        "type": "Private University",
+        "location": "Alexandria",
+        "yearEstablished": 2006,
+        "website": "pua.edu.eg"
+      },
+      {
+        "name": "Sinai University",
+        "acronym": "SU",
+        "type": "Private University",
+        "location": "Arish / Kantara",
+        "yearEstablished": 2006,
+        "website": "su.edu.eg"
+      },
+      {
+        "name": "Badr University in Cairo",
+        "acronym": "BUC",
+        "type": "Private University",
+        "location": "Badr City",
+        "yearEstablished": 2014,
+        "website": "buc.edu.eg"
+      },
+      {
+        "name": "Egyptian Russian University",
+        "acronym": "ERU",
+        "type": "Private University",
+        "location": "Badr City",
+        "yearEstablished": 2006,
+        "website": "eru.edu.eg"
+      },
+      {
+        "name": "Badr University in Assiut",
+        "acronym": "BUA",
+        "type": "Private University",
+        "location": "Assiut",
+        "yearEstablished": 2021,
+        "website": "bua.edu.eg"
+      },
+      {
+        "name": "Nahda University in Beni Suef",
+        "acronym": "NUB",
+        "type": "Private University",
+        "location": "Beni Suef",
+        "yearEstablished": 2006,
+        "website": "nub.edu.eg"
+      },
+      {
+        "name": "Heliopolis University for Sustainable Development",
+        "acronym": "HU",
+        "type": "Private University",
+        "location": "Cairo",
+        "yearEstablished": 2012,
+        "website": "hu.edu.eg"
+      },
+      {
+        "name": "New Giza University",
+        "acronym": "NGU",
+        "type": "Private University",
+        "location": "Giza",
+        "yearEstablished": 2016,
+        "website": "ngu.edu.eg"
+      },
+      {
+        "name": "ESLSCA Business School Egypt",
+        "acronym": "ESLSCA",
+        "type": "Private Business School",
+        "location": "Cairo",
+        "yearEstablished": 2018,
+        "website": "eslsca.edu.eg"
+      }
+    ],
+    "transnational": [{
+        "name": "Universities of Canada in Egypt (UPEI)",
+        "acronym": "UCE",
+        "type": "Branch of Foreign University",
+        "location": "New Administrative Capital",
+        "yearEstablished": 2018,
+        "website": "uofcanada.edu.eg"
+      },
+      {
+        "name": "Coventry University (TKH)",
+        "acronym": "TKH",
+        "type": "Branch of Foreign University",
+        "location": "New Administrative Capital",
+        "yearEstablished": 2019,
+        "website": "tkh.edu.eg"
+      },
+      {
+        "name": "University of Hertfordshire (GAF)",
+        "acronym": "GAF",
+        "type": "Branch of Foreign University",
+        "location": "New Administrative Capital",
+        "yearEstablished": 2019,
+        "website": "gaf.edu.eg"
+      },
+      {
+        "name": "European Universities in Egypt (EUE)",
+        "acronym": "EUE",
+        "type": "Branch of Foreign University",
+        "location": "New Administrative Capital",
+        "yearEstablished": 2021,
+        "website": "eue.edu.eg"
+      },
+      {
+        "name": "University of London Hub (EUE)",
+        "acronym": "UOL",
+        "type": "Branch of Foreign University",
+        "location": "New Administrative Capital",
+        "yearEstablished": 2021,
+        "website": "eue.edu.eg"
+      },
+      {
+        "name": "University of Central Lancashire (EUE)",
+        "acronym": "UCLan",
+        "type": "Branch of Foreign University",
+        "location": "New Administrative Capital",
+        "yearEstablished": 2021,
+        "website": "eue.edu.eg"
+      }
+    ],
+    "distanceLearning": []
+  }
+}

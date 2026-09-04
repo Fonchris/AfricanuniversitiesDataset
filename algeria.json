@@ -1,0 +1,411 @@
+{
+  "country": "Algeria",
+  "universities": [
+    {
+      "name": "Université d’Adrar",
+      "wilaya": "Adrar",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-adrar.edu.dz/"
+    },
+    {
+      "name": "Université de Chlef – Hassiba Benbouali",
+      "wilaya": "Chlef",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-chlef.dz/"
+    },
+    {
+      "name": "Université de Laghouat – Amar Telidji",
+      "wilaya": "Laghouat",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-laghouat.dz/"
+    },
+    {
+      "name": "Université d’Oum El Bouaghi – Larbi Ben M’hidi",
+      "wilaya": "Oum El Bouaghi",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-oeb.dz/"
+    },
+    {
+      "name": "Université de Batna 1 – Hadj Lakhder",
+      "wilaya": "Batna",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-batna.dz/"
+    },
+    {
+      "name": "Université de Batna 2 – Mustapha Ben Boulaid",
+      "wilaya": "Batna",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-batna2.dz/"
+    },
+    {
+      "name": "Université de Béjaïa – Abderrahmane Mira",
+      "wilaya": "Béjaïa",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-bejaia.dz/"
+    },
+    {
+      "name": "Université de Biskra – Mohamed Khider",
+      "wilaya": "Biskra",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-biskra.dz/"
+    },
+    {
+      "name": "Université de Béchar – Mohamed Tahri",
+      "wilaya": "Béchar",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-bechar.dz/"
+    },
+    {
+      "name": "Université de Blida 1 – Saad Dahlab",
+      "wilaya": "Blida",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-blida.dz/"
+    },
+    {
+      "name": "Université de Blida 2 – Lounici Ali",
+      "wilaya": "Blida",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://univ-blida2.dz/"
+    },
+    {
+      "name": "Université de Bouira – Akli Mohand Oulhadj",
+      "wilaya": "Bouira",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-bouira.dz/"
+    },
+    {
+      "name": "Université de Tamanrasset",
+      "wilaya": "Tamanrasset",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-tamanrasset.dz/"
+    },
+    {
+      "name": "Université de Tébessa – Larbi Tébessi",
+      "wilaya": "Tébessa",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-tebessa.dz/"
+    },
+    {
+      "name": "Université de Tlemcen – Abou Bekr Belkaid",
+      "wilaya": "Tlemcen",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-tlemcen.dz/"
+    },
+    {
+      "name": "Université de Tiaret – Ibn Khaldoun",
+      "wilaya": "Tiaret",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-tiaret.dz/"
+    },
+    {
+      "name": "Université de Tizi Ouzou – Mouloud Mammeri",
+      "wilaya": "Tizi Ouzou",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.ummto.dz/"
+    },
+    {
+      "name": "Université d’Alger 1 – Benyoucef Benkhedda",
+      "wilaya": "Alger",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-alger.dz/"
+    },
+    {
+      "name": "Université d’Alger 2 – Abou el Kacem Saâdallah",
+      "wilaya": "Alger",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-alger2.dz/"
+    },
+    {
+      "name": "Université d’Alger 3 – Brahim Soltane Chaibout",
+      "wilaya": "Alger",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-alger3.dz/"
+    },
+    {
+      "name": "Université des Sciences et Technologies Houari Boumediene (USTHB)",
+      "wilaya": "Alger",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.usthb.dz/"
+    },
+    {
+      "name": "Université de Djelfa – Ziane Achour",
+      "wilaya": "Djelfa",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-djelfa.dz/"
+    },
+    {
+      "name": "Université de Jijel – Mohammed Seddik Ben Yahia",
+      "wilaya": "Jijel",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-jijel.dz/"
+    },
+    {
+      "name": "Université de Sétif 1 – Ferhat Abbas",
+      "wilaya": "Sétif",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-setif.dz/"
+    },
+    {
+      "name": "Université de Sétif 2 – Mohamed Lamine Debaghine",
+      "wilaya": "Sétif",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-setif2.dz/"
+    },
+    {
+      "name": "Université de Saïda – Dr Moulay Tahar",
+      "wilaya": "Saïda",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-saida.dz/"
+    },
+    {
+      "name": "Université de Skikda – 20 Août 1955",
+      "wilaya": "Skikda",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-skikda.dz/"
+    },
+    {
+      "name": "Université de Sidi Bel Abbès – Djillali Liabes",
+      "wilaya": "Sidi Bel Abbès",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-sba.dz/"
+    },
+    {
+      "name": "Université d’Annaba – Badji Mokhtar",
+      "wilaya": "Annaba",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-annaba.dz/"
+    },
+    {
+      "name": "Université de Guelma – 8 Mai 1945",
+      "wilaya": "Guelma",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-guelma.dz/"
+    },
+    {
+      "name": "Université de Constantine 1 – Frères Mentouri",
+      "wilaya": "Constantine",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.umc.edu.dz/"
+    },
+    {
+      "name": "Université de Constantine 2 – Abdelhamid Mehri",
+      "wilaya": "Constantine",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-constantine2.dz/"
+    },
+    {
+      "name": "Université de Constantine 3 – Salah Boubnider",
+      "wilaya": "Constantine",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-constantine3.dz/"
+    },
+    {
+      "name": "Université des Sciences Islamiques Emir Abdelkader",
+      "wilaya": "Constantine",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-emir.dz/"
+    },
+    {
+      "name": "Université de Médéa – Yahia Farès",
+      "wilaya": "Médéa",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-medea.dz/"
+    },
+    {
+      "name": "Université de Mostaganem – Abdelhamid Ibn Badis",
+      "wilaya": "Mostaganem",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-mosta.dz/"
+    },
+    {
+      "name": "Université de M’Sila – Mohamed Boudiaf",
+      "wilaya": "M’Sila",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-msila.dz/"
+    },
+    {
+      "name": "Université de Mascara – Mustapha Stambouli",
+      "wilaya": "Mascara",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-mascara.dz/"
+    },
+    {
+      "name": "Université de Ouargla – Kasdi Merbah",
+      "wilaya": "Ouargla",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-ouargla.dz/"
+    },
+    {
+      "name": "Université d’Oran 1 – Ahmed Ben Bella",
+      "wilaya": "Oran",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-oran1.dz/"
+    },
+    {
+      "name": "Université Mohamed Boudiaf des Sciences et de la Technologie d’Oran (USTO-MB)",
+      "wilaya": "Oran",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-usto.dz/"
+    },
+    {
+      "name": "Université d’Oran 2 – Mohamed Ben Ahmed",
+      "wilaya": "Oran",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-oran2.dz/"
+    },
+    {
+      "name": "Université de Bordj Bou Arréridj – Mohamed Bachir El Ibrahimi",
+      "wilaya": "Bordj Bou Arréridj",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-bba.dz/"
+    },
+    {
+      "name": "Université de Boumerdès – M’hamed Bougara",
+      "wilaya": "Boumerdès",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-boumerdes.dz/"
+    },
+    {
+      "name": "Université d’El Tarf – Chadli Bendjedid",
+      "wilaya": "El Tarf",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-eltarf.dz/"
+    },
+    {
+      "name": "Université de Tissemsilt",
+      "wilaya": "Tissemsilt",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-tissemsilt.dz/"
+    },
+    {
+      "name": "Université d’El Oued – Hamma Lakhdar",
+      "wilaya": "El Oued",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-eloued.dz/"
+    },
+    {
+      "name": "Université de Khenchela – Abbas Laghrour",
+      "wilaya": "Khenchela",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-khenchela.dz/"
+    },
+    {
+      "name": "Université de Souk Ahras – Mohammed-Chérif Messaadia",
+      "wilaya": "Souk Ahras",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-soukahras.dz/"
+    },
+    {
+      "name": "Université de Khemis Miliana – Djilali Bounaama",
+      "wilaya": "Aïn Defla",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-dbkm.dz/"
+    },
+    {
+      "name": "Université de Aïn Témouchent",
+      "wilaya": "Aïn Témouchent",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-temouchent.edu.dz/"
+    },
+    {
+      "name": "Université de Ghardaïa",
+      "wilaya": "Ghardaïa",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-ghardaia.dz/"
+    },
+    {
+      "name": "Université de Relizane",
+      "wilaya": "Relizane",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-relizane.dz/"
+    },
+    {
+      "name": "Université de la Formation Continue (UFC)",
+      "wilaya": "Multiple wilayas",
+      "region": "National",
+      "type": "University / Continuing Education",
+      "website": "https://www.ufc.dz/"
+    },
+    {
+      "name": "Université de Mila – Abdelhafid Boussouf",
+      "wilaya": "Mila",
+      "region": "East",
+      "type": "University",
+      "website": "https://www.univ-mila.dz/"
+    },
+    {
+      "name": "Université de Tipaza – Abdallah Morsli",
+      "wilaya": "Tipaza",
+      "region": "Centre",
+      "type": "University",
+      "website": "https://www.univ-tipaza.dz/"
+    },
+    {
+      "name": "Université de Naâma – Salhi Ahmed",
+      "wilaya": "Naâma",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-naama.dz/"
+    },
+    {
+      "name": "Université de Tindouf – Ali Kafi",
+      "wilaya": "Tindouf",
+      "region": "West",
+      "type": "University",
+      "website": "https://www.univ-tindouf.dz/"
+    }
+  ]
+}

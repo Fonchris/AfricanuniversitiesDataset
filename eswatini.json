@@ -1,0 +1,284 @@
+{
+  "country": "Eswatini",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "University of Eswatini",
+        "acronym": "UNESWA",
+        "type": "Public University",
+        "location": "Kwaluseni, Luyengo and Mbabane",
+        "website": "https://www.uneswa.ac.sz/"
+      },
+      {
+        "name": "Matsapha Police Academy",
+        "acronym": "",
+        "type": "Public Higher Education Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "William Pitcher Teacher Training College",
+        "acronym": "",
+        "type": "Public Teacher Training College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Eswatini Institute of Management and Public Administration",
+        "acronym": "EIMPA",
+        "type": "Public Higher Education Institution",
+        "location": "Mbabane",
+        "website": ""
+      },
+      {
+        "name": "Ngwane Teachers College",
+        "acronym": "",
+        "type": "Public Teacher Training College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Institute of Development Management",
+        "acronym": "IDM",
+        "type": "Public Higher Education Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Gwamile Vocational and Commercial Training Institute",
+        "acronym": "",
+        "type": "Vocational & Commercial Training Institute",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Eswatini College of Technology",
+        "acronym": "ECOT",
+        "type": "Public College of Technology",
+        "location": "Mbabane",
+        "website": ""
+      },
+      {
+        "name": "Royal Science and Technology Park",
+        "acronym": "RSTP",
+        "type": "Public Higher Education & Research Park",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Good Shepherd Catholic College of Health Sciences",
+        "acronym": "",
+        "type": "College of Health Sciences",
+        "location": "Eswatini",
+        "website": ""
+      },
+{
+        "name": "Bethal Vocational Centre",
+        "acronym": "",
+        "type": "TVET Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "BSA Training Centre",
+        "acronym": "",
+        "type": "TVET Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Bosco Youth Agricultural Centre",
+        "acronym": "",
+        "type": "TVET Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Ngwane Park TVET",
+        "acronym": "",
+        "type": "TVET Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Hillside College",
+        "acronym": "",
+        "type": "TVET Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Siobhan Skills Centre",
+        "acronym": "",
+        "type": "TVET Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Solar Training and Renewable Energy Enterprise Centre",
+        "acronym": "",
+        "type": "TVET Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Ubombo Technical College",
+        "acronym": "",
+        "type": "TVET / Technical College",
+        "location": "Ubombo",
+        "website": ""
+      },
+      {
+        "name": "U-Tech",
+        "acronym": "",
+        "type": "TVET / Technical Institution",
+        "location": "Eswatini",
+        "website": ""
+      }
+    ],
+    "private": [{
+        "name": "Southern Africa Nazarene University",
+        "acronym": "SANU",
+        "type": "Private / Church-affiliated University",
+        "location": "Manzini",
+        "website": "https://www.sanu.ac.sz/"
+      },
+      {
+        "name": "Limkokwing University of Creative Technology, Eswatini Campus",
+        "acronym": "",
+        "type": "Private University (Foreign Campus)",
+        "location": "Mbabane",
+        "website": "https://www.limkokwing.net/eswatini/"
+      },
+      {
+        "name": "Eswatini Medical Christian University",
+        "acronym": "EMCU",
+        "type": "Private University",
+        "location": "Mbabane",
+        "website": "https://www.emcu.ac.sz/"
+      },
+      {
+        "name": "Springfield Research University",
+        "acronym": "SRU",
+        "type": "Private University",
+        "location": "Ezulwini",
+        "website": "https://www.sru.ac.sz/"
+      },
+      {
+        "name": "African Prime Institute of Science and Technology",
+        "acronym": "APIST",
+        "type": "Private Institute of Science and Technology",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Amadi University College",
+        "acronym": "",
+        "type": "Private University College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "African Christian College",
+        "acronym": "",
+        "type": "Private Higher Education Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Botho University - Eswatini Campus",
+        "acronym": "",
+        "type": "Private University (Foreign Campus)",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Brasford College",
+        "acronym": "",
+        "type": "Private Higher Education College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "CIT College",
+        "acronym": "",
+        "type": "Private Higher Education College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Eastern and Southern African Management Institute",
+        "acronym": "ESAMI",
+        "type": "Regional Management Institute (Eswatini Centre)",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Emergency Medical Rescue College",
+        "acronym": "",
+        "type": "Private Higher Education College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Emmanuel Wesleyan Bible College",
+        "acronym": "",
+        "type": "Private Higher Education College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Institute of Research Management and Development",
+        "acronym": "",
+        "type": "Private Research & Development Institute",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Mananga Centre for Regional Integration and Management Development",
+        "acronym": "",
+        "type": "Private Management Training Centre",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Muna Health Life Institute",
+        "acronym": "",
+        "type": "Private Higher Education Institution",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Regent Business School",
+        "acronym": "",
+        "type": "Private Business School (Eswatini Centre)",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Soft-Tech College",
+        "acronym": "",
+        "type": "Private Higher Education College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Eswatini Cooperative Development College",
+        "acronym": "ECODEC",
+        "type": "Private Higher Education College",
+        "location": "Eswatini",
+        "website": ""
+      },
+      {
+        "name": "Eswatini College of Theology",
+        "acronym": "",
+        "type": "Private Higher Education College",
+        "location": "Eswatini",
+        "website": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

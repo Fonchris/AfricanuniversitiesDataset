@@ -1,0 +1,456 @@
+{
+  "country": "Botswana",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "University of Botswana",
+        "type": "University",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0074",
+        "accreditation": "2018–2028",
+        "website": "ub.bw"
+      },
+      {
+        "name": "Botswana International University of Science and Technology",
+        "type": "University",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0119",
+        "accreditation": "2018–2028",
+        "website": "biust.ac.bw"
+      },
+      {
+        "name": "Botswana University of Agriculture & Natural Resources",
+        "type": "University",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0070",
+        "accreditation": "2018–2028",
+        "website": "buan.ac.bw"
+      },
+      {
+        "name": "Botswana Accountancy College",
+        "type": "Accountancy / Business",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0055",
+        "website": "BAC"
+      },
+      {
+        "name": "Botswana College of Engineering & Technology",
+        "type": "Technical / Engineering",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0353",
+        "website": ""
+      },
+      {
+        "name": "Gaborone Technical College",
+        "type": "Technical",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0187",
+        "website": ""
+      },
+      {
+        "name": "Francistown College of Technical & Vocational Education",
+        "type": "Technical / Vocational",
+        "ownership": "Public",
+        "bqaRegNo": "",
+        "website": ""
+      },
+      {
+        "name": "Oodi College of Applied Arts & Sciences",
+        "type": "Applied Arts / Sciences",
+        "ownership": "Public",
+        "bqaRegNo": "",
+        "website": ""
+      },
+      {
+        "name": "Molepolole College of Education",
+        "type": "Teacher Education",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0434",
+        "website": ""
+      },
+      {
+        "name": "Serowe College of Education",
+        "type": "Teacher Education",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0247",
+        "website": ""
+      },
+      {
+        "name": "Tlokweng College of Education",
+        "type": "Teacher Education",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0248",
+        "website": ""
+      },
+      {
+        "name": "Tonota College of Education",
+        "type": "Teacher Education",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0409",
+        "website": ""
+      },
+      {
+        "name": "Institute of Development Management",
+        "type": "Management / Development",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0036",
+        "website": "IDM"
+      },
+      {
+        "name": "Defence Command & Staff College",
+        "type": "Defence / Professional",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0431",
+        "website": ""
+      },
+      {
+        "name": "Botswana Wildlife Training Institute",
+        "type": "Wildlife / Environment",
+        "ownership": "Public",
+        "bqaRegNo": "",
+        "website": ""
+      },
+      {
+        "name": "Botswana Police College",
+        "type": "Police / Professional",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0069",
+        "website": ""
+      },
+      {
+        "name": "Prison Staff College",
+        "type": "Corrections / Professional",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0633",
+        "website": ""
+      },
+      {
+        "name": "Roads Training Centre",
+        "type": "Transport / Engineering",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0641",
+        "website": ""
+      },
+      {
+        "name": "Institute of Health Sciences – Gaborone",
+        "type": "Health Sciences",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0335",
+        "website": ""
+      },
+      {
+        "name": "Institute of Health Sciences – Francistown",
+        "type": "Health Sciences",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0408",
+        "website": ""
+      },
+      {
+        "name": "Institute of Health Sciences – Lobatse",
+        "type": "Health Sciences",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0182",
+        "website": ""
+      },
+      {
+        "name": "Institute of Health Sciences – Molepolole",
+        "type": "Health Sciences",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0152",
+        "website": "",
+        "note": "Accreditation expiry displayed as 27 February 2019 on BQA page; flagged for verification"
+      },
+      {
+        "name": "Institute of Health Sciences – Serowe",
+        "type": "Health Sciences",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0153",
+        "website": ""
+      },
+      {
+        "name": "Bamalete Lutheran School of Nursing",
+        "type": "Nursing",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0320",
+        "website": ""
+      },
+      {
+        "name": "Kanye Seventh Day Adventist College of Nursing",
+        "type": "Nursing",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0053",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "BA ISAGO University",
+        "type": "University",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0013",
+        "accreditation": "2017–2027",
+        "website": "baisago.ac.bw"
+      },
+      {
+        "name": "Botho University",
+        "type": "University",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0014",
+        "accreditation": "2017–2027",
+        "website": "bothouniversity.com"
+      },
+      {
+        "name": "Limkokwing University of Creative Technology",
+        "type": "University",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0094",
+        "accreditation": "2024–2034",
+        "website": "Limkokwing Botswana"
+      },
+      {
+        "name": "ABM University College",
+        "type": "Business / Management",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0056",
+        "website": ""
+      },
+      {
+        "name": "Gaborone University College of Law and Professional Studies",
+        "type": "Law / Professional Studies",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0042",
+        "website": ""
+      },
+      {
+        "name": "Gaborone Institute of Professional Studies (GIPS)",
+        "type": "Business / Professional Studies",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0035",
+        "website": ""
+      },
+      {
+        "name": "New Era College of Art, Science and Technology",
+        "type": "Multidisciplinary",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0037",
+        "website": "New Era College"
+      },
+      {
+        "name": "Boitekanelo College",
+        "type": "Health Sciences",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0022",
+        "website": "Boitekanelo College"
+      },
+      {
+        "name": "DDT College of Medicine",
+        "type": "Medicine / Health Sciences",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0103",
+        "website": ""
+      },
+      {
+        "name": "Imperial School of Business and Science",
+        "type": "Business / Science",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0024",
+        "website": ""
+      },
+      {
+        "name": "London College of International Business Studies",
+        "type": "Business",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0038",
+        "website": ""
+      },
+      {
+        "name": "Logan Business College",
+        "type": "Business",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0121",
+        "website": ""
+      },
+      {
+        "name": "Mega-Size College",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0041",
+        "website": ""
+      },
+      {
+        "name": "Bosa Bosele Training Institute",
+        "type": "Training / Professional",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0175",
+        "website": ""
+      },
+      {
+        "name": "Arthur Portland College",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0107",
+        "website": ""
+      },
+      {
+        "name": "Kitso International College",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0106",
+        "website": ""
+      },
+      {
+        "name": "Awil College",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0180",
+        "website": ""
+      },
+      {
+        "name": "Apex Academy",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0181",
+        "website": ""
+      },
+      {
+        "name": "Tebelopele College Proprietary Limited",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0283",
+        "website": ""
+      },
+      {
+        "name": "Kings College",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0558",
+        "website": ""
+      },
+      {
+        "name": "Intellectus Campus Botswana",
+        "type": "Higher Education",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0650",
+        "website": ""
+      },
+      {
+        "name": "Institute of Innovative Science",
+        "type": "Science",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0652",
+        "website": ""
+      },
+      {
+        "name": "Bonova College of Entrepreneurship and Innovation",
+        "type": "Entrepreneurship / Innovation",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0651",
+        "website": ""
+      },
+      {
+        "name": "Assembly Bible College",
+        "type": "Theology / Bible Studies",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0039",
+        "website": ""
+      },
+      {
+        "name": "Baptist Convention Seminary",
+        "type": "Theology",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0183",
+        "website": ""
+      },
+      {
+        "name": "St Augustine Theological School",
+        "type": "Theology",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0573",
+        "website": ""
+      },
+      {
+        "name": "ABBA Bible College",
+        "type": "Theology / Bible Studies",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0648",
+        "website": ""
+      },
+      {
+        "name": "Lijoka International Seminary and Bible College",
+        "type": "Theology",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0644",
+        "website": ""
+      },
+      {
+        "name": "Kgolagano College of Theological Education",
+        "type": "Theology",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0632",
+        "website": "",
+        "note": "Registered under Fountain Climb (Proprietary) Limited T/A Kgolagano College"
+      },
+      {
+        "name": "Botswana Institute of Banking and Finance",
+        "type": "Banking / Finance",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0072",
+        "website": ""
+      },
+      {
+        "name": "Botswana Institute of Chartered Accountants",
+        "type": "Accounting",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0331",
+        "website": "BICA"
+      },
+      {
+        "name": "Aviation Academy Flying Mission (AAFM)",
+        "type": "Aviation",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0625",
+        "website": ""
+      },
+      {
+        "name": "MANCOSA",
+        "type": "Business / Management",
+        "ownership": "Private",
+        "bqaRegNo": "",
+        "website": "MANCOSA"
+      },
+      {
+        "name": "Amistad Education Botswana",
+        "type": "Education / Professional",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0054",
+        "website": ""
+      },
+      {
+        "name": "Granjo Institute of Management",
+        "type": "Management",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0223",
+        "website": ""
+      },
+      {
+        "name": "Royal Business School",
+        "type": "Business",
+        "ownership": "Private",
+        "bqaRegNo": "ETP0222",
+        "website": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": [
+      {
+        "name": "Botswana Open University",
+        "type": "University",
+        "ownership": "Public",
+        "bqaRegNo": "ETP0118",
+        "accreditation": "2018–2028",
+        "website": "bou.ac.bw"
+      }
+    ]
+  }
+}

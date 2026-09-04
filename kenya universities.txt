@@ -1,0 +1,606 @@
+Show 
+10
+ entries
+Search:
+#	University Name
+1	Kenya Medical Research Institute
+2	University of Eldoret
+3	United States International University-Africa
+4	Strathmore University
+5	St. Paul's University
+6	Scott Christian University
+7	Africa Nazarene University
+8	University of Nairobi
+9	University of Embu
+10	Moi University
+11	Kenya Methodist University
+12	Maseno University
+13	Kenyatta University
+14	Kabarak University
+15	Jomo Kenyatta University of Agric and Tech
+16	Egerton University
+17	Daystar University
+18	Catholic University of Eastern Africa
+19	University of Eastern Africa Baraton
+20	Aga Khan University
+21	Zetech University
+22	Gretsa University
+23	Great Lakes University of Kisumu
+24	Turkana University College
+25	Inoorero
+26	Kenya Highlands Evangelical University
+27	KAG East University
+28	Nairobi International School of Theology
+29	Kiriri Women's University of Scienceand Tech
+30	Inorero
+31	The East African University
+32	Presbyterian University of East Africa
+33	Management University of Africa
+34	Pioneer International University
+35	Adventist University of Africa
+36	Kaimosi Friends University
+37	Karatina University
+38	KCA University
+39	Kibabii University
+40	Kirinyaga University
+41	Kisii University
+42	Laikipia University
+43	Lukenya University
+44	Maasai Mara University
+45	Machakos University
+46	Marist International University College
+47	Meru University of Science and Technology
+48	Masinde Muliro Univ of Sci & Tech
+49	Mount Kenya University
+50	Multimedia University of Kenya
+51	Amref International University
+52	Bomet University College
+53	Chuka University
+54	Dedan Kimathi University of Technology
+55	Garissa University
+56	Hekima University College
+57	Jaramogi Oginga Odinga Univ of Sci and Tec
+58	Murang'a University of Technology
+59	Pwani University
+60	Islamic University of Kenya
+61	Riara University
+62	Rongo University
+63	South Eastern Kenya University
+64	Taita Taveta University
+65	Tangaza University
+66	Technical University of Mombasa
+67	Technical University of Kenya
+68	Tharaka University
+69	Tom Mboya University
+70	Regina Pacis College
+#	University Name
+71	International Leadership University
+72	The Co-operative University of Kenya
+73	The Presbyterian University of East Africa
+74	Alupe University
+75	University of Kabianga
+76	Pan Africa Christian University
+77	Uzima University
+78	Umma University
+79	Africa International University
+80	Koitaleel Samoei University College
+Showing 71 to 80 of 103 entries
+81	National Defence University - Kenya
+82	National Intelligence and Research University
+83	Kenya School of Government
+84	Mama Ngina University College
+85	Africa Interstates
+86	Moi University
+87	Open University of Kenya
+88	KASNEB
+89	Consolata International University
+90	Test
+Show 
+10
+ entries
+Search:
+#	University Name
+91	Baraton College
+92	UMMA UNIVERSITY
+93	Outspan Global University
+94	Outspan Global
+95	Kamagambo University
+96	The African Talent University
+97	Baraton International University
+98	Nyandarua University College
+99	Kabarnet University College
+100	CHRM College
+Showing 91 to 100 of 103 entries
+Show 
+10
+ entries
+Search:
+#	University Name
+101	Nia University
+102	Oshwal College
+103	Kenya Advanced Institute of Science and Tech Univ
+1. Governing Bodies & Official PortalsHigher education in Kenya is regulated by the Commission for University Education (CUE) for accreditation and standards, and placement is handled by the Kenya Universities and Colleges Central Placement Service (KUCCPS). Technical and Vocational Institutions are regulated by TVETA.CUE Official Website: cue.or.keCUE Accredited Universities Portal: imis.cue.or.ke/RecognitionAndEquationforQualifications/AccreditedUniversitiesKUCCPS Registered Institutions Portal: kuccps.net/kuccps-registered-membersTVETA Accredited Colleges Registry: tveta.go.ke2. Public Universities (35 Institutions)Institution NameMain LocationOfficial WebsiteUniversity of Nairobi (UoN)Nairobiuonbi.ac.keKenyatta University (KU)Nairobiku.ac.keMoi UniversityEldoretmu.ac.keEgerton UniversityNjoro / Nakuruegerton.ac.keJomo Kenyatta University of Agriculture and Technology (JKUAT)Jujajkuat.ac.keMaseno UniversityMaseno[suspicious link removed]Masinde Muliro University of Science & Technology (MMUST)Kakamegammust.ac.keTechnical University of Kenya (TUK)Nairobitukenya.ac.keTechnical University of Mombasa (TUM)Mombasatum.ac.keDedan Kimathi University of Technology (DeKUT)Nyeridkut.ac.keChuka UniversityChukachuka.ac.kePwani UniversityKilifipu.ac.keKisii UniversityKisiikisiiuniversity.ac.keUniversity of EldoretEldoretuoeld.ac.keMaasai Mara UniversityNarokmmarau.ac.keJaramogi Oginga Odinga University of Science & Tech (JOOUST)Bondojooust.ac.keLaikipia UniversityNyahururulaikipia.ac.keSouth Eastern Kenya University (SEKU)Kituiseku.ac.keMeru University of Science & Technology (MUST)Merumust.ac.keMultimedia University of Kenya (MMU)Nairobimmu.ac.keUniversity of KabiangaKerichokabianga.ac.keKaratina UniversityKaratinakaru.ac.keKibabii UniversityBungomakibu.ac.keRongo UniversityRongo[suspicious link removed]Taita Taveta UniversityVoittu.ac.keCo-operative University of Kenya (CUK)Nairobicuk.ac.keMurang'a University of TechnologyMurang'amut.ac.keUniversity of EmbuEmbuembuni.ac.keMachakos UniversityMachakosmksu.ac.keKirinyaga UniversityKerugoyakyu.ac.keGarissa UniversityGarissagau.ac.keAlupe UniversityBusiaau.ac.keKaimosi Friends UniversityKaimosikafu.ac.keTom Mboya UniversityHoma Baytmu.ac.keTharaka UniversityTharaka Nithitharaka.ac.ke3. Specialized Public Universities & Public Constituent CollegesNational Defence University-Kenya (NDU-K): ndu.ac.keOpen University of Kenya (OUK): [suspicious link removed]Turkana University College: tuc.ac.keBomet University College: buc.ac.keKoitaleel Samoei University College: ksu.ac.keMama Ngina University College: mnuc.ac.keKenya Advanced Institute of Science and Technology (KAIST): kaist.ac.ke4. Private Chartered Universities (28 Institutions)Institution NameMain LocationOfficial WebsiteUniversity of Eastern Africa, BaratonEldoretueab.ac.keCatholic University of Eastern Africa (CUEA)Nairobicuea.eduDaystar UniversityNairobi / Athi Riverdaystar.ac.keScott Christian UniversityMachakosscott.ac.keStrathmore UniversityNairobistrathmore.eduUnited States International University-Africa (USIU-Africa)Nairobiusiu.ac.keAfrica Nazarene UniversityNairobianu.ac.keKenya Methodist University (KeMU)Meru / Nairobikemu.ac.keSt. Paul's UniversityLimuruspu.ac.keKabarak UniversityNakurukabarak.ac.keMount Kenya University (MKU)Thikamku.ac.keAfrica International UniversityKaren, Nairobiaiu.ac.keKenya Highlands UniversityKerichokhu.ac.keGreat Lakes University of KisumuKisumugluk.ac.keKCA UniversityNairobikca.ac.keAdventist University of AfricaOngata Rongaiaua.ac.keKAG EAST UniversityBuruburu, Nairobieast.ac.keUmma UniversityKajiadoumma.ac.kePresbyterian University of East AfricaKikuyupuea.ac.keAga Khan UniversityNairobiaku.eduKiriri Women's University of Science & TechNairobikwust.ac.keTangaza UniversityNairobitangaza.ac.kePan Africa Christian University (PAC)Nairobipacuniversity.ac.keLukenya UniversityMakuenilukenyauniversity.ac.keZetech UniversityRuiru / Nairobizetech.ac.keRAF International UniversityKajiadoriu.ac.keManagement University of Africa (MUA)Nairobimua.ac.keInternational Leadership University (ILU)Nairobiilu.ac.ke5. Universities Operating with Letters of Interim AuthorityGretsa University – Thika | gretsauniversity.ac.keRiara University – Nairobi | riarauniversity.ac.kePioneer International University – Nairobi | piu.ac.keAMREF International University – Nairobi | amref.ac.keUzima University – Kisumu | uzimauniversity.ac.keScraping Target Strategy for Kenya
+
+Yes. Kenya is a much larger case than Guinea-Bissau, and there is a **very good official source** for it: the **Commission for University Education (CUE)**. CUE is the Kenyan government regulator responsible for university education and publishes the official list of institutions authorized to operate. ([Cue][1])
+
+I also checked the **TVET Authority (TVETA)** because, as with Ghana, your request is for *all higher institutes*, not just universities.
+
+## 🇰🇪 Kenya — Higher/Tertiary Education Institutions
+
+### 1. Official government sources
+
+* **Commission for University Education (CUE):** [CUE official website](https://www.cue.or.ke/?utm_source=chatgpt.com)
+* **CUE — Status of Universities:** [Official list of universities authorized to operate in Kenya](https://www.cue.or.ke/index.php?Itemid=475&id=21&option=com_content&view=article&utm_source=chatgpt.com)
+* **CUE — Accreditation:** [CUE accreditation information](https://www.cue.or.ke/index.php?Itemid=471&id=13&option=com_content&view=category&utm_source=chatgpt.com)
+* **CUE — Approved Academic Programmes:** [Approved university programmes](https://www.cue.or.ke/index.php?Itemid=190&catid=13&id=22&option=com_content&view=article&utm_source=chatgpt.com)
+* **TVET Authority (TVETA):** [TVETA official website](https://www.tveta.go.ke/?utm_source=chatgpt.com)
+* **TVETA — Accredited TVET Institutions:** [Official TVETA institutional register](https://www.tveta.go.ke/accredited-tvet-institutions/?utm_source=chatgpt.com)
+
+CUE explicitly states that it is the government agency mandated to regulate university education in Kenya and that it maintains the list of universities accredited/authorized to operate. ([Cue][1])
+
+---
+
+# 2. Public Chartered Universities — 35
+
+The latest CUE list I found, dated **17 May 2026**, contains **35 Public Chartered Universities**. ([Cue][2])
+
+|  # | University                                                      | Location / Main campus |
+| -: | --------------------------------------------------------------- | ---------------------- |
+|  1 | **University of Nairobi**                                       | Nairobi                |
+|  2 | **Moi University**                                              | Eldoret                |
+|  3 | **Kenyatta University**                                         | Nairobi                |
+|  4 | **Egerton University**                                          | Njoro                  |
+|  5 | **Jomo Kenyatta University of Agriculture and Technology**      | Juja                   |
+|  6 | **Maseno University**                                           | Maseno                 |
+|  7 | **Masinde Muliro University of Science and Technology**         | Kakamega               |
+|  8 | **Dedan Kimathi University of Technology**                      | Nyeri                  |
+|  9 | **Chuka University**                                            | Chuka                  |
+| 10 | **Technical University of Kenya**                               | Nairobi                |
+| 11 | **Technical University of Mombasa**                             | Mombasa                |
+| 12 | **Pwani University**                                            | Kilifi                 |
+| 13 | **Kisii University**                                            | Kisii                  |
+| 14 | **University of Eldoret**                                       | Eldoret                |
+| 15 | **Maasai Mara University**                                      | Narok                  |
+| 16 | **Jaramogi Oginga Odinga University of Science and Technology** | Bondo                  |
+| 17 | **Laikipia University**                                         | Nyahururu              |
+| 18 | **South Eastern Kenya University**                              | Kitui                  |
+| 19 | **Meru University of Science and Technology**                   | Meru                   |
+| 20 | **Multimedia University of Kenya**                              | Nairobi                |
+| 21 | **University of Kabianga**                                      | Kericho                |
+| 22 | **Karatina University**                                         | Karatina               |
+| 23 | **Kibabii University**                                          | Bungoma                |
+| 24 | **Rongo University**                                            | Rongo                  |
+| 25 | **The Co-operative University of Kenya**                        | Nairobi                |
+| 26 | **Taita Taveta University**                                     | Voi                    |
+| 27 | **Murang'a University of Technology**                           | Murang'a               |
+| 28 | **University of Embu**                                          | Embu                   |
+| 29 | **Machakos University**                                         | Machakos               |
+| 30 | **Kirinyaga University**                                        | Kutus                  |
+| 31 | **Garissa University**                                          | Garissa                |
+| 32 | **Alupe University**                                            | Busia                  |
+| 33 | **Kaimosi Friends University**                                  | Kaimosi                |
+| 34 | **Tom Mboya University**                                        | Homa Bay               |
+| 35 | **Tharaka University**                                          | Tharaka Nithi          |
+
+These 35 are directly from CUE's current approved-university list. ([Cue][2])
+
+---
+
+# 3. Specialized Degree-Awarding Public Universities — 5
+
+CUE's current 2026 list separately identifies **five specialized public degree-awarding universities**. ([Cue][3])
+
+|  # | Institution                                            | Year |
+| -: | ------------------------------------------------------ | ---: |
+|  1 | **National Defence University-Kenya**                  | 2021 |
+|  2 | **Open University of Kenya**                           | 2023 |
+|  3 | **National Intelligence Research University**          | 2024 |
+|  4 | **Kenya Advanced Institute of Science and Technology** | 2026 |
+|  5 | **Kenya Medical Research Institute**                   | 2026 |
+
+### Important
+
+These should **not be merged blindly with the 35 conventional public universities** in your database.
+
+I'd classify them as:
+
+```text
+institution_type: "Specialized Degree-Awarding University"
+ownership: "Public"
+```
+
+That preserves the distinction made by CUE itself. ([Cue][3])
+
+---
+
+# 4. Private Chartered Universities — 32
+
+CUE's latest list contains **32 Private Chartered Universities**. ([Cue][4])
+
+|  # | Private University                                      | Charter year |
+| -: | ------------------------------------------------------- | -----------: |
+|  1 | **University of Eastern Africa, Baraton**               |         1991 |
+|  2 | **Catholic University of Eastern Africa**               |         1992 |
+|  3 | **Daystar University**                                  |         1994 |
+|  4 | **Scott Christian University**                          |         1997 |
+|  5 | **United States International University**              |         1999 |
+|  6 | **Africa Nazarene University**                          |         2002 |
+|  7 | **Kenya Methodist University**                          |         2006 |
+|  8 | **St. Paul's University**                               |         2007 |
+|  9 | **Pan Africa Christian University**                     |         2008 |
+| 10 | **Strathmore University**                               |         2008 |
+| 11 | **Kabarak University**                                  |         2008 |
+| 12 | **Mount Kenya University**                              |         2011 |
+| 13 | **Africa International University**                     |         2011 |
+| 14 | **Kenya Highlands Evangelical University**              |         2011 |
+| 15 | **Great Lakes University of Kisumu**                    |         2012 |
+| 16 | **KCA University**                                      |         2013 |
+| 17 | **Adventist University of Africa**                      |         2013 |
+| 18 | **KAG EAST University**                                 |         2016 |
+| 19 | **Umma University**                                     |         2019 |
+| 20 | **Presbyterian University of East Africa**              |         2020 |
+| 21 | **Aga Khan University**                                 |         2021 |
+| 22 | **Kiriri Women's University of Science and Technology** |         2022 |
+| 23 | **The East African University**                         |         2022 |
+| 24 | **Zetech University**                                   |         2022 |
+| 25 | **Lukenya University**                                  |         2022 |
+| 26 | **Management University of Africa**                     |         2024 |
+| 27 | **Tangaza University**                                  |         2024 |
+| 28 | **Islamic University of Kenya**                         |         2024 |
+| 29 | **Riara University**                                    |         2025 |
+| 30 | **Uzima University**                                    |         2025 |
+| 31 | **Gretsa University**                                   |         2025 |
+| 32 | **Amref International University**                      |         2025 |
+
+CUE confirms these as **Private Chartered Universities**. ([Cue][4])
+
+---
+
+# 5. Universities with Letters of Interim Authority — 6
+
+This category is particularly important.
+
+These institutions have **Letters of Interim Authority (LIA)** rather than full university Charter status. CUE's current 2026 list contains six. ([Cue][3])
+
+|  # | Institution                             | LIA year |
+| -: | --------------------------------------- | -------: |
+|  1 | **Pioneer International University**    |     2012 |
+|  2 | **International Leadership University** |     2014 |
+|  3 | **Consolata International University**  |     2025 |
+|  4 | **Outspan Global University**           |     2026 |
+|  5 | **The African Talent University**       |     2026 |
+|  6 | **East Kenya Integrated University**    |     2026 |
+
+These should be stored as:
+
+```text
+institution_type: "University"
+ownership: "Private"
+status: "Letter of Interim Authority"
+```
+
+rather than `"Chartered"`.
+
+---
+
+# 6. Public University Constituent Colleges — 7
+
+CUE separately lists **7 Public University Constituent Colleges**. ([Cue][3])
+
+|  # | Constituent College                                    | Year |
+| -: | ------------------------------------------------------ | ---: |
+|  1 | **Turkana University College**                         | 2016 |
+|  2 | **Koitaleel Samoei University College**                | 2018 |
+|  3 | **Mama Ngina University College**                      | 2021 |
+|  4 | **Kenya Advanced Institute of Science and Technology** | 2022 |
+|  5 | **Nyandarua University College**                       | 2025 |
+|  6 | **Kabarnet University College**                        | 2025 |
+|  7 | **Makueni University College**                         | 2025 |
+
+### ⚠️ Data issue
+
+Notice that **Kenya Advanced Institute of Science and Technology appears in both the constituent-college and specialized-degree-awarding categories in CUE's current page**.
+
+This is exactly the kind of issue we need to preserve rather than silently duplicate in your JSON.
+
+I'd ultimately give KAIST **one canonical institution record**, with its historical/current classification tracked separately.
+
+---
+
+# 7. Private University Constituent Colleges — 2
+
+CUE currently lists:
+
+1. **Hekima University College**
+2. **Marist International University College**
+
+Both are private constituent colleges. ([Cue][3])
+
+---
+
+# 8. University-level picture
+
+So, unlike the simplified numbers you may see online, Kenya's **current CUE structure** is approximately:
+
+| CUE category                                    | Current count |
+| ----------------------------------------------- | ------------: |
+| Public Chartered Universities                   |        **35** |
+| Specialized Public Degree-Awarding Universities |         **5** |
+| Private Chartered Universities                  |        **32** |
+| Universities with Letters of Interim Authority  |         **6** |
+| Public University Constituent Colleges          |         **7** |
+| Private University Constituent Colleges         |         **2** |
+| **Records/categories currently listed by CUE**  |        **87** |
+
+But **do not interpret 87 as "87 independent universities."**
+
+Some are constituent colleges, some are specialized institutions, and there are classification overlaps. This is why your dataset needs `institution_type` and `status`.
+
+For comparison, CUE's **2024 University Education Statistics Report** reported **79 licensed universities** in 2024: 38 public chartered, 29 private chartered, 5 LIA, 5 public constituent colleges and 2 private constituent colleges. Since then, several institutions have received charters and new institutions have been added. ([Cue][5])
+
+---
+
+# 9. Kenya's TVET / Higher Technical Education System
+
+Now we reach the **"all higher institutes"** part.
+
+Kenya has a huge TVET system administered by the **Technical and Vocational Education and Training Authority (TVETA)**.
+
+TVETA's official register contains institutions classified into categories including:
+
+* National Polytechnics
+* Technical and Vocational Colleges
+* Technical Training Colleges
+* Vocational Training Centres
+* Private Technical/Vocational institutions
+* Specialized training institutions
+
+The official register shows each institution's:
+
+```text
+Name
+Registration Number
+Category
+Public/Private
+County
+Expiry Date
+Status
+```
+
+For example, the current register contains institutions ranging from public technical colleges to private vocational training centres. ([TVET Authority][6])
+
+---
+
+# 10. Institutions legally authorized to award academic qualifications
+
+TVETA also maintains a **separate official list of institutions that have a legal mandate to award academic qualifications**. ([TVET Authority][7])
+
+The current list includes institutions such as:
+
+| Institution                               | Type        | County   | Status |
+| ----------------------------------------- | ----------- | -------- | ------ |
+| **Bandari Maritime Academy**              | Public TVC  | Mombasa  | Active |
+| **Bukura Agricultural College**           | Public TVC  | Kakamega | Active |
+| **Kaimosi Friends National Polytechnic**  | Public NP   | Vihiga   | Active |
+| **Kenya Forestry College**                | Public TVC  | Kericho  | Active |
+| **Kenya Institute of Mass Communication** | Public TVC  | Nairobi  | Active |
+| **Kenya Red Cross Training Institute**    | Private TVC | Nairobi  | Active |
+
+TVETA explicitly distinguishes these from the broader register. ([TVET Authority][7])
+
+---
+
+# 11. Why we should NOT simply merge CUE + TVETA
+
+This is extremely important for your database.
+
+A university can also have a TVET institute.
+
+For example, TVETA's current database contains:
+
+* **Kabarak University TVET Institute**
+* **Jomo Kenyatta University of Agriculture and Technology TVET Directorate**
+* **Kibabii University Directorate of TVET**
+* **Tharaka University TVET Directorate**
+* **Turkana University College TVET Institute**
+* **St Paul's University TVET Institute**
+* **Marist International University College**
+
+These are visible in TVETA's programme/institution records. ([TVET Authority][8])
+
+Therefore, if we simply combine CUE and TVETA records, we'd create duplicates.
+
+### The correct approach is:
+
+```text
+Institution
+    ↓
+University / TVET / College / Institute
+    ↓
+Campus / Directorate / Faculty
+```
+
+For example:
+
+```text
+Kabarak University
+    └── Kabarak University TVET Institute
+```
+
+rather than treating them as two unrelated universities.
+
+---
+
+# 12. Accreditation/status needs to be preserved
+
+Another major reason Kenya requires a structured dataset is that **accreditation status is not necessarily permanent**.
+
+TVETA's current register explicitly distinguishes:
+
+* `Registered and Licensed`
+* `Registered Only`
+* `Expired License`
+* `Deregistered`
+
+For example, the current TVETA records show institutions with expired licences alongside currently licensed institutions. ([TVET Authority][6])
+
+CUE similarly distinguishes chartered universities, constituent colleges and institutions with Letters of Interim Authority. ([Cue][3])
+
+So I would **never reduce the data to simply `accredited: true/false`**.
+
+---
+
+# 13. Recommended Kenya database structure
+
+For your university recommendation system, I'd use:
+
+```json
+{
+    "country": "Kenya",
+    "institution_name": "University of Nairobi",
+    "acronym": "UoN",
+    "institution_type": "University",
+    "institution_category": "Public Chartered University",
+    "ownership": "Public",
+    "status": "Chartered",
+    "county": "Nairobi",
+    "city": "Nairobi",
+    "official_website": "",
+    "programs": {
+        "bachelor": [],
+        "hnd": [],
+        "masters": [],
+        "phd": []
+    },
+    "source": {
+        "regulator": "Commission for University Education",
+        "country": "Kenya"
+    }
+}
+```
+
+For a TVET institution:
+
+```json
+{
+    "country": "Kenya",
+    "institution_name": "Example Technical and Vocational College",
+    "institution_type": "TVET",
+    "institution_category": "Technical and Vocational College",
+    "ownership": "Public",
+    "status": "Registered and Licensed",
+    "county": "",
+    "city": "",
+    "official_website": "",
+    "programs": {
+        "certificate": [],
+        "diploma": [],
+        "higher_diploma": []
+    },
+    "source": {
+        "regulator": "TVET Authority",
+        "country": "Kenya"
+    }
+}
+```
+
+---
+
+# 14. Official academic programme data
+
+This is another advantage Kenya has for your project.
+
+CUE publishes an **approved academic programmes** database. Its current page says the programme list covers:
+
+* Bachelor's degrees
+* Master's degrees
+* Doctoral degrees
+* Postgraduate diplomas
+* Certificates
+* Diplomas
+
+and CUE currently provides an approved-programmes list **as at 31 July 2026**. ([Cue][9])
+
+This is extremely useful because your recommendation system needs to know not only:
+
+> "Does this university exist?"
+
+but:
+
+> **"Does this university actually offer the programme the student wants?"**
+
+So Kenya is one of the countries where we can potentially make the programme matching significantly more accurate.
+
+---
+
+# 15. Final recommended numbers for your project
+
+I would record Kenya like this:
+
+### Universities
+
+| Classification                                  | Number |
+| ----------------------------------------------- | -----: |
+| Public Chartered Universities                   | **35** |
+| Specialized Public Degree-Awarding Universities |  **5** |
+| Private Chartered Universities                  | **32** |
+| Universities with Letters of Interim Authority  |  **6** |
+| Public Constituent Colleges                     |  **7** |
+| Private Constituent Colleges                    |  **2** |
+
+**But:** don't sum these and call the result "number of universities," because constituent colleges and classification overlaps exist.
+
+### Broader tertiary system
+
+Add:
+
+* National Polytechnics
+* Technical and Vocational Colleges
+* Technical Training Colleges
+* Vocational Training Centres
+* Specialized TVET institutions
+* Agricultural colleges
+* Maritime institutions
+* Health-related training institutions
+* Other legally authorized professional/technical institutions
+
+These are regulated through **TVETA**, not CUE. ([TVET Authority][6])
+
+---
+
+## 🇰🇪 The official sources I recommend you save
+
+**Primary university regulator:**
+[Commission for University Education (CUE)](https://www.cue.or.ke/?utm_source=chatgpt.com)
+
+**Official university authorization list:**
+[CUE — Status of Universities](https://www.cue.or.ke/index.php?Itemid=475&id=21&option=com_content&view=article&utm_source=chatgpt.com)
+
+**Official university accreditation/programmes:**
+[CUE — Accreditation](https://www.cue.or.ke/index.php?Itemid=471&id=13&option=com_content&view=category&utm_source=chatgpt.com)
+
+**Primary TVET regulator:**
+[TVET Authority (TVETA)](https://www.tveta.go.ke/?utm_source=chatgpt.com)
+
+**Official TVET register:**
+[TVETA — Accredited Institutions](https://www.tveta.go.ke/accredited-tvet-institutions/?utm_source=chatgpt.com)
+
+**TVET institutions legally authorized to award qualifications:**
+[TVETA — Legal Mandate to Award Qualifications](https://www.tveta.go.ke/tvet-institutions-with-legal-mandate/?utm_source=chatgpt.com)
+
+### Bottom line
+
+For **Kenya**, I would use **CUE as the authoritative source for universities** and **TVETA as the authoritative source for TVET/higher technical institutions**. CUE's current 2026 records already show major changes since its 2024 statistics, including new chartered and specialized institutions. ([Cue][5])
+
+And unlike the Guinea-Bissau case, **Kenya has enough official programme-level data that we should eventually be able to build a much richer Kenya JSON dataset — institution + county + ownership + accreditation status + programmes + official website — rather than just a list of names.**
+
+[1]: https://www.cue.or.ke/index.php?Itemid=475&id=21&option=com_content&view=article&utm_source=chatgpt.com "Commission for University Education - Status of Universities"
+[2]: https://www.cue.or.ke/index.php?Itemid=492&download=59%3Astatus-of-universities-universities-authorized-to-operate-in-kenya&id=6%3Astatus-of-universities-universities-authorized-to-operate-in-kenya&option=com_phocadownload&view=category&utm_source=chatgpt.com "COMMISSION FOR UNIVERSITY EDUCATION, KENYA"
+[3]: https://www.cue.or.ke/index.php?Itemid=485&download=281%3Aauthorized-universities-apr-2026&id=81%3Aapproved-academic-programmes-dec-2023&option=com_phocadownload&view=category&utm_source=chatgpt.com "COMMISSION FOR UNIVERSITY EDUCATION, KENYA"
+[4]: https://www.cue.or.ke/index.php?download=281%3Aauthorized-universities-nov-2025&id=81%3Aapproved-academic-programmes-dec-2023&option=com_phocadownload&view=category&utm_source=chatgpt.com "COMMISSION FOR UNIVERSITY EDUCATION, KENYA"
+[5]: https://www.cue.or.ke/index.php?Itemid=491&download=285%3Auniversity-statistics-2024-2025&id=18%3Auniversities-data-0-3&option=com_phocadownload&view=category&utm_source=chatgpt.com "COMMISSION FOR UNIVERSITY EDUCATION"
+[6]: https://www.tveta.go.ke/accredited-tvet-institutions/?utm_source=chatgpt.com "Accredited TVET Institutions – TVET Authority"
+[7]: https://www.tveta.go.ke/tvet-institutions-with-legal-mandate/?utm_source=chatgpt.com "TVET Institutions With Legal Mandate to Award Academic Qualifications – TVET Authority"
+[8]: https://www.tveta.go.ke/course/?course_id=CDC332&utm_source=chatgpt.com "Course – TVET Authority"
+[9]: https://www.cue.or.ke/index.php?Itemid=190&catid=13&id=22&option=com_content&view=article&utm_source=chatgpt.com "Commission for University Education - Approval of Academic Programmes"
+

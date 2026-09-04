@@ -1,0 +1,89 @@
+{
+  "country": "Djibouti",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Université de Djibouti",
+        "acronym": "UDD",
+        "type": "Public University",
+        "location": "Djibouti City",
+        "website": "univ.edu.dj"
+      },
+      {
+        "name": "Centre d'Études et de Recherche de Djibouti",
+        "acronym": "CERD",
+        "type": "Public Research Centre",
+        "location": "Djibouti City",
+        "website": "cerd.dj"
+      },
+      {
+        "name": "Institut Supérieur des Sciences de la Santé",
+        "acronym": "ISSS",
+        "type": "Public Institute",
+        "location": "Djibouti City",
+        "website": "univ.edu.dj/isss"
+      },
+      {
+        "name": "Institut National d'Administration Publique",
+        "acronym": "INAP",
+        "type": "Public Institute",
+        "location": "Djibouti City",
+        "website": "inap.dj"
+      },
+      {
+        "name": "Faculté des Sciences",
+        "acronym": "FD",
+        "type": "Faculty of Université de Djibouti",
+        "location": "Djibouti City",
+        "website": ""
+      },
+      {
+        "name": "Faculté Droit, Économie et Gestion",
+        "acronym": "FDEG",
+        "type": "Faculty of Université de Djibouti",
+        "location": "Djibouti City",
+        "website": ""
+      },
+      {
+        "name": "Faculté des Lettres, Langues et Sciences Humaines",
+        "acronym": "FLLSH",
+        "type": "Faculty of Université de Djibouti",
+        "location": "Djibouti City",
+        "website": ""
+      },
+      {
+        "name": "Faculté de Médecine de Djibouti",
+        "acronym": "FMD",
+        "type": "Faculty of Université de Djibouti",
+        "location": "Djibouti City",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire de Technologie",
+        "acronym": "IUT",
+        "type": "Institute of Université de Djibouti (Industrial & Tertiary)",
+        "location": "Djibouti City",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Institut Supérieur d'Enseignement Catholique",
+        "acronym": "ISEC",
+        "type": "Private",
+        "affiliation": "Professional & Technical",
+        "website": "isec-djibouti.org"
+      },
+      {
+        "name": "Université d'État de Médecine (Private Sector Branch)",
+        "acronym": "UEMD",
+        "type": "Private",
+        "affiliation": "Medical & Health Sciences",
+        "website": "uemd-edu.dj"
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

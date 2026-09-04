@@ -1,0 +1,347 @@
+{
+  "country": "Ethiopia",
+  "universities": {
+    "federal": [],
+    "state": [
+{
+        "name": "Mekelle University",
+        "type": "Public University",
+        "region": "Tigray",
+        "location": "Mekelle"
+      },
+      {
+        "name": "Aksum University",
+        "type": "Public University",
+        "region": "Tigray",
+        "location": "Aksum"
+      },
+      {
+        "name": "Adigrat University",
+        "type": "Public University",
+        "region": "Tigray",
+        "location": "Adigrat"
+      },
+      {
+        "name": "Raya University",
+        "type": "Public University",
+        "region": "Tigray",
+        "location": "Raya"
+      },
+      {
+        "name": "Samara University",
+        "type": "Public University",
+        "region": "Tigray",
+        "location": "Samara"
+      },
+      {
+        "name": "Woldia University",
+        "type": "Public University",
+        "region": "Tigray",
+        "location": "Woldia"
+      },
+      {
+        "name": "Wollo University",
+        "type": "Public University",
+        "region": "Tigray",
+        "location": "Wollo"
+      },
+      {
+        "name": "Bahir Dar University",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Bahir Dar"
+      },
+      {
+        "name": "University of Gondar",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Gondar"
+      },
+      {
+        "name": "Debre Tabor University",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Debre Tabor"
+      },
+      {
+        "name": "Injibara University",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Injibara"
+      },
+      {
+        "name": "Debark University",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Debark"
+      },
+      {
+        "name": "Mekidela Amba University",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Mekidela Amba"
+      },
+      {
+        "name": "Debre Berhan University",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Debre Berhan"
+      },
+      {
+        "name": "Debre Markos University",
+        "type": "Public University",
+        "region": "Amhara",
+        "location": "Debre Markos"
+      },
+{
+        "name": "Addis Ababa University",
+        "type": "Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Addis Ababa"
+      },
+      {
+        "name": "Addis Ababa Science and Technology University",
+        "type": "Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Addis Ababa"
+      },
+      {
+        "name": "Adama Science and Technology University",
+        "type": "Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Adama"
+      },
+      {
+        "name": "Ambo University",
+        "type": "Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Ambo"
+      },
+      {
+        "name": "Arsi University",
+        "type": "Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Arsi"
+      },
+      {
+        "name": "Kotebe University of Education",
+        "type": "Specialized Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Addis Ababa"
+      },
+      {
+        "name": "Oromia State University",
+        "type": "Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Oromia"
+      },
+      {
+        "name": "Ethiopian Civil Service University",
+        "type": "Specialized Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Addis Ababa"
+      },
+      {
+        "name": "Ethiopian Police University",
+        "type": "Specialized Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Addis Ababa"
+      },
+      {
+        "name": "Ethiopian Defence University",
+        "type": "Specialized Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Addis Ababa"
+      },
+      {
+        "name": "Ethiopian Aviation University",
+        "type": "Specialized Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Addis Ababa"
+      },
+      {
+        "name": "Selale University",
+        "type": "Public University",
+        "region": "Addis Ababa / Oromia",
+        "location": "Selale"
+      },
+{
+        "name": "Assosa University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Assosa"
+      },
+      {
+        "name": "Bonga University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Bonga"
+      },
+      {
+        "name": "Dambi Dollo University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Dambi Dollo"
+      },
+      {
+        "name": "Mettu University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Mettu"
+      },
+      {
+        "name": "Jimma University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Jimma"
+      },
+      {
+        "name": "Mizan-Tepi University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Mizan-Tepi"
+      },
+      {
+        "name": "Wollega University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Wollega"
+      },
+      {
+        "name": "Wallaga University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Wallaga"
+      },
+      {
+        "name": "Wolkite University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Wolkite"
+      },
+      {
+        "name": "Gambella University",
+        "type": "Public University",
+        "region": "Benishangul-Gumuz / Western",
+        "location": "Gambella"
+      },
+      {
+        "name": "Jigjiga University",
+        "type": "Public University",
+        "region": "Somali",
+        "location": "Jigjiga"
+      },
+      {
+        "name": "Haramaya University",
+        "type": "Public University",
+        "region": "Somali",
+        "location": "Haramaya"
+      },
+      {
+        "name": "Kabridahar University",
+        "type": "Public University",
+        "region": "Somali",
+        "location": "Kabridahar"
+      },
+{
+        "name": "Dire Dawa University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Dire Dawa"
+      },
+      {
+        "name": "Oda Bultum University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Oda Bultum"
+      },
+      {
+        "name": "Hawassa University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Hawassa"
+      },
+      {
+        "name": "Dilla University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Dilla"
+      },
+      {
+        "name": "Arba Minch University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Arba Minch"
+      },
+      {
+        "name": "Wolaita Sodo University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Wolaita Sodo"
+      },
+      {
+        "name": "Meda Welabu University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Meda Welabu"
+      },
+      {
+        "name": "Wachamo University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Wachamo"
+      },
+      {
+        "name": "Werabe University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Werabe"
+      },
+      {
+        "name": "Bule Hora University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Bule Hora"
+      },
+      {
+        "name": "Borana University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Borana"
+      },
+      {
+        "name": "Jinka University",
+        "type": "Public University",
+        "region": "Eastern / Southeastern",
+        "location": "Jinka"
+      }
+    ],
+    "private": [{
+        "name": "Unity University",
+        "type": "Private University",
+        "location": "Addis Ababa",
+        "website": "https://uu.edu.et/"
+      },
+      {
+        "name": "St. Mary's University",
+        "type": "Private University",
+        "location": "Addis Ababa",
+        "website": "https://smuc.edu.et/"
+      },
+      {
+        "name": "Admas University",
+        "type": "Private University",
+        "location": "Addis Ababa",
+        "website": "https://web.admasuniversity.edu.et/"
+      },
+      {
+        "name": "Rift Valley University",
+        "type": "Private University",
+        "location": "Addis Ababa",
+        "website": "https://riftvalleyuniversity.org/"
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

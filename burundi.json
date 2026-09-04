@@ -1,0 +1,320 @@
+{
+  "country": "Burundi",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Université du Burundi (UB)",
+        "type": "University",
+        "ownership": "Public",
+        "website": "https://www.ub.edu.bi/"
+      },
+      {
+        "name": "Ecole Normale Supérieur (ENS)",
+        "type": "Higher School / Teacher Training",
+        "ownership": "Public",
+        "website": "http://ens.bi/"
+      },
+      {
+        "name": "Institut Supérieur de Gestion des Entreprises (ISGE)",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "website": "http://www.isge.bi/"
+      },
+      {
+        "name": "Institut Supérieur de Police (ISP)",
+        "type": "Higher Institute / Specialized",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Cadres Militaires (ISCAM)",
+        "type": "Higher Institute / Specialized",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Institut National de Santé Publique (INSP)",
+        "type": "Higher Institute / Specialized",
+        "ownership": "Public",
+        "website": "http://insp.bi/"
+      },
+      {
+        "name": "Ecole Normale d’Administration (ENA)",
+        "type": "Higher School / Specialized",
+        "ownership": "Public",
+        "website": "http://www.ena.bi/"
+      }
+    ],
+    "private": [
+      {
+        "name": "Grand Séminaire de Bujumbura",
+        "type": "University / Seminary",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université Espoir d’Afrique (UEA)",
+        "type": "University",
+        "ownership": "Private",
+        "website": "http://en.hopeafricauniversity.org"
+      },
+      {
+        "name": "Université Lumière de Bujumbura (ULBU)",
+        "type": "University",
+        "ownership": "Private",
+        "website": "http://www.ulbu.bi"
+      },
+      {
+        "name": "Université du Lac Tanganyika (ULT)",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université des Grands Lacs (UGL)",
+        "type": "University",
+        "ownership": "Private",
+        "website": "http://www.ugl.bi/"
+      },
+      {
+        "name": "Université de Mwaro (UM)",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université Martin Luther King (UMLK)",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université de Ngozi (UNGo)",
+        "type": "University",
+        "ownership": "Private",
+        "website": "https://www.univ-ngozi.bi/"
+      },
+      {
+        "name": "Université Paix et Réconciliation (UPR)",
+        "type": "University",
+        "ownership": "Private",
+        "website": "",
+        "status": "Restricted from first-year enrollment (according to MENRS notification)"
+      },
+      {
+        "name": "Université Sagesse d’Afrique (USA)",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université des Collines",
+        "type": "University",
+        "ownership": "Private",
+        "website": "",
+        "status": "Restricted from first-year enrollment (according to MENRS notification)"
+      },
+      {
+        "name": "Université Ntare Rugamba (UNR)",
+        "type": "University",
+        "ownership": "Private",
+        "website": "",
+        "status": "Restricted from first-year enrollment (according to MENRS notification)"
+      },
+      {
+        "name": "International Leadership University (ILU-Bu)",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université Polytechnique de Gitega",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Bujumbura International University",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "East Africa Star University de Rugombo",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université Chrétienne de Bujumbura",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université Polytechnique Intégrée de Cibitoke",
+        "type": "University",
+        "ownership": "Private",
+        "website": "",
+        "status": "Never operated (according to MENRS notification)"
+      },
+      {
+        "name": "International University of Equador",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Université REMA de Ruyigi",
+        "type": "University",
+        "ownership": "Private",
+        "website": "",
+        "status": "Never operated (according to MENRS notification)"
+      },
+      {
+        "name": "Institut Supérieur des Techniques de Gestion (ISTG)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Contrôle de Gestion (ISCG)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": "",
+        "status": "No longer operating (according to MENRS notification)"
+      },
+      {
+        "name": "INITELEMATIQUE",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Technologies (IST)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Management (ISM)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d’Enseignement Technique (ISET)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Gestion et d’Informatique (ISGI)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut International Libre d’Afrique (INILAQUE)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": "",
+        "status": "Restricted from first-year enrollment (according to MENRS notification)"
+      },
+      {
+        "name": "Institut Supérieur de Développement (ISD)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire des Sciences de la Santé et du Développement Communautaire (IUSSDC)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain de Gestion des Risques Economiques et de Développement International (IAGREDI)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Supérieure des Sciences de la Santé de Kinindo",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Paramédical de Gitega",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d’Entrepreunariat du Burundi",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d’Entrepreneuriat et de Gestion de Kanyosha (ISEG)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "East African Leardership Institute « EALI » de Muyinga",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Gestion de Muzinda",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "SUMMIT International Institute",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire des Sciences de la Santé et du Développement (INUSSAD)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Islamique de Muyinga (ISIM)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Livingtone University College",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire des Lacs de Kirundo",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut du Ministère Evangélique de Nouvelle Vision du Christ (MENVC)",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": "",
+        "status": "Never operated (according to MENRS notification)"
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

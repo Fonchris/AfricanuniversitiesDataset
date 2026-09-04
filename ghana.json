@@ -1,0 +1,2214 @@
+{
+    "country":  "Ghana",
+    "universities":  {
+                         "federal":  [
+
+                                     ],
+                         "state":  [
+                                       {
+                                           "name":  "Accra School of Hygiene, Korle-Bu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Korle-Bu",
+                                           "startDate":  "01-04-2023",
+                                           "endDate":  "31-03-2026"
+                                       },
+                                       {
+                                           "name":  "Adventist College of Health Sciences",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Akyem Batabi",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Assinman Nursing and Midwifrey Training College, Assin Fosu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Assin Fosu",
+                                           "startDate":  "01-12-2023",
+                                           "endDate":  "30-11-2028"
+                                       },
+                                       {
+                                           "name":  "Bibiani College of Health Sciences",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Bibiani",
+                                           "startDate":  "01-04-2022",
+                                           "endDate":  "31-03-2027"
+                                       },
+                                       {
+                                           "name":  "College of Community Health Nursing, Winneba",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Winneba",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-12-2029"
+                                       },
+                                       {
+                                           "name":  "College of Health and Well-Being",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kintampo",
+                                           "startDate":  "01-06-2025",
+                                           "endDate":  "31-05-2030"
+                                       },
+                                       {
+                                           "name":  "College of Health, Sefwi Asafo",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Sefwi Asafo",
+                                           "startDate":  "01-10-2024",
+                                           "endDate":  "30-09-2029"
+                                       },
+                                       {
+                                           "name":  "College of Health, Yamfo",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Yamfo",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "College of Nursing and Midwifery, Kubori",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kubori",
+                                           "startDate":  "01-01-2025",
+                                           "endDate":  "31-12-2027"
+                                       },
+                                       {
+                                           "name":  "College of Nursing and Midwifery, Sampa",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Sampa",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-08-2030"
+                                       },
+                                       {
+                                           "name":  "College of Nursing and Midwifery, Walewale",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Walewale",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "College of Nursing, Ntotroso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Ntotroso",
+                                           "startDate":  "12-07-2024",
+                                           "endDate":  "11-07-2029"
+                                       },
+                                       {
+                                           "name":  "Community Health Nurses Training College, Tamale",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Tamale",
+                                           "startDate":  "01-06-2024",
+                                           "endDate":  "31-05-2027"
+                                       },
+                                       {
+                                           "name":  "Community Health Nurses Training School, Navrongo",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Navrongo",
+                                           "startDate":  "12-10-2020",
+                                           "endDate":  "11-10-2023"
+                                       },
+                                       {
+                                           "name":  "Community Health Nursing and Midwifery Training College, Tanoso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Tanoso",
+                                           "startDate":  "01-04-2023",
+                                           "endDate":  "31-03-2026"
+                                       },
+                                       {
+                                           "name":  "Community Health Nursing Training School, Akim Oda",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Akim Oda",
+                                           "startDate":  "01-10-2019",
+                                           "endDate":  "30-09-2022"
+                                       },
+                                       {
+                                           "name":  "Ear, Nose and Throat Nursing Training School",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "KUm",
+                                           "startDate":  "20-09-2022",
+                                           "endDate":  "19-09-2025"
+                                       },
+                                       {
+                                           "name":  "Ghana Armed Forces College of Nursing and Midwifery",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "37",
+                                           "startDate":  "01-09-2020",
+                                           "endDate":  "31-08-2025"
+                                       },
+                                       {
+                                           "name":  "Holy Family Nurses and Midwifery Training College, Berekum",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Berekum",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Holy Family Nurses and Midwifery Training College, Drobo",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Drobo",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Holy Family Nurses Training College, Nkawkaw",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Nkawkaw",
+                                           "startDate":  "01-07-2024",
+                                           "endDate":  "31-03-2028"
+                                       },
+                                       {
+                                           "name":  "Holy Family Nursing and Midwifery Training College, Kenten-Techiman",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kenten-Techiman",
+                                           "startDate":  "22-07-2021",
+                                           "endDate":  "21-07-2026"
+                                       },
+                                       {
+                                           "name":  "Kokofu Nursing Training College",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kokofu",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Margret Marquart Catholic Nurses Training College",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kpando",
+                                           "startDate":  "01-01-2020",
+                                           "endDate":  "31-12-2022"
+                                       },
+                                       {
+                                           "name":  "Methodist Health Training Institute, Afosu (Nursing and Midwifery Training College, Afosu)",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "AKYEM AFOSU",
+                                           "startDate":  "01-04-2021",
+                                           "endDate":  "31-03-2026"
+                                       },
+                                       {
+                                           "name":  "Midwifery Training College, Bolgatanga",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Bolgatanga",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Midwifery Training College, Tumu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Tumu",
+                                           "startDate":  "01-01-2021",
+                                           "endDate":  "31-12-2025"
+                                       },
+                                       {
+                                           "name":  "Nurses and Midwives Training College, Tamale",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Tamale",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-08-2030"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Adansi-Fomena",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Adansi-Fomena",
+                                           "startDate":  "01-07-2022",
+                                           "endDate":  "30-06-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Agogo",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Agogo",
+                                           "startDate":  "01-07-2023",
+                                           "endDate":  "30-06-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Asankrangwa",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Asankrangwa",
+                                           "startDate":  "01-09-2020",
+                                           "endDate":  "31-08-2025"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Atibie Kwahu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Atibie Kwahu",
+                                           "startDate":  "01-06-2025",
+                                           "endDate":  "30-06-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Bole",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Bole",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Cape Coast",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Cape Coast",
+                                           "startDate":  "11-05-2020",
+                                           "endDate":  "10-05-2023"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Dadiesoaba",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Dadiesoaba",
+                                           "startDate":  "17-12-2020",
+                                           "endDate":  "16-12-2025"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Damongo",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "",
+                                           "startDate":  "12-10-2023",
+                                           "endDate":  "11-10-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Dunkwa-on-Offin",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Dunkwa-on-Offin",
+                                           "startDate":  "01-01-2025",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Goaso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Goaso",
+                                           "startDate":  "17-12-2021",
+                                           "endDate":  "16-12-2026"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Hohoe",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Hohoe",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College KATH, Kumasi",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kumasi",
+                                           "startDate":  "01-01-2021",
+                                           "endDate":  "31-12-2025"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Koforidua",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Koforidua",
+                                           "startDate":  "07-01-2024",
+                                           "endDate":  "06-01-2029"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Korle Bu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Korle Bu",
+                                           "startDate":  "01-10-2022",
+                                           "endDate":  "30-09-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Kpembe",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kpembe",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Mampong Ashanti",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Mampong Ashanti",
+                                           "startDate":  "01-01-2025",
+                                           "endDate":  "11-10-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Nandom",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Nandom",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Odumase Krobo",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Odumase Krobo",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Seikwa",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Seikwa",
+                                           "startDate":  "17-12-2021",
+                                           "endDate":  "16-12-2026"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Sekondi",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Sekondi",
+                                           "startDate":  "01-04-2023",
+                                           "endDate":  "31-03-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Sunyani",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Sunyani",
+                                           "startDate":  "01-12-2024",
+                                           "endDate":  "30-11-2029"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Tarkwa",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Tarkwa",
+                                           "startDate":  "01-10-2021",
+                                           "endDate":  "30-09-2026"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Tepa",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Tepa",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Teshie",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Teshie",
+                                           "startDate":  "01-04-2022",
+                                           "endDate":  "31-03-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Twifo Praso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Twifo Praso",
+                                           "startDate":  "17-12-2021",
+                                           "endDate":  "16-12-2026"
+                                       },
+                                       {
+                                           "name":  "Nursing and Midwifery Training College, Yeji",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Yeji",
+                                           "startDate":  "20-09-2022",
+                                           "endDate":  "19-09-2025"
+                                       },
+                                       {
+                                           "name":  "Nursing And Midwifery Training College, Zuarungu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Zuarungu",
+                                           "startDate":  "01-01-2025",
+                                           "endDate":  "31-12-2027"
+                                       },
+                                       {
+                                           "name":  "Nursing Training College, Bolgatanga",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Bolgatanga",
+                                           "startDate":  "01-09-2025",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing Training College, Ho",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Ho",
+                                           "startDate":  "01-10-2024",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing Training College, Kwapong",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kwapong",
+                                           "startDate":  "17-12-2018",
+                                           "endDate":  "16-12-2021"
+                                       },
+                                       {
+                                           "name":  "Nursing Training College, Lawra",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Lawra",
+                                           "startDate":  "01-07-2021",
+                                           "endDate":  "30-06-2026"
+                                       },
+                                       {
+                                           "name":  "Nursing Training College, Pantang",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Pantang",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing Training College, Sefwi Wiawso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Sefwi Wiawso",
+                                           "startDate":  "12-10-2023",
+                                           "endDate":  "11-10-2028"
+                                       },
+                                       {
+                                           "name":  "Nursing Training College, Wa",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Wa",
+                                           "startDate":  "27-08-2022",
+                                           "endDate":  "26-08-2027"
+                                       },
+                                       {
+                                           "name":  "Nursinig and Midwifery Training college, Keta",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Keta",
+                                           "startDate":  "01-08-2023",
+                                           "endDate":  "31-07-2028"
+                                       },
+                                       {
+                                           "name":  "Nursinig and Midwifery Training college, Kete-Krachi",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kete-Krachi",
+                                           "startDate":  "01-08-2023",
+                                           "endDate":  "31-07-2028"
+                                       },
+                                       {
+                                           "name":  "Nusing and Midwifery Training School, Gushegu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Gushegu",
+                                           "startDate":  "01-04-2022",
+                                           "endDate":  "31-03-2027"
+                                       },
+                                       {
+                                           "name":  "Presbyterian Midwifery Training College, Duayaw-Nkwanta",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Duayaw-Nkwanta",
+                                           "startDate":  "01-01-2026",
+                                           "endDate":  "31-12-2030"
+                                       },
+                                       {
+                                           "name":  "Presbyterian Nursing and Midwifery Training College, Bawku",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Bawku",
+                                           "startDate":  "01-08-2020",
+                                           "endDate":  "31-07-2023"
+                                       },
+                                       {
+                                           "name":  "Presbyterian Nursing and Midwifery Training College, Dormaa Ahenkro",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Dormaa Ahenkro",
+                                           "startDate":  "01-07-2022",
+                                           "endDate":  "30-06-2027"
+                                       },
+                                       {
+                                           "name":  "Psychiatric Nurses Training College, Ankaful",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Ankaful",
+                                           "startDate":  "01-04-2023",
+                                           "endDate":  "31-03-2028"
+                                       },
+                                       {
+                                           "name":  "Public Health Nurses\u0027 School, Korle-Bu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "KORLE-BU, ACCRA",
+                                           "startDate":  "01-12-2023",
+                                           "endDate":  "30-11-2028"
+                                       },
+                                       {
+                                           "name":  "Saviour Church Nursing and Midwifery Training College",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Osiem",
+                                           "startDate":  "11-05-2023",
+                                           "endDate":  "10-05-2028"
+                                       },
+                                       {
+                                           "name":  "School of Anaesthesia, 37 Military Hospital",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Accra",
+                                           "startDate":  "01-01-2022",
+                                           "endDate":  "31-12-2024"
+                                       },
+                                       {
+                                           "name":  "School of Anaesthesia and Critical Care, Ridge Accra",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Ridge, Accra",
+                                           "startDate":  "01-01-2022",
+                                           "endDate":  "31-12-2027"
+                                       },
+                                       {
+                                           "name":  "School of Peri-Operative and Critical Care Nursing",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Korle Bu, Accra",
+                                           "startDate":  "01-06-2023",
+                                           "endDate":  "31-05-2026"
+                                       },
+                                       {
+                                           "name":  "SDA College of Health, Barekese",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Barekese",
+                                           "startDate":  "01-01-2025",
+                                           "endDate":  "31-12-2027"
+                                       },
+                                       {
+                                           "name":  "SDA College of Nursing and Midwifery, Anyinasu",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "",
+                                           "startDate":  "01-01-2025",
+                                           "endDate":  "31-12-2027"
+                                       },
+                                       {
+                                           "name":  "SDA Midwifery/Health Assistant Training School, Axim-Asanta",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Axim-Asanta",
+                                           "startDate":  "17-12-2021",
+                                           "endDate":  "16-12-2026"
+                                       },
+                                       {
+                                           "name":  "SDA Nursing and Midwifery Training College, Agona-Asamang",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Agona-Asamang",
+                                           "startDate":  "01-04-2021",
+                                           "endDate":  "31-03-2026"
+                                       },
+                                       {
+                                           "name":  "SDA Nursing and Midwifery Training College, Kwadaso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Kwadaso",
+                                           "startDate":  "03-10-2014",
+                                           "endDate":  "02-10-2029"
+                                       },
+                                       {
+                                           "name":  "St. John of God College of Health, Duayaw Nkwanta",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Duayaw Nkwanta",
+                                           "startDate":  "15-12-2025",
+                                           "endDate":  "14-12-2028"
+                                       },
+                                       {
+                                           "name":  "St. Michael Nursing and Midwifery Training College, Jaachie Pramso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Jaachie Pramso",
+                                           "startDate":  "12-10-2023",
+                                           "endDate":  "11-10-2028"
+                                       },
+                                       {
+                                           "name":  "St. Patrick\u0027s Nursing and Midwifery Training College, Maase Offinso",
+                                           "type":  "Public Nurses/Health Training College",
+                                           "location":  "Maase Offinso",
+                                           "startDate":  "17-12-2021",
+                                           "endDate":  "16-12-2026"
+                                       },
+                                       {
+                                           "name":  "Abetifi College of Education, Abetifi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Abetifi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Accra College of Education, Accra",
+                                           "type":  "Public College of Education",
+                                           "location":  "Accra",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Ada College of Education, Ada",
+                                           "type":  "Public College of Education",
+                                           "location":  "Ada",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Agogo Presbyterian College of Education, Agogo",
+                                           "type":  "Public College of Education",
+                                           "location":  "Agogo",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Akatsi College of Education, Akatsi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Akatsi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Akrokerri College of Education, Akrokerri",
+                                           "type":  "Public College of Education",
+                                           "location":  "Akrokerri",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Al-Faruq College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Wenchi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Atebubu College of Education, Atebubu",
+                                           "type":  "Public College of Education",
+                                           "location":  "Atebubu",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Bagabaga College of Education, Bagabaga",
+                                           "type":  "Public College of Education",
+                                           "location":  "Bagabaga",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Berekum College of Education, Berekum",
+                                           "type":  "Public College of Education",
+                                           "location":  "Brekum",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "BIA Lamplighter College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Sefwi Debiso",
+                                           "startDate":  "01-10-2026",
+                                           "endDate":  "30-09-2031"
+                                       },
+                                       {
+                                           "name":  "Christ The Teacher College of Education, Kumasi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Kumasi",
+                                           "startDate":  "12-07-2024",
+                                           "endDate":  "11-07-2029"
+                                       },
+                                       {
+                                           "name":  "Dambai College of Education, Dambai",
+                                           "type":  "Public College of Education",
+                                           "location":  "Dambai",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Enchi College of Education, Enchi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Enchi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "E.P College of Education, Amedzofe",
+                                           "type":  "Public College of Education",
+                                           "location":  "Amedzofe",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "E.P College of Education, Bimbilla",
+                                           "type":  "Public College of Education",
+                                           "location":  "Bimbilla",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Fosu College of Education, Assin Fosu",
+                                           "type":  "Public College of Education",
+                                           "location":  "Foso",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Gambaga College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Gambaga",
+                                           "startDate":  "01-09-2021",
+                                           "endDate":  "31-08-2026"
+                                       },
+                                       {
+                                           "name":  "Gbewaa College of Education, Gbewaa",
+                                           "type":  "Public College of Education",
+                                           "location":  "Pusiga-Bawku",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Ghana Muslim Mission College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Beposo",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2026"
+                                       },
+                                       {
+                                           "name":  "Holy Child College of Education, Takoradi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Takoradi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Jasikan College of Education, Jasikan",
+                                           "type":  "Public College of Education",
+                                           "location":  "Jasikan",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Kibi College of Education, Kibi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Kibi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Komenda College of Education , Komenda",
+                                           "type":  "Public College of Education",
+                                           "location":  "Komenda",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Mampong Technical College of Education, Ashanti Mampong",
+                                           "type":  "Public College of Education",
+                                           "location":  "Mampong",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "McCoy College Of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Nadowli",
+                                           "startDate":  "01-09-2022",
+                                           "endDate":  "31-08-2027"
+                                       },
+                                       {
+                                           "name":  "Methodist College of Education, Asene - Oda",
+                                           "type":  "Public College of Education",
+                                           "location":  "Asene-Oda",
+                                           "startDate":  "01-09-2026",
+                                           "endDate":  "31-08-2031"
+                                       },
+                                       {
+                                           "name":  "Mount Mary College of Education, Somanya",
+                                           "type":  "Public College of Education",
+                                           "location":  "Somanya",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "N. J. Ahmadiyya College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Wa",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Offinso College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Offinso",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "OLA College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Cape Coast",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Peki College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Peki",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Presbyterian College of Education, Akropong- Akuapem",
+                                           "type":  "Public College of Education",
+                                           "location":  "Akropong- Akuapem",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Presbyterian Women\u0027s College of Education, Aburi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Aburi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Savannah College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Daboya",
+                                           "startDate":  "01-10-2024",
+                                           "endDate":  "30-09-2027"
+                                       },
+                                       {
+                                           "name":  "SDA College of Education, Agona-Ashanti",
+                                           "type":  "Public College of Education",
+                                           "location":  "Agona-Ashanti",
+                                           "startDate":  "01-06-2025",
+                                           "endDate":  "31-05-2030"
+                                       },
+                                       {
+                                           "name":  "SDA College of Education, Asokore Koforidua",
+                                           "type":  "Public College of Education",
+                                           "location":  "Asokore-Koforidua",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. Ambrose College of Education, Dormaa Akwamu",
+                                           "type":  "Public College of Education",
+                                           "location":  "Dormaa Akwamu",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. Francis College of Education, Hohoe",
+                                           "type":  "Public College of Education",
+                                           "location":  "Hohoe",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. John Bosco College of Education, Navrongo",
+                                           "type":  "Public College of Education",
+                                           "location":  "Navrongo",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. Joseph\u0027s College of Education, Bechem",
+                                           "type":  "Public College of Education",
+                                           "location":  "Bechem",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. Louis College of Education, Kumasi",
+                                           "type":  "Public College of Education",
+                                           "location":  "Kumasi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. Monica\u0027s College of Education, Ashanti Mampong",
+                                           "type":  "Public College of Education",
+                                           "location":  "Ashanti Mampong",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. Teresa\u0027s College of Education, Hohoe",
+                                           "type":  "Public College of Education",
+                                           "location":  "Hohoe",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "St. Vincent College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Yendi",
+                                           "startDate":  "01-06-2025",
+                                           "endDate":  "31-05-2030"
+                                       },
+                                       {
+                                           "name":  "Tamale College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Tamale",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Tumu College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Tumu",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Wesley College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Kumasi",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Wiawso College of Education",
+                                           "type":  "Public College of Education",
+                                           "location":  "Wiawso",
+                                           "startDate":  "01-09-2023",
+                                           "endDate":  "31-08-2028"
+                                       },
+                                       {
+                                           "name":  "Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development",
+                                           "type":  "Traditional University",
+                                           "location":  "Kumasi",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "C.K. Tedam University of Technology and Applied Sciences",
+                                           "type":  "Traditional University",
+                                           "location":  "NAVRONGO",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Ghana Communication Technology University",
+                                           "type":  "Traditional University",
+                                           "location":  "Tesano",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Ghana Institute of Management and Public Administration",
+                                           "type":  "Traditional University",
+                                           "location":  "Achimota",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Kwame Nkrumah University of Science and Technology",
+                                           "type":  "Traditional University",
+                                           "location":  "Kumasi",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "S.D. Dombo University of Business and Integrated Development Studies",
+                                           "type":  "Traditional University",
+                                           "location":  "Wa",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University for Development Studies",
+                                           "type":  "Traditional University",
+                                           "location":  "Tamale",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Cape Coast",
+                                           "type":  "Traditional University",
+                                           "location":  "Cape Coast",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Education, Winneba",
+                                           "type":  "Traditional University",
+                                           "location":  "South Campus, Winneba",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Energy and Natural Resources",
+                                           "type":  "Traditional University",
+                                           "location":  "",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Environment and Sustainable Development",
+                                           "type":  "Traditional University",
+                                           "location":  "Somanya",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Ghana",
+                                           "type":  "Traditional University",
+                                           "location":  "Legon",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Health and Allied Science",
+                                           "type":  "Traditional University",
+                                           "location":  "HO",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Media, Arts and Communication",
+                                           "type":  "Traditional University",
+                                           "location":  "No. 5 Alboran Street, South Legon-Accra",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Mines and Technology",
+                                           "type":  "Traditional University",
+                                           "location":  "Tarkwa",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "University of Professional Studies, Accra",
+                                           "type":  "Traditional University",
+                                           "location":  "Legon",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Accra Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "P. O. Box GP 561, Barnes Road, Accra",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Bolgatanga Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Bolgatanga",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Cape Coast Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Cape Coast, Central Region",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Dr. Hilla Limann Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Wa",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Ho Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Ho",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Koforidua Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Koforidua",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Kumasi Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Amakom-Kumasi",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Sunyani Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Sunyani",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Takoradi Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Takoradi",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Tamale Technical University",
+                                           "type":  "Public Technical University",
+                                           "location":  "Tamale",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Ghana Armed Forces Command and Staff College",
+                                           "type":  "Public Degree Awarding and Professional Institution",
+                                           "location":  "Burma Camp, Accra",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       },
+                                       {
+                                           "name":  "Ghana School of Survey and Mapping",
+                                           "type":  "Public Degree Awarding and Professional Institution",
+                                           "location":  "Accra",
+                                           "startDate":  "01-01-2006",
+                                           "endDate":  "31-12-2008"
+                                       },
+                                       {
+                                           "name":  "Institute of Local Government Studies",
+                                           "type":  "Public Degree Awarding and Professional Institution",
+                                           "location":  "Ogbodjo",
+                                           "startDate":  "01-12-2013",
+                                           "endDate":  "30-11-2018"
+                                       },
+                                       {
+                                           "name":  "Kofi Annan International Peace Keeping Training Centre",
+                                           "type":  "Public Degree Awarding and Professional Institution",
+                                           "location":  "Teshie",
+                                           "startDate":  "20-09-2022",
+                                           "endDate":  "19-09-2025"
+                                       },
+                                       {
+                                           "name":  "Rural Development College",
+                                           "type":  "Public Degree Awarding and Professional Institution",
+                                           "location":  "Kwaso",
+                                           "startDate":  "01-04-2021",
+                                           "endDate":  "31-03-2024"
+                                       },
+                                       {
+                                           "name":  "Regional Maritime University",
+                                           "type":  "Regionally-Owned (West Africa) Tertiary Institution",
+                                           "location":  "Accra",
+                                           "startDate":  "—",
+                                           "endDate":  "—"
+                                       }
+                                   ],
+                         "private":  [
+                                         {
+                                             "name":  "Accra College of Medicine",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "23-11-2023",
+                                             "endDate":  "22-11-2028"
+                                         },
+                                         {
+                                             "name":  "Accra Institute of Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kasoa and Kokomlemle",
+                                             "startDate":  "01-09-2022",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Advance Global University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Tamale",
+                                             "startDate":  "12-10-2023",
+                                             "endDate":  "11-10-2028"
+                                         },
+                                         {
+                                             "name":  "African Institute for Mathematical Sciences (AIMS) Ghana",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "1 Shoppers Street, Manet, Spintex, Accra",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2030"
+                                         },
+                                         {
+                                             "name":  "Akim State College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Akim Oda",
+                                             "startDate":  "01-04-2023",
+                                             "endDate":  "31-03-2028"
+                                         },
+                                         {
+                                             "name":  "Amen College of Health Sciences",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-04-2024",
+                                             "endDate":  "31-03-2029"
+                                         },
+                                         {
+                                             "name":  "Anglican University College of Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi and Nkoranza",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2028"
+                                         },
+                                         {
+                                             "name":  "Apex University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-12-2023",
+                                             "endDate":  "30-11-2028"
+                                         },
+                                         {
+                                             "name":  "Apostolic Church Theological Seminary",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-01-2025",
+                                             "endDate":  "31-12-2027"
+                                         },
+                                         {
+                                             "name":  "Baldwin College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Osu",
+                                             "startDate":  "01-09-2022",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Bluecrest College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2022",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Botho University, Ghana Campus",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "East Legon",
+                                             "startDate":  "01-06-2023",
+                                             "endDate":  "31-05-2026"
+                                         },
+                                         {
+                                             "name":  "Bunso Cocoa College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Bunso",
+                                             "startDate":  "01-04-2025",
+                                             "endDate":  "31-03-2030"
+                                         },
+                                         {
+                                             "name":  "Carest University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Hohoe",
+                                             "startDate":  "01-10-2025",
+                                             "endDate":  "30-09-2028"
+                                         },
+                                         {
+                                             "name":  "Catholic Institute of Business Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2019",
+                                             "endDate":  "31-08-2024"
+                                         },
+                                         {
+                                             "name":  "Central College of Science and Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Agona Swedru",
+                                             "startDate":  "01-01-2026",
+                                             "endDate":  "31-03-2029"
+                                         },
+                                         {
+                                             "name":  "China Europe International Business School (Africa Campus)",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "30-08-2026"
+                                         },
+                                         {
+                                             "name":  "Christ Apostolic University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-01-2022",
+                                             "endDate":  "31-12-2026"
+                                         },
+                                         {
+                                             "name":  "College for Community and Organizational Development",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Sunyani",
+                                             "startDate":  "15-12-2025",
+                                             "endDate":  "14-12-2028"
+                                         },
+                                         {
+                                             "name":  "College of Integrated Healthcare",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Obuasi",
+                                             "startDate":  "01-07-2019",
+                                             "endDate":  "30-06-2024"
+                                         },
+                                         {
+                                             "name":  "College of Islamic Studies",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Madina - Accra",
+                                             "startDate":  "01-06-2025",
+                                             "endDate":  "31-05-2028"
+                                         },
+                                         {
+                                             "name":  "College of Medicine and Allied Sciences",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "North Legon",
+                                             "startDate":  "20-09-2025",
+                                             "endDate":  "19-09-2030"
+                                         },
+                                         {
+                                             "name":  "CSIR College of Science and Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "14-09-2028"
+                                         },
+                                         {
+                                             "name":  "Data Link Institute of Business and Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Tema",
+                                             "startDate":  "01-01-2025",
+                                             "endDate":  "31-12-2029"
+                                         },
+                                         {
+                                             "name":  "Delexes University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Dawhenya",
+                                             "startDate":  "01-01-2026",
+                                             "endDate":  "31-12-2028"
+                                         },
+                                         {
+                                             "name":  "DHI College of Health and Education, Kumasi",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-12-2029"
+                                         },
+                                         {
+                                             "name":  "Duffuor University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-04-2024",
+                                             "endDate":  "31-03-2027"
+                                         },
+                                         {
+                                             "name":  "Entrepreneurship Training Institute",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2023",
+                                             "endDate":  "31-08-2028"
+                                         },
+                                         {
+                                             "name":  "Evangelical Presbyterian University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Ho",
+                                             "startDate":  "07-01-2024",
+                                             "endDate":  "06-01-2029"
+                                         },
+                                         {
+                                             "name":  "Fanaka International University College, Accra",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-06-2025",
+                                             "endDate":  "31-05-2028"
+                                         },
+                                         {
+                                             "name":  "Flosam Institute of Nursing and Allied Health Sciences, Suhum",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Suhum",
+                                             "startDate":  "12-10-2023",
+                                             "endDate":  "11-10-2028"
+                                         },
+                                         {
+                                             "name":  "Fountainhead Christian University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Tema",
+                                             "startDate":  "01-01-2022",
+                                             "endDate":  "31-12-2026"
+                                         },
+                                         {
+                                             "name":  "Ghana Baptist University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-09-2026",
+                                             "endDate":  "31-08-2031"
+                                         },
+                                         {
+                                             "name":  "Ghana Christian University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Amrahia",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2028"
+                                         },
+                                         {
+                                             "name":  "Ghana Insurance College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "Global Theological Seminary, Adenta-Accra",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Adenta",
+                                             "startDate":  "01-01-2024",
+                                             "endDate":  "31-12-2026"
+                                         },
+                                         {
+                                             "name":  "GNAT Institute for Research and Industrial Relations Studies",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Abankro – Ejisu Ashanti Region",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2028"
+                                         },
+                                         {
+                                             "name":  "Good News Theological Seminary",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Oyibi",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "Greenfield University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Sunyani",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-12-2029"
+                                         },
+                                         {
+                                             "name":  "Health Access Institute",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Haatso Papao",
+                                             "startDate":  "11-09-2020",
+                                             "endDate":  "10-09-2025"
+                                         },
+                                         {
+                                             "name":  "High Skies College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Tema",
+                                             "startDate":  "09-08-2024",
+                                             "endDate":  "08-08-2029"
+                                         },
+                                         {
+                                             "name":  "Holy Eucharist University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Half Assini",
+                                             "startDate":  "01-04-2024",
+                                             "endDate":  "31-03-2027"
+                                         },
+                                         {
+                                             "name":  "ILMA Institute of Science and Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "East Legon",
+                                             "startDate":  "01-04-2019",
+                                             "endDate":  "31-03-2022"
+                                         },
+                                         {
+                                             "name":  "Institute for Security, Disaster and Emergency Studies (ISDES)",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kokrobite",
+                                             "startDate":  "27-08-2022",
+                                             "endDate":  "26-08-2027"
+                                         },
+                                         {
+                                             "name":  "Institute of Development and Technology Management",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Cape Coast",
+                                             "startDate":  "01-09-2024",
+                                             "endDate":  "31-08-2029"
+                                         },
+                                         {
+                                             "name":  "Islamic University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Adjiriganor",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "JACCD Design Institute Africa",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "Jackson University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Ayeduase New Site, Kumasi",
+                                             "startDate":  "01-04-2024",
+                                             "endDate":  "03-01-2029"
+                                         },
+                                         {
+                                             "name":  "Jayee University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Osu",
+                                             "startDate":  "01-07-2025",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Justking College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Sefwi",
+                                             "startDate":  "01-01-2026",
+                                             "endDate":  "31-12-2030"
+                                         },
+                                         {
+                                             "name":  "Kessben University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-09-2022",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Kings and Queens Medical College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Akosombo",
+                                             "startDate":  "09-08-2021",
+                                             "endDate":  "08-08-2024"
+                                         },
+                                         {
+                                             "name":  "Kings University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2022",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Klintaps College of Health and Allied Sciences",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Klagon-Tema",
+                                             "startDate":  "27-08-2022",
+                                             "endDate":  "26-08-2027"
+                                         },
+                                         {
+                                             "name":  "Lakeside University College, Ghana",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-07-2019",
+                                             "endDate":  "30-06-2024"
+                                         },
+                                         {
+                                             "name":  "Lancaster University",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Tantra Hill",
+                                             "startDate":  "01-09-2026",
+                                             "endDate":  "31-08-2031"
+                                         },
+                                         {
+                                             "name":  "Maranatha University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Sowutuom",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "Marshalls College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Korle-Bu",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2030"
+                                         },
+                                         {
+                                             "name":  "Medicare College of Applied Sciences",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-10-2024",
+                                             "endDate":  "30-09-2029"
+                                         },
+                                         {
+                                             "name":  "Miezah University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "12-10-2023",
+                                             "endDate":  "11-10-2028"
+                                         },
+                                         {
+                                             "name":  "Millar Institute of Transdisciplinary And Development Studies",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Bolgatanga",
+                                             "startDate":  "01-12-2024",
+                                             "endDate":  "30-11-2029"
+                                         },
+                                         {
+                                             "name":  "Modal College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Sogakope",
+                                             "startDate":  "01-01-2021",
+                                             "endDate":  "31-12-2025"
+                                         },
+                                         {
+                                             "name":  "Mountcrest University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kanda",
+                                             "startDate":  "01-01-2022",
+                                             "endDate":  "31-12-2026"
+                                         },
+                                         {
+                                             "name":  "Mountvielle International University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-04-2023",
+                                             "endDate":  "31-03-2026"
+                                         },
+                                         {
+                                             "name":  "Mumford Institute of Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Adenta",
+                                             "startDate":  "09-08-2021",
+                                             "endDate":  "08-08-2024"
+                                         },
+                                         {
+                                             "name":  "National Defence University",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "20-09-2025",
+                                             "endDate":  "19-09-2030"
+                                         },
+                                         {
+                                             "name":  "Nduom School of Business and Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Elmina",
+                                             "startDate":  "02-10-2025",
+                                             "endDate":  "01-10-2030"
+                                         },
+                                         {
+                                             "name":  "Neumann College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "15-08-2024",
+                                             "endDate":  "14-08-2029"
+                                         },
+                                         {
+                                             "name":  "New Life College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Tamale",
+                                             "startDate":  "01-12-2024",
+                                             "endDate":  "30-11-2029"
+                                         },
+                                         {
+                                             "name":  "Nyansapo College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Adjiringanor",
+                                             "startDate":  "15-08-2024",
+                                             "endDate":  "14-08-2029"
+                                         },
+                                         {
+                                             "name":  "Oheneba-Dornyo University College of Counselling Psychology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Haatso-Atomic Road Accra, Ghana",
+                                             "startDate":  "01-07-2024",
+                                             "endDate":  "30-06-2027"
+                                         },
+                                         {
+                                             "name":  "Organization Development (OD) Institute",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kwabenya",
+                                             "startDate":  "01-07-2023",
+                                             "endDate":  "30-06-2028"
+                                         },
+                                         {
+                                             "name":  "OTEC School of Journalism and Communication Studies",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-01-2024",
+                                             "endDate":  "31-12-2026"
+                                         },
+                                         {
+                                             "name":  "Palm University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Manya Jorpanya - Shai Hills",
+                                             "startDate":  "29-05-2023",
+                                             "endDate":  "28-05-2028"
+                                         },
+                                         {
+                                             "name":  "Perez University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Pomadze-Winneba",
+                                             "startDate":  "01-09-2024",
+                                             "endDate":  "31-08-2029"
+                                         },
+                                         {
+                                             "name":  "Pharmatrust Professional College, Accra",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "12-10-2023",
+                                             "endDate":  "11-10-2028"
+                                         },
+                                         {
+                                             "name":  "Radford University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "East Legon",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-12-2028"
+                                         },
+                                         {
+                                             "name":  "Redeemer College of Health",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Tarkwa",
+                                             "startDate":  "01-04-2026",
+                                             "endDate":  "31-03-2029"
+                                         },
+                                         {
+                                             "name":  "Regentropfen University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kansoe-Bongo",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "14-08-2029"
+                                         },
+                                         {
+                                             "name":  "Regent University College of Science and Technology",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Dansoman",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "River View College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Weija",
+                                             "startDate":  "20-09-2022",
+                                             "endDate":  "19-09-2025"
+                                         },
+                                         {
+                                             "name":  "Rosebank International University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2028"
+                                         },
+                                         {
+                                             "name":  "SALT University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2028"
+                                         },
+                                         {
+                                             "name":  "School of Social Work",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Osu",
+                                             "startDate":  "01-10-2024",
+                                             "endDate":  "30-09-2027"
+                                         },
+                                         {
+                                             "name":  "SIIMT University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "20-04-2026",
+                                             "endDate":  "19-04-2029"
+                                         },
+                                         {
+                                             "name":  "Southshore University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Spintex",
+                                             "startDate":  "01-01-2026",
+                                             "endDate":  "31-03-2029"
+                                         },
+                                         {
+                                             "name":  "Spiritan University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Ejisu",
+                                             "startDate":  "01-01-2025",
+                                             "endDate":  "31-12-2027"
+                                         },
+                                         {
+                                             "name":  "S S Peter and Paul Pastoral and Social Institute",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Wa",
+                                             "startDate":  "01-09-2016",
+                                             "endDate":  "31-08-2021"
+                                         },
+                                         {
+                                             "name":  "St. Mary\u0027s College of Health Science",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Spintex Road, Accra",
+                                             "startDate":  "01-10-2024",
+                                             "endDate":  "30-09-2029"
+                                         },
+                                         {
+                                             "name":  "Synergies Institute-Ghana",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Aketeyman",
+                                             "startDate":  "23-07-2018",
+                                             "endDate":  "22-07-2021"
+                                         },
+                                         {
+                                             "name":  "Techbridge University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Oyibi, Accra",
+                                             "startDate":  "01-12-2024",
+                                             "endDate":  "30-11-2029"
+                                         },
+                                         {
+                                             "name":  "Unique Citizens College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "North Legon, Accra",
+                                             "startDate":  "01-08-2020",
+                                             "endDate":  "31-07-2023"
+                                         },
+                                         {
+                                             "name":  "University College of Agriculture and Environmental Studies",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Bunsu",
+                                             "startDate":  "01-01-2014",
+                                             "endDate":  "31-12-2018"
+                                         },
+                                         {
+                                             "name":  "University College of Management Studies",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-04-2021",
+                                             "endDate":  "31-03-2026"
+                                         },
+                                         {
+                                             "name":  "Webster University, Ghana Campus",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "East Legon",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "West End University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Kasoa",
+                                             "startDate":  "01-02-2024",
+                                             "endDate":  "31-01-2029"
+                                         },
+                                         {
+                                             "name":  "Wisconsin International University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Accra",
+                                             "startDate":  "11-09-2025",
+                                             "endDate":  "10-09-2030"
+                                         },
+                                         {
+                                             "name":  "Zenith University College",
+                                             "type":  "Private Tertiary Institutions Offering HND/Degree Programmes",
+                                             "location":  "Trade Fair - La",
+                                             "startDate":  "04-12-2019",
+                                             "endDate":  "03-12-2024"
+                                         },
+                                         {
+                                             "name":  "Academic City University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Accra",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Accra Metropolitan University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Accra",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "African University of Communication and Business",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Accra",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Akrofi-Christaller Institute of Theology, Mission and Culture",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Akropong",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "All Nations University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Koforidua",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Ashesi University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Berekuso",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Catholic University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Fiapre-Sunyani",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Central University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "PL39. Devtraco Court, Community 25, Tema",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Christian Service University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Kumasi",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Ensign Global University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Kpong",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Entrance University of Health Sciences",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Spintex road",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Family Health University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Teshie-Accra",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Garden City University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Kumasi",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Heritage Christian University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Amasaman",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "KAAF University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Fetteh Kakraba (Main Campus) and Darkuman Campus",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "KNUTSFORD University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "East Legon and Kumasi",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Methodist University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Accra",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "NiBS University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "South Legon",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Pentecost University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Sowutuom",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Presbyterian University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Abetifi",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Thrivus University for Biomedical Science and Technology",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Lashibi",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Trinity Theological Seminary",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "East Legon",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "University of Gold Coast",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Spintex",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Valley View University",
+                                             "type":  "Chartered Private Tertiary Institution",
+                                             "location":  "Oyibi",
+                                             "startDate":  "—",
+                                             "endDate":  "—"
+                                         },
+                                         {
+                                             "name":  "Hopkins Health Training Institute, Oda",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Oda",
+                                             "startDate":  "15-08-2019",
+                                             "endDate":  "14-08-2024"
+                                         },
+                                         {
+                                             "name":  "Islamic Nursing Training School",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Kokrobite",
+                                             "startDate":  "01-01-2022",
+                                             "endDate":  "31-12-2024"
+                                         },
+                                         {
+                                             "name":  "Manaata School of Midwifery",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Kumasi",
+                                             "startDate":  "15-08-2016",
+                                             "endDate":  "14-08-2019"
+                                         },
+                                         {
+                                             "name":  "Martin Luther Health Training School, Kintampo",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "",
+                                             "startDate":  "01-04-2026",
+                                             "endDate":  "31-03-2029"
+                                         },
+                                         {
+                                             "name":  "Narh-Bita College",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Tema",
+                                             "startDate":  "01-09-2023",
+                                             "endDate":  "31-08-2028"
+                                         },
+                                         {
+                                             "name":  "Nightingale School of Nursing",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Adenta",
+                                             "startDate":  "01-09-2021",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "Oak City International College",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Madina",
+                                             "startDate":  "02-10-2020",
+                                             "endDate":  "01-10-2025"
+                                         },
+                                         {
+                                             "name":  "Potters College, School of Nursing",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Takoradi",
+                                             "startDate":  "27-08-2022",
+                                             "endDate":  "26-08-2027"
+                                         },
+                                         {
+                                             "name":  "Premier Nurses Training College",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-09-2025",
+                                             "endDate":  "31-08-2030"
+                                         },
+                                         {
+                                             "name":  "Rans-Elliot School of Nursing",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Koforidua",
+                                             "startDate":  "01-04-2021",
+                                             "endDate":  "31-03-2024"
+                                         },
+                                         {
+                                             "name":  "Royal Ann College of Health",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Atwima-Manhyia, Kumasi. Near Abuakwa. Off Kumasi-Sunyani Road",
+                                             "startDate":  "21-12-2023",
+                                             "endDate":  "20-12-2028"
+                                         },
+                                         {
+                                             "name":  "Royal Nursing College",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Kumasi",
+                                             "startDate":  "17-12-2018",
+                                             "endDate":  "16-12-2021"
+                                         },
+                                         {
+                                             "name":  "St. Karol School of Nursing",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Accra",
+                                             "startDate":  "15-09-2023",
+                                             "endDate":  "14-09-2028"
+                                         },
+                                         {
+                                             "name":  "St. Williams Nursing and Allied Health Sciences College, Wamfie",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Wamfie",
+                                             "startDate":  "01-07-2024",
+                                             "endDate":  "30-06-2027"
+                                         },
+                                         {
+                                             "name":  "Western Hills Schools of Nursing",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Accra",
+                                             "startDate":  "01-09-2020",
+                                             "endDate":  "20-02-2025"
+                                         },
+                                         {
+                                             "name":  "Withrow College",
+                                             "type":  "Private Nurses/Health Training College",
+                                             "location":  "Agona",
+                                             "startDate":  "01-07-2023",
+                                             "endDate":  "30-06-2028"
+                                         },
+                                         {
+                                             "name":  "Concord Business College",
+                                             "type":  "Tutorial College",
+                                             "location":  "Achimota",
+                                             "startDate":  "01-04-2024",
+                                             "endDate":  "31-03-2029"
+                                         },
+                                         {
+                                             "name":  "Institute of Business Management and Journalism (IBMJ)",
+                                             "type":  "Tutorial College",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-09-2019",
+                                             "endDate":  "31-08-2024"
+                                         },
+                                         {
+                                             "name":  "Mercia Business School",
+                                             "type":  "Tutorial College",
+                                             "location":  "Haatso, Accra",
+                                             "startDate":  "01-09-2023",
+                                             "endDate":  "31-08-2026"
+                                         },
+                                         {
+                                             "name":  "M-Gibes College of Business and Management",
+                                             "type":  "Tutorial College",
+                                             "location":  "Achimota",
+                                             "startDate":  "20-09-2025",
+                                             "endDate":  "19-09-2030"
+                                         },
+                                         {
+                                             "name":  "Pinnacle College",
+                                             "type":  "Tutorial College",
+                                             "location":  "Achimota",
+                                             "startDate":  "01-09-2022",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Holy Spirit College of Education",
+                                             "type":  "Private College of Education",
+                                             "location":  "Ho",
+                                             "startDate":  "01-09-2022",
+                                             "endDate":  "31-08-2027"
+                                         },
+                                         {
+                                             "name":  "Nsawkaw College of Education, Nsawkaw",
+                                             "type":  "Private College of Education",
+                                             "location":  "Nsawkaw",
+                                             "startDate":  "01-10-2024",
+                                             "endDate":  "30-09-2027"
+                                         },
+                                         {
+                                             "name":  "Archbishop Porter Girls\u0027 Polytechnic",
+                                             "type":  "Private Polytechnic",
+                                             "location":  "Elmina",
+                                             "startDate":  "01-04-2024",
+                                             "endDate":  "31-03-2029"
+                                         },
+                                         {
+                                             "name":  "Kwadaso College of Agriculture",
+                                             "type":  "College of Agriculture",
+                                             "location":  "Kumasi",
+                                             "startDate":  "01-09-2019",
+                                             "endDate":  "31-08-2024"
+                                         }
+                                     ],
+                         "transnational":  [
+                                               {
+                                                   "name":  "Business University of Costa Rica (Univeridad Empresarial de Costa Rica(UNEM) Costa Rica",
+                                                   "type":  "Registered Foreign Institution",
+                                                   "location":  "Kumasi",
+                                                   "startDate":  "01-09-2020",
+                                                   "endDate":  "31-08-2023"
+                                               },
+                                               {
+                                                   "name":  "Malaysia University of Science and Technology, Malaysia",
+                                                   "type":  "Registered Foreign Institution",
+                                                   "location":  "Off Adenta-Dodowa Main Road",
+                                                   "startDate":  "17-05-2024",
+                                                   "endDate":  "16-05-2029"
+                                               },
+                                               {
+                                                   "name":  "Open University of Malaysia (OUM)",
+                                                   "type":  "Registered Foreign Institution",
+                                                   "location":  "Accra",
+                                                   "startDate":  "01-09-2013",
+                                                   "endDate":  "31-08-2018"
+                                               }
+                                           ],
+                         "distanceLearning":  [
+                                                  {
+                                                      "name":  "University of Applied Management",
+                                                      "type":  "Distance Learning Institution",
+                                                      "location":  "Kwabenya",
+                                                      "startDate":  "01-06-2025",
+                                                      "endDate":  "31-05-2028"
+                                                  }
+                                              ]
+                     }
+}

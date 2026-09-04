@@ -1,0 +1,67 @@
+{
+  "country": "Eritrea",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Eritrea Institute of Technology",
+        "acronym": "EIT",
+        "type": "Public Higher Education Institute",
+        "location": "Mai Nefhi",
+        "website": "https://eit.edu.er/"
+      },
+      {
+        "name": "Adi-Keih College of Arts and Social Sciences",
+        "acronym": "CASS",
+        "type": "Public Higher Education College",
+        "location": "Adi Keih",
+        "website": ""
+      },
+      {
+        "name": "Asmara College of Health Sciences",
+        "acronym": "ACHS",
+        "type": "Public Higher Education College",
+        "location": "Asmara",
+        "website": ""
+      },
+      {
+        "name": "College of Marine Sciences and Technology",
+        "acronym": "COMSAT",
+        "type": "Public Higher Education College",
+        "location": "Massawa",
+        "website": ""
+      },
+      {
+        "name": "Halhale College of Business and Economics",
+        "acronym": "HCBE",
+        "type": "Public Higher Education College",
+        "location": "Halhale",
+        "website": ""
+      },
+      {
+        "name": "Hamelmalo Agricultural College",
+        "acronym": "HAC",
+        "type": "Public Higher Education College",
+        "location": "Hamelmalo",
+        "website": ""
+      },
+      {
+        "name": "Orotta School of Medicine and Dental Medicine",
+        "acronym": "OSM&DM",
+        "type": "Public Medical Higher Education Institution",
+        "location": "Asmara",
+        "website": ""
+      },
+      {
+        "name": "Asmara Community College",
+        "acronym": "",
+        "type": "Public Community / Professional College",
+        "location": "Asmara",
+        "website": ""
+      }
+    ],
+    "private": [],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "country": "Burkina Faso",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Universite Joseph Ki-Zerbo",
+        "type": "University",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Universite Ledea Bernard Ouedraogo",
+        "type": "University",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Universite Nazi Boni",
+        "type": "University",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Universite Nobert Zongo",
+        "type": "University",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Universite Thomas Sankara",
+        "type": "University",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Universite Yembila Abdoulaye Toguyeni",
+        "type": "University",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Ecole Normale Superieure",
+        "type": "Higher School / Grande École",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Centre Universitaire De Banfora",
+        "type": "University Centre",
+        "ownership": "Public",
+        "website": ""
+      },
+      {
+        "name": "Centre Universitaire De Dori",
+        "type": "University Centre",
+        "ownership": "Public",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Association Al Fourquan",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Center",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Hautes Etudes De Management Et D'Agropastorale",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Hautes Etudes Technologiques Et Commerciales",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "School Of Management",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Sup'Management-Maroc",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Umanis Business School",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universitaire De Gaoua",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universitaire De Kaya",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universitaire De Manga",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universitaire Polyvalent Du Burkina",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Boucle Du Institut Superieur Polytechnique Saint Augustin De Dedougou",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Building Capacity Institute De Recherche Panafricain En Management Pour Le Developpement",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Conservatoire National Des Arts Et Metiers-Cnam",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Fondation 2Ie",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain De Finance Islamique Et De Gestion",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain De Management",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain De Management/Hauts-Bassins",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain De Sante Publique",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain Des Industries Culturelles",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Anselme Titianma Sanon",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Barkeyinternational",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut De Formation Colbert",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut De Formation Et De Recherche En Economie Appliquee Thiombiano",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut De Formation Et De Recherche Interdisciplinaires En Sciences De La Sante Et De L'Education",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut De Gestion Des Risques Miniers Et Du Developpement Durable",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut De L'Economie Internationale",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut De Medecine Et Sciences Alliees",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Sciences Campus Du Centre ( Isc Centre) Ex Online Training",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Sciences De L'Entreprise Et De Management",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Sciences Et De L’Ingenierie",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Sciences Et Techniques",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Sciences Et Techniques De L'Information Documentaire",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Sciences Pour L' Entreprise Et La Gestion",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Sciences Techniques Et Du Management",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Des Technologies Modernes Du Developpement Et De Gestion",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut En Management Et Training",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut International Ben Gourion Des Technologies Agro-Industrielles Et Energetiques Au Sahel",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut International Des Sciences Et Des Technologies",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Panafricain Pour Le Developpement, Afrique De L'Ouest Et Sahel",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique Africain",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique Prive Shalom",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Prive Africain Moderne Burkina",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Prive Superieur De Sante Sainte Edwige",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Afrique Talents",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Al Houda",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur D'Application Des Geosciences",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De Droit International Et Des Droits De L'Homme",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De Genie Electrique-Bf",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De Gestion De Ouahigouya-Sm",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De La Communication Et Du Multimedia",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De Management De Koudougou",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De Management Et De Technologie",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De Management Et Des Techniques Appliquees De Dano",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur De Securite Humaine",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Des Etudes D'Ingenieurs Et De Technologie",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Des Filieres Professionnalisantes",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Des Lettres ,Des Langues ,Des Sciences, Humaine Et Sociale",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur La Plume",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Polytechnique Prive International Obiang N Guema M Basogo",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive De Formation En Environnement Et En Sciences Agricoles De Ouagadougou I.",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive De Management",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive De Philosophie",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive De Sante Saint Camille De Lellis",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive De Technologie",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive International Al-Mustafa",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive La Termitiere",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieur Prive Polytechnique",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Superieure De Technologies Appliquees Et De Management",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur D'Innovation En Gestion Et Management",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Polytechnique Les Elites",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Teng Tuuma Geosciences De Ouagadougou",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Institut Veenem Wata De Koudougou",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universal Institutes 2M",
+        "type": "Higher Institute / Specialized Institution",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Classes Preparatoires Aux Grandes Ecoles La Salle",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Burkinabe Des Affaires",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole D'Architecture Et De Genie Civil De Ouagadougou",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Polytechnique De Ouagadougou",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Africaine La Flamme De L'Espoir",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure De Commerce De Ouagadougou",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure De Commerce Et D'Informatique De Gestion",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure De Microfinance",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure De Tourisme Et D'Hotellerie",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Des Metiers Ferroviaires",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Des Techniques Avancees",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Des Travaux Publics De Ouaga",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Du Genie Rural Et De L'Environnement",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Multinationale Des Telecommunications; Antenne Du Burkina Faso",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Polytechnique De La Jeunesse",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Polytechnique Excelle",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Prive De L'Excellence",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Privee De Genie Civil De Ouagadougou",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Privee En Direct",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Superieure Privee Gal-Yam",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Ecole Supérieure Internationale De Management",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Groupe Bk-Universite",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Kosyam Jesuit University Of Science Kojus",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Mouhoun Universite Daniel Ouezin Coulibaly",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Aube Nouvelle",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Aube Nouvelle/Bobo",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Catholique De L'Afrique De L'Ouest, Unite Universitaire A Bobo/Hauts-Bassins",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite De L’Unite Africaine",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite De Technologie Et De Management",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Evangelique Koinonia",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Libre Du Burkina",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Ouaga 3S",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Prive De Ouagadougou",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Privee Catholique Saint Joseph Burkina Institute Of Technology",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Privee Notre Dame D'Afrique Unda",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Privee/Swiss Umef University Of Burkina Faso",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Saint Dominique D'Afrique De L'Ouest",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Universite Saint Thomas D'Aquin",
+        "type": "University",
+        "ownership": "Private",
+        "website": ""
+      },
+      {
+        "name": "Central Centre Universitaire De Ziniare",
+        "type": "University Centre",
+        "ownership": "Private",
+        "website": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": [
+      {
+        "name": "Universite Virtuelle",
+        "type": "University",
+        "ownership": "Public",
+        "website": ""
+      }
+    ]
+  }
+}

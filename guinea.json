@@ -1,0 +1,347 @@
+{
+  "country": "Guinea",
+  "universities": {
+    "federal": [],
+    "state": [{
+        "name": "Université Gamal Abdel Nasser de Conakry",
+        "acronym": "UGANC",
+        "type": "Public University",
+        "location": "Conakry (Dixinn)",
+        "website": ""
+      },
+      {
+        "name": "Université Général Lansana Conté de Sonfonia",
+        "acronym": "UGLC-S",
+        "type": "Public University",
+        "location": "Conakry (Ratoma)",
+        "website": ""
+      },
+      {
+        "name": "Université Julius Nyerere de Kankan",
+        "acronym": "UJNK",
+        "type": "Public University",
+        "location": "Kankan",
+        "website": ""
+      },
+      {
+        "name": "Université de Kindia",
+        "acronym": "UK",
+        "type": "Public University",
+        "location": "Kindia",
+        "website": ""
+      },
+      {
+        "name": "Université de Labé",
+        "acronym": "UL",
+        "type": "Public University",
+        "location": "Labé",
+        "website": ""
+      },
+      {
+        "name": "Université de N'Zérékoré",
+        "acronym": "UZ",
+        "type": "Public University",
+        "location": "N'Zérékoré",
+        "website": ""
+      },
+      {
+        "name": "Université Numérique de Guinée",
+        "acronym": "UNG",
+        "type": "Public University (Digital)",
+        "location": "Guinea / Digital",
+        "website": ""
+},
+      {
+        "name": "Institut Supérieur des Sciences de l'Éducation de Guinée",
+        "acronym": "ISSEG",
+        "type": "Public Higher Institute",
+        "location": "Lambanyi, Conakry",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Agronomique et Vétérinaire de Faranah",
+        "acronym": "ISAV/F",
+        "type": "Public Higher Institute",
+        "location": "Faranah",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Mines et de Géologie",
+        "acronym": "ISMG",
+        "type": "Public Higher Institute",
+        "location": "Boké",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Technologie",
+        "acronym": "IST",
+        "type": "Public Higher Institute",
+        "location": "Mamou",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Sciences et de Médecine Vétérinaire",
+        "acronym": "ISSMV",
+        "type": "Public Higher Institute",
+        "location": "Dalaba",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Architecture et d'Urbanisme",
+        "acronym": "ISAU",
+        "type": "Public Higher Institute",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Arts Mory Kanté",
+        "acronym": "ISAMK",
+        "type": "Public Higher Institute",
+        "location": "Dubréka",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de l'Information et de la Communication",
+        "acronym": "ISIC",
+        "type": "Public Higher Institute",
+        "location": "Kountia/Coyah",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Commerce et d'Administration des Entreprises de Guinée",
+        "acronym": "ISCAEG",
+        "type": "Public Higher Institute",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Tourisme et de l'Hôtellerie",
+        "acronym": "ESTH",
+        "type": "Public Higher School",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Institut de Recherche et de Vulgarisation de l'Aulacodiculture de Guinée",
+        "acronym": "IRVAG",
+        "type": "Public Research Institute",
+        "location": "Lola",
+        "website": ""
+      },
+      {
+        "name": "Institut de Recherche en Environnement de Guinée",
+        "acronym": "IREG",
+        "type": "Public Research Institute",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Institut de Recherche sur le Patrimoine et en Linguistique Appliquée",
+        "acronym": "IRPLA",
+        "type": "Public Research Institute",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Institut de Recherche sur la Biodiversité aux Monts Nimba",
+        "acronym": "IReB-MN",
+        "type": "Public Research Institute",
+        "location": "Lola",
+        "website": ""
+      },
+      {
+        "name": "Institut de Recherche en Technologies Endogènes de Guinée",
+        "acronym": "IRTEG",
+        "type": "Public Research Institute",
+        "location": "Kindia",
+        "website": ""
+      },
+      {
+        "name": "Institut de Recherche en Biologie Appliquée de Guinée",
+        "acronym": "IRBAG",
+        "type": "Public Research Institute",
+        "location": "Kindia",
+        "website": ""
+      },
+      {
+        "name": "Institut de Recherche et Développement des Plantes Médicinales et Alimentaires de Guinée",
+        "acronym": "IRDPMAG",
+        "type": "Public Research Institute",
+        "location": "Dubréka",
+        "website": ""
+      },
+      {
+        "name": "Centre de Recherche Marine et Côtière de Guinée",
+        "acronym": "CEREMAC",
+        "type": "Public Research Centre",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Centre de Recherche en Virologie",
+        "acronym": "CRV",
+        "type": "Public Research Centre",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Centre de Recherche en Informatique et Cyber-Technologie",
+        "acronym": "CRICT",
+        "type": "Public Research Centre",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Classes Préparatoires aux Grandes Écoles",
+        "acronym": "CPGE",
+        "type": "Preparatory School",
+        "location": "Guinea",
+        "website": ""
+      }
+    ],
+    "private": [{
+        "name": "Université Aguibou Barry",
+        "acronym": "UAB",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Amadou Dieng",
+        "acronym": "UAD",
+        "type": "Private University",
+        "location": "Conakry / Coyah / Labé",
+        "website": ""
+      },
+      {
+        "name": "Université Général Lansana Conté de Lambanyi",
+        "acronym": "UGLC-L",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université International Collège",
+        "acronym": "UNIC",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Barack Obama",
+        "acronym": "UBO",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Le Roi Mohamed VI",
+        "acronym": "URM6",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Nongo Conakry",
+        "acronym": "UNC",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Keyce Academy de Conakry",
+        "acronym": "KAC",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Mercure International",
+        "acronym": "UMI",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Kofi Annan de Guinée",
+        "acronym": "UKAG",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Victor Hugo",
+        "acronym": "UVH",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "Université Mahatma Gandhi",
+        "acronym": "UMG",
+        "type": "Private University",
+        "location": "Conakry",
+        "website": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": [
+      {
+        "name": "Institut Supérieur de Formation à Distance",
+        "acronym": "ISFAD",
+        "type": "Distance Learning Institute",
+        "location": "Conakry",
+        "website": ""
+      },
+      {
+        "name": "ISFAD-K",
+        "acronym": "ISFAD-K",
+        "type": "Distance Learning Institute (Regional Centre)",
+        "location": "Kindia",
+        "website": ""
+      },
+      {
+        "name": "ISFAD-L",
+        "acronym": "ISFAD-L",
+        "type": "Distance Learning Institute (Regional Centre)",
+        "location": "Labé",
+        "website": ""
+      },
+      {
+        "name": "ISFADKK",
+        "acronym": "ISFADKK",
+        "type": "Distance Learning Institute (Regional Centre)",
+        "location": "Kankan",
+        "website": ""
+      },
+      {
+        "name": "ISFAD-Z",
+        "acronym": "ISFAD-Z",
+        "type": "Distance Learning Institute (Regional Centre)",
+        "location": "N'Zérékoré",
+        "website": ""
+      },
+      {
+        "name": "ISFAD-F",
+        "acronym": "ISFAD-F",
+        "type": "Distance Learning Institute (Regional Centre)",
+        "location": "Faranah",
+        "website": ""
+      },
+      {
+        "name": "ISFAD-B",
+        "acronym": "ISFAD-B",
+        "type": "Distance Learning Institute (Regional Centre)",
+        "location": "Boké",
+        "website": ""
+      },
+      {
+        "name": "ISFAD-M",
+        "acronym": "ISFAD-M",
+        "type": "Distance Learning Institute (Regional Centre)",
+        "location": "Mamou",
+        "website": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "country": "Comoros",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Université des Comores (UDC)",
+        "type": "University",
+        "ownership": "Public",
+        "location": "Moroni; multiple sites across Ngazidja, Ndzuani and Mwali",
+        "website": "https://www.univ-comores.com/",
+        "status": "Listed by the Ministry; explicitly described as the main public university"
+      },
+      {
+        "name": "Centre Universitaire de Mohéli (CUM)",
+        "type": "University Centre",
+        "ownership": "Public",
+        "location": "Fomboni, Mokéli",
+        "website": "https://www.univ-comores.com/",
+        "status": "Listed by the Ministry; component of the public University of Comoros system"
+      },
+      {
+        "name": "Centre Universitaire de Patsy (CUP)",
+        "type": "University Centre",
+        "ownership": "Public",
+        "location": "Matsamudu, Anjouan",
+        "website": "https://www.univ-comores.com/",
+        "status": "Listed by the Ministry; component of the public University of Comoros system"
+      },
+      {
+        "name": "École Nationale d'Administration et de Commerce (ENAC)",
+        "type": "Higher School / Specialized Institution",
+        "ownership": "Not explicitly stated on Ministry list",
+        "location": "",
+        "website": "",
+        "status": "Listed by the Ministry"
+      },
+      {
+        "name": "Institut Supérieur de Formation et de Recyclage (ISFR)",
+        "type": "Higher Institute",
+        "ownership": "Not explicitly stated on Ministry list",
+        "location": "",
+        "website": "",
+        "status": "Listed by the Ministry"
+      },
+      {
+        "name": "École Supérieure de Technologie (EST)",
+        "type": "Higher School of Technology",
+        "ownership": "Not explicitly stated on Ministry list",
+        "location": "",
+        "website": "",
+        "status": "Listed by the Ministry"
+      },
+      {
+        "name": "Sup Management",
+        "type": "Higher Education Institution",
+        "ownership": "Not explicitly stated on Ministry list",
+        "location": "",
+        "website": "",
+        "status": "Listed by the Ministry"
+      },
+      {
+        "name": "École Nationale de Pêche et de la Marine Marchande",
+        "type": "Higher School / Specialized Institution",
+        "ownership": "Not explicitly stated on Ministry list",
+        "location": "",
+        "website": "",
+        "status": "Listed by the Ministry"
+      }
+    ],
+    "private": [
+      {
+        "name": "Université Midocean",
+        "type": "University",
+        "ownership": "Private",
+        "location": "Moroni",
+        "website": "",
+        "status": "Listed by the Ministry; received a university license as a private university"
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

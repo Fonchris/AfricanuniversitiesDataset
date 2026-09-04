@@ -1,0 +1,5368 @@
+{
+  "country": "Cote d'Ivoire",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Université Félix Houphouët-Boigny",
+        "acronym": "UFHB",
+        "type": "Public University",
+        "location": "Abidjan (Cocody)",
+        "website": "univ-fhb.edu.ci"
+      },
+      {
+        "name": "Université Nangui Abrogoua",
+        "acronym": "UNA",
+        "type": "Public University",
+        "location": "Abidjan (Abobo-Adjamé)",
+        "website": "univ-na.ci"
+      },
+      {
+        "name": "Université Alassane Ouattara",
+        "acronym": "UAO",
+        "type": "Public University",
+        "location": "Bouaké",
+        "website": "univ-ao.edu.ci"
+      },
+      {
+        "name": "Université Jean Lorougnon Guédé",
+        "acronym": "UJLoG",
+        "type": "Public University",
+        "location": "Daloa",
+        "website": "ujlog.ci"
+      },
+      {
+        "name": "Université Péléforo Gon Coulibaly",
+        "acronym": "UPGC",
+        "type": "Public University",
+        "location": "Korhogo",
+        "website": "upgc.edu.ci"
+      },
+      {
+        "name": "Université de San-Pédro",
+        "acronym": "USP",
+        "type": "Public University",
+        "location": "San-Pédro",
+        "website": "usp.edu.ci"
+      },
+      {
+        "name": "Université de Man",
+        "acronym": "U-MAN",
+        "type": "Public University",
+        "location": "Man",
+        "website": "univ-man.edu.ci"
+      },
+      {
+        "name": "Université Virtuelle de Côte d'Ivoire",
+        "acronym": "UVCI",
+        "type": "Public University",
+        "location": "Abidjan (E-Learning)",
+        "website": "uvci.edu.ci"
+      },
+      {
+        "name": "Université de Bondoukou",
+        "acronym": "UB",
+        "type": "Public University",
+        "location": "Bondoukou",
+        "website": "ubondoukou.edu.ci"
+      }
+    ],
+    "private": [
+{
+        "name": "BORDEAUX ECOLE DE MANAGEMENT -(BEM Abidjan)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "PROFESSIONAL UNIVERSITY CENTRE (CUP)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100.000"
+      },
+      {
+        "name": "CERAP/JESUIT UNIVERSITY -(CERAP/UJ)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "GRADUATE SCHOOL OF INTERPRETING AND TRANSLATION - (ESIT)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "25,000 F"
+      },
+      {
+        "name": "HIGHER SCHOOL GADJI_UNIVERSITÉ -(ESUG_UNIVERSITÉ)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "250,000 F"
+      },
+      {
+        "name": "ECOLE SUPÉRIEURE LE PETIT CHAMPION_UNIVERSITE -(ESPC_UNIVERSITE)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "MULTIDISCIPLINARY HIGHER SCHOOL OF ABIDJAN COCODY -(ESPA COCODY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "MULTIDISCIPLINARY HIGHER SCHOOL OF ABIDJAN/YAMOUSSOUKRO -(ESPA YAMOUSSOUKRO)",
+        "type": "Private University",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "ECOLE TECHNIQUE INFORMATIQUE ET COMMERCIALE-UNIVERSITY -(ETIC-UNIVERSITY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "EMMAUS INTERNATIONAL UNIVERSITY -(EIU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "50,000F"
+      },
+      {
+        "name": "ETIC UNIVERSTY BONDOUKOU",
+        "type": "Private University",
+        "city": "BONDOUKOU",
+        "municipality": "BONDOUKOU",
+        "registrationFee": ""
+      },
+      {
+        "name": "ETIC UNIVERSTY KORHOGO",
+        "type": "Private University",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": ""
+      },
+      {
+        "name": "ETIC UNIVERSTY ODIENNE",
+        "type": "Private University",
+        "city": "ODIENNE",
+        "municipality": "ODIENNE",
+        "registrationFee": ""
+      },
+      {
+        "name": "PRIVATE UNIVERSITY FACULTIES OF ABIDJAN (FUPA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "165,000 CFA francs"
+      },
+      {
+        "name": "GLOBAL NUMERIK UNIVERSITY -(GNU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 F"
+      },
+{
+        "name": "HAUTES ETUDES COMMERCIALES D'ABIDJAN -(HEC-ABIDJAN)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "175 000"
+      },
+      {
+        "name": "IIPEA COCODY UNIVERSITY",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "Included in schooling"
+      },
+      {
+        "name": "HIGHER INSTITUTE OF ENGINEERING AND HEALTH YAMOUSSOUKRO -(ISIS YAMOUSSOUKRO)",
+        "type": "Private University",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INSTITUTIONS-THE COCODY_UNIVERSITEUT HIGHER EDUCATION CAMPUS THE COCODY CAMPUS -(IES-THE COCODY CAMPUS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "",
+        "registrationFee": ""
+      },
+      {
+        "name": "CATHOLIC MISSIONARY INSTITUTE OF ABIDJAN (ICMA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "50,000 FCFA"
+      },
+      {
+        "name": "INSTITUTE OF HIGHER EDUCATION THE COCODY_UNIVERSITE CAMPUS -(IES-THE COCODY_UNIVERSITE CAMPUS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUTE OF HIGHER EDUCATION THE MAN_UNIVERSITE CAMPUS -(IES-THE MAN_UNIVERSITE CAMPUS)",
+        "type": "Private University",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUTE OF HIGHER EDUCATION THE YOPOUGON_UNIVERSITE CAMPUS -(IES-THE YOPOUGON_UNIVERSITE CAMPUS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUTE OF MANAGEMENT AND TECHNOLOGY (IMAT)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 FCFA"
+      },
+      {
+        "name": "EUROPEAN BUSINESS INSTITUTE (IEA-ABIDJAN)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUTE IES-THE CAMPUS COCODY_UNIVERSITESUPERIEUR THE COCODY CAMPUS -(IES-THE COCODY CAMPUS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "IVORIAN INSTITUTE OF TECHNOLOGY (IIT)",
+        "type": "Private University",
+        "city": "BASSAM",
+        "municipality": "BASSAM",
+        "registrationFee": "50,000F CFA"
+      },
+      {
+        "name": "COCODY HIGHER INSTITUTE OF ENGINEERING AND HEALTH (ISIS COCODY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR UNIVERSITAIRE POLYTECHNIQUE ACKA EWADJO CÉCILE -(ISUPEC)",
+        "type": "Private University",
+        "city": "GRAND LAHOU",
+        "municipality": "GRAND LAHOU",
+        "registrationFee": "90,000 F"
+      },
+      {
+        "name": "UNIVERSITY INSTITUTE OF ABIDJAN (IUA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+{
+        "name": "UNIVERSITY INSTITUTE OF ABIDJAN-BLUETOOTH -(IUA-BLUETOOTH)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY INSTITUTE OF ABIDJAN-BONOUMIN (IUA-BONOUMIN)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY INSTITUTE OF ABIDJAN-ZINSOU (IUA-ZINSOU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY INSTITUTE OF LEGAL ECONOMICS AND SUSTAINABLE DEVELOPMENT (IUSEJDD)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY INSTITUTE OF ECONOMICS, LEGAL SCIENCES AND SUSTAINABLE DEVELOPMENT -(IUSEJ2D)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY INSTITUTE OF THE SOUTH (IUS)",
+        "type": "Private University",
+        "city": "JACQUEVILLE",
+        "municipality": "JACQUEVILLE",
+        "registrationFee": ""
+      },
+      {
+        "name": "FRED AND POPPEE UNIVERSITY INSTITUTE",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "225,000 F"
+      },
+      {
+        "name": "POLYTECHNIC UNIVERSITY INSTITUTE OF ABIDJAN YOPOUGON_UNIVERSITE (IUPA YOPOUGON_UNIVERSITE)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "PROFESSIONAL UNIVERSITY INSTITUTE (IUP)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "EUDIST UNIVERSITY OF TECHNOLOGY INSTITUTION OF AFRICA (IUTEA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "150,000 F"
+      },
+      {
+        "name": "INTERNATIUONAL AMERICAN UNIVERSITY (IAMU - ABJ SAS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200,000 FCFA (portion of the semester's tuition)"
+      },
+      {
+        "name": "International Polytechnic Institute of Elites of Abidjan COCODY -(IIPEA COCODY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "Saint John Paul II University Institute (IUSJP2)",
+        "type": "Private University",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "CENTRE OF EXCELLENCE AND SPECIALISATIONS (PES)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "215,000 F"
+      },
+      {
+        "name": "POLYTECH ABIDJAN",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "55000"
+      },
+{
+        "name": "RUSTA UNIVERSITY -(RUSTA UNIVERSITY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "450,000 Classic License / 700,000 Pro License"
+      },
+      {
+        "name": "RUSTA UNIVERSITY ANNEX OF BOUAKÉ",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "SEEKA UNIVERSITY -(Seeka U)",
+        "type": "Private University",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "100,000 F"
+      },
+      {
+        "name": "SWISS UMEF UNIVERSITY OF CÔTE D'IVOIRE -(UMEF)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "115,000 F"
+      },
+      {
+        "name": "TALENT SCHOOL OF BUSINESS (TSB)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "TG MASTER-UNIVERSITY -(TGM-U)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ADAMA SANOGO UNIVERSITY (UAS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "0"
+      },
+      {
+        "name": "BILINGUAL UNIVERSITY OF LA CORNICHE (UBC)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "CATHOLIC UNIVERSITY OF WEST AFRICA-UNIVERSITY UNIT OF ABIDAJN -(UCAO-UUA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "230,000 FCFA"
+      },
+      {
+        "name": "CEFAT INTERNATIONAL ABENGOUROU UNIVERSITY (UCI)",
+        "type": "Private University",
+        "city": "ABENGURU",
+        "municipality": "ABENGURU",
+        "registrationFee": "350,000 FCFA"
+      },
+      {
+        "name": "CEFAT INTERNATIONAL COCODY UNIVERSITY (UCI)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "CHAARE TSEDEK CENTRAL UNIVERSITY (UCC)",
+        "type": "Private University",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "100,000 CFA francs"
+      },
+      {
+        "name": "UNIVERSITÉ CHARLES-LOUIS DE MONTESQUIEU COCODY_UNIVERSITE -(UCLM COCODY_UNIVERSITE)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "350,000 F"
+      },
+      {
+        "name": "COMREFAS COCODY UNIVERSITY",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY OF ENTREPRENEURSHIP (EU-AZAGUIE)",
+        "type": "Private University",
+        "city": "AZAGUIE",
+        "municipality": "AZAGUIE",
+        "registrationFee": ""
+      },
+{
+        "name": "UNIVERSITY OF THE CHRISTIAN ALLIANCE OF ABIDJAN (UACA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY OF THE ATLANTIC -(UA COCODY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "125,000 F"
+      },
+      {
+        "name": "UNIVERSITY OF THE ATLANTIC BOUAKÉ -(AU BOUAKÉ)",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "55,000 F"
+      },
+      {
+        "name": "UNIVERSITY OF TECHNOLOGY OF ABIDJAN (UTA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY OF CULTURAL INNOVATIONS AND VIRTUAL PROFESSIONS -(UIC-MEV)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY OF YOUNG GIRLS (UJF)",
+        "type": "Private University",
+        "city": "BASSAM",
+        "municipality": "BASSAM",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY OF THE LAGOONS",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "190,000 F"
+      },
+      {
+        "name": "UNIVERSITY OF APPLIED SCIENCES AND MANAGEMENT (USAG)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CÔTE D'IVOIRE COCODY -(USTCI COCODY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "450 000"
+      },
+      {
+        "name": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CÔTE D'IVOIRE YOPOUGON -(USTCI YOPOUGON)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "450,000 F"
+      },
+      {
+        "name": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF ABIDJAN (USTA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY OF LEGAL, ECONOMIC AND MANAGEMENT SCIENCES (UJSEG)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 CFA francs"
+      },
+      {
+        "name": "MAGHREB UNIVERSITY OF CÔTE D'IVOIRE (UPMACI)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "EPHRATA UNIVERSITY -(EU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "125,000 FCFA"
+      },
+      {
+        "name": "EPHRATA UNIVERSITY DALOA ANNEX",
+        "type": "Private University",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": ""
+      },
+{
+        "name": "INTERNATIONAL EVANGELICAL UNIVERSITY OF MAN (UEIM)",
+        "type": "Private University",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "100,000 F"
+      },
+      {
+        "name": "FRENCH UNIVERSITY OF ABIDJAN (UFRA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "See Admission Service on 01 00 00 50 05"
+      },
+      {
+        "name": "HENRY DUNANT UNIVERSITY (UHD)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "HUBERT VANGAH UNIVERSITY (UVHK)",
+        "type": "Private University",
+        "city": "BONOUA",
+        "municipality": "BONOUA",
+        "registrationFee": "165,000 CFA francs"
+      },
+      {
+        "name": "CONCORDET INTERNATIONAL UNIVERSITY (UIC)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "ABIDJAN INTERNATIONAL UNIVERSITY (UIA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ALBERT AND BERNADETTE GAGNOA INTERNATIONAL UNIVERSITY (UIA-GB)",
+        "type": "Private University",
+        "city": "GAGNOA",
+        "municipality": "GAGNOA",
+        "registrationFee": "150,000F"
+      },
+      {
+        "name": "AFRICAN BILINGUAL INTERNATIONAL UNIVERSITY (UIBA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "CLAIRE FONTAINE INTERNATIONAL UNIVERSITY (UICF)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF BOUAKÉ (UIB)",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "150,000 F"
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF COCODY (UIC)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF CÔTE D'IVOIRE (UICI)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50.000"
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF YAMOUSSOUKRO (UIYA)",
+        "type": "Private University",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY (ITSU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+{
+        "name": "INTERNATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY BOUAKÉ -(UIST - B)",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF APPLIED TECHNICAL SCIENCES AND MANAGEMENT (UISTAM)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "EVANGELICAL INTERNATIONAL UNIVERSITY OF CÔTE D'IVOIRE (UIECI)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "FRANCIS INTERNATIONAL UNIVERSITY (UIF)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "NAYEBA INTERNATIONAL UNIVERSITY (UNID)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "DABOU",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "HETEC INTERNATIONAL POLYTECHNIC UNIVERSITY (UIPH)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "50,000 F"
+      },
+      {
+        "name": "PRIVATE INTERNATIONAL UNIVERSITY OF ABIDJAN (IPU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ABIDJAN METROPOLITAN UNIVERSITY -(UMA-GC)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": ""
+      },
+{
+        "name": "AFRICAN MUSLIM UNIVERSITY (UMA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "NANAN YAMOUSSO UNIVERSITY (U NANAN YAMOUSSO)",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "NBA UNIVERSITY -(U-NBA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 F"
+      },
+      {
+        "name": "UNIVERSITY NORTH SOUTH ANGRE -(UNS ANGRE)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "Affected 120,000/ Unaffected 220,000"
+      },
+      {
+        "name": "NORTH SOUTH ATTOBAN UNIVERSITY (UNS ATTOBAN)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITY NORTH SOUTH BOUAKÉ -(UNS BOUAKÉ)",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "120,000 Affected/Not Affected 300,000"
+      },
+      {
+        "name": "NORTH SOUTH COCODY UNIVERSITY (UNS BONOUMIN)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "Affected 120,000/ Unaffected 220,000"
+      },
+      {
+        "name": "NORTH SOUTH DIMBOKRO UNIVERSITY (UNS DIMBOKRO)",
+        "type": "Private University",
+        "city": "DIMBOKRO",
+        "municipality": "DIMBOKRO",
+        "registrationFee": "120,000 affected/ 220,000 not affected"
+      },
+      {
+        "name": "NORTH SOUTH MARCORY UNIVERSITY (UNS MARCORY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "120,000 affected/ 220,000 not affected"
+      },
+{
+        "name": "NORTH SOUTH UNIVERSITY PORT-BOUËT -(UNS PORT-BOUËT)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "Affected 120,000/ Unaffected 220,000"
+      },
+      {
+        "name": "UNIVERSITE NORD SUD RUE DES JARDINS -(UNS RUE DES JARDINS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE NORD SUD YOPOUGON -(UNS YOPOUGON)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "120 000 Affectés/ 220 000 Non Affectés"
+      },
+      {
+        "name": "UNIVERSITE NOTRE DAME D'ABIDJAN -(UNDA ABOBO)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE NOTRE DAME D'ABIDJAN -(UNDA ADJAME)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ADJAME",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE NOTRE DAME D'ABIDJAN -(UNDA ANGRE)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE NOTRE DAME D'ABIDJAN -(UNDA KOUMASSI)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE NOTRE DAME D'ABIDJAN -(UNDA PORT BOUET)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "100.000frs"
+      },
+      {
+        "name": "UNIVERSITE NOTRE DAME D'ABIDJAN -(UNDA YOPOUGON)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE NOTRE DAME D'ABIDJAN -(UNDA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "160 000 F"
+      },
+      {
+        "name": "UNIVERSITE NOUVELLE DE CÔTE D'IVOIRE",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE OUEST AFRICAINE -(UOA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE POLYTECHNIQUE AGITEL FORMATION (UPAF)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "40 000 FCFA"
+      },
+      {
+        "name": "UNIVERSITE POLYTECHNIQUE DE BINGERVILLE -(UPB)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "BINGERVILLE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "UNIVERSITE POLYTECHNIQUE KIBIO -(UPK)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE PRIVE N'TAYE (UPN)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE PRIVEE AGRICOLE DE COTE D'IVOIRE (UPRACI)",
+        "type": "Private University",
+        "city": "ADZOPE",
+        "municipality": "ADZOPE",
+        "registrationFee": ""
+      },
+      {
+        "name": "UNIVERSITE PRIVEE INTERNATIONALE AKANDJI (UPIA)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "300 000 F"
+      },
+      {
+        "name": "PRIVATE SOUMARÉ UNIVERSITY - (SOUMARE UNIVERSITY)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50,000 F"
+      },
+      {
+        "name": "EVANGELICAL PROTESTANT UNIVERSITY OF CÔTE D'IVOIRE (UPE-CI)",
+        "type": "Private University",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "SAINT PAUL UNIVERSITY (SPU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "Free"
+      },
+{
+        "name": "SANKOFA UNIVERSITY OF CÔTE D'IVOIRE (USCI) - BONDOUKOU",
+        "type": "Private University",
+        "city": "BONDOUKOU",
+        "municipality": "BONDOUKOU",
+        "registrationFee": "200,000F"
+      },
+      {
+        "name": "SEPI YOPOUGON UNIVERSITY (US YOPOUGON)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "Affected 120,000/ Unaffected 220,000"
+      },
+      {
+        "name": "TAHARQA SARE UNIVERSITY (UTS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "80,000 FCFA"
+      },
+      {
+        "name": "LOKO TERTIARY UNIVERSITY AND TECHNOLOGY -(UTT-LOKO)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "VAME UNIVERSITY OF BOUAKÉ (UVB)",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "PAN AFRICAN VIRTUAL UNIVERSITY OF TECHNOLOGY (UVPT)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "450,000 F"
+      },
+      {
+        "name": "UNIVERSITY OF ABIDJAN -(UNI ABIDJAN)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "95,000 CFA francs"
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF AGRICULTURAL SCIENCES AND TECHNOLOGY - USAT",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "CANADIAN UNIVERSITY OF ARTS, SCIENCE AND MANAGEMENT (UCASM)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "Al Fourqane University of Côte d'Ivoire (UFCI)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "100,000 CFA francs"
+      },
+      {
+        "name": "ICK International University - U2ICK",
+        "type": "Private University",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "200,000 F"
+      },
+{
+        "name": "International University of Applied Sciences and Technologies - UNISAT (UNIV)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200,000 FCFA"
+      },
+      {
+        "name": "Methodist University of Côte d'Ivoire - UMECI",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "210,000 F"
+      },
+      {
+        "name": "Popular University of Côte d'Ivoire (UPCI)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "Tahaqa Sarê University - UNISS (International University of Social Sciences Hampâté Bâh)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "80,000 FCFA"
+      },
+      {
+        "name": "Songon University of Technology (UTS)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "SONGON",
+        "registrationFee": "130,000 F"
+      },
+      {
+        "name": "VALORIS INTERNATIONAL UNIVERSITY -(VIU)",
+        "type": "Private University",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "250,000 F"
+      },
+      {
+        "name": "WEST AFRICA UNIVERSITY (WAU)",
+        "type": "Private University",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "100000"
+      },
+{
+        "name": "ABIDJAN BLOOM UNIVERSITY (ABU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "90,000 F"
+      },
+      {
+        "name": "ABIDJAN BUSINESS SCHOOL -(ABS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ACADEMY OF MANAGEMENT AND HOSPITALITY -(AGH)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "(earmarked and unearmarked): 120,000 francs"
+      },
+      {
+        "name": "ACADEMY OF ENTREPRENEURSHIP AND TRADES (AEM) YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "ACADEMY OF TECHNOLOGICAL SCIENCES AND ACCOUNTANTS -(ASTC PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ACADEMY OF TECHNOLOGICAL SCIENCES AND ACCOUNTANTS COCODY -(ASTC COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ELITE ACADEMY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "FICOGES COCODY ACADEMY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 FCFA"
+      },
+      {
+        "name": "INTERNATIONAL ACADEMY OF SCIENCE AND TECHNOLOGY (AIST BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INTERNATIONAL ACADEMY OF SCIENCE AND TECHNOLOGY PLATEAU (AIST PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INTERNATIONAL ACADEMY OF SCIENCE AND TECHNOLOGY RIVIERA BONOUMIN -(AIST RIVIERA BONOUMIN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "TOUMODI INTERNATIONAL ACADEMY OF SCIENCE AND TECHNOLOGY (AIST TOUMODI)",
+        "type": "Grande École",
+        "city": "TOUMODI",
+        "municipality": "TOUMODI",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INTERNATIONAL ACADEMY OF SCIENCE AND TECHNOLOGY TREICHVILLE -(AIST TREICHVILLE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "80,000F CFA"
+      },
+{
+        "name": "FREE ACADEMY OF TECHNOLOGY-SECONDARY INSTITUTE OF TECHNOLOGY -(ALT-ISTEA YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "50,000 FCFA"
+      },
+      {
+        "name": "AFRICAN VISION INSTITUTE OF DEVELOPMENT AND ECONOMICS -(AVID EDUCATION)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "AFRICA TRAINING -(AF)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": "25,000 F"
+      },
+      {
+        "name": "ALT - ISTEA",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "ATLANTIQUE INTERNATIONAL BUSINESS SCHOOL -(AIBS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ATSAM-AGI",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "No choice",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "",
+        "registrationFee": ""
+      },
+      {
+        "name": "BA'OULEHN INSTITUTE OF TECHNOLOGY (ILO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 F"
+      },
+      {
+        "name": "BRITISH INTERNATIONAL UNIVERSITY (BIU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "500,000 FCFA"
+      },
+      {
+        "name": "CELIA TREICHVILLE/EP2005",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": ""
+      },
+      {
+        "name": "CENTRALE SUP -(CS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "EXECUTIVE TRAINING CENTRE (CFC)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "80 000"
+      },
+      {
+        "name": "CENTER FOR HIGHER EDUCATION AND INTERNATIONAL TECHNOLOGIES OF ABIDJAN -(CESTIA-2EP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50,000 F"
+      },
+{
+        "name": "CENTRE FOR VOCATIONAL TECHNICAL EDUCATION IN RENEWABLE TRADES AND ENERGY (CETPMER)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ADJAME",
+        "registrationFee": ""
+      },
+      {
+        "name": "CENTRE FOR STUDIES, TRAINING IN COMPUTER SCIENCE AND VIDEO TEACHING -(CEFIVE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "TRAINING CENTER FOR BUSINESS MANAGEMENT OF CÔTE D'IVOIRE (CFGE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "CENTRE DE FORMATION EN ADMINISTRATION ET EN MÉCANIQUE (CFAM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "CENTER FOR HIGHER STUDIES OF ABIDJAN KOUMASSI -(CESA KOUMASSI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "CENTER FOR HIGHER STUDIES OF ABIDJAN PLATEAU (CESA PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "120,000 F / INDUSTRIAL AND 110,000 F / TERTIARY"
+      },
+      {
+        "name": "CENTER FOR HIGHER STUDIES OF ABIDJAN YOPOUGON -(CESA YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "110,000 F / Tertiary sectors and 120,000 F / Industrial sectors"
+      },
+      {
+        "name": "COCODY INTERNATIONAL CENTRE FOR FACE-TO-FACE AND DISTANCE LEARNING (CIFAD COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200 000"
+      },
+      {
+        "name": "YOPOUGON INTERNATIONAL CENTER FOR FACE-TO-FACE AND DISTANCE LEARNING -(CIFAD YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "200,000 F"
+      },
+      {
+        "name": "INTERNATIONAL CENTRE FOR MANAGEMENT AND ENTREPRENEURSHIP -(CIME-FORMATION ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "POLYTECHNIC CENTER OF THE YAMOUSSOUKRO CENTER",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "CONSTRUCTION SITES SCHOOL OF BUILDING AND PUBLIC WORKS TRADES -(CEM-BTP COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+{
+        "name": "CHANTIERS ECOLE DES METIERS DU BATIMENT ET DES TRAVAUX PUBLICS -(CEM-BTP)",
+        "type": "Grande École",
+        "city": "BONOUA",
+        "municipality": "BONOUA",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "CIFC ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85.000 F"
+      },
+      {
+        "name": "CIFEC ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "COURS SUPERIEUR NOTRE DAME DU PLATEAU -(CSNDP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "COURS SUPERIEUR SAINT PIERRE MARCORY -(CSSP MARCORY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "DEMING EXCELLENCE INSTITUTE GRANDE ÉCOLE (DEI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ECOEL SUPERIEURE DE MANAGEMENT ET DE TECHNOLOGIE -(EMATECH)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85.000 F CFA"
+      },
+      {
+        "name": "ECOFORP-A INTERNATIONALE",
+        "type": "Grande École",
+        "city": "ABENGOUROU",
+        "municipality": "ABENGOUROU",
+        "registrationFee": "85.000 F CFA"
+      },
+      {
+        "name": "ECOLE CENTRALE D'ABIDJAN -(ECA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "SAINT JEAN MAMEN HIGHER EDUCATION SCHOOL (ESP-SJM)",
+        "type": "Grande École",
+        "city": "DABOU",
+        "municipality": "DABOU",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "SCHOOL OF BUSINESS AND MANAGEMENT (ECG)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "SCHOOL OF TRAINING IN MANAGEMENT AND TECHNOLOGY -(EFGT ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INDUSTRIAL AND TERTIARY TRAINING SCHOOL (EFIT-CESTIA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50,000 F"
+      },
+      {
+        "name": "SCHOOL OF GEOMATICS AND TERRITORY (EGT-ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 CFA francs"
+      },
+{
+        "name": "SCHOOL OF MANAGEMENT AND TECHNOLOGY -(EGETECH)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "SCHOOL OF ENTREPRENEURSHIP AND TECHNOLOGY (2ET)",
+        "type": "Grande École",
+        "city": "SEGUELA",
+        "municipality": "SEGUELA",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "ABIDJAN MARCORY EXECUTIVE SCHOOL (EDCA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "80,000 F"
+      },
+      {
+        "name": "SCHOOL OF BUSINESS AND ECONOMIC STUDIES (EECE YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "SCHOOL OF BUSINESS AND ECONOMIC STUDIES (ECEE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "ABOBO SCHOOL OF DIGITAL, ADMINISTRATION AND TELECOMMUNICATION (ENATEL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "SCHOOL OF APPLIED SCIENCES -(ESAP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "80,000FCFA"
+      },
+      {
+        "name": "SCHOOL OF MULTIMEDIA SPECIALTIES OF ABIDJAN MARCORY -(ESMA MARCORY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "SCHOOL OF MULTIMEDIA SPECIALTIES OF ABIDJAN ODIENNE -(ESMA ODIENNÉ)",
+        "type": "Grande École",
+        "city": "ODIENNE",
+        "municipality": "ODIENNE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "SCHOOL OF MULTIMEDIA SPECIALTIES OF ABIDJAN RIVIERA -(ESMA RIVIERA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "ECOLE HOTELIERE DE GRAND-BASSAM -(EHB)",
+        "type": "Grande École",
+        "city": "BASSAM",
+        "municipality": "BASSAM",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL SCHOOL OF BUSINESS, FINANCE AND ACCOUNTING (EIAFC)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL SCHOOL OF BRIDGES AND ROADS OF ABIDJAN -(EIPC-ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL TERTIARY SCHOOL OF NEW INFORMATION AND COMMUNICATION TECHNOLOGIES BOUAKÉ -(EIT-NTIC BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+{
+        "name": "INTERNATIONAL TERTIARY SCHOOL OF NEW INFORMATION AND COMMUNICATION TECHNOLOGIES COCODY -(EIT-NTIC COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ECOLE POLYFINANCE ET DE TECHNOLOGIE APPLIQUEE -(EPTA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "ECOLE POLYTECHNIQUE D'ABIDJAN -(EPA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 FCFA"
+      },
+      {
+        "name": "ECOLE POLYTECHNIQUE INTERNATIONALE DE YAMOUSSOUKRO -(EPI-YAKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "ECOLE POLYTECHNIQUE LEONARDO DE VINCI -(EPLDV)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "80 000 F"
+      },
+      {
+        "name": "ECOLE POLYTECHNIQUE LES OSCARS -(EPO)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "PRACTICAL SCHOOL OF THE CHAMBER OF COMMERCE AND INDUSTRY OF CÔTE D'IVOIRE (EPCCI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "included in schooling"
+      },
+      {
+        "name": "REGIONAL SCHOOL OF ECONOMICS, COMMERCE AND AGRICULTURE (ERECA)",
+        "type": "Grande École",
+        "city": "TOUMODI",
+        "municipality": "TOUMODI",
+        "registrationFee": ""
+      },
+      {
+        "name": "SPECIAL SCHOOL OF BUILDING AND PUBLIC WORKS YAMOUSSOUKRO (ESBTP YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "SPECIAL SCHOOL OF BUILDING AND PUBLIC WORKS BOUAKÉ-(ESBTP BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "SPECIAL SCHOOL OF BUILDING AND PUBLIC WORKS PLATEAU (ESBTP PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "SPECIAL SCHOOL OF BUILDING AND PUBLIC WORKS TREICHVILLE -(ESBTP TREICHVILLE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "SPECIAL SCHOOL OF BUILDING AND PUBLIC WORKS YOPOUGON -(ESBTP YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "SORBONNE GRADUATE SCHOOL OF BUSINESS AND MANAGEMENT (ESCG LA SORBONNE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+{
+        "name": "GRADUATE SCHOOL OF ENGINEERING AND MANAGEMENT OF ABIDJAN (ESIG - ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "Earmarked: 85,000 FCFA / Private: 300,000 FCFA"
+      },
+      {
+        "name": "FATOUMABA HIGHER SCHOOL",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "FATOUMABA HIGHER SCHOOL (ESFAT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "50,000 F"
+      },
+      {
+        "name": "ECOLE SUPÉRIEURE POLYTECHNIQUE -(ESP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "WONTO GRADUATE SCHOOL (ESW)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "AMINA UNIVERSITY OF APPLIED SCIENCES -(ESA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "45000"
+      },
+      {
+        "name": "CENTRAL HIGH SCHOOL OF EBURNIE DALOA",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "YOPOUGON TECHNICAL AND VOCATIONAL EDUCATION COLLEGE (ESETP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "HIGHER SCHOOL OF CHARTERED ACCOUNTANCY -(ESEC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "25,000 F"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF APPLIED COMPUTER SCIENCE (ESIA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "125,000 F"
+      },
+      {
+        "name": "COCODY SCHOOL OF COMPUTER SCIENCE AND BUSINESS (ESICOM COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "KORHOGO GRADUATE SCHOOL OF COMPUTER SCIENCE AND BUSINESS (ESICOM KORHOGO)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "HIGHER SCHOOL OF COMPUTER SCIENCE AND INNOVATION PLATEAU -(ES2I PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "YOPOUGON GRADUATE SCHOOL OF COMPUTER SCIENCE AND INNOVATION -(ES2I YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+{
+        "name": "COCODY SCHOOL OF ECONOMIC INTELLIGENCE (ESIE COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "YOPOUGON HIGHER SCHOOL OF ECONOMIC INTELLIGENCE (ESIE YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "ECOLE SUPÉRIEURE DE COMMERCE CASTAING -(ESC CASTAING)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "90,000 FCFA (insurance costs + 1 train + 1 box of markers included)"
+      },
+      {
+        "name": "ABENGOUROU BUSINESS SCHOOL (ABENGOUROU ESC)",
+        "type": "Grande École",
+        "city": "ABENGURU",
+        "municipality": "ABENGURU",
+        "registrationFee": "100.000"
+      },
+      {
+        "name": "HIGHER SCHOOL OF BUSINESS, ADMINISTRATION AND MANAGEMENT BOUAKÉ -(ESCAM BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "COCODY GRADUATE SCHOOL OF BUSINESS, ADMINISTRATION AND MANAGEMENT (ESCAM COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "WEST AFRICAN GRADUATE SCHOOL OF BUSINESS AND ADMINISTRATION (ESCAO)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "GRADUATE SCHOOL OF BUSINESS AND MANAGEMENT (ESK) ANNEX YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "HIGHER SCHOOL OF TRAINING FOR COMPUTER AND MANAGEMENT PROFESSIONS -(ESFIG)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100000"
+      },
+      {
+        "name": "SAN PEDRO GRADUATE SCHOOL OF CIVIL ENGINEERING (ESGC-SP)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF MANAGEMENT -(ESG)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "85.000"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF SCIENCE AND COMMUNICATION MANAGEMENT (ES-GSC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF MANAGEMENT AND SPECIALTIES (ESGS) SAN PEDRO",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "75,000 FCFA"
+      },
+      {
+        "name": "HIGHER SCHOOL OF MANAGEMENT AND SPECIALTIES (ESGS) YAMOUSSOUKRO",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85,000F CFA"
+      },
+{
+        "name": "HIGHER SCHOOL OF MANAGEMENT AND ENTREPRENEURSHIP OF BOUAKÉ (ESGEB)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85,000 FCFA"
+      },
+      {
+        "name": "HIGH SCHOOL OF THE AFRICAN ELITE (ESEA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000F CFA AFF/ 100,000F CFA NON AFF"
+      },
+      {
+        "name": "COCODY HIGH SCHOOL OF TECHNICAL AND COMMERCIAL EDUCATION (ESETEC COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "State: 140,000 F"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE L'ENSEIGNEMENT TECHNIQUE ET COMMERCIAL YAMOUSSOUKRO -(ESETEC YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE LA MER -(ESM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "25 000 F"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE L'ELITE INTERNATIONALE COCODY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85.000 F CFA"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE MANAGEMENT ET DE COMMUNICATION (ESMC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "BINGERVILLE",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE MANAGEMENT ET DE TECHNOLOGIE LE GROUPE BOWL -(ESMAT LE GROUPE BOWL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000 F"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE MANAGEMENT ET DES TECHNOLOGIES -(ESUMAT ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE MANAGEMENT ET DES TECHNOLOGIES -(ESUMAT DIVO)",
+        "type": "Grande École",
+        "city": "DIVO",
+        "municipality": "DIVO",
+        "registrationFee": "70.000 F"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE MARKETING DE L'INFORMATION ET DE TECHNOLOGIE -(ESMIT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "80 000 f"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE TECHNOLOGIE DE COMMERCE ET DE MANAGEMENT ANYAMA -(ESTCOM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ANYAMA",
+        "registrationFee": "85.000 F"
+      },
+      {
+        "name": "ECOLE SUPERIEURE DE TECHNOLOGIES ET DE MANAGEMENT MARCEL HUSSER (ESTM MARCEL HUSSER)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF BUSINESS AND ACCOUNTING (ESACC VAVOUA)",
+        "type": "Grande École",
+        "city": "VAVOUA",
+        "municipality": "VAVOUA",
+        "registrationFee": "85 000 F"
+      },
+{
+        "name": "YOPOUGON BUSINESS AND MANAGEMENT SCHOOL (ESAM YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF BUSINESS AND MANAGEMENT/INSTITUTE OF ADVANCED PROFESSIONAL AND TECHNICAL STUDIES -(ESAM/IHPT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF BUSINESS AND MANAGEMENT/KOKO N'GUESSAN POLYTECHNIC INSTITUTE -(ESAM/IPKN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "HIGHER SCHOOL OF APPLIED TRADES OF CÔTE D'IVOIRE (ESMACI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF ECONOMICS, BUSINESS AND TECHNOLOGY POINCARÉ BOUAKÉ -(ESSECT POINCARÉ BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF COMMERCIAL ECONOMICS AND TECHNOLOGIES POINCARÉ COCODY -(ESSECT POINCARÉ COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "HIGHER SCHOOL OF TECHNIQUES AND SPECIALTIES FOR EDUCATION AND TRAINING (EDUFOR)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "75000FCFA"
+      },
+      {
+        "name": "AGBOVILLE GRADUATE SCHOOL OF ADVANCED TECHNOLOGIES AND MANAGEMENT (ESTAM AGBOVILLE)",
+        "type": "Grande École",
+        "city": "AGBOVILLE",
+        "municipality": "AGBOVILLE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "HIGHER SCHOOL OF ADVANCED TECHNOLOGIES AND MANAGEMENT BOUAKÉ (ESTAM BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "COCODY GRADUATE SCHOOL OF ADVANCED TECHNOLOGIES AND MANAGEMENT (ESTAM COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF INDUSTRIAL TECHNOLOGIES, MANAGEMENT AND ENTREPRENEURSHIP -(ESTIMATED)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "50 000"
+      },
+      {
+        "name": "ESDRAS HIGHER SCHOOL (ES-EZRAS)",
+        "type": "Grande École",
+        "city": "DAOUKRO",
+        "municipality": "DAOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "ÉCOLE SUPÉRIEURE FORMATION AGRICOLE LE PHÉNIX",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "185,000 F"
+      },
+      {
+        "name": "GADJI HIGH SCHOOL (ESUG) PORT-BOUËT",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "85,000 F"
+      },
+{
+        "name": "GADJI HIGH SCHOOL (ESUG) YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "GADJI HIGHER SCHOOL (ESUG)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "HIGHER SCHOOL OF PASCAL (ESGP)",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL GRADUATE SCHOOL OF MANAGEMENT AND MANAGEMENT (ESIGEM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ECOLE SUPERIEURE INTERNATIONALE LE ROI SALOMON YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "165 000 FCFA (Les tenues (costume et polo) sont offertes gratuitement à l'étudiant)"
+      },
+      {
+        "name": "ECOLE SUPERIEURE INTERNATIONALE POLYTECHNIQUE ADAMA SANOGO -(ESIAS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "0"
+      },
+      {
+        "name": "ECOLE SUPERIEURE INZA FANNY (ESIF)",
+        "type": "Grande École",
+        "city": "KANIASSO",
+        "municipality": "KANIASSO",
+        "registrationFee": ""
+      },
+      {
+        "name": "ECOLE SUPERIEURE KINDALL -(ESK)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ANYAMA",
+        "registrationFee": "81 100 F CFA"
+      },
+      {
+        "name": "ECOLE SUPERIEURE LA BONNE ESPERANCE -(ESBE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "75 000 F"
+      },
+      {
+        "name": "ECOLE SUPERIEURE LE PETIT CHAMPION -(ESPC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "65 000 F CFA"
+      },
+      {
+        "name": "ECOLE SUPERIEURE NAYEBA DE DABOU -(ESN)",
+        "type": "Grande École",
+        "city": "DABOU",
+        "municipality": "DABOU",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "ECOLE SUPERIEURE POLYTECHNIQUE (ESP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ECOLE SUPERIEURE POLYTECHNIQUE MINCH (ESPM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "inclus dans la scolarité"
+      },
+      {
+        "name": "ECOLE SUPERIEURE SAINT JEAN-MARIE VIANNEY -(E2S-JMV)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+{
+        "name": "ECOLE SUPERIEURE SKT",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "60 000 FCFA"
+      },
+      {
+        "name": "KORHOGO TECHNICAL AND MANAGEMENT SCHOOL (ESTM-KORHOGO)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": ""
+      },
+      {
+        "name": "TECHNICAL AND VOCATIONAL HIGHER SCHOOL (ESETP)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "LE JOURDAIN TECHNICAL AND VOCATIONAL HIGH SCHOOL",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "Unallocated: 150,000 F / Assigned: 120,000 F"
+      },
+      {
+        "name": "TENIN KARNA UNIVERSITY OF APPLIED SCIENCES -(ESTK)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "YAMOUSSO MACAU GRADUATE SCHOOL (ESYM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "80,000 CFA francs"
+      },
+      {
+        "name": "YOBOUE KOUASSI BLÉ HIGH SCHOOL (ESYKB)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF MARKETING, INFORMATION AND TECHNOLOGY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "32500"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF COMMERCIAL AND ACCOUNTING BUSINESS PRACTICES (ESPACC BOUAFLE)",
+        "type": "Grande École",
+        "city": "BOUAFLE",
+        "municipality": "BOUAFLE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "HIGHER SCHOOL OF TECHNOLOGY -(EST-LOKO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INTERNATIONAL GRADUATE SCHOOL OF MANAGEMENT AND MANAGEMENT (ESIGEM YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "TERTIARY AND APPLIED TECHNOLOGY SCHOOL (ESTTA) - LOKO GROUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "TECHNICAL SCHOOL OF VOCATIONAL EDUCATION PLATEAU - (ETEP PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ABOBO COMPUTER AND COMMERCIAL TECHNICAL SCHOOL (ETIC ABOBO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+{
+        "name": "SCHOOL OF COMPUTER SCIENCE AND COMMERCE BONDOUKOU (ETIC BONDOUKOU)",
+        "type": "Grande École",
+        "city": "BONDOUKOU",
+        "municipality": "BONDOUKOU",
+        "registrationFee": ""
+      },
+      {
+        "name": "COCODY COMPUTER AND COMMERCIAL TECHNICAL SCHOOL (ETIC COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "KORHOGO COMPUTER AND COMMERCIAL TECHNICAL SCHOOL (ETIC KORHOGO)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ECOLE TECHNIQUE INFORMATIQUE ET COMMERCIALE MARCORY -(ETIC MARCORY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ODIENNE COMPUTER AND COMMERCIAL TECHNICAL SCHOOL (ETIC ODIENNE)",
+        "type": "Grande École",
+        "city": "ODIENNE",
+        "municipality": "ODIENNE",
+        "registrationFee": ""
+      },
+      {
+        "name": "YOPOUGON COMPUTER AND COMMERCIAL TECHNICAL SCHOOL (ETIC YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ECOLE TECHNIQUE SUPÉRIEURE SAGUIDIBA YOPOUGON -(ESTA YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "50,000 FCFA"
+      },
+      {
+        "name": "WILLIAM PONTY SCHOOL -(EWP) - LOKO GROUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "EDUCATEACH BOUAKE",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "EFAC (ECOLE DE FORMATION D'ASSISTANCE ET DE CONSEIL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "EIT-NTIC ODIENNE",
+        "type": "Grande École",
+        "city": "ODIENNE",
+        "municipality": "ODIENNE",
+        "registrationFee": "50 000"
+      },
+      {
+        "name": "EPCT BOUAKE",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "EPHESE-TECHNOLOGIE (ECOLE POLYTECHNIQUE DES HAUTES ETUDES D'ECONOMIE DE SCIENCES ET DE TECHNOLOGIE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "EPMACI - Ecole polyvalente du Maghreb en Côte d'Ivoire - RIVIERA",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+{
+        "name": "ESAM VRIDI ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "ESAM YAMOUSSOUKRO",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "150.000 Frs CFA"
+      },
+      {
+        "name": "ESCA-CI (Ecole Supérieure de Commerce et desAffaires de CI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50 000"
+      },
+      {
+        "name": "ESCAM (ECOLE SUPERIEURE DE COMMERCE, D'ADMINISTRATION ET DE MANAGEMENT) BINGERVILLE",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "BINGERVILLE",
+        "registrationFee": ""
+      },
+      {
+        "name": "ESCAMT (ECOLE SUPERIEURE DE COMMERCE, D'ADMINISTRATION ET DE MANAGEMENT ET TECHNIQUE) YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "50 000 F"
+      },
+      {
+        "name": "ESCI PLATEAU -(ESCI PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESCI YOPOUGON -(ESCI YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 FCFA"
+      },
+      {
+        "name": "ESCOM ESPACE FLORA -(ESCOM)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85 000"
+      },
+      {
+        "name": "ESCT BOUAKE",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESDE SUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESEPT Higher School of Vocational and Technical Education",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "ESFIT S.A",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "98000"
+      },
+      {
+        "name": "ESIC AFRICA",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "50 000"
+      },
+      {
+        "name": "ESIGE (GRADUATE SCHOOL OF COMPUTER SCIENCE AND BUSINESS MANAGEMENT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 FCFA"
+      },
+{
+        "name": "ESIM YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESIT 2 TRAY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "25,000 F"
+      },
+      {
+        "name": "ESK 2 ABIDJAN CHAINRINGS",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ESMA ANNEXE BOUAKE",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "150,000 F"
+      },
+      {
+        "name": "ESMAT THE BOWL DALOA GROUP",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "30,000 F"
+      },
+      {
+        "name": "ESMCT (Methodist School of Business and Technology) Ex CMAM-CI",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESSC YOPOUGON (SAINT CHALMEL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESTAN PLATEAU ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESTAN YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000F CFA"
+      },
+      {
+        "name": "ESTC MARCORY ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ESTC VRIDI",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "0 F"
+      },
+      {
+        "name": "ESTC YOPOUGON ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "0 F"
+      },
+      {
+        "name": "ESTEAI RIVIERA BONOUMIN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ETEP - ANNEX SAN PEDRO",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "45 000"
+      },
+{
+        "name": "ETEP - ANNEX YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ETEP ABOBO ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ETEP ANNEX RIVIERA",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ETS SAGUIDIBA (SAGUIDIBA HIGHER TECHNICAL SCHOOL) YAKRO",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "EURO-FORMATION II PLATEAUS (EUROF II PLATEAUS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "MARCORY EURO-FORMATION (EUROF MARCORY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "EURO-FORMATION YOPOUGON -(EUROF YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "EXCELL SUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "BUSINESS SCHOOL BUSINESS EXPERT",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50,000F CFA"
+      },
+      {
+        "name": "Ecole Supérieure de Management La Perruche -(ESM LA PERRUCHE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ANYAMA",
+        "registrationFee": ""
+      },
+      {
+        "name": "Higher School of Interpreting and Translation",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "Entrepreneurs Business School",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "FOANI ITS",
+        "type": "Grande École",
+        "city": "AGNIBILEKRO",
+        "municipality": "AGNIBILEKRO",
+        "registrationFee": "85,000 FCFA"
+      },
+      {
+        "name": "G 10 ACADEMY",
+        "type": "Grande École",
+        "city": "KATIOLA",
+        "municipality": "KATIOLA",
+        "registrationFee": ""
+      },
+{
+        "name": "GECI (EXPERT GROUP) ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GECI EXPERT GROUP ANNEX YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GENERAL ADVICE AND SERVICE YOPOUGON -(GECOS YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "175 000"
+      },
+      {
+        "name": "GISTECOM - HIGHER TECHNICAL AND COMMERCIAL INSTITUTE YAMOUSSOUKRO",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85,000F CFA"
+      },
+      {
+        "name": "GRADUATE SCHOOL OF MANAGEMENT -(GSM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 FCFA"
+      },
+      {
+        "name": "ELITES VISION LARGE GROUP -(2GEV)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "GRANDE ECOLE D'INFORMATIQUE ET DE GESTION D'ENTREPRISE -(GEIGE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000 CFA francs"
+      },
+      {
+        "name": "AFFOUBENOU - DALOA GROUP",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "CEFIAT ABIDJAN GROUP -(CEFIAT ABIDJAN GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "CEFIAT SALOMON GROUP -(CEFIAT SALOMON GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "CONCORDET BINGERVILLE GROUP -(ESGTC BINGERVILLE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "CONCORDET N'DOTRE GROUP -(ESGTC N'DOTRE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL CONSULTING AND STRATEGY GROUP POLE POLYTECHNIQUE -(CSI PP GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+{
+        "name": "GROUPE D'ENSEIGNEMENT SUPÉRIEUR ET PROFESSIONNEL D'AGBE (GESSP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "AGBE HIGHER AND VOCATIONAL EDUCATION GROUP (GESSP) LAKOTA",
+        "type": "Grande École",
+        "city": "LAKOTA",
+        "municipality": "LAKOTA",
+        "registrationFee": ""
+      },
+      {
+        "name": "AGBE LAKOTA HIGHER AND VOCATIONAL EDUCATION GROUP (GESSP LAKOTA)",
+        "type": "Grande École",
+        "city": "LAKOTA",
+        "municipality": "LAKOTA",
+        "registrationFee": ""
+      },
+      {
+        "name": "TRAINING GROUP IN BUSINESS AND BUSINESS MANAGEMENT (CGE) SOUBRE",
+        "type": "Grande École",
+        "city": "SOUBRE",
+        "municipality": "SOUBRE",
+        "registrationFee": "90,000F CFA"
+      },
+      {
+        "name": "DALOA BUSINESS AND BUSINESS MANAGEMENT TRAINING GROUP (CGE DALOA GROUP)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85,000F CFA"
+      },
+      {
+        "name": "YOPOUGON BUSINESS AND BUSINESS MANAGEMENT TRAINING GROUP (YOPOUGON CGE GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "E-CAMBONOU GROUP",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": ""
+      },
+      {
+        "name": "ABIDJAN SCHOOL GROUP (GEA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "PORT-BOUËT SCHOOL OF TECHNOLOGY AND BUSINESS GROUP -(ETEC PORT-BOUËT GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "YOPOUGON SCHOOL OF TECHNOLOGY AND BUSINESS GROUP -(ETEC YOPOUGON GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "GROUPE ECOLE DES HAUTES ETUDES DE GESTION BOUAKÉ -(EDHEG BOUAKÉ GROUP)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GROUP ECOLE DES HAUTES ETUDES DE GESTION SAN-PEDRO (EDHEG GROUP SAN-PEDRO)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ECOLE DES HAUTES ETUDES DE GESTION-ABIDJAN GROUP (EDHEG ABIDJAN GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+{
+        "name": "SCHOOL OF PROFESSIONS OF THE FUTURE GROUP (EPRA GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "Affected 60,000 F"
+      },
+      {
+        "name": "SCHOOL OF APPLIED SCIENCES AND BUSINESS MANAGEMENT GROUP OF ABIDJAN PLATEAU -(ESSA PLATEAU GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GAGNOA SCHOOL OF APPLIED SCIENCES AND BUSINESS MANAGEMENT GROUP (ESSA GAGNOA GROUP)",
+        "type": "Grande École",
+        "city": "GAGNOA",
+        "municipality": "GAGNOA",
+        "registrationFee": ""
+      },
+      {
+        "name": "GROUP SCHOOL COMPANY EMPLOYMENT PLATEAU -(GROUP 3RD PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": ""
+      },
+      {
+        "name": "YOPOUGON SCHOOL AND EMPLOYMENT GROUP - (3RD YOPOUGON GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "50,000 F"
+      },
+      {
+        "name": "INTERNATIONAL SCHOOL OF BUSINESS AND MANAGEMENT GROUP (GPE EICG)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85,000 FCFA"
+      },
+      {
+        "name": "N'GUETTIA SCHOOL GROUP (GEN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": ""
+      },
+      {
+        "name": "COCODY HIGHER SCHOOL OF BUSINESS, MANAGEMENT AND TECHNOLOGY GROUP (ESCOGET COCODY GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GROUPE ECOLE SUPÉRIEURE DE COMMERCE, GESTION ET DE TECHNOLOGIE PLATEAU -(ESCOGET PLATEAU GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INTERNATIONAL SCHOOL OF VOCATIONAL TRAINING GROUP (ESIFOP GROUP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "BETHEL SCHOOLS GROUP (GEB)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "AGITEL-FORMATION ENGINEERING SCHOOL GROUP (AGITEL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "40,000 F"
+      },
+      {
+        "name": "ESC GROUP ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ESC BOUAKE GROUP",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+{
+        "name": "EXPERT METIER SA GROUP -(GEM SA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "150,000 FCFA"
+      },
+      {
+        "name": "INSTEC GROUP -(INSTEC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "110 000"
+      },
+      {
+        "name": "INTELLECT GROUP SOBER FORMATION (GIFS)",
+        "type": "Grande École",
+        "city": "SOUBRE",
+        "municipality": "SOUBRE",
+        "registrationFee": "85,000 FCFA"
+      },
+      {
+        "name": "GROUPE ITA-INGÉNIERIE SA 2 PLATEAUX -(G2I 2 PLATEAUX)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "GROUPE ITA-INGENIERIE SA ANTENNE BOUAKÉ -(G2I BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GROUPE ITA-INGENIERIE SA ANTENNE SAN-PEDRO -(G2I SAN-PEDRO)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "GROUPE ITA-INGENIERIE SA ANTENNE YOPOUGON -(G2I YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "ITA-INGÉNIERIE SA MARCORY GROUP -(G2I MARCORY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "8 5000 F"
+      },
+      {
+        "name": "ITA-INGÉNIERIE SA RIVIERA-(G2I RIVIERA) GROUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ITA-INGÉNIERIE SA YOPOUGON-(G2I YOPOUGON) GROUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "IVOIRE ACADEMY GROUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "MAAXIT ABIDJAN GROUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "DUEKOUE",
+        "registrationFee": "85000"
+      },
+{
+        "name": "MGS GROUP",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "BONOUA",
+        "registrationFee": "50,000 F"
+      },
+      {
+        "name": "ONYX EXCELLENCE ABENGOUROU GROUP (GOEA)",
+        "type": "Grande École",
+        "city": "ABENGURU",
+        "municipality": "ABENGURU",
+        "registrationFee": ""
+      },
+      {
+        "name": "GROUPE ONYX EXCELLENCE DALOA -(GOED)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": ""
+      },
+      {
+        "name": "GROUPE ONYX EXCELLENCE KORHOGO -(GOEK)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": ""
+      },
+      {
+        "name": "GROUPE ONYX EXCELLENCE PLATEAU -(GOEP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GROUPE ONYX EXCELLENCE SAN-PEDRO -(GOESP)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "GROUPE ONYX-EXCELLENCE YOPOUGON -(GOEY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GROUPE PIGIER -CI YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "30 000 F"
+      },
+      {
+        "name": "GROUPE SUCCES FORMATION -(GSF)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "GROUPE SUP FORMATION (GSF)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "GROUPE YAL -(GYAL)",
+        "type": "Grande École",
+        "city": "DIVO",
+        "municipality": "DIVO",
+        "registrationFee": "85 000 FCFA"
+      },
+      {
+        "name": "GSMA INPRAT MIADZIN ADZOPE",
+        "type": "Grande École",
+        "city": "ADZOPE",
+        "municipality": "ADZOPE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "GSMA-IETA",
+        "type": "Grande École",
+        "city": "ADZOPE",
+        "municipality": "ADZOPE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "Groupe d'Enseignement Supérieur Technique et Professionnel de Côte d'Ivoire (GESTPCI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+{
+        "name": "HAUTE ECOLE GALILEE -(HEG)",
+        "type": "Grande École",
+        "city": "BASSAM",
+        "municipality": "BASSAM",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "HAUTE ECOLE SUPERIEURE D'ADMINISTRATION DE COMMERCE ET DE MANAGEMENT (HT ESACOM)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "90.000 F CFA"
+      },
+      {
+        "name": "HAUTES ETUDES DE COMMERCE ET D'ADMINISTRATION DES ENTREPRISES YOPOUGON -(HEC-AD YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "129 000 F"
+      },
+      {
+        "name": "HAUTES ETUDES COMMERCIALES LA ROCHE RIVIERA -(HEC LA ROCHE RIVIERA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "HAUTES ETUDES DE COMMERCE ET D'ADMINISTRATION DES ENTREPRISES YAMOUSSOUKRO -(HEC-AD YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "100 000 F"
+      },
+      {
+        "name": "HAUTES ETUDES EN GESTION, BANQUE ET ASSURANCE -(HEGES)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "HAUTES ETUDES PROFESSIONNELLES (HEP)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "HEC LA ROCHE PLATEAU ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85 000"
+      },
+      {
+        "name": "HEC-AD N'ZUESSY YAMOUSSOUKRO",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "100.000 F"
+      },
+      {
+        "name": "HETEC ABOBO",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "HETEC BOUAKE",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "30 000 frs"
+      },
+      {
+        "name": "HOREB BUSINESS AND FINANCE ET INSTITUT VICTOR HUGO D'ABIDJAN (IVHA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ADJAME",
+        "registrationFee": ""
+      },
+      {
+        "name": "I2SMA",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "IAM",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "220 000 FCFA/30 000 FCFA (AFFECTES DE L'ETAT)"
+      },
+{
+        "name": "ICOGES ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "IESTP ABENGOUROU",
+        "type": "Grande École",
+        "city": "ABENGOUROU",
+        "municipality": "ABENGOUROU",
+        "registrationFee": "110 000 FCFA"
+      },
+      {
+        "name": "IFIT ADJAME ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ADJAME",
+        "registrationFee": "45 000 FRS CFA"
+      },
+      {
+        "name": "IFORAS - COCODY -(IFORAS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000F CFA"
+      },
+      {
+        "name": "IFPAM",
+        "type": "Grande École",
+        "city": "DIVO",
+        "municipality": "DIVO",
+        "registrationFee": "85,000F CFA"
+      },
+      {
+        "name": "IHEM-SO 2 ABIDJAN TRAYS",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "IHEM-SO BOUAKÉ",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "IHETT",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "45,000 CFA francs"
+      },
+      {
+        "name": "IHPT TREICHVILLE",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "150000"
+      },
+      {
+        "name": "IMBA INTERNATIONAL BUSINESS SCHOOL -(IMBA)",
+        "type": "Grande École",
+        "city": "BINGERVILLE",
+        "municipality": "BINGERVILLE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "IMCC ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "75,000 francs"
+      },
+      {
+        "name": "IMOTEP ACADEMY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000FCFA"
+      },
+      {
+        "name": "HIGHER INSTITUTE OF FORMATION AKA KOUAMÉ (ISFAK)",
+        "type": "Grande École",
+        "city": "AKOUPE",
+        "municipality": "AKOUPE",
+        "registrationFee": "100,000F CFA"
+      },
+      {
+        "name": "YOPOUGON VOCATIONAL TRAINING INSTITUTE (IMF YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "0 F"
+      },
+{
+        "name": "AFRICAN DIGITAL INSTITUTE (IAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT BÉNIS SUCCES FORMATION D'AFRIQUE (IBSFA-ADIAKE)",
+        "type": "Grande École",
+        "city": "ADIAKE",
+        "municipality": "ADIAKE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "BOOSTER AFRICA INSTITUTE",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "CERCO INSTITUTE ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "EYLIM INSTITUTE OF HIGHER EDUCATION (IESE)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "80,000 CFA francs"
+      },
+      {
+        "name": "INSTITUTE OF HIGHER EDUCATION THE BOUAKÉ CAMPUS -(IES-THE BOUAKÉ CAMPUS)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INSTITUT D'ENSEIGNEMENT SUPÉRIEUR LE CAMPUS COCODY -(IES-LE CAMPUS COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUTE OF HIGHER EDUCATION LE CAMPUS MAN -(IES-LE CAMPUS MAN)",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INSTITUTE OF HIGHER EDUCATION THE YOPOUGON CAMPUS -(IES-THE YOPOUGON CAMPUS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT D'ENSEIGNEMENT SUPERIEUR OFFOUMOU YOPOUGON -(IESO YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT D'ETUDES SUPERIEURES D'ABIDJAN -(IESA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT DE COMMUNICATION DE GESTION ET D'ETUDE SCIENTIFIQUE PLATEAU -(ICOGES PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DE FORMATION AGROBIO (IFA)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION AGROBIO -(GROUPE IFA)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": ""
+      },
+{
+        "name": "INSTITUT DE FORMATION ARTS ET DEVELOPPEMENT -(IFAD)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DE FORMATION AUX METIERS (IMF) DABOU",
+        "type": "Grande École",
+        "city": "DABOU",
+        "municipality": "DABOU",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION CEFAT INTER BONDOUKOU (IFCI)",
+        "type": "Grande École",
+        "city": "BONDOUKOU",
+        "municipality": "BONDOUKOU",
+        "registrationFee": "100 000 F CFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION DOUMBIA TOUMANY MUHAMMAD -(IF-DTM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION ET D'ENSEIGNEMENT SUPÉRIEUR -(IFES)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "75 000 F"
+      },
+      {
+        "name": "INSTITUT DE FORMATION PROFESSIONNELLE AGRICOLE D'ADIAKE -(IFPA ADIAKE)",
+        "type": "Grande École",
+        "city": "ADIAKE",
+        "municipality": "ADIAKE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DE FORMATION PROFESSIONNELLE ET GENERALE/INSTITUT SUPERIEUR DE FORMATION TECHNIQUE ET PROFESSIONNELLE KORHOGO -(IFPG/ISFPT KORHOGO)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DE FORMATION PROFESSIONNELLE ET GENERALE/INSTITUT SUPERIEUR DE FORMATION TECHNIQUE ET PROFESSIONNELLE PLATEAU -(IFPG/ISFPT PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE ABOBO BAOULE -(IFSM ABOBO BAOULE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85.000 FCFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE ABOBO CAMP COMMANDO -(IFSM ABOBO CAMP COMMANDO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE ABOBO MARAHOUE -(IFSM ABOBO MARAHOUE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85.000 FCFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE ADJAME -(IFSM ADJAME)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ADJAME",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE ANGRE -(IFSM ANGRE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85.000 FCFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE ANYAMA (IFSM ANYAMA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ANYAMA",
+        "registrationFee": "85.000frs"
+      },
+{
+        "name": "INSTITUT DE FORMATION SAINTE MARIE AZITO (IFSM AZITO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85.000frs"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE COCODY -(IFSM COCODY CHU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE COCODY -(IFSM COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85.000 FCFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE KOUMASSI -(IFSM KOUMASSI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": "85.000 FCFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE PORT BOUET (IFSM PORT BOUET)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "85.000frs"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE YOPOUGON -(IFSM YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85.000 FCFA"
+      },
+      {
+        "name": "INSTITUT DE FORMATION SAINTE MARIE YOPOUGON ANDOKOI -(IFSM YOPOUGON ANDOKOI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT DE FORMATION SUPERIEUR ICK BOUAKE (IFS-ICK)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "75.000 F"
+      },
+      {
+        "name": "INSTITUT DE FORMATIONS PROFESSIONNELLES KADI'S RAOUDA -(IFP KADI'S RAOUDA ANYAMA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ANYAMA",
+        "registrationFee": "Gratuit"
+      },
+      {
+        "name": "INSTITUT DE FORMATIONS PROFESSIONNELLES KADI'S RAOUDA -(IFP KADI'S RAOUDA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "80 000 F CFA"
+      },
+      {
+        "name": "INSTITUT DE MANAGEMENT ET DES ETUDES D'ADMINISTRATION (IMEA) COCODY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50.000 FCFA"
+      },
+      {
+        "name": "INSTITUT DE MANAGEMENT, DE GESTION ET DE L'HOTELLERIE (IMGH)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000"
+      },
+      {
+        "name": "INSTITUT DE RECHERCHE EN SECURITE ET PROTECTION DE L'ENVIRONNEMENT -(IRSPE KIBIO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DE SPECIALITES ET DE CLASSES PREPARATOIRES - INSPC",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 FCFA"
+      },
+{
+        "name": "INSTITUT DE TECHNOLOGIE AURELS (IT AURELS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "0 FCFA"
+      },
+      {
+        "name": "INSTITUT DE TECHNOLOGIES ET SPECIALITES -(ITES)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85.000 CFA"
+      },
+      {
+        "name": "INSTITUT DES HAUTES ETUDES COMMERCIALES D'ABIDJAN -(IHEC ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DES HAUTES ETUDES EN DIGITAL ET EN COMMUNICATION (IHEDC)",
+        "type": "Grande École",
+        "city": "BASSAM",
+        "municipality": "BASSAM",
+        "registrationFee": "100 000F CFA"
+      },
+      {
+        "name": "INSTITUT DES HAUTES ETUDES PROFESSIONNELLES AFRIQUE -(IHEP AFRIQUE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "270 000 F"
+      },
+      {
+        "name": "INSTITUT DES HAUTES ETUDES SUPERIEURES AVICENNE -(IHES AVICENNE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100.000"
+      },
+      {
+        "name": "INSTITUT DES NOUVELLES TECHNIQUES AGRICOLES -(INTA)",
+        "type": "Grande École",
+        "city": "AZAGUIE",
+        "municipality": "AZAGUIE",
+        "registrationFee": "100 000"
+      },
+      {
+        "name": "INSTITUT DES SCIENCES APPLIQUEES ET DE TECHNOLOGIE -(ISATECH)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT DES SCIENCES ET INGENIERIES DE DEVELOPPEMENT -(ISID)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT DES SCIENCES ET DES TECHNIQUES -(ISET Sarl)",
+        "type": "Grande École",
+        "city": "KATIOLA",
+        "municipality": "KATIOLA",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT DES SCIENCES INFORMATIQUE ET DE GESTION (ISIG) YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT DES TECHNOLOGIES D'ABIDJAN (ITA ABOBO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+{
+        "name": "INSTITUT DOMORAUD D'ENSEIGNEMENT SUPERIEUR AUX METIERS PROFESSIONNELS ET TECHNIQUES (IDES-MPT)",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "85000 FCFA"
+      },
+      {
+        "name": "INSTITUT FAMAH ANGRE -(IF ANGRE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH BONOUMIN -(IF BONOUMIN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH BOUAKE (IF BOUAKE)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH COCODY VALLON (IF COCODY VALLON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle"
+      },
+      {
+        "name": "INSTITUT FAMAH DIMBOKRO -(IF DIMBOKRO)",
+        "type": "Grande École",
+        "city": "DIMBOKRO",
+        "municipality": "DIMBOKRO",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH M'BAHIAKRO -(IF M'BAHIAKRO)",
+        "type": "Grande École",
+        "city": "M'BAHIAKRO",
+        "municipality": "M'BAHIAKRO",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH MARCORY -(IF MARCORY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH PORT-BOUËT -(IF PORT-BOUËT) ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH RIVIERA ATTOBAN (IF ATTOBAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH YAMOUSSOUKRO (IF YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FAMAH YOPOUGON MILLIONNAIRE -(IF YOPOUGON MILLIONNAIRE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT FINAK DE SONGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "SONGON",
+        "registrationFee": "85.000 F"
+      },
+      {
+        "name": "INSTITUT HOTELIER FEH KESSE DE MAN",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": ""
+      },
+{
+        "name": "IMPERIAL INSTITUTE -(2I)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "59000 cfa"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE OF ADMINISTRATION AND MANAGEMENT -(2IAM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE FOR ENTREPRENEURSHIP TRAINING-2IAE AZAGUIE -(2IFE-2IAE AZAGUIÉ)",
+        "type": "Grande École",
+        "city": "AZAGUIE",
+        "municipality": "AZAGUIE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE FOR ENTREPRENEURSHIP TRAINING-2IAE M'BATTO -(2IFE-2IAE M'BATTO)",
+        "type": "Grande École",
+        "city": "M'BATTO",
+        "municipality": "M'BATTO",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE FOR ENTREPRENEURSHIP TRAINING-2IAE RIVIERA PALMERAIE -(2IFE-2IAE RIVIERA PALMERAIE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE FOR ENTREPRENEURSHIP TRAINING-2IAE YAMOUSSOUKRO -(2IFE-2IAE YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE FOR ENTREPRENEURSHIP TRAINING-2IAE YOPOUGON -(2IFE-2IAE YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE FOR TECHNICAL AND VOCATIONAL TRAINING -(2IFTP)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE OF HIGHER TECHNOLOGY -(2ITS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100 000"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE OF HIGHER TECHNOLOGY BOUAKÉ -(2ITS BOUAKÉ)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE OF ARTS AND CRAFTS OF CÔTE D'IVOIRE (2IAM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85,000F CFA"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE OF DIGITAL SCIENCES AND ARTS (IISAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "150,000 F"
+      },
+      {
+        "name": "INTERNATIONAL POLYTECHNIC INSTITUTE OF THE ELITES OF ABIDJAN (IIPEA ABOBO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "Included in schooling"
+      },
+      {
+        "name": "INTERNATIONAL POLYTECHNIC INSTITUTE OF ELITES OF ABIDJAN (IIPEA ANGRÉ)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "Included in schooling"
+      },
+{
+        "name": "INTERNATIONAL POLYTECHNIC INSTITUTE OF ELITES OF ABIDJAN (IIPEA KOUMASSI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": "Included in schooling"
+      },
+      {
+        "name": "INTERNATIONAL POLYTECHNIC INSTITUTE OF ELITES OF ABIDJAN (IIPEA PORT BOUET)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PORT BOUET",
+        "registrationFee": "Included in schooling"
+      },
+      {
+        "name": "INTERNATIONAL POLYTECHNIC INSTITUTE OF ELITES OF ABIDJAN (IIPEA RIVIERA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "Included in schooling"
+      },
+      {
+        "name": "INTERNATIONAL POLYTECHNIC INSTITUTE OF ELITES OF ABIDJAN (IIPEA YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "State allocations: 210,000 CFA francs."
+      },
+      {
+        "name": "INTERNATIONAL POLYTECHNIC INSTITUTE OF ELITES OF ABIDJAN (IIPEA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "80000"
+      },
+      {
+        "name": "IRAO COCODY INSTITUTE (IRAO COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200,000 F"
+      },
+      {
+        "name": "IRAO YOPOUGON INSTITUTE -(IRAO YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "200,000 F"
+      },
+      {
+        "name": "LEADER INSTITUTE BOUAKE",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "LEGACY PLATEAU INSTITUTE ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "LKM YOPOUGON INSTITUTE ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "NATIONAL INSTITUTE FOR ECONOMIC AND COMMERCIAL DIGITAL INTELLIGENCE (INEC)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "20,000 F"
+      },
+      {
+        "name": "INSTITUT POLYTECHNIQUE DES MÉTIERS DE BONGOUANOU -(INPM-B)",
+        "type": "Grande École",
+        "city": "BONGOUANOU",
+        "municipality": "BONGOUANOU",
+        "registrationFee": "85,000 F"
+      },
+      {
+        "name": "POLYTECHNIC INSTITUTE OF THE SOUTH (IPS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT POLYTECHNIQUE INTERNATIONALE FRANÇOIS -(IPIF)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+{
+        "name": "MULTI-PURPOSE INSTITUTE OF BUSINESS AND MANAGEMENT (IPAM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "75,000 F"
+      },
+      {
+        "name": "PRESBYTERIAN INSTITUTE OF CÔTE D'IVOIRE",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85,000 FCFA"
+      },
+      {
+        "name": "SIATA PRIVATE INSTITUTE (IP - SIATA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "PROSELYTE INSTITUTE -(IP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85. 000 FCFA"
+      },
+      {
+        "name": "SETOH REGIONAL INSTITUTE OF LOGOUALE (IRS-LOG)",
+        "type": "Grande École",
+        "city": "LOGOUALE",
+        "municipality": "LOGOUALE",
+        "registrationFee": ""
+      },
+      {
+        "name": "SACRED HEART INSTITUTE (ISC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "90 000"
+      },
+      {
+        "name": "SAINT SAUVEUR INSTITUTE OF MEMNI (ISSM)",
+        "type": "Grande École",
+        "city": "ALEPE",
+        "municipality": "ALEPE",
+        "registrationFee": "60,000 CFA francs"
+      },
+      {
+        "name": "HIGHER INSTITUTE OF MANAGEMENT, ECONOMICS AND MANAGEMENT (ISGEMA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "HIGHER INSTITUTE OF APPLIED SCIENCES (INSSA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100,000 F"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR ADAM MARSHALL (ISAM) YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "75,000 CFA francs"
+      },
+{
+        "name": "ADAM MARSHALL PLATEAU GRADUATE INSTITUTE",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TRAY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "AFRICAN HIGHER INSTITUTE OF BUSINESS AND MANAGEMENT (ISACM)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": ""
+      },
+      {
+        "name": "AFRICAN HIGHER INSTITUTE OF MANAGEMENT AND TECHNOLOGY (ISAMAT)",
+        "type": "Grande École",
+        "city": "DABOU",
+        "municipality": "DABOU",
+        "registrationFee": "100,000 F"
+      },
+      {
+        "name": "AKANDJI HIGHER INSTITUTE (IS AKANDJI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "300,000 F"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR ARC-EN-CIEL (ISA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR ATSE YAPI JOSEPH (ISAYJ) ADZOPE",
+        "type": "Grande École",
+        "city": "ADZOPE",
+        "municipality": "ADZOPE",
+        "registrationFee": "85 000F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR AWOSI DAOUKRO -(ISAD)",
+        "type": "Grande École",
+        "city": "DAOUKRO",
+        "municipality": "DAOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR BLAISE PASCAL BINGERVILLE -(ISBP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "BINGERVILLE",
+        "registrationFee": "120 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR BOSOL (ISB ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100.000 F tertiaire / 120.000 F industrielle"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR BOSOL GAGNOA -(ISB GAGNOA)",
+        "type": "Grande École",
+        "city": "GAGNOA",
+        "municipality": "GAGNOA",
+        "registrationFee": "100 000 tertiaire /120 000 industrielle"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR D'ADMINISTRATION D'ENTREPRISE -(ISAE ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR D'ETUDES COMMERCIALES -(ISEC)",
+        "type": "Grande École",
+        "city": "BOUAFLE",
+        "municipality": "BOUAFLE",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE COMMERCE D'ADMINISTRATION ET DE TECHNOLOGIE -(ISCAT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE COMMERCE ET D'ADMINISTRATION DES ENTREPRISES (ISCAE) ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+{
+        "name": "INSTITUT SUPERIEUR DE COMMERCE ET DE MANAGEMENT -(ISCM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE COMMERCE ET DE MANAGEMENT MAERIFA (ISCM MAERIFA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "70 000F CFA TERT/ 80 000F CFA IND"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE COMMERCE, D'AGRICULTURE ET DE NOUVELLES TECHNOLOGIES -(ISCANT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION APPLIQUEE (ISFA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "0 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION AUX METIERS DE L'INFORMATIQUE -(ISFMI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "80 000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION DE DIVO (ISF)",
+        "type": "Grande École",
+        "city": "DIVO",
+        "municipality": "DIVO",
+        "registrationFee": "85 000 FRS"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION ELITE TECHNOLOGIE YOPOUGON NIANGON -(ISF-ELITECH)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION EN COMMERCE ET GESTION D'ABIDJAN -(ISFCG)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION ET D'INNOVATION D'ABIDJAN - ISFIA",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION POUR LE DEVELOPPEMENT DES COMPETENCES (ISDEC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "75 000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION PROFESSIONNELLE HARIEL (ISFPH)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "105 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE FORMATION SIBATA -(ISFOS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE GESTION DES ENTREPRISES (ISGE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85.000 FR"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE GESTION ET DE COMMERCE (ISGC) DALOA",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85 000 F CFA"
+      },
+{
+        "name": "INSTITUT SUPERIEUR DE GESTION ET DU BATIMENT -(ISG BAT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "70 000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE LA CULTURE ET DES ARTS -(INSCA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE MANAGEMENT ADONAÏ -(ISM ADONAÏ)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "40.000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE MARKETING ET DE COMPTABILITE COCODY -(ISMC COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE STATISTIQUE D'ECONOMETRIE ET DE DATA SCIENCE -(INSSEDS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE APPLIQUEE DE YAMOUSSOUKRO -(ISTA)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "90 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE AVANCEE DE GAGNOA (ISTAG)",
+        "type": "Grande École",
+        "city": "GAGNOA",
+        "municipality": "GAGNOA",
+        "registrationFee": "85 000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE DE COTE D'IVOIRE COCODY -(ISTCI COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE DE COTE D'IVOIRE PLATEAU -(ISTCI PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "200 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE DE COTE D'IVOIRE YOPOUGON -(ISTCI YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "200 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE DE DÉVELOPPEMENT DURABLE -(IST2D)",
+        "type": "Grande École",
+        "city": "DABOU",
+        "municipality": "DABOU",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE DE L'IFFOU (ISTI)",
+        "type": "Grande École",
+        "city": "BOUAFLE",
+        "municipality": "BOUAFLE",
+        "registrationFee": "90 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE DE L'IFFOU -(ISTI)",
+        "type": "Grande École",
+        "city": "DAOUKRO",
+        "municipality": "DAOUKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE DUBASS -(IST-DUBASS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "RIVIERA",
+        "registrationFee": "85000"
+      },
+{
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE ET PROFESSIONNEL (ISTP) YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE LAMA FOFANA (ISTLAF)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DE TECHNOLOGIES APPLIQUEES ET COMMERCIALES",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "75.000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES CARRIERES COMMERCIALES COCODY -(ISCC COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES CARRIERES COMMERCIALES TREICHVILLE -(ISCC TREICHVILLE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES METIERS DE GESTION ET DE TECHNOLOGIE -(ISMGT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES NOUVELLES TECHNOLOGIES ET DE GESTION - GROUPE SEGBE",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "90 000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES SCIENCES DE L'AGRICULTURE ET DE L'ALIMENTATION (INSS-AL EPHRATA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "90 000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES SCIENCES ET DE GESTION -(IS2G)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNIQUES COMPTABLES, JURIDIQUES ET FISCALES BONOUA -(ISTCJF BONOUA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "BONOUA",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNIQUES COMPTABLES, JURIDIQUES ET FISCALES COCODY -(ISTCJF COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNOLOGIES APPLIQUES DE BONDOUKOU -(ITAB)",
+        "type": "Grande École",
+        "city": "BONDOUKOU",
+        "municipality": "BONDOUKOU",
+        "registrationFee": "100.000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNOLOGIES ET DE MANAGEMENT ABIDJAN (ISTEMA PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "0 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNOLOGIES ET DE MANAGEMENT ABIDJAN-(ISTEMA YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "AFFECTES: 0 F"
+      },
+{
+        "name": "INSTITUT SUPERIEUR DES TECHNOLOGIES ET DE MANAGEMENT COCODY-(ISTM COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "70 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNOLOGIES ET DE MANAGEMENT MAN-(ISTM MAN)",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "Affecté : 70 000 Fcfa , Non affecté : 100 000 Fcfa"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNOLOGIES ET DE MANAGEMENT PLATEAU -(ISTM PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "70 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DES TECHNOLOGIES ET DE MANAGEMENT YOPOUGON -(ISTM YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "70 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DJEKAT IGNACE DE LOYOLA -(ISDIL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "BINGERVILLE",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR DU COMMERCE D'ADMINISTRATION DES ENTREPRISES -(ISCAE YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR EZ",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR FADETTE 2 (ISF 2)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR FRED ET POPEE/EP2059",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR GNIRA-CI (IS GNIRA-CI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR GRACE MARIE -(ISGM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR INTERNATIONAL SARHAOUM (ISIS)",
+        "type": "Grande École",
+        "city": "HERMANKONO",
+        "municipality": "HERMANKONO",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR JONATHAN LEVIS (ISJL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "95 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR KLEYS -(KLEYS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+{
+        "name": "INSTITUT SUPERIEUR LE FROMAGER -(IS LE FROMAGER)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR LE PONT NEUF (ISLPN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR LES 3A DE LA ME (IS3AM ADZOPE)",
+        "type": "Grande École",
+        "city": "ADZOPE",
+        "municipality": "ADZOPE",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR LES CAIMANS-SAN PEDRO -(ISC-SAN PEDRO)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "85 000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR LES ELITES KORHOGO -(ISE KORHOGO)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR LOUIS LE GRAND -(ISLG)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "70 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR LOWMAMNESS -(ISL YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR MICHEL ZADI (ISMZ)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR MO BAMBA (ISMB) MAN",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "110 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR N'GOTTA DE TOUMODI (INST TOUMODI)",
+        "type": "Grande École",
+        "city": "TOUMODI",
+        "municipality": "TOUMODI",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR N'GOTTA TOUMODI -(ISNT)",
+        "type": "Grande École",
+        "city": "TOUMODI",
+        "municipality": "TOUMODI",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR NACHA AHMED DANIEL (ISNAD)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR NANAN THERESE -(ISNT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR NATHAN YOPOUGON (ISNY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "80.000 F"
+      },
+{
+        "name": "INSTITUT SUPERIEUR POLYTECHNIQUE ACKA AWADJO CECILE (ISPEC) GRAND LAHOU",
+        "type": "Grande École",
+        "city": "GRAND LAHOU",
+        "municipality": "GRAND LAHOU",
+        "registrationFee": "90 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR POLYTECHNIQUE D'AFRIQUE (ISPA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "150.000F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR POLYTECHNIQUE ROOSEVELT (ISPR)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "50 000F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR POLYTECHNICAL WASSA BOUAKE -(ISP WASSA BOUAKE)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR POLYTECHNICAL WASSA COCODY -(ISP WASSA COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000f pour les filière tertiaire et 95 000f les filière industrielle"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR PROFESSIONNEL -(ISP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITU SUPERIEUR PROFESSIONNEL NOTRE DAME PAIX TREICHVILLE -(ISP NDP TREICHVILLE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR ROBERT DION -(ISRD)",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "75 100 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR SAINT CYRILLE (ISSC ABOBO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR SAINT CYRILLE -(ISSC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR SAINT JAURES -(ISSJ)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "70 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR SAINT MICHEL ANYAMA",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ANYAMA",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPERIEUR SAINTE FOI ABIDJAN -(ISSF ABIDJAN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "80000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR SAKANOUKO LOSSIE (ISSL)",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": ""
+      },
+{
+        "name": "INSTITUT SUPERIEUR SARHAOUM MAN",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR SEPI -(IS YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 filière tertiaire ; 95 000 filière industrielle/ Non Affectés 300 000 Industrielle ; 250 000 Tertiaires"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR TECHNIQUE LA COLOMBE -(IST LA COLOMBE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": "60.000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR TECHNIQUE NOTRE DAME SAINT PIERRE LA CHAPELLE ABOISSO -(IST ND ST PIERRE LA CHAPELLE ABOISSO)",
+        "type": "Grande École",
+        "city": "ABOISSO",
+        "municipality": "ABOISSO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEUR TECHNIQUE SAINT JACQUES -(IST St JACQUES)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPERIEURE DE TECHNOLOGIE ET PROFESSIONNEL YOPOUGON -(ISTP YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR ADAM MARSHALL ABOBO",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": "75000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR AKONDA N'DOUCI -(ISAN)",
+        "type": "Grande École",
+        "city": "N'DOUCI",
+        "municipality": "N'DOUCI",
+        "registrationFee": "85 000 FCFA"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR DE FORMATION DES OPTICIENS -(ISFOP -OPTIQUE LOKO)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR DE FORMATION PROFESSIONNELLE ZONE 4C -(ISFOP Z4C) - GROUPE LOKO",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR DE GESTION YOH -(ISG YOH)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR DE MARKETING ET DE COMPTABILITE DALOA -(ISMC DALOA)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR JEAN PAUL II -(ISJP 2) - GROUPE LOKO",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR LA FONTAINE -(ISLF) - GROUPE LOKO",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR LE PROGRES -(ISLP) - GROUPE LOKO",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR SODEC / KORHOGO",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": ""
+      },
+
+{
+        "name": "INSTITUT SUPÉRIEUR TERTIAIRE ET DE TECHNOLOGIE AVANCÉE -(ISTTA) - GROUPE LOKO",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR DE FORMATION TECHNIQUE ET TERTIAIRE YOPOUGON -(ISFOTT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INSTITUT TECHNIQUE ET PROFESSIONNEL - CERIN -(ITP - CERIN)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DE TECHNOLOGIE ACADEMIA (IUT-A)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DE TECHNOLOGIE D'ABIDJAN COCODY -(IUT ABIDJAN COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200 000 F"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DE TECHNOLOGIE D'ABIDJAN YOPOUGON -(IUT ABIDJAN YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "200 000 F"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DES HAUTES ETUDES PROFESSIONNELLES (IUHEP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DES SCIENCES DE LA SANTE ET DE L'ENVIRONNEMENT (IUSSE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "106 500 F"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DES SCIENCES DE LA SANTE ET DE L'ENVIRONNEMENT (IUSSE-AT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "BINGERVILLE",
+        "registrationFee": "135 000F CFA"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DES SCIENCES DE LA SANTE ET DE L'ENVIRONNEMENT (IUSSE) SAN PEDRO",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": "65 000F CFA"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE DU BATIMENT ET DES TRAVAUX PUBLICS (IUBTP)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT UNIVERSITAIRE POLYTECHNIQUE D'ABIDJAN YOPOUGON -(IUPA YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT VOLTAIRE D'ENSEIGNEMENT SUPERIEUR TECHNIQUE ET PROFESSIONNEL MARCORY -(IVESTP MARCORY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT VOLTAIRE D'ENSEIGNEMENT SUPERIEUR TECHNIQUE ET PROFESSIONNEL TREICHVILLE -(IVESTP TREICHVILLE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": ""
+      },
+{
+        "name": "INSTITUT-CONSERVATOIRE DES SCIENCES DE GESTION DE COCODY -(ICS COCODY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR D'ETUDES COMMERCIALES (ISEC MAN)",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INTELLECT AFRIQUE -(IA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "MARCORY",
+        "registrationFee": "25 000 F"
+      },
+      {
+        "name": "INTERNATIONAL BUSINESS SCHOOL COTE D'IVOIRE -(IBS-CI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "TREICHVILLE",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INTERNATIONAL BUSINESS SCHOOL COTE D'IVOIRE -(IBS-CI) AGBOVILLE",
+        "type": "Grande École",
+        "city": "AGBOVILLE",
+        "municipality": "AGBOVILLE",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL HIGH BUSINESS INSTITUTE -(IHBI)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85.000F"
+      },
+      {
+        "name": "INTERNATIONAL INSTITUTE OF MINES PETROLEUM AND ENERGY (IMPE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "300.000 frs CFA"
+      },
+      {
+        "name": "INTERNATIONAL MANAGEMENT BUSINESS SCHOOL (IMBS ADIAKE)",
+        "type": "Grande École",
+        "city": "ADIAKE",
+        "municipality": "ADIAKE",
+        "registrationFee": ""
+      },
+      {
+        "name": "INTERNATIONAL MANAGEMENT BUSINESS SCHOOL (IMBS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INTERNATIONAL PROFESSIONNEL INSTITUT -(IPI)",
+        "type": "Grande École",
+        "city": "SAN PEDRO",
+        "municipality": "SAN PEDRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "IPAC PLATEAU ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "IPB 2 PLATEAUX ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "IPEX KORHOGO",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": "50 000"
+      },
+      {
+        "name": "ISAB (Institut Supérieur Africain d'Assurances Banque et Bourses)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+{
+        "name": "ISCAE ANNEXE QUARTIER CAFOP YAMOUSSOUKRO",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ISFPT LE TRIOMPHE (Institut Supérieur de Formation Professionnelle et Technique)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ISID ABOISSO",
+        "type": "Grande École",
+        "city": "ABOISSO",
+        "municipality": "ABOISSO",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "ISMT INSTITUT SUPERIEUR DU MONT TONKPI MAN",
+        "type": "Grande École",
+        "city": "MAN",
+        "municipality": "MAN",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "ISNO SEGUELA",
+        "type": "Grande École",
+        "city": "SEGUELA",
+        "municipality": "SEGUELA",
+        "registrationFee": ""
+      },
+      {
+        "name": "ISP-HOREB ADJAME",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ADJAME",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "IST - MUPES INSTITUT SUPERIEUR DE TECHNOLOGIE MUPES",
+        "type": "Grande École",
+        "city": "AGNIBILEKRO",
+        "municipality": "AGNIBILEKRO",
+        "registrationFee": ""
+      },
+      {
+        "name": "IST RACINE",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": ""
+      },
+      {
+        "name": "IST SAINT JACQUES BOUAKE -(ISTSJBKE)",
+        "type": "Grande École",
+        "city": "BOUAKE",
+        "municipality": "BOUAKE",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "IST SAINTE THERESE KOUMASSI ABIDJAN",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "KOUMASSI",
+        "registrationFee": "100.000 FR"
+      },
+      {
+        "name": "ISTAM",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "ISTG PIERRE MARIE GAGNOA",
+        "type": "Grande École",
+        "city": "GAGNOA",
+        "municipality": "GAGNOA",
+        "registrationFee": ""
+      },
+      {
+        "name": "ISTG PIERRE MARIE YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "50000 FCFA"
+      },
+      {
+        "name": "ISTT YOPOUGON",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "45 000 F CFA"
+      },
+{
+        "name": "IT ACADEMY ABIDJAN (INTERNATIONAL TECHNOLOGY ACADEMY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "IT ACADEMY DALOA (INTERNATIONAL TECHNOLOGY ACADEMY)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": ""
+      },
+      {
+        "name": "ITP CERIN DOKOUI",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "IUPA INSTITUT UNIVERSITAIRE POLYTECHNIQUE D'ABIDJAN COCODY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "INSTITUT INTERNATIONAL POLYTECHNIQUE DES ELITES D'ABIDJAN YAMOUSSOUKRO -(IIPEA YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "80 000F CFA"
+      },
+      {
+        "name": "INSTITUT INTERNATIONAL DE FORMATION EN GESTION ET EN TECHNOLOGIE (2IFGT) COCODY",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 FRS"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR KOUADIO BOZAMBO (ISKB) SASSANDRA",
+        "type": "Grande École",
+        "city": "SASSANDRA",
+        "municipality": "SASSANDRA",
+        "registrationFee": "120 000 F CFA"
+      },
+      {
+        "name": "INSTITUT SUPÉRIEUR D'ADMINISTRATION DE GESTION DE TECHNOLOGIE DE SONGON (ISAGT)",
+        "type": "Grande École",
+        "city": "SONGON",
+        "municipality": "SONGON",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "INTERNATIONAL ENGLISH AND BUSINESS SCHOOL (IEBS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "100 000 F CFA"
+      },
+      {
+        "name": "INTITUT SUPÉRIEUR ALY CHIGATA (ISAC) KORHOGO",
+        "type": "Grande École",
+        "city": "KORHOGO",
+        "municipality": "KORHOGO",
+        "registrationFee": "40.000F"
+      },
+      {
+        "name": "LEGACY INSTITUTE -(LEGACY)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "ABOBO",
+        "registrationFee": ""
+      },
+      {
+        "name": "MANAGEMENT INFORMATIQUE SPORT ET ART",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "MERITT BUSINESS SCHOOL -(MBS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "75 000 F CFA"
+      },
+      {
+        "name": "NBA BUSINESS SCHOOL -(NBS SARL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+{
+        "name": "OLIGONE BUSINESS SCHOOL (OBS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      },
+      {
+        "name": "OVM – SUP DUEKOUE",
+        "type": "Grande École",
+        "city": "DUEKOUE",
+        "municipality": "DUEKOUE",
+        "registrationFee": "85000F"
+      },
+      {
+        "name": "PIGIER COTE D'IVOIRE PLATEAU -(PIGIER CI PLATEAU)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "30 000 F"
+      },
+      {
+        "name": "PIGIER COTE D'IVOIRE YAMOUSSOUKRO -(PIGIER CI-YAMOUSSOUKRO)",
+        "type": "Grande École",
+        "city": "YAMOUSSOUKRO",
+        "municipality": "YAMOUSSOUKRO",
+        "registrationFee": "30 000 F"
+      },
+      {
+        "name": "PROMOTRAN ISF -(PISF)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "SONGON DIGITAL BRIDGE INSTITUTE -(SDBI)",
+        "type": "Grande École",
+        "city": "SONGON",
+        "municipality": "SONGON",
+        "registrationFee": ""
+      },
+      {
+        "name": "STRATEGIC MANAGEMENT AND INNOVATION TECHNOLOGIES INSTITUTE (SITIM)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "SUP'BARAKAT -(SUP'BARAKAT)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "75 000"
+      },
+      {
+        "name": "SUP'ELITE BUSINESS SCHOOL -(SUP'ELITE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "85000"
+      },
+      {
+        "name": "SUP'INTER DALOA -(SUP'INTER DALOA)",
+        "type": "Grande École",
+        "city": "DALOA",
+        "municipality": "DALOA",
+        "registrationFee": "0 F"
+      },
+      {
+        "name": "SUP'INTER TIASSALE",
+        "type": "Grande École",
+        "city": "TIASSALE",
+        "municipality": "TIASSALE",
+        "registrationFee": "Filières tertiaires 70 000 F/ Filières industrielles 80 000 F"
+      },
+      {
+        "name": "SUP'INTER YOPOUGON -(SUP'INTER YOPOUGON)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "YOPOUGON",
+        "registrationFee": "85 000 F CFA"
+      },
+      {
+        "name": "TLM BUSINESS SCHOOL",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "PLATEAU",
+        "registrationFee": "85 000 F"
+      },
+      {
+        "name": "UNIHTEC ACADEMY - UNIVERS DES HAUTES TECHNOLOGIES",
+        "type": "Grande École",
+        "city": "SONGON",
+        "municipality": "SONGON",
+        "registrationFee": "inclus dans la scolarité"
+      },
+{
+        "name": "UNIVERSITE CHARLES-LOUIS DE MONTESQUIEU COCODY_GRANDE ECOLE -(UCLM COCODY_GRANDE ECOLE)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "150 000 F"
+      },
+      {
+        "name": "UNIVERSITE INTERNATIONALE AL-MOUSTAPHA DE COTE D'IVOIRE (UIAMCI)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200 000 F CFA"
+      },
+      {
+        "name": "INTERNATIONAL UNIVERSITY OF COCODY_GRANDE SCHOOL -(UIC_GRANDE SCHOOL)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "50,000 CFA francs"
+      },
+      {
+        "name": "HAMBOL POLYTECHNIC UNIVERSITY (UPH)",
+        "type": "Grande École",
+        "city": "KATIOLA",
+        "municipality": "KATIOLA",
+        "registrationFee": ""
+      },
+      {
+        "name": "MONA MODERN POLYTECHNIC UNIVERSITY (UPM MONA)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "75,000 CFA francs"
+      },
+      {
+        "name": "International University of Applied Sciences and Technologies - UNISAT (BTS)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": "200,000 FCFA"
+      },
+      {
+        "name": "VERACIES RICHTER COLLEGE (VRC)",
+        "type": "Grande École",
+        "city": "ABIDJAN",
+        "municipality": "COCODY",
+        "registrationFee": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}

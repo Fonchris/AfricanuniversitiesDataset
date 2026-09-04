@@ -1,0 +1,571 @@
+{
+  "country": "Gabon",
+  "universities": {
+    "federal": [],
+    "state": [
+      {
+        "name": "Université Omar Bongo",
+        "acronym": "UOB",
+        "type": "Public University",
+        "location": "Libreville",
+        "website": "https://www.univ-omarbongo.ga/"
+      },
+      {
+        "name": "Université des Sciences et Techniques de Masuku",
+        "acronym": "USTM",
+        "type": "Public University",
+        "location": "Franceville (Masuku)",
+        "website": "http://univ-masuku.org/"
+      },
+      {
+        "name": "Université des Sciences de la Santé",
+        "acronym": "USS",
+        "type": "Public University",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Université des Sciences et Techniques de la Santé",
+        "acronym": "USTS",
+        "type": "Public University",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire des Sciences de l'Organisation",
+        "acronym": "IUSO",
+        "type": "Public Institute",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Technologie",
+        "acronym": "IST",
+        "type": "Public Institute (academically attached to UOB)",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Institut National des Sciences de Gestion",
+        "acronym": "INSG",
+        "type": "Public Institute",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Université Numérique du Gabon",
+        "acronym": "UNG",
+        "type": "Public University (digital)",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Normale Supérieure",
+        "acronym": "ENS",
+        "type": "Public Specialized Institution",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "École Normale Supérieure de l'Enseignement Technique",
+        "acronym": "ENSET",
+        "type": "Public Specialized Institution",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "École Nationale des Eaux et Forêts",
+        "acronym": "ENEF",
+        "type": "Public Specialized Institution",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "École Polytechnique de Masuku",
+        "acronym": "EPM",
+        "type": "Public Polytechnic",
+        "location": "Franceville (Masuku)",
+        "website": ""
+      },
+      {
+        "name": "Institut National des Sciences Agronomiques et de Biotechnologies",
+        "acronym": "INSAB",
+        "type": "Public Specialized Institution",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Institut de Pharmacopée et de Médecines Traditionnelles",
+        "acronym": "IPHAMETRA",
+        "type": "Public Research Institute",
+        "location": "Libreville",
+        "website": ""
+      }
+    ],
+    "private": [{
+        "name": "Université Marie NZABA",
+        "acronym": "UMN",
+        "type": "University",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Collège de Paris Supérieur",
+        "acronym": "CDP",
+        "type": "Higher School",
+        "location": "Gabon",
+        "website": "https://gabon.collegedeparis.fr/"
+      },
+      {
+        "name": "Université de Recherche CETONE",
+        "acronym": "URC",
+        "type": "University",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Université Numérique Éco-Africaine",
+        "acronym": "UNEA",
+        "type": "University",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Islamique du Gabon",
+        "acronym": "UPIG",
+        "type": "University",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Management Public 2",
+        "acronym": "ISMAP2",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Entrepreneuriat Business Gabon",
+        "acronym": "EBS Gabon",
+        "type": "Business School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Polytechnic University Médian",
+        "acronym": "POLYMED",
+        "type": "University / Polytechnic",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut en Sciences Humaines Daniel Brottier",
+        "acronym": "ISSHDB",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure des Technologies d'Informatiques et de Management",
+        "acronym": "ESTIM",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut de Formation en Assurance et Gestion",
+        "acronym": "IFAG",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "E-TECH Institute",
+        "acronym": "ETECH",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Technologies de l'Information et du Numérique",
+        "acronym": "ISTIN",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut de Santé et Polytechnique de PROCCL",
+        "acronym": "PROCCL",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut des Sciences et des Métiers de la Mer",
+        "acronym": "ISMM",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+{
+        "name": "Institut International de Technologie et de Gestion",
+        "acronym": "IITG",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire de Formation Professionnelle",
+        "acronym": "IUFP",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Formation et d'Insertion Professionnelle",
+        "acronym": "ESFIP",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Université Libreville Nord",
+        "acronym": "ULN",
+        "type": "University",
+        "location": "Libreville",
+        "website": "https://univ-ln.academy/"
+      },
+      {
+        "name": "Université des Sciences Appliquées et de Droit",
+        "acronym": "USAD",
+        "type": "University",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Technologie et de Management",
+        "acronym": "ISTM",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Université Polytechnique de Kougouleu",
+        "acronym": "UPK",
+        "type": "University",
+        "location": "Kougouleu",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Saint Paul",
+        "acronym": "ISSP",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Chrétien d'Agronomie – Ingénierie Rurale",
+        "acronym": "ISCA-IR",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut de Formation en Santé ELYANA",
+        "acronym": "IFSE",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure d'Ingénierie et d'Innovation Technologique",
+        "acronym": "ESIITECH",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Communautaire de Monétique d'Afrique Centrale",
+        "acronym": "ECMAC",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Université Intercontinentale de Libreville",
+        "acronym": "UCL",
+        "type": "University",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Université de Bisségué",
+        "acronym": "UB",
+        "type": "University",
+        "location": "Bisségué",
+        "website": ""
+      },
+      {
+        "name": "Université des Sciences Polytechniques et Appliquées – École d'Administration des Entreprises",
+        "acronym": "UPSA-EAE",
+        "type": "University / School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Université Africaine des Sciences Politiques et de Management",
+        "acronym": "UASPOM",
+        "type": "University",
+        "location": "Gabon",
+        "website": ""
+      },
+{
+        "name": "Université des Sciences de l'Information et de l'Administration – ESSIG",
+        "acronym": "USIA-ESSIG",
+        "type": "University / School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Matass School",
+        "acronym": "MBS",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Libreville International Business School",
+        "acronym": "LIBS",
+        "type": "Business School",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "Lead's School",
+        "acronym": "LS",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Ingénierie",
+        "acronym": "ISI",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Sciences Économiques, Commerciales et de la Communication",
+        "acronym": "ISSEC-IC",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Management et du Social – Groupe Elite Center",
+        "acronym": "ISMS",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Commerce et de Gestion",
+        "acronym": "ISCG",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Régional des Techniques Comptables et Fiscales",
+        "acronym": "IRTEC",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé Supérieur Théopolis",
+        "acronym": "IPST",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut Panafricain d'Études Appliquées",
+        "acronym": "IPEA",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": "https://www.ifimgabon.com/"
+      },
+      {
+        "name": "Institut Facultaire d'Informatique et de Management",
+        "acronym": "IFIM",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut des Techniques Avancées",
+        "acronym": "ITA",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut des Hautes Études de Management",
+        "acronym": "IHEM",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut de Management et des Sciences Appliquées",
+        "acronym": "IMSA",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut de Développement des Entreprises et des Administrations",
+        "acronym": "IDEA",
+        "type": "Institute",
+        "location": "Gabon",
+        "website": ""
+      },
+{
+        "name": "Groupe Sup de Com – Campus de Libreville",
+        "acronym": "SUP DE COM",
+        "type": "Higher School",
+        "location": "Libreville",
+        "website": "http://www.supdecom-gabon.com/"
+      },
+      {
+        "name": "École Supérieure d'Hôtellerie de Libreville",
+        "acronym": "ESHOL",
+        "type": "School",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "SUP Management",
+        "acronym": "SUP MGT",
+        "type": "Higher School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de la Mer",
+        "acronym": "ESM",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Gestion Informatique",
+        "acronym": "ESGI",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Gestion et des Sciences",
+        "acronym": "ESGIS",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Université Africaine des Sciences",
+        "acronym": "UAS",
+        "type": "University",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Commerce et de Technologie",
+        "acronym": "ESCT",
+        "type": "School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Polytechnique de Libreville – Université Internationale de Libreville",
+        "acronym": "EPL-UIL",
+        "type": "Polytechnic / University",
+        "location": "Libreville",
+        "website": ""
+      },
+      {
+        "name": "École de Management du Gabon – Université",
+        "acronym": "EM-GABON",
+        "type": "University / School",
+        "location": "Gabon",
+        "website": "https://em-gabon.com/"
+      },
+      {
+        "name": "Digital Business School Gabon",
+        "acronym": "DBS",
+        "type": "Business School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "BGFI Business School",
+        "acronym": "BBS",
+        "type": "Business School",
+        "location": "Gabon",
+        "website": "https://www.bbs-school.net/"
+      },
+      {
+        "name": "African University of Management",
+        "acronym": "AUM",
+        "type": "University / Management School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Académie Franco-Américaine de Management",
+        "acronym": "AFRAM",
+        "type": "Management School",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "Institut du Pétrole et du Gaz",
+        "acronym": "IPG",
+        "type": "Private Institute (RUP)",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École de Mine et Métallurgie de Moanda",
+        "acronym": "E3M",
+        "type": "Private School (RUP)",
+        "location": "Moanda",
+        "website": ""
+      },
+      {
+        "name": "Université Franco-Gabonaise Saint-Exupéry",
+        "acronym": "UFGSE",
+        "type": "Private University (RUP)",
+        "location": "Gabon",
+        "website": "http://www.ufgse.org/"
+      },
+      {
+        "name": "Institut des Hautes Études Économiques et Entrepreneuriales",
+        "acronym": "IHEE",
+        "type": "Private Institute (RUP)",
+        "location": "Gabon",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure des Arts et Métiers / Institut Universitaire des Sciences du Développement",
+        "acronym": "ESAM/IUSD",
+        "type": "Private School / Institute (RUP)",
+        "location": "Gabon",
+        "website": ""
+      }
+    ],
+    "transnational": [],
+    "distanceLearning": []
+  }
+}
