@@ -2,8 +2,392 @@
   "country": "Libya",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [{
+        "name": "University of Benghazi",
+        "acronym": "UOB",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Benghazi",
+        "website": "https://uob.edu.ly"
+      },
+      {
+        "name": "University of Tripoli",
+        "acronym": "UOT",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Tripoli",
+        "website": "https://uot.edu.ly"
+      },
+      {
+        "name": "University of Asaied Mohamed Bin Ali Al Sanussi",
+        "acronym": "IUS",
+        "type": "Public Islamic University",
+        "ownership": "Public",
+        "location": "Al Bayda",
+        "website": "https://ius.edu.ly"
+      },
+      {
+        "name": "Omar Al-Mukhtar University",
+        "acronym": "OMU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Al Bayda",
+        "website": "https://omu.edu.ly"
+      },
+      {
+        "name": "University of Sebha",
+        "acronym": "SEBHAU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Sebha",
+        "website": "https://sebhau.edu.ly"
+      },
+      {
+        "name": "Misurata University",
+        "acronym": "MISU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Misurata",
+        "website": "https://www.misuratau.edu.ly"
+      },
+      {
+        "name": "Azzaytuna University",
+        "acronym": "AZU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Tarhuna",
+        "website": "https://azu.edu.ly"
+      },
+      {
+        "name": "Libya Open University",
+        "acronym": "OU",
+        "type": "Public Open / Distance University",
+        "ownership": "Public",
+        "location": "Tripoli / multiple branches",
+        "website": "https://ou.edu.ly"
+      },
+      {
+        "name": "Libyan Academy of Postgraduate Studies",
+        "acronym": "ACADEMY",
+        "type": "Public Postgraduate Institution",
+        "ownership": "Public",
+        "location": "Tripoli",
+        "website": "https://academy.edu.ly"
+      },
+      {
+        "name": "University of Zawia",
+        "acronym": "ZU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Zawia",
+        "website": "https://zu.edu.ly"
+      },
+      {
+        "name": "Bright Star University",
+        "acronym": "BSU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Brega",
+        "website": "https://bsu.edu.ly"
+      },
+      {
+        "name": "University of Sirte",
+        "acronym": "SU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Sirte",
+        "website": "https://su.edu.ly"
+      },
+      {
+        "name": "Derna University",
+        "acronym": "UOD",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Derna",
+        "website": "https://uod.edu.ly"
+      },
+      {
+        "name": "Al-Asmarya Islamic University",
+        "acronym": "ASMARYA",
+        "type": "Public Islamic University",
+        "ownership": "Public",
+        "location": "Zliten",
+        "website": "https://asmarya.edu.ly"
+      },
+{
+        "name": "University of Ajdabiya",
+        "acronym": "UOA",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Ajdabiya",
+        "website": "https://uoa.edu.ly"
+      },
+      {
+        "name": "Elmergib University",
+        "acronym": "ELMER",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Al Khums",
+        "website": "https://elmergib.edu.ly"
+      },
+      {
+        "name": "Bani Walid University",
+        "acronym": "BWU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Bani Walid",
+        "website": "https://bwu.edu.ly"
+      },
+      {
+        "name": "Sabratha University",
+        "acronym": "SABU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Sabratha",
+        "website": "https://sabu.edu.ly"
+      },
+      {
+        "name": "Aljafara University",
+        "acronym": "AJU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Janzur",
+        "website": "https://aju.edu.ly"
+      },
+      {
+        "name": "Tobruk University",
+        "acronym": "TU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Tobruk",
+        "website": "https://tu.edu.ly"
+      },
+      {
+        "name": "University of Al Jufra",
+        "acronym": "JU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Al Jufra",
+        "website": "https://ju.edu.ly"
+      },
+      {
+        "name": "Zintan University",
+        "acronym": "UOZ",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Zintan",
+        "website": "https://uoz.edu.ly"
+      },
+      {
+        "name": "Gharyan University",
+        "acronym": "GU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Gharyan",
+        "website": "https://gu.edu.ly"
+      },
+      {
+        "name": "Fezzan University",
+        "acronym": "FEZZANU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Fezzan",
+        "website": "https://fezzanu.edu.ly"
+      },
+      {
+        "name": "Nalut University",
+        "acronym": "NU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Nalut",
+        "website": "https://nu.edu.ly"
+      },
+      {
+        "name": "Gulf of Sidra University",
+        "acronym": "GSU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Gulf of Sidra",
+        "website": "https://gsu.edu.ly"
+      },
+      {
+        "name": "Wadi Alshati University",
+        "acronym": "WAU",
+        "type": "Public University",
+        "ownership": "Public",
+        "location": "Brak / Wadi Alshati",
+        "website": "https://wau.edu.ly"
+      }
+    ],
+    "private": [{
+        "name": "Libyan International Medical University",
+        "acronym": "LIMU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "African University of Humanities and Applied Sciences",
+        "acronym": "AUHAS",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al Asimah University",
+        "acronym": "AAUS",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al Ma'rifa University",
+        "acronym": "AMU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al-Tahadi Medical University",
+        "acronym": "ATMU",
+        "type": "Private Medical University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al-Hadhara University for Humanities and Applied Sciences",
+        "acronym": "AHU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Libyan University for Humanities and Applied Sciences",
+        "acronym": "LUHAS",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Alrefak University",
+        "acronym": "ARU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Tripoli Private University",
+        "acronym": "TPU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Tripoli",
+        "website": ""
+      },
+      {
+        "name": "Libyan Elite University",
+        "acronym": "LEU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Benghazi",
+        "website": "bmu.edu.ly"
+      },
+      {
+        "name": "Benghazi National University",
+        "acronym": "BNU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Benghazi",
+        "website": ""
+      },
+{
+        "name": "Arab Nation University for Humanities and Applied Sciences",
+        "acronym": "ANU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al-Riyada University",
+        "acronym": "ARU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Darens University",
+        "acronym": "DU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al-Mawadda University for Medical and Applied Sciences",
+        "acronym": "AMU",
+        "type": "Private Medical University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Ibn Sina University",
+        "acronym": "ISU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al-Qasr International University",
+        "acronym": "QIU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Arabs University of Medical Sciences and Technology",
+        "acronym": "AUMST",
+        "type": "Private Medical University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "That Al-Emad University",
+        "acronym": "TAEU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Al-Sarraj Private University",
+        "acronym": "ASU",
+        "type": "Private University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      },
+      {
+        "name": "Dar Al-Salam University of Medical Sciences",
+        "acronym": "DASU",
+        "type": "Private Medical University",
+        "ownership": "Private",
+        "location": "Libya",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

@@ -2,9 +2,432 @@
   "country": "Liberia",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [{
+        "name": "University of Liberia",
+        "acronym": "UL",
+        "type": "Public University",
+        "ownership": "Public",
+        "highestQualification": "Doctoral",
+        "location": "Monrovia, Montserrado County",
+        "website": "https://ul.edu.lr/"
+      },
+      {
+        "name": "William V.S. Tubman University",
+        "acronym": "TU",
+        "type": "Public University",
+        "alternativeNames": ["William V.S. Tubman College of Technology", "Tubman University"],
+        "ownership": "Public",
+        "highestQualification": "Master's",
+        "location": "Harper, Maryland County",
+        "website": "https://tu.edu.lr/"
+      },
+      {
+        "name": "Grand Bassa University",
+        "acronym": "GBU",
+        "type": "Public University",
+        "alternativeNames": ["Grand Bassa Community College"],
+        "ownership": "Public",
+        "highestQualification": "Bachelor's",
+        "location": "Buchanan, Grand Bassa County",
+        "website": "https://www.gbuedu.org/"
+      },
+      {
+        "name": "Bomi County Community College",
+        "acronym": "BCCC",
+        "type": "Public Community College",
+        "ownership": "Public",
+        "highestQualification": "Associate",
+        "location": "Tubmanburg, Bomi County",
+        "website": ""
+      },
+      {
+        "name": "Bong County Technical College / Community College",
+        "acronym": "BCTC",
+        "type": "Public Community College",
+        "ownership": "Public",
+        "highestQualification": "Associate",
+        "location": "Gbarnga, Bong County",
+        "website": ""
+      },
+      {
+        "name": "Grand Gedeh County Community College",
+        "acronym": "GGCCC",
+        "type": "Public Community College",
+        "ownership": "Public",
+        "highestQualification": "Associate",
+        "location": "Zwedru, Grand Gedeh County",
+        "website": ""
+      },
+      {
+        "name": "Lofa County Community College",
+        "acronym": "LCCC",
+        "type": "Public Community College",
+        "ownership": "Public",
+        "highestQualification": "Associate",
+        "location": "Voinjama, Lofa County",
+        "website": ""
+      },
+      {
+        "name": "Nimba County Community College / Nimba University",
+        "acronym": "NCCU",
+        "type": "Public Community College",
+        "alternativeNames": ["Nimba University"],
+        "ownership": "Public",
+        "highestQualification": "Associate",
+        "location": "Sanniquellie, Nimba County",
+        "website": ""
+      },
+      {
+        "name": "Sinoe County Community College",
+        "acronym": "SCCC",
+        "type": "Public Community College",
+        "ownership": "Public",
+        "highestQualification": "Associate",
+        "location": "Greenville, Sinoe County",
+        "website": ""
+      },
+      {
+        "name": "National Teachers Colleges",
+        "acronym": "NTC",
+        "type": "Public Teacher Training Institution",
+        "ownership": "Public",
+        "highestQualification": "Diploma",
+        "location": "Liberia (multiple counties)",
+        "website": ""
+      }
+    ],
+    "private": [{
+        "name": "Cuttington University",
+        "acronym": "CU",
+        "type": "Faith-based University",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Doctoral",
+        "location": "Suakoko, Bong County",
+        "website": "https://cuttington.edu.lr/"
+      },
+      {
+        "name": "African Methodist Episcopal University",
+        "acronym": "AMEU",
+        "type": "Faith-based University",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Master's",
+        "location": "Monrovia, Montserrado County",
+        "website": "https://ameu.edu.lr/"
+      },
+      {
+        "name": "African Methodist Episcopal Zion University",
+        "acronym": "AMEZU",
+        "type": "Faith-based University",
+        "alternativeNames": ["African Methodist Episcopal Zion University College"],
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Master's",
+        "location": "Monrovia, Montserrado County",
+        "website": ""
+      },
+      {
+        "name": "United Methodist University",
+        "acronym": "UMU",
+        "type": "Faith-based University",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Master's",
+        "location": "Monrovia, Montserrado County",
+        "website": "https://umu.edu.lr/"
+      },
+      {
+        "name": "Stella Maris Polytechnic University",
+        "acronym": "SMP",
+        "type": "Faith-based Polytechnic / University",
+        "alternativeNames": ["Stella Maris Polytechnic"],
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Monrovia, Montserrado County",
+        "website": "https://smp.edu.lr/"
+      },
+      {
+        "name": "Adventist University of West Africa",
+        "acronym": "AUWA",
+        "type": "Faith-based University",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Margibi County",
+        "website": ""
+      },
+{
+        "name": "Starz University",
+        "acronym": "SU",
+        "type": "Private University",
+        "alternativeNames": ["Starz College of Technology"],
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Monrovia",
+        "website": "https://starzuniversity.edu.lr/"
+      },
+      {
+        "name": "BlueCrest University College",
+        "acronym": "BUC",
+        "type": "Private University College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Monrovia / Montserrado",
+        "website": ""
+      },
+      {
+        "name": "LICOSESS College of Education",
+        "acronym": "LICOSESS",
+        "type": "Teacher Education College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Monrovia",
+        "website": "https://www.licosess.org/"
+      },
+      {
+        "name": "Smythe University College",
+        "acronym": "SMU",
+        "type": "Private University College",
+        "alternativeNames": ["Smythe Institute of Management and Technology", "Smythe Institute"],
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Monrovia",
+        "website": ""
+      },
+      {
+        "name": "Liberia Baptist Theological Seminary",
+        "acronym": "LBTS",
+        "type": "Theological Institution",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Paynesville / Montserrado",
+        "website": ""
+      },
+      {
+        "name": "Liberia International Christian College",
+        "acronym": "LICC",
+        "type": "Faith-based Tertiary Institution",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Ganta, Nimba County",
+        "website": ""
+      },
+      {
+        "name": "Free Pentecostal College",
+        "acronym": "FPC",
+        "type": "Faith-based College",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Diploma",
+        "location": "Voinjama / Liberia",
+        "website": ""
+      },
+      {
+        "name": "CEPRES International University",
+        "acronym": "CIU",
+        "type": "Private Tertiary Institution",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Monrovia",
+        "website": ""
+      },
+      {
+        "name": "Hill City University of Science and Technology",
+        "acronym": "HCUST",
+        "type": "Private University",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Monrovia",
+        "website": ""
+      },
+      {
+        "name": "Salvation Army Polytechnic",
+        "acronym": "SAP",
+        "type": "Faith-based / Polytechnic",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Diploma",
+        "location": "Monrovia",
+        "website": ""
+      },
+{
+        "name": "Bushrod College of Science and Technology",
+        "acronym": "BCST",
+        "type": "Private College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Best Brain University College",
+        "acronym": "BBUC",
+        "type": "Private University College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Liberia Dujar University College",
+        "acronym": "LDUC",
+        "type": "Private University College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Central Liberia College",
+        "acronym": "CLC",
+        "type": "Private College",
+        "ownership": "Private",
+        "highestQualification": "Diploma",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Rafiki College of Classical Education",
+        "acronym": "RCCE",
+        "type": "Private College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "NetLib College of Science and Technology",
+        "acronym": "NCST",
+        "type": "Private College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "William R. Tolbert Jr. Baptist University",
+        "acronym": "WRTBU",
+        "type": "Faith-based University",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Evangelical Seminary of West Africa",
+        "acronym": "ESWA",
+        "type": "Theological Institution",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Harvest Intercontinental American University",
+        "acronym": "HIAU",
+        "type": "Faith-based University",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Forestry Training Institute",
+        "acronym": "FTI",
+        "type": "Technical / Vocational Institution",
+        "ownership": "Private",
+        "highestQualification": "Diploma",
+        "location": "Liberia",
+        "website": ""
+      },
+{
+        "name": "Change Agent Network College",
+        "acronym": "CANC",
+        "type": "Private College",
+        "ownership": "Private",
+        "highestQualification": "Diploma",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Emily College of T-VET and Professional Studies",
+        "acronym": "ECTVET",
+        "type": "Technical / Vocational College",
+        "ownership": "Private",
+        "highestQualification": "Diploma",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Maranatha University College",
+        "acronym": "MUC",
+        "type": "Private University College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Faith University College",
+        "acronym": "FUC",
+        "type": "Faith-based University College",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Evangel Christian University College",
+        "acronym": "ECUC",
+        "type": "Faith-based University College",
+        "ownership": "Faith-based / Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "CENSIL University",
+        "acronym": "CENSIL",
+        "type": "Private University",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "Aware College of Professional Studies",
+        "acronym": "ACPS",
+        "type": "Professional Studies College",
+        "ownership": "Private",
+        "highestQualification": "Diploma",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "PYJ Polytechnic University College",
+        "acronym": "PYJ",
+        "type": "Polytechnic University College",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      },
+      {
+        "name": "J.W. Harris University",
+        "acronym": "JWH",
+        "type": "Private University",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "location": "Liberia",
+        "website": ""
+      }
+    ],
     "transnational": [],
-    "distanceLearning": []
+    "distanceLearning": [
+      {
+        "name": "African Virtual Campus (AVC) University",
+        "acronym": "AVCU",
+        "type": "Distance Learning / Online University",
+        "ownership": "Private",
+        "highestQualification": "Bachelor's",
+        "deliveryMode": "Online (with face-to-face options)",
+        "location": "Liberia",
+        "website": "https://avcu.avc.edu.lr/"
+      }
+    ]
   }
 }
