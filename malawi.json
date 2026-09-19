@@ -2,8 +2,426 @@
   "country": "Malawi",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [{
+        "name": "Kamuzu University of Health Sciences",
+        "acronym": "KUHeS",
+        "type": "Public University",
+        "ncheStatus": "Accredited",
+        "location": "Blantyre",
+        "website": "https://www.kuhes.ac.mw/"
+      },
+      {
+        "name": "Malawi University of Business and Applied Sciences",
+        "acronym": "MUBAS",
+        "type": "Public University",
+        "ncheStatus": "Accredited",
+        "location": "Blantyre",
+        "website": "https://www.mubas.ac.mw/"
+      },
+      {
+        "name": "University of Malawi",
+        "acronym": "UNIMA",
+        "type": "Public University",
+        "ncheStatus": "Accredited",
+        "location": "Zomba",
+        "website": "https://unima.ac.mw/"
+      },
+      {
+        "name": "Malawi University of Science and Technology",
+        "acronym": "MUST",
+        "type": "Public University",
+        "ncheStatus": "Accredited",
+        "location": "Limbe, Thyolo",
+        "website": "https://www.must.ac.mw/"
+      },
+      {
+        "name": "Mzuzu University",
+        "acronym": "MZUNI",
+        "type": "Public University",
+        "ncheStatus": "Accredited",
+        "location": "Mzuzu",
+        "website": "https://www.mzuni.ac.mw/"
+      },
+      {
+        "name": "Lilongwe University of Agriculture and Natural Resources",
+        "acronym": "LUANAR",
+        "type": "Public University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://www.luanar.ac.mw/"
+      },
+      {
+        "name": "Malawi College of Accountancy",
+        "acronym": "MCA",
+        "type": "Public Higher Education Institution",
+        "ncheStatus": "Accredited",
+        "location": "Blantyre",
+        "website": "https://www.mca.ac.mw/"
+      },
+      {
+        "name": "Malawi School of Government",
+        "acronym": "MSG",
+        "type": "Public Higher Education Institution",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://msg.ac.mw/"
+      },
+{
+        "name": "Domasi College of Education",
+        "acronym": "DCE",
+        "type": "Public College",
+        "ncheStatus": "Duly registered",
+        "location": "Domasi",
+        "website": "https://dce.ac.mw/"
+      },
+      {
+        "name": "Nalikule College of Education",
+        "acronym": "NCE",
+        "type": "Public College",
+        "ncheStatus": "Duly registered",
+        "location": "Lilongwe",
+        "website": "https://nce.ac.mw/"
+      },
+      {
+        "name": "Malawi College of Health Sciences",
+        "acronym": "MCHS",
+        "type": "Public Heath Sciences College",
+        "ncheStatus": "Duly registered",
+        "location": "Lilongwe",
+        "website": "https://www.mchs.mw/"
+      },
+      {
+        "name": "Mikolongwe College of Veterinary Sciences",
+        "acronym": "",
+        "type": "Public Specialised HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Chiradzulu",
+        "website": ""
+      },
+      {
+        "name": "Malawi College of Forestry and Wildlife",
+        "acronym": "",
+        "type": "Public Specialised HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Zomba",
+        "website": ""
+      },
+      {
+        "name": "Malawi Institute of Tourism",
+        "acronym": "MIT",
+        "type": "Public Specialised HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Lilongwe",
+        "website": ""
+      },
+      {
+        "name": "Marine College",
+        "acronym": "",
+        "type": "Public Specialised HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Malawi",
+        "website": ""
+      },
+      {
+        "name": "Civil Aviation Training Centre",
+        "acronym": "",
+        "type": "Public Specialised HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Blantyre",
+        "website": ""
+      },
+      {
+        "name": "Montfort Special Needs Education Centre",
+        "acronym": "",
+        "type": "Public Specialised HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Mangochi",
+        "website": ""
+      },
+      {
+        "name": "National College of Information Technology",
+        "acronym": "NACIT",
+        "type": "Public ICT HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Lilongwe",
+        "website": "https://www.nacit.gov.mw/"
+      },
+      {
+        "name": "Guidance, Counselling and Youth Development Centre for Africa",
+        "acronym": "GCYDCA",
+        "type": "Public Specialised HEI",
+        "ncheStatus": "Duly registered",
+        "location": "Lilongwe",
+        "website": ""
+      }
+    ],
+    "private": [{
+        "name": "Catholic University of Malawi",
+        "acronym": "CUNIMA",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Chikwawa",
+        "website": "https://www.cunima.ac.mw/"
+      },
+      {
+        "name": "DMI St John the Baptist University",
+        "acronym": "DMISJBU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Mangochi",
+        "website": "https://www.dmisjbu.edu.mw/"
+      },
+      {
+        "name": "Nkhoma University",
+        "acronym": "NKHUNI",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Nkhoma",
+        "website": "https://nkhoma.ac.mw/"
+      },
+      {
+        "name": "Malawi Assemblies of God University",
+        "acronym": "MAGU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://www.magu.ac.mw/"
+      },
+      {
+        "name": "Daeyang University",
+        "acronym": "DU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Salima",
+        "website": "https://www.dyuni.ac.mw/"
+      },
+      {
+        "name": "Malawi Adventist University",
+        "acronym": "MAU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Malamulo, Thyolo",
+        "website": "https://www.mau.ac.mw/"
+      },
+      {
+        "name": "Pentecostal Life University",
+        "acronym": "PLU",
+        "type": "Private University",
+        "ncheStatus": "Deregistered (2026); historical register: accredited",
+        "location": "Lilongwe",
+        "website": ""
+      },
+      {
+        "name": "African Bible College",
+        "acronym": "ABC",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://www.africanbiblecolleges.com/abcmalawi"
+      },
+      {
+        "name": "University of Livingstonia",
+        "acronym": "UNILIA",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Livingstonia",
+        "website": "https://unilia.ac.mw/"
+      },
+      {
+        "name": "Exploits University",
+        "acronym": "EU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Blantyre",
+        "website": "https://exploitsmw.com/"
+      },
+      {
+        "name": "University of Lilongwe",
+        "acronym": "UNILIL",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://unilil.ac.mw/"
+      },
+      {
+        "name": "Millennium University",
+        "acronym": "MU",
+        "type": "Private University",
+        "ncheStatus": "Accreditation withdrawn (June 2024)",
+        "location": "Blantyre",
+        "website": ""
+      },
+{
+        "name": "Lake Malawi Anglican University",
+        "acronym": "LAMAU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Nkopola",
+        "website": "https://www.lamau.edu.mw/"
+      },
+      {
+        "name": "Unicaf University - Malawi",
+        "acronym": "UUM",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://www.unicafuniversity.ac.mw/"
+      },
+      {
+        "name": "Blantyre International University",
+        "acronym": "BIU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Blantyre",
+        "website": "https://www.biu-edu.com/"
+      },
+      {
+        "name": "ShareWorld Open University",
+        "acronym": "SWOU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://www.swu.ac.mw/"
+      },
+      {
+        "name": "Skyway University",
+        "acronym": "SU",
+        "type": "Private University",
+        "ncheStatus": "Accreditation withdrawn (2024, pending compliance)",
+        "location": "Blantyre",
+        "website": ""
+      },
+      {
+        "name": "Jubilee University",
+        "acronym": "JU",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Blantyre",
+        "website": "https://jubileeuniversity.ac.mw/"
+      },
+      {
+        "name": "University of Blantyre Synod",
+        "acronym": "UBS",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Blantyre",
+        "website": "https://ubs-ac.com/"
+      },
+      {
+        "name": "Marble Hill University",
+        "acronym": "MHU",
+        "type": "Private University",
+        "ncheStatus": "Closed; NCHE intended deregistration",
+        "location": "Blantyre",
+        "website": ""
+      },
+      {
+        "name": "Zomba Theological College",
+        "acronym": "ZTC",
+        "type": "Private Theological College",
+        "ncheStatus": "Accredited",
+        "location": "Zomba",
+        "website": "https://www.zombatheological.org/"
+      },
+      {
+        "name": "Emmanuel University",
+        "acronym": "EMUNI",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://www.emmanueluniversity.ac.mw/en/"
+      },
+      {
+        "name": "Eastern and Southern Africa Management Institute - Malawi",
+        "acronym": "ESAMI",
+        "type": "Private Management Institute",
+        "ncheStatus": "Accredited / registered",
+        "location": "Lilongwe",
+        "website": "https://www.esami-africa.org/"
+      },
+      {
+        "name": "Evangelical Bible College of Malawi",
+        "acronym": "EBCoM",
+        "type": "Private Bible College",
+        "ncheStatus": "Accredited",
+        "location": "Malawi",
+        "website": "https://ebcom-mw.org/"
+      },
+      {
+        "name": "University of Hebron",
+        "acronym": "UHB",
+        "type": "Private University",
+        "ncheStatus": "Accredited",
+        "location": "Lilongwe",
+        "website": "https://uhb.ac.mw/"
+      },
+{
+        "name": "Malawi Institute of Journalism",
+        "acronym": "MIJ",
+        "type": "Private Journalism / Media HEI",
+        "ncheStatus": "Registered",
+        "location": "Blantyre",
+        "website": "https://mijmw.com/"
+      },
+      {
+        "name": "Saint John of God University",
+        "acronym": "SJOGU",
+        "type": "Private Health Sciences University",
+        "formerName": "St John of God College of Health Sciences",
+        "ncheStatus": "Registered",
+        "location": "Mzuzu",
+        "website": "https://sjog.mw/college-of-health-sciences/"
+      },
+      {
+        "name": "Mwimba College of Agriculture",
+        "acronym": "MWICA",
+        "type": "Private Agricultural HEI",
+        "ncheStatus": "Registered",
+        "location": "Malawi",
+        "website": "https://mwica.ac.mw/"
+      },
+      {
+        "name": "Iqra'a University",
+        "acronym": "IQRA",
+        "type": "Private University",
+        "formerName": "International College of Business and Management (ICBM)",
+        "ncheStatus": "Accredited (NCHE March 2026)",
+        "location": "Lilongwe",
+        "website": "https://iqraauniversity.ac.mw/"
+      },
+      {
+        "name": "International Open University / Islamic Online University",
+        "acronym": "IOU",
+        "type": "Private Online HEI",
+        "ncheStatus": "Registered",
+        "location": "Online (Malawi)",
+        "website": "https://iou.edu.gm/"
+      },
+      {
+        "name": "Central African Preaching Academy",
+        "acronym": "CAPA",
+        "type": "Private Theological HEI",
+        "ncheStatus": "Provisionally registered",
+        "location": "Lilongwe",
+        "website": "https://www.capamw.org/"
+      },
+      {
+        "name": "PACT College",
+        "acronym": "",
+        "type": "Private Tuition Provider",
+        "ncheStatus": "Tuition provider",
+        "location": "Lilongwe",
+        "website": "https://pactcollege.com/"
+      },
+      {
+        "name": "K & M Accountancy College / K & M School of Accountancy",
+        "acronym": "KM",
+        "type": "Private Tuition Provider",
+        "ncheStatus": "Tuition provider",
+        "location": "Blantyre",
+        "website": "http://www.kandmschool.com/"
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

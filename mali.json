@@ -1,10 +1,1659 @@
 {
-  "country": "Mali",
-  "universities": {
-    "federal": [],
-    "state": [],
-    "private": [],
-    "transnational": [],
-    "distanceLearning": []
-  }
+    "country":  "Mali",
+    "universities":  {
+                         "federal":  [
+
+                                     ],
+                         "state":  [
+                                       {
+                                           "name":  "Université de Gao",
+                                           "acronym":  "U-Gao",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Gao",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Université de Kayes",
+                                           "acronym":  "UKA",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Kayes",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Université de Ségou",
+                                           "acronym":  "",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Ségou",
+                                           "website":  "http://www.univ-segou.ml/"
+                                       },
+                                       {
+                                           "name":  "Université de Sikasso",
+                                           "acronym":  "USi",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Sikasso",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Université de Tombouctou",
+                                           "acronym":  "U-Tombouctou",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Tombouctou",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Université des Sciences Sociales et de Gestion de Bamako",
+                                           "acronym":  "USSGB",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  "https://ussgb.ml/"
+                                       },
+                                       {
+                                           "name":  "Université des Sciences, des Techniques et des Technologies de Bamako",
+                                           "acronym":  "USTTB",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  "https://www.usttb.edu.ml/"
+                                       },
+                                       {
+                                           "name":  "Université Kurukanfuga de Bamako",
+                                           "acronym":  "UKB",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  "https://usjpb.edu.ml/"
+                                       },
+                                       {
+                                           "name":  "Université Polytechnique de Bandiagara",
+                                           "acronym":  "UPB",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Bandiagara",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Université Yambo Ouologuem de Bamako",
+                                           "acronym":  "UYOB",
+                                           "type":  "Public University",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  "https://ulshb.edu.ml/"
+                                       },
+                                       {
+                                           "name":  "Centre d\u0027Intelligence Artificielle et de Robotique du Mali",
+                                           "acronym":  "CIAR-Mali",
+                                           "type":  "Public Grande École / Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Centre de Recherche et de Formation pour l\u0027Industrie Légère et Textile",
+                                           "acronym":  "CERFILTEX",
+                                           "type":  "Public Grande École / Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Ségou",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "École Nationale d\u0027Ingénieurs Abderhamane Baba Touré",
+                                           "acronym":  "ENI-ABT",
+                                           "type":  "Public Grande École",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  "https://eni-abt.ml/"
+                                       },
+                                       {
+                                           "name":  "École Normale d\u0027Enseignement Technique et Professionnel",
+                                           "acronym":  "ENETP",
+                                           "type":  "Public Grande École",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "École Normale Supérieure",
+                                           "acronym":  "ENSup",
+                                           "type":  "Public Grande École",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  "http://www.ensupbamako.edu.ml/"
+                                       },
+                                       {
+                                           "name":  "École Supérieure de Journalisme et des Sciences de la Communication",
+                                           "acronym":  "ESJSC",
+                                           "type":  "Public Grande École",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut de Pédagogie Universitaire",
+                                           "acronym":  "IPU",
+                                           "type":  "Public Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut des Hautes Études et de Recherche en Sciences Islamiques / Ahmed Baba",
+                                           "acronym":  "IHERI-ABT",
+                                           "type":  "Public Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Tombouctou",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut National de Formation des Travailleurs Sociaux",
+                                           "acronym":  "INFTS",
+                                           "type":  "Public Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut National de Formation en Sciences de la Santé",
+                                           "acronym":  "INFSS",
+                                           "type":  "Public Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut National de la Jeunesse et des Sports",
+                                           "acronym":  "INJS",
+                                           "type":  "Public Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut Polytechnique Rural de Formation et de Recherche Appliquée",
+                                           "acronym":  "IPR/IFRA",
+                                           "type":  "Public Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Katibougou/Koulikoro",
+                                           "website":  "https://ipr-ifra.edu.ml/"
+                                       },
+                                       {
+                                           "name":  "Institut Zayed des Sciences Économiques et Juridiques",
+                                           "acronym":  "IZSEJ",
+                                           "type":  "Public Institute",
+                                           "ownership":  "Public",
+                                           "location":  "Bamako",
+                                           "website":  ""
+                                       }
+                                   ],
+                         "private":  [
+                                         {
+                                             "name":  "African Business Private School (ABPS)",
+                                             "acronym":  "ABPS",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako – Hamdallaye ACI 2000"
+                                         },
+                                         {
+                                             "name":  "Bamako Business School (BBS)",
+                                             "acronym":  "BBS",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre de Formation des Techniciens Socio Sanitaires (CFTSS)",
+                                             "acronym":  "CFTSS",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre de Formation des Techniciens Socio Sanitaires (CFTSS)",
+                                             "acronym":  "CFTSS",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Ségou"
+                                         },
+                                         {
+                                             "name":  "Centre de Formation en Banque et Micro Finance (CFBF)",
+                                             "acronym":  "CFBF",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre de Formation et d\u0027Appui Conseil pour le Développement Local (DELTA-C)",
+                                             "acronym":  "DELTA-C",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private"
+                                         },
+                                         {
+                                             "name":  "Centre du Droit Bancaire et des Affaires (CDBA)",
+                                             "acronym":  "CDBA",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre d\u0027Etudes et de Formation en Informatique et Bureautique (CEFIB)",
+                                             "acronym":  "CEFIB",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre d\u0027Etudes Supérieures en Informatique, Gestion et Marketing (CESIGEM)",
+                                             "acronym":  "CESIGEM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre d\u0027Ingénierie des Techniques d\u0027Entreprenariat et de Métiers (CITEM)",
+                                             "acronym":  "CITEM",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre d\u0027Ingénierie et de Formation en Energie et Développement Durable (CIFED)",
+                                             "acronym":  "CIFED",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Centre Privé d\u0027Etudes Supérieures des Techniques Comptables et Commerciales (CPESTC)",
+                                             "acronym":  "CPESTC",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre Privé d\u0027Enseignement Supérieur de Kalabancoro (CPESK)",
+                                             "acronym":  "CPESK",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako/Kalabancoro"
+                                         },
+                                         {
+                                             "name":  "Centre Privé Vicenta Maria Sciences de la Santé (CPVMSS)",
+                                             "acronym":  "CPVMSS",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Ségou"
+                                         },
+                                         {
+                                             "name":  "Centre Supérieur de Formation en Gestion (CSFG)",
+                                             "acronym":  "CSFG",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre Supérieur Privé de Formation Agropastorale Boubou SOW (CSPFA-BS)",
+                                             "acronym":  "CSPFA-BS",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kayes"
+                                         },
+                                         {
+                                             "name":  "Centre Supérieur Privé de Formation des Infirmiers de Kayes (CPFIK-SUP)",
+                                             "acronym":  "CPFIK-SUP",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kayes"
+                                         },
+                                         {
+                                             "name":  "Centre Technique de Formation Santé Plus (CTFSP)",
+                                             "acronym":  "CTFSP",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Centre Universitaire Mandé Bukari (CUMBU)",
+                                             "acronym":  "CUMBU",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Complexe Scolaire et Universitaire privé BAZO (CSUP-BAZO)",
+                                             "acronym":  "CSUP-BAZO",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://universitebazo.com/"
+                                         },
+                                         {
+                                             "name":  "Complexe Scolaire et Universitaire privé Bazo Annexe",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Complexe Universitaire Polytechnique Privé Balla Traore (CUPP-BALLAT)",
+                                             "acronym":  "CUPP-BALLAT",
+                                             "type":  "Private Polytechnic",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Cours Jean d\u0027Arc (CJA)",
+                                             "acronym":  "CJA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Centrale d\u0027Etudes Appliquées à la Santé (ECEASP)",
+                                             "acronym":  "ECEASP",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Business Bilingue (ECOB)",
+                                             "acronym":  "ECOB",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Formation de Sages-femmes Bouctou",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Formation des Infirmiers et Auxiliaires de Santé",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "Ecole de Formation des Techniciens Socio-Sanitaire – Annexe Sikasso",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "Ecole de Formation des Techniciens Socio-Sanitaires (EFTSS)",
+                                             "acronym":  "EFTSS",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Formation Paramédicale et de Formation Continue (EFPFC)",
+                                             "acronym":  "EFPFC",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Mopti"
+                                         },
+                                         {
+                                             "name":  "Ecole de Formation Sanitaire (EFS)",
+                                             "acronym":  "EFS",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Santé Amadou Garba Koita de Mopti (ESM-AGK)",
+                                             "acronym":  "ESM-AGK",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Mopti"
+                                         },
+                                         {
+                                             "name":  "Ecole de Santé Banan Kokoun (ESBK)",
+                                             "acronym":  "ESBK",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Santé Bazo",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Santé Bazo Rive Gauche (ESBRG)",
+                                             "acronym":  "ESBRG",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole de Santé BOUCTOU de Tombouctou",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Tombouctou"
+                                         },
+                                         {
+                                             "name":  "Ecole de Santé de Koutiala Espoir",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Koutiala"
+                                         },
+                                         {
+                                             "name":  "Ecole de Santé Le Djenné",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Dentaire de Bamako (EDB)",
+                                             "acronym":  "EDB",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Expert Génie Informatique Supérieure (EGI-SUP)",
+                                             "acronym":  "EGI-SUP",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Paramédicale des 40 (EP40)",
+                                             "acronym":  "EP40",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Polytechnique Privée d\u0027Excellence (EPPE)",
+                                             "acronym":  "EPPE",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Pratique de Gestion (EPG)",
+                                             "acronym":  "EPG",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Formation en Sciences de la Santé de Djitoumou (EPFSSD)",
+                                             "acronym":  "EPFSSD",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Ouélessébougou"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Médecine et de Pharmacie Fatou DIALLO (EPMP-FD)",
+                                             "acronym":  "EPMP-FD",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "École Privée de Santé ANDAL (EPSA)",
+                                             "acronym":  "EPSA",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Félix Houphoët Boigny de Sikasso",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Félix Houphouët Boigny (EPSFé)",
+                                             "acronym":  "EPSFé",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Hippocrate de Kati",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Kala Jata (EPSKJ)",
+                                             "acronym":  "EPSKJ",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Kolomba (EPSK)",
+                                             "acronym":  "EPSK",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Koro de Niamana (EPSKN)",
+                                             "acronym":  "EPSKN",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Mamadou Marouf KEITA – Kita",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kita"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Moderne (EPSaM)",
+                                             "acronym":  "EPSaM",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Safari de Magnambougou",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Salia TRAORE de Sikasso",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Source de VIE",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Sylla Yelli GOUNDO",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kayes"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée de Santé Dr Amadou Mountaga TALL",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Koutiala"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée des Hautes Etudes Comptables et Financières-Mali (EPHECEF-MALI)",
+                                             "acronym":  "EPHECEF-MALI",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée des Hautes Etudes en Santé Publique (EPHESP)",
+                                             "acronym":  "EPHESP",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée des Hautes Etudes Pratiques (EPHEP)",
+                                             "acronym":  "EPHEP",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Privée des Techniciens Socio-Sanitaires (EPTSS)",
+                                             "acronym":  "EPTSS",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "Ecole Rationnelle Privée d\u0027Informatique et d\u0027Electronique (ERPIE)",
+                                             "acronym":  "ERPIE",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Ecole Spéciale Privée de Commerce, d\u0027Administration et de l\u0027Entrepreneuriat (ESCAE-P)",
+                                             "acronym":  "ESCAE-P",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure de Commerce du Mali (ESC Mali)",
+                                             "acronym":  "ESC Mali",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://escmali.com/"
+                                         },
+                                         {
+                                             "name":  "École Supérieure de Gestion (ESG)",
+                                             "acronym":  "ESG",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "École Supérieure de Gestion d\u0027Informatique et de Comptabilité (ESGIC)",
+                                             "acronym":  "ESGIC",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://www.esgicmali.com/"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure de Journalisme, de Communication et d\u0027Animation Audiovisuelle (ESJCA)",
+                                             "acronym":  "ESJCA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure de Management du Commerce et d\u0027Informatique (SUP-MANAGEMENT)",
+                                             "acronym":  "SUP-MANAGEMENT",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure de Technologie et de Management (ESTM)",
+                                             "acronym":  "ESTM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure des Hautes Etudes Technologiques et Commerciales (HETEC)",
+                                             "acronym":  "HETEC",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure des Métiers du Commerce et de la Gestion (ECOSUP/ALTERNANCE)",
+                                             "acronym":  "ECOSUP/ALTERNANCE",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure des Sciences Politiques et de Gestion (ESPG)",
+                                             "acronym":  "ESPG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kayes"
+                                         },
+                                         {
+                                             "name":  "ESPG Annexe",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure des Technologies Avancées de Bamako (ESTAB)",
+                                             "acronym":  "ESTAB",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure d\u0027Informatique et de Gestion (ESIG)",
+                                             "acronym":  "ESIG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure d\u0027Ingénierie d\u0027Architecture et d\u0027Urbanisme (ESIAU)",
+                                             "acronym":  "ESIAU",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure en Sciences de Gestion et de Management du développement Durable Appliqué (ESUPEG-MDD)",
+                                             "acronym":  "ESUPEG-MDD",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "École Supérieure Privée d\u0027Agriculture et d\u0027Elevage (ESPAE)",
+                                             "acronym":  "ESPAE",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Ségou"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée d\u0027Ingénierie et de Management (ESPIM)",
+                                             "acronym":  "ESPIM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée de Commerce et de Gestion (ESPCG)",
+                                             "acronym":  "ESPCG",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée de Commerce et de Technologie (ESPCT)",
+                                             "acronym":  "ESPCT",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée de Géologie et des Mines (ESPGM)",
+                                             "acronym":  "ESPGM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée de Passation et de Gestion des Marchés Publics (ESPGMP)",
+                                             "acronym":  "ESPGMP",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "École Supérieure Privée de Santé de Bamako (ESPSB)",
+                                             "acronym":  "ESPSB",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée de Santé Kénédougou (ESPS-KENE)",
+                                             "acronym":  "ESPS-KENE",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée de Santé N\u0027DOUANGA (ESPSN)",
+                                             "acronym":  "ESPSN",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée de Technologies Appliquées du Mali (APTECH MALI)",
+                                             "acronym":  "APTECH MALI",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée des Techniques Industrielles et de Gestion Fako Konate",
+                                             "acronym":  "ESPTIG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée des Technologies Appliquées et de Management (ECOSTAM-P)",
+                                             "acronym":  "ECOSTAM-P",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Supérieure Privée Mamadou DIALLO – Samba Kadial",
+                                             "acronym":  "ESP-MD-SK",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Ecole Technique Privée d\u0027Enseignement Professionnel (ETPEP)",
+                                             "acronym":  "ETPEP",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Ecole Technique Supérieure Privée de Gestion Soumatio Diamoutene",
+                                             "acronym":  "ETSPG-SD",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "École Universitaire de Technologie et de Gestion (EUTG)",
+                                             "acronym":  "EUTG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Elite Internationale de Bamako (EIB)",
+                                             "acronym":  "EIB",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Faculté de Touba pour les Etudes Islamiques (FTEI)",
+                                             "acronym":  "FTEI",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Group Gemini Management International (GGMI)",
+                                             "acronym":  "GGMI",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Hautes Etudes Commerciales, Groupe HECI au Mali",
+                                             "acronym":  "HEC",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "INNOVA Academy Private School of Business (IAPSB)",
+                                             "acronym":  "IAPSB",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Africain de Formation en Pédagogie, Recherche et Evaluation de la Santé (IAFPRESS)",
+                                             "acronym":  "IAFPRESS",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Africain de Management (IAM)",
+                                             "acronym":  "IAM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://iambamako.org/"
+                                         },
+                                         {
+                                             "name":  "Institut Consulaire d\u0027Etudes et de Formation (INCEF)",
+                                             "acronym":  "INCEF",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut de Formation aux Carrières du Travail Social (IFCTS)",
+                                             "acronym":  "IFCTS",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut de Formation en Sciences de la Santé (IFSSA)",
+                                             "acronym":  "IFSSA",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut de Formation pour le Développement Economique et Social",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut de Formation Technique Supérieure (IFTS)",
+                                             "acronym":  "IFTS",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut de Gestion et de Langues Appliquées aux Métiers (IGLAM)",
+                                             "acronym":  "IGLAM",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut de Langues et de Commerce International (ILCI)",
+                                             "acronym":  "ILCI",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut de Management et de Technologie (IMATEC)",
+                                             "acronym":  "IMATEC",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut des Finances Samake Mohamed",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut des Hautes Etudes en Management (IHEM)",
+                                             "acronym":  "IHEM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut des Hautes Études Professionnelles (IHEP)",
+                                             "acronym":  "IHEP",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut des Sciences Politiques Relations Internationales et Communication (ISPRIC)",
+                                             "acronym":  "ISPRIC",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://www.ispric.com/"
+                                         },
+                                         {
+                                             "name":  "Institut des Technologies Appliquées d\u0027Afrique de Bamako (ITA-BAMAKO)",
+                                             "acronym":  "ITA-BAMAKO",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut International de Management (IIM-Université)",
+                                             "acronym":  "IIM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Moderne de Formation Sogholo (IMOFOS)",
+                                             "acronym":  "IMOFOS",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Polytechnique de Bamako (IPB)",
+                                             "acronym":  "IPB",
+                                             "type":  "Private Polytechnic",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé Africain de Formation en Santé et Environnement (IPAFSE)",
+                                             "acronym":  "IPAFSE",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé Africain de la Finance Islamique et du Management (IPAFIM)",
+                                             "acronym":  "IPAFIM",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé Africain de Technologies et de Management (IPTMA)",
+                                             "acronym":  "IPTMA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé Africain pour les Energies Renouvelables, Climat et Innovations (IPA-ERCI)",
+                                             "acronym":  "IPA-ERCI",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé de Formation en Santé de Gao (IPFSG)",
+                                             "acronym":  "IPFSG",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Gao"
+                                         },
+                                         {
+                                             "name":  "Institut Privé de Formation Sanitaire Bernard Kouchner (IPFS-BK)",
+                                             "acronym":  "IPFS-BK",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé de Langues Appliquées Performance (IPLAP)",
+                                             "acronym":  "IPLAP",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kalabancoro"
+                                         },
+                                         {
+                                             "name":  "Institut Privé de Santé Publique MAIGA (IPSPM)",
+                                             "acronym":  "IPSPM",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Institut Privé des Technologies de Bamako (ITB-Privé)",
+                                             "acronym":  "ITB",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé Kôrè des Arts et Métiers (IPKAM)",
+                                             "acronym":  "IPKAM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Ségou"
+                                         },
+                                         {
+                                             "name":  "Institut Privé Simon Finance et Management International (IPSFMI)",
+                                             "acronym":  "IPSFMI",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Privé SMART (IP-SMART)",
+                                             "acronym":  "IP-SMART",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Spécial des Techniques Commerciales et Comptables (ISTCC)",
+                                             "acronym":  "ISTCC",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Commerce (ISC-BUSINESS SCHOOL)",
+                                             "acronym":  "ISC",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Formation en Informatique et Commerce (ISFIC)",
+                                             "acronym":  "ISFIC",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Formation et de Gestion d\u0027Entreprises (ISFGE)",
+                                             "acronym":  "ISFGE",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de l\u0027Environnement (ISE)",
+                                             "acronym":  "ISE",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Management Appliquée (ISMA)",
+                                             "acronym":  "ISMA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Management de Tombouctou (ISMT)",
+                                             "acronym":  "ISMT",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Tombouctou"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Management et d\u0027Entreprenariat (ISM\u0026E)",
+                                             "acronym":  "ISM\u0026E",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Santé d\u0027Excellence (ISSE)",
+                                             "acronym":  "ISSE",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Technologie Appliquée et de Gestion (ISTAG)",
+                                             "acronym":  "ISTAG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://istagmali.com/"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Technologie et de Gestion (ISTG)",
+                                             "acronym":  "ISTG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur de Technologies Appliquées (TechnoLAB-ISTA)",
+                                             "acronym":  "TechnoLAB-ISTA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://www.technolab-ista.com/"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur des Techniques Économiques, Comptables et Commerciales (INTEC-SUP)",
+                                             "acronym":  "INTEC-SUP",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://www.intecsup.ml/"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur d\u0027Informatique et de Gestion des Affaires (SUP.IGA)",
+                                             "acronym":  "SUP.IGA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur d\u0027Informatique et de Management (ISIM)",
+                                             "acronym":  "ISIM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Polytechnique Panafricain Privé de Bamako (ISPPP)",
+                                             "acronym":  "ISPPP",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé ABDALLAH AL AGUIL (ISPAA)",
+                                             "acronym":  "ISPAA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Gao"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé BIYA BIYA-SUP",
+                                             "acronym":  "BIYA-SUP",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé de Commerce et de Management (ISPCOM)",
+                                             "acronym":  "ISPCOM",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Ségou"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé de Management et d\u0027informatique Mamadou BEYE",
+                                             "acronym":  "ISPMI",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé de Management, d\u0027Administration, de Technologie et d\u0027Industrie (ISPMATI)",
+                                             "acronym":  "ISPMATI",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé de Santé de Sikasso",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé de Santé Publique (ISPSP)",
+                                             "acronym":  "ISPSP",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé des Affaires et de Technologies (ISPATEC)",
+                                             "acronym":  "ISPATEC",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé Diba (ISP-DIBA)",
+                                             "acronym":  "ISP-DIBA",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé pour le Développement Rural (ISPDR)",
+                                             "acronym":  "ISPDR",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Privé Rosey Abantara (ROSEY-SUP)",
+                                             "acronym":  "ROSEY-SUP",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Supérieur Technique Privé des Arts et Métiers",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Technique Professionnel (ITP)",
+                                             "acronym":  "ITP",
+                                             "type":  "Private Professional Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Universitaire Privé \"Intelligentsia\"",
+                                             "acronym":  "IUP-Intelligentsia",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Universitaire Privé de Gestion Ba N\u0027Gnélé DIARRA",
+                                             "acronym":  "IUPG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Universitaire Privé de Gestion Talibi",
+                                             "acronym":  "IUPG-T",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Universitaire Privé de Gestion-Cheick Modibo Diarra",
+                                             "acronym":  "IUPG-CMD",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Universitaire Privé LUCAS",
+                                             "acronym":  "LUCAS",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Institut Universitaire Privé \"Massassi\" de Kita",
+                                             "acronym":  "IUPM-K",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Kita"
+                                         },
+                                         {
+                                             "name":  "Institut Vito Saccomandi",
+                                             "acronym":  "VITOS",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "ISPRIC – École Polytechnique",
+                                             "acronym":  "ISPRIC-EP",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://www.ispric.com/"
+                                         },
+                                         {
+                                             "name":  "Pôle d\u0027Enseignement Supérieur de Santé BAGNELE DIARRA de Doumanzana",
+                                             "acronym":  "PESUP-Santé",
+                                             "type":  "Private Health Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Private Associates Universities of Mali (PAUM)",
+                                             "acronym":  "PAUM",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Sahel Business Private School (SBPS)",
+                                             "acronym":  "SBPS",
+                                             "type":  "Private Business School",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Techno\u0027 Sup-Privée/BCG",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private"
+                                         },
+                                         {
+                                             "name":  "Unité Privée de Formation en Télécommunications et Informatique (UPFTI)",
+                                             "acronym":  "UPFTI",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Unité Supérieure Privée de Formation et de Gestion des Affaires (UPFGA-Sup)",
+                                             "acronym":  "UPFGA-Sup",
+                                             "type":  "Private Higher Education Institution",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Africaine de Management des Sciences Appliquées et de Télécommunications (UAMSAT)",
+                                             "acronym":  "UAMSAT",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Africaine des Sciences-Mali (UAS-Mali)",
+                                             "acronym":  "UAS-Mali",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Catholique de l\u0027Afrique de l\u0027Ouest / Unité Universitaire de Bamako (UCAO/UUBa)",
+                                             "acronym":  "UCAO/UUBa",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "https://ucaouuba.com/"
+                                         },
+                                         {
+                                             "name":  "Université Internationale Privée d\u0027Excellence (UIPE)",
+                                             "acronym":  "UIPE",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Kankou Moussa (UKM)",
+                                             "acronym":  "UKM",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako",
+                                             "website":  "http://ukm-mali.org/"
+                                         },
+                                         {
+                                             "name":  "Université Lafia de Koutiala",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Koutiala"
+                                         },
+                                         {
+                                             "name":  "Université Polytechnique Privée Alfred Garçon (UPAG)",
+                                             "acronym":  "UPAG",
+                                             "type":  "Private Polytechnic",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Polytechnique Privée d\u0027Excellence Toubacoro Alhassane DOUCOURE (UPETAD)",
+                                             "acronym":  "UPETAD",
+                                             "type":  "Private Polytechnic",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Université Privée Africaine Franco-Arabe (UPAFA)",
+                                             "acronym":  "UPAFA",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Université Privée Ahmed Baba (UPAB)",
+                                             "acronym":  "UPAB",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Al-Moustapha du Mali (UPAMM)",
+                                             "acronym":  "UPAMM",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Albakaye TRAORE (UPAT)",
+                                             "acronym":  "UPAT",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Université Privée Alou KONE (UPAK)",
+                                             "acronym":  "UPAK",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Université Privée Américano-Malienne (UPAMA)",
+                                             "acronym":  "UPAMA",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Att-Awoune (UPA)",
+                                             "acronym":  "UPA",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Boubacar SAYE (UPBS)",
+                                             "acronym":  "UPBS",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Cheickné DIALLO",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Université Privée de Balanzan de Ségou",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Ségou"
+                                         },
+                                         {
+                                             "name":  "Université Privée de Gestion et du Développement Durable (UniPGDD)",
+                                             "acronym":  "UniPGDD",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée de Kayes (UPK)",
+                                             "acronym":  "UPK",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Kayes"
+                                         },
+                                         {
+                                             "name":  "Université Privée de l\u0027Excellence Yeah SAMAKE",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Ouélessébougou"
+                                         },
+                                         {
+                                             "name":  "Université Privée de Management et de Technologies Tropicales (UPM2T)",
+                                             "acronym":  "UPM2T",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée des Sciences Techniques et de Développement (UPSTD)",
+                                             "acronym":  "UPSTD",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée du Kénédougou",
+                                             "acronym":  "UP-KENEDOUGOU",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Sikasso"
+                                         },
+                                         {
+                                             "name":  "Université Privée du Sahel (UPS)",
+                                             "acronym":  "UPS",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Félix Houphouët BOIGNY du Mali",
+                                             "acronym":  "UPFHOB-MALI",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Kati"
+                                         },
+                                         {
+                                             "name":  "Université Privée Franco-Arabe Amadou CISSE",
+                                             "acronym":  "UPFAC",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée IDH International-Mali",
+                                             "acronym":  "UP2IM",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Klevire",
+                                             "acronym":  "UP-KLEV",
+                                             "type":  "Private University",
+                                             "ownership":  "Private"
+                                         },
+                                         {
+                                             "name":  "Université Privée La Mémoire Supérieure (MEMO-SUP)",
+                                             "acronym":  "MEMO-SUP",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée LE VERDIER (UPV)",
+                                             "acronym":  "UPV",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée les Grands Biasson (UPGB)",
+                                             "acronym":  "UPGB",
+                                             "type":  "Private University",
+                                             "ownership":  "Private"
+                                         },
+                                         {
+                                             "name":  "Université Privée Mary Saint Claire (UPMSC)",
+                                             "acronym":  "UPMSC",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Modibo Kane Dilly (UPMKD)",
+                                             "acronym":  "UPMKD",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Mont plaisir Tunis à Bamako (UPMT)",
+                                             "acronym":  "UPMT",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Roi Khaled Ben Abdoul Aziz (UPRKBA)",
+                                             "acronym":  "UPRKBA",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         },
+                                         {
+                                             "name":  "Université Privée Souleymane SACKO de Ségou (UPSS)",
+                                             "acronym":  "UPSS",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Ségou"
+                                         },
+                                         {
+                                             "name":  "Université Scientifique Libre de Bamako (USLB)",
+                                             "acronym":  "USLB",
+                                             "type":  "Private University",
+                                             "ownership":  "Private",
+                                             "location":  "Bamako"
+                                         }
+                                     ],
+                         "transnational":  [
+
+                                           ],
+                         "distanceLearning":  [
+
+                                              ]
+                     }
 }

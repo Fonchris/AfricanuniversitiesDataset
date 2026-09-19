@@ -1,11 +1,1975 @@
 {
-  "country": "Madagascar",
-  "universities": {
-    "federal": [],
-    "state": [],
-    "private": [],
-    "transnational": [],
-    "distanceLearning": []
-  }
-} 
+    "country":  "Madagascar",
+    "universities":  {
+                         "federal":  [
 
+                                     ],
+                         "state":  [
+                                       {
+                                           "name":  "Université d\u0027Antananarivo",
+                                           "abbreviation":  "UA",
+                                           "institutionType":  "University",
+                                           "region":  "ANALAMANGA",
+                                           "city":  "Antananarivo",
+                                           "website":  "https://www.univ-antananarivo.mg/"
+                                       },
+                                       {
+                                           "name":  "Université d\u0027Antsiranana",
+                                           "abbreviation":  "UA",
+                                           "institutionType":  "University",
+                                           "region":  "DIANA",
+                                           "city":  "Antsiranana",
+                                           "website":  "https://univ-antsiranana.mg/"
+                                       },
+                                       {
+                                           "name":  "Université de Fianarantsoa",
+                                           "abbreviation":  "UF",
+                                           "institutionType":  "University",
+                                           "region":  "HAUTE MATSIATRA",
+                                           "city":  "Fianarantsoa",
+                                           "website":  "http://www.univ-fianar.mg/"
+                                       },
+                                       {
+                                           "name":  "Université de Mahajanga",
+                                           "abbreviation":  "UM",
+                                           "institutionType":  "University",
+                                           "region":  "BOENY",
+                                           "city":  "Mahajanga",
+                                           "website":  "http://www.univ-mahajanga.edu.mg/"
+                                       },
+                                       {
+                                           "name":  "Université de Toamasina",
+                                           "abbreviation":  "UT",
+                                           "institutionType":  "University",
+                                           "region":  "ATSINANANA",
+                                           "city":  "Toamasina",
+                                           "website":  "http://www.univ-toamasina.mg/"
+                                       },
+                                       {
+                                           "name":  "Université de Toliara",
+                                           "abbreviation":  "UTL",
+                                           "institutionType":  "University",
+                                           "region":  "ATSIMO ANDREFANA",
+                                           "city":  "Toliara",
+                                           "website":  "http://www.univ-toliara.mg/"
+                                       },
+                                       {
+                                           "name":  "Institut Supérieur de Technologie d\u0027Antananarivo",
+                                           "abbreviation":  "IST Antananarivo",
+                                           "institutionType":  "Public technology institute",
+                                           "region":  "ANALAMANGA",
+                                           "city":  "Antananarivo",
+                                           "website":  "http://www.ist-antenna.mg/"
+                                       },
+                                       {
+                                           "name":  "Institut Supérieur de Technologie d\u0027Ambositra",
+                                           "abbreviation":  "ISTA",
+                                           "institutionType":  "Public technology institute",
+                                           "region":  "AMORON\u0027I MANIA",
+                                           "city":  "Ambositra",
+                                           "website":  "https://istambositra.mg/"
+                                       },
+                                       {
+                                           "name":  "Institut Supérieur de Technologie d\u0027Antsiranana",
+                                           "abbreviation":  "IST Diego",
+                                           "institutionType":  "Public technology institute",
+                                           "region":  "DIANA",
+                                           "city":  "Antsiranana",
+                                           "website":  "https://ist-antsiranana.mg/"
+                                       },
+                                       {
+                                           "name":  "Institut Supérieur de Technologie Régional d\u0027Alaotra Mangoro",
+                                           "abbreviation":  "ISTRALMA",
+                                           "institutionType":  "Regional technology institute",
+                                           "region":  "ALAOTRA MANGORO",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut Supérieur de Technologie Régional d\u0027Analanjirofo",
+                                           "abbreviation":  "ISTRCE",
+                                           "institutionType":  "Regional technology institute",
+                                           "region":  "ANALANJIROFO",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut Supérieur de Technologie Régional de Manakara",
+                                           "abbreviation":  "ISTR Manakara",
+                                           "institutionType":  "Regional technology institute",
+                                           "region":  "VATOVAVY FITOVINANY",
+                                           "city":  "Manakara",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut Supérieur de Technologie Régional d\u0027Antsiranana",
+                                           "abbreviation":  "ISTRCE",
+                                           "institutionType":  "Regional technology institute",
+                                           "region":  "DIANA",
+                                           "city":  "Antsiranana",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Centre Universitaire Régional d\u0027Androy",
+                                           "abbreviation":  "CURA",
+                                           "institutionType":  "Regional university centre",
+                                           "region":  "ANDROY",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Centre Universitaire Régional de Farafangana",
+                                           "abbreviation":  "CUR Farafangana",
+                                           "institutionType":  "Regional university centre",
+                                           "region":  "ATSIMO ATSINANANA",
+                                           "city":  "Farafangana",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Centre Universitaire Régional de la Sava",
+                                           "abbreviation":  "CURSA",
+                                           "institutionType":  "Regional university centre",
+                                           "region":  "SAVA",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut d\u0027Enseignement Supérieur Anosy",
+                                           "abbreviation":  "IES Anosy",
+                                           "institutionType":  "Regional higher education institute",
+                                           "region":  "ANOSY",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut d\u0027Enseignement Supérieur Menabe",
+                                           "abbreviation":  "IES Menabe",
+                                           "institutionType":  "Regional higher education institute",
+                                           "region":  "MENABE",
+                                           "city":  "Morondava",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut d\u0027Enseignement Supérieur Vakinankaratra",
+                                           "abbreviation":  "IES VA",
+                                           "institutionType":  "Regional higher education institute",
+                                           "region":  "VAKINANKARATRA",
+                                           "city":  "Antsirabe",
+                                           "website":  ""
+                                       },
+                                       {
+                                           "name":  "Institut d\u0027Enseignement Supérieur de l\u0027Itasy",
+                                           "abbreviation":  "IES SI",
+                                           "institutionType":  "Regional higher education institute",
+                                           "region":  "ITASY",
+                                           "website":  ""
+                                       }
+                                   ],
+                         "private":  [
+                                         {
+                                             "name":  "ONIFRA",
+                                             "abbreviation":  "ONIFRA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ALAOTRA MANGORO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESPA",
+                                             "abbreviation":  "ESPA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ALAOTRA MANGORO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFISA",
+                                             "abbreviation":  "IFISA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ALAOTRA MANGORO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPALM",
+                                             "abbreviation":  "INSPALM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ALAOTRA MANGORO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPASM",
+                                             "abbreviation":  "ISPASM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ALAOTRA MANGORO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFISAM",
+                                             "abbreviation":  "IFISAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "AMORON\u0027I MANIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPALMA",
+                                             "abbreviation":  "INSPALMA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "AMORON\u0027I MANIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPRAITRA",
+                                             "abbreviation":  "ISPRAITRA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "AMORON\u0027I MANIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "PARAMA IF",
+                                             "abbreviation":  "PARAMA IF",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "AMORON\u0027I MANIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFPA",
+                                             "abbreviation":  "IFPA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALANJIROFO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFPAMA",
+                                             "abbreviation":  "IFPAMA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALANJIROFO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSM A",
+                                             "abbreviation":  "IFSM A",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALANJIROFO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSFPTA",
+                                             "abbreviation":  "INSFPTA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALANJIROFO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPAM",
+                                             "abbreviation":  "ISPAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALANJIROFO",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ACEEM BUSINESS SCHOOL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  "https://aceem.mg/"
+                                         },
+                                         {
+                                             "name":  "CEITOP",
+                                             "abbreviation":  "CEITOP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "CERF ARMI",
+                                             "abbreviation":  "CERF ARMI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "CFRH",
+                                             "abbreviation":  "CFRH",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "CNAM",
+                                             "abbreviation":  "CNAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "EBM INSTITUTE",
+                                             "abbreviation":  "EBM INSTITUTE",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "EEFPS CONDORCET",
+                                             "abbreviation":  "EEFPS CONDORCET",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "EPSA",
+                                             "abbreviation":  "EPSA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "EPESL",
+                                             "abbreviation":  "EPESL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESBTP",
+                                             "abbreviation":  "ESBTP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESCAME",
+                                             "abbreviation":  "ESCAME",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESCM BUSINESS SCHOOL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESCT",
+                                             "abbreviation":  "ESCT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESD",
+                                             "abbreviation":  "ESD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESDES",
+                                             "abbreviation":  "ESDES",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESMIA",
+                                             "abbreviation":  "ESMIA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESPBIG",
+                                             "abbreviation":  "ESPBIG",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESPIC",
+                                             "abbreviation":  "ESPIC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESSCA",
+                                             "abbreviation":  "ESSCA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  "https://essca.mg/"
+                                         },
+                                         {
+                                             "name":  "ESSED",
+                                             "abbreviation":  "ESSED",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "EST",
+                                             "abbreviation":  "EST",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESTI",
+                                             "abbreviation":  "ESTI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESTIIM",
+                                             "abbreviation":  "ESTIIM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESUM",
+                                             "abbreviation":  "ESUM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ETEC",
+                                             "abbreviation":  "ETEC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ETFPS RLG",
+                                             "abbreviation":  "ETFPS RLG",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ETS",
+                                             "abbreviation":  "ETS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "EUROI",
+                                             "abbreviation":  "EUROI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "GUA",
+                                             "abbreviation":  "GUA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "HECMMA",
+                                             "abbreviation":  "HECMMA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "HEDM",
+                                             "abbreviation":  "HEDM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IEFPA ACEEM",
+                                             "abbreviation":  "IEFPA ACEEM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IEP",
+                                             "abbreviation":  "IEP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IESTIME",
+                                             "abbreviation":  "IESTIME",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFRP",
+                                             "abbreviation":  "IFRP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFT",
+                                             "abbreviation":  "IFT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IISS",
+                                             "abbreviation":  "IISS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ILC",
+                                             "abbreviation":  "ILC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IMAGE APPLI",
+                                             "abbreviation":  "IMAGE APPLI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IMGAM",
+                                             "abbreviation":  "IMGAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IMT",
+                                             "abbreviation":  "IMT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INATA",
+                                             "abbreviation":  "INATA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INFOTOUR",
+                                             "abbreviation":  "INFOTOUR",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSIDE UNIVERSITY ROSSIGNOL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD",
+                                             "abbreviation":  "INSPNMAD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INTETLIAM",
+                                             "abbreviation":  "INTETLIAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IPAE",
+                                             "abbreviation":  "IPAE",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IPAM",
+                                             "abbreviation":  "IPAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISA",
+                                             "abbreviation":  "ISA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISAE",
+                                             "abbreviation":  "ISAE",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISAP",
+                                             "abbreviation":  "ISAP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IS ATM",
+                                             "abbreviation":  "IS ATM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISCAM",
+                                             "abbreviation":  "ISCAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  "https://www.iscam.mg/"
+                                         },
+                                         {
+                                             "name":  "ISDE",
+                                             "abbreviation":  "ISDE",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISECOM",
+                                             "abbreviation":  "ISECOM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISETS",
+                                             "abbreviation":  "ISETS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISGEI",
+                                             "abbreviation":  "ISGEI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISGIEM",
+                                             "abbreviation":  "ISGIEM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IS IESI",
+                                             "abbreviation":  "IS IESI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISIME",
+                                             "abbreviation":  "ISIME",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IS INFO",
+                                             "abbreviation":  "IS INFO",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISITM",
+                                             "abbreviation":  "ISITM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IS2M",
+                                             "abbreviation":  "IS2M",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  "https://is2m.mg/"
+                                         },
+                                         {
+                                             "name":  "ISM ADVANCEA",
+                                             "abbreviation":  "ISM ADVANCEA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISNA",
+                                             "abbreviation":  "ISNA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPA",
+                                             "abbreviation":  "ISPA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPAG",
+                                             "abbreviation":  "ISPAG",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPM",
+                                             "abbreviation":  "ISPM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISP MDF",
+                                             "abbreviation":  "ISP MDF",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPPM",
+                                             "abbreviation":  "ISPPM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  "https://isppm.mg/"
+                                         },
+                                         {
+                                             "name":  "ISSEG",
+                                             "abbreviation":  "ISSEG",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSIG",
+                                             "abbreviation":  "ISSIG",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSMI",
+                                             "abbreviation":  "ISSMI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSSG",
+                                             "abbreviation":  "ISSSG",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSUP",
+                                             "abbreviation":  "ISSUP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISTS",
+                                             "abbreviation":  "ISTS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ITU",
+                                             "abbreviation":  "ITU",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IUM",
+                                             "abbreviation":  "IUM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "JAU",
+                                             "abbreviation":  "JAU",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "LMBU",
+                                             "abbreviation":  "LMBU",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "MTC",
+                                             "abbreviation":  "MTC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "MUST UNIVERSITY",
+                                             "abbreviation":  "MUST UNIVERSITY",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "PSP",
+                                             "abbreviation":  "PSP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "SAMIS ESIC",
+                                             "abbreviation":  "SAMIS ESIC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "TANA PREMIER",
+                                             "abbreviation":  "TANA PREMIER",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "TOP INFO",
+                                             "abbreviation":  "TOP INFO",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "TSI",
+                                             "abbreviation":  "TSI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UNIVERSITE ASCOM",
+                                             "abbreviation":  "UNIVERSITE ASCOM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UCM",
+                                             "abbreviation":  "UCM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  "https://www.ucm.mg/"
+                                         },
+                                         {
+                                             "name":  "U EMEDIA",
+                                             "abbreviation":  "U EMEDIA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "U GSI",
+                                             "abbreviation":  "U GSI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UNIVERS INFORMATIQUE",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UIM",
+                                             "abbreviation":  "UIM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UOI",
+                                             "abbreviation":  "UOI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UP ALPHA SCHOOL",
+                                             "abbreviation":  "UP ALPHA SCHOOL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "U P Am/trimo",
+                                             "abbreviation":  "U P Am/trimo",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UPHS",
+                                             "abbreviation":  "UPHS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UPI",
+                                             "abbreviation":  "UPI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UTB",
+                                             "abbreviation":  "UTB",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "VATEL",
+                                             "abbreviation":  "VATEL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "AKAMASOA UNIVERSITE SAINT VINCENT DE PAUL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "AHU",
+                                             "abbreviation":  "AHU",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESFPB",
+                                             "abbreviation":  "ESFPB",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESISFA",
+                                             "abbreviation":  "ESISFA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESPM",
+                                             "abbreviation":  "ESPM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFAGI ET PARAMED",
+                                             "abbreviation":  "IFAGI ET PARAMED",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFAS",
+                                             "abbreviation":  "IFAS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFELP",
+                                             "abbreviation":  "IFELP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSI INTERMED",
+                                             "abbreviation":  "IFSI INTERMED",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSM",
+                                             "abbreviation":  "IFSM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSP",
+                                             "abbreviation":  "IFSP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSPR",
+                                             "abbreviation":  "IFSPR",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INFOSUP",
+                                             "abbreviation":  "INFOSUP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD Ambohimanarina",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD Manakambahiny",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFP Andoharanofotsy",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFP LEADER",
+                                             "abbreviation":  "ISFP LEADER",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFPS",
+                                             "abbreviation":  "ISFPS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISMATEC",
+                                             "abbreviation":  "ISMATEC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPARAMED Itaosy",
+                                             "abbreviation":  "ISPARAMED Itaosy",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPMD",
+                                             "abbreviation":  "ISPMD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPGI",
+                                             "abbreviation":  "ISPGI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPPS",
+                                             "abbreviation":  "ISPPS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISST PARAMED",
+                                             "abbreviation":  "ISST PARAMED",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "MU Mahitsy",
+                                             "abbreviation":  "MU Mahitsy",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ONIFRA",
+                                             "abbreviation":  "ONIFRA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "PARMI",
+                                             "abbreviation":  "PARMI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UNIVERSITE ACEEM",
+                                             "abbreviation":  "UNIVERSITE ACEEM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "U GSI BYPASS",
+                                             "abbreviation":  "U GSI BYPASS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UPA HPI MASCA",
+                                             "abbreviation":  "UPA HPI MASCA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UPRIM",
+                                             "abbreviation":  "UPRIM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANALAMANGA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFP Leader",
+                                             "abbreviation":  "ISFP Leader",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANDROY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "CEL",
+                                             "abbreviation":  "CEL",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANOSY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPAFORT",
+                                             "abbreviation":  "INSPAFORT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANOSY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFPS Leader",
+                                             "abbreviation":  "ISFPS Leader",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ANOSY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UTM",
+                                             "abbreviation":  "UTM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ANDREFANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSFP",
+                                             "abbreviation":  "INSFP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ANDREFANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD",
+                                             "abbreviation":  "INSPNMAD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ANDREFANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IPLBS",
+                                             "abbreviation":  "IPLBS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ANDREFANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFP",
+                                             "abbreviation":  "ISFP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ANDREFANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPPS",
+                                             "abbreviation":  "ISPPS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ANDREFANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFPM",
+                                             "abbreviation":  "ISFPM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFPP",
+                                             "abbreviation":  "ISFPP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSIMO ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "BEATY UNIVERSITY",
+                                             "abbreviation":  "BEATY UNIVERSITY",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFT",
+                                             "abbreviation":  "IFT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSP ATSINANANA",
+                                             "abbreviation":  "IFSP ATSINANANA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSPT",
+                                             "abbreviation":  "IFSPT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPALM",
+                                             "abbreviation":  "INSPALM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD",
+                                             "abbreviation":  "INSPNMAD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFSP",
+                                             "abbreviation":  "ISFSP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISMATEC",
+                                             "abbreviation":  "ISMATEC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPAVA",
+                                             "abbreviation":  "ISPAVA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSPM",
+                                             "abbreviation":  "ISSPM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ATSINANANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD",
+                                             "abbreviation":  "INSPNMAD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BETSiBOKA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESIGE",
+                                             "abbreviation":  "ESIGE",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESSGAM",
+                                             "abbreviation":  "ESSGAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ICND",
+                                             "abbreviation":  "ICND",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFT",
+                                             "abbreviation":  "IFT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INFOTOUR",
+                                             "abbreviation":  "INFOTOUR",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISMST",
+                                             "abbreviation":  "ISMST",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "BIP",
+                                             "abbreviation":  "BIP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESI JEAN PAUL II",
+                                             "abbreviation":  "ESI JEAN PAUL II",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSPR Boeny",
+                                             "abbreviation":  "IFSPR Boeny",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSTM",
+                                             "abbreviation":  "IFSTM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPAM",
+                                             "abbreviation":  "INSPAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD",
+                                             "abbreviation":  "INSPNMAD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISB",
+                                             "abbreviation":  "ISB",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFSIM",
+                                             "abbreviation":  "ISFSIM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISAMATEC",
+                                             "abbreviation":  "ISAMATEC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPAM",
+                                             "abbreviation":  "ISPAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BOENY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFPT",
+                                             "abbreviation":  "IFPT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BONGOLAVA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPE",
+                                             "abbreviation":  "ISPE",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "BONGOLAVA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISIA",
+                                             "abbreviation":  "ISIA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISMADA",
+                                             "abbreviation":  "ISMADA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISTIME",
+                                             "abbreviation":  "ISTIME",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IUP AESM Nosy Be Hell Ville",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFIMA",
+                                             "abbreviation":  "IFIMA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSPN",
+                                             "abbreviation":  "IFSPN",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISA",
+                                             "abbreviation":  "ISA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISAPSP",
+                                             "abbreviation":  "ISAPSP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISISFA",
+                                             "abbreviation":  "ISISFA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISNM",
+                                             "abbreviation":  "ISNM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPNA",
+                                             "abbreviation":  "ISPNA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPRD",
+                                             "abbreviation":  "ISPRD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPS Sambirano",
+                                             "abbreviation":  "ISPS Sambirano",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "URM",
+                                             "abbreviation":  "URM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "DIANA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ECAT TARATRA",
+                                             "abbreviation":  "ECAT TARATRA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "FF MMM-IMD",
+                                             "abbreviation":  "FF MMM-IMD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ICTUS",
+                                             "abbreviation":  "ICTUS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFT",
+                                             "abbreviation":  "IFT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISMST",
+                                             "abbreviation":  "ISMST",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSD THOMAS D’AQUIN",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSPS",
+                                             "abbreviation":  "ISSPS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ITSA",
+                                             "abbreviation":  "ITSA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ITSFX",
+                                             "abbreviation":  "ITSFX",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "LIME",
+                                             "abbreviation":  "LIME",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "SALT",
+                                             "abbreviation":  "SALT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESIF",
+                                             "abbreviation":  "ESIF",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFPF",
+                                             "abbreviation":  "IFPF",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSPR",
+                                             "abbreviation":  "IFSPR",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD",
+                                             "abbreviation":  "INSPNMAD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSFP",
+                                             "abbreviation":  "ISSFP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "HAUTE MATSIATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSPR",
+                                             "abbreviation":  "IFSPR",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "IHOROMBE",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IPPI",
+                                             "abbreviation":  "IPPI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "IHOROMBE",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISMR",
+                                             "abbreviation":  "ISMR",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ITASY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPRI",
+                                             "abbreviation":  "ISPRI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ITASY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ONIFRA",
+                                             "abbreviation":  "ONIFRA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ITASY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSM",
+                                             "abbreviation":  "IFSM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ITASY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPARI",
+                                             "abbreviation":  "INSPARI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "ITASY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFP",
+                                             "abbreviation":  "IFP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "MELAKY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISCAMEN Morondava",
+                                             "abbreviation":  "ISCAMEN Morondava",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "MENABE",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFIMA",
+                                             "abbreviation":  "IFIMA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SAVA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFISA",
+                                             "abbreviation":  "IFISA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SAVA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFPSAVA",
+                                             "abbreviation":  "IFPSAVA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SAVA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFP",
+                                             "abbreviation":  "ISFP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SAVA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISPRSAVA",
+                                             "abbreviation":  "ISPRSAVA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SAVA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IGS",
+                                             "abbreviation":  "IGS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SOFIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESFI",
+                                             "abbreviation":  "ESFI",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SOFIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFPM",
+                                             "abbreviation":  "IFPM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SOFIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFPS",
+                                             "abbreviation":  "IFPS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SOFIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSI SJA",
+                                             "abbreviation":  "IFSI SJA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SOFIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFPS",
+                                             "abbreviation":  "ISFPS",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "SOFIA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ASJA",
+                                             "abbreviation":  "ASJA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  "https://asja-mada.net/"
+                                         },
+                                         {
+                                             "name":  "CFAMA",
+                                             "abbreviation":  "CFAMA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "CRAC ETUDIANT",
+                                             "abbreviation":  "CRAC ETUDIANT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ESSVA",
+                                             "abbreviation":  "ESSVA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "GSSPA",
+                                             "abbreviation":  "GSSPA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IESTIME",
+                                             "abbreviation":  "IESTIME",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFP Raketamanga",
+                                             "abbreviation":  "IFP Raketamanga",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFT",
+                                             "abbreviation":  "IFT",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IPSATTA",
+                                             "abbreviation":  "IPSATTA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ONIFRA",
+                                             "abbreviation":  "ONIFRA",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFP CRAC",
+                                             "abbreviation":  "IFP CRAC",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPAM",
+                                             "abbreviation":  "INSPAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPAMEN",
+                                             "abbreviation":  "INSPAMEN",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "INSPNMAD",
+                                             "abbreviation":  "INSPNMAD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISSSD",
+                                             "abbreviation":  "ISSSD",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "PARAMA IF",
+                                             "abbreviation":  "PARAMA IF",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "SEFAM",
+                                             "abbreviation":  "SEFAM",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "UAZ",
+                                             "abbreviation":  "UAZ",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VAKINANKARATRA",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IST",
+                                             "abbreviation":  "IST",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VATOVAVY FITOVINANY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISTR V",
+                                             "abbreviation":  "ISTR V",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VATOVAVY FITOVINANY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "IFSPR",
+                                             "abbreviation":  "IFSPR",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VATOVAVY FITOVINANY",
+                                             "website":  ""
+                                         },
+                                         {
+                                             "name":  "ISFPP",
+                                             "abbreviation":  "ISFPP",
+                                             "institutionType":  "Private higher education institution",
+                                             "region":  "VATOVAVY FITOVINANY",
+                                             "website":  ""
+                                         }
+                                     ],
+                         "transnational":  [
+
+                                           ],
+                         "distanceLearning":  [
+                                                  {
+                                                      "name":  "Centre National du Télé-Enseignement de Madagascar",
+                                                      "abbreviation":  "CNTEMAD",
+                                                      "institutionType":  "National distance-learning institution",
+                                                      "region":  "NATIONAL",
+                                                      "city":  "Antananarivo",
+                                                      "website":  ""
+                                                  }
+                                              ]
+                     }
+}
