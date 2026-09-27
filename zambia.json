@@ -2,8 +2,786 @@
   "country": "Zambia",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Chalimbana University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Chongwe, Lusaka",
+        "website": "https://www.chau.ac.zm/"
+      },
+      {
+        "name": "Copperbelt University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kitwe",
+        "website": "https://www.cbu.ac.zm/"
+      },
+      {
+        "name": "Kapasa Makasa University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Chinsali",
+        "website": "https://www.kmu.ac.zm/"
+      },
+      {
+        "name": "Kwame Nkrumah University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kabwe",
+        "website": "https://www.nkrumah.edu.zm/"
+      },
+      {
+        "name": "Levy Mwanawasa Medical University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": "https://www.lmmu.ac.zm/"
+      },
+      {
+        "name": "Mukuba University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kitwe",
+        "website": "https://www.mukuba.edu.zm/"
+      },
+      {
+        "name": "Mulungushi University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kabwe",
+        "website": "https://www.mu.ac.zm/"
+      },
+      {
+        "name": "University of Zambia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": "https://www.unza.zm/"
+      },
+      {
+        "name": "Palabana University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Chongwe",
+        "website": ""
+      },
+      {
+        "name": "National Institute of Public Administration (NIPA)",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": "https://www.nipa.ac.zm/"
+      },
+      {
+        "name": "Arthur Davison School of Paediatrics and Child Health Nursing",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Ndola",
+        "website": ""
+      },
+      {
+        "name": "Chipata College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Chipata",
+        "website": ""
+      },
+      {
+        "name": "Defence School of Health Sciences",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Kabwe College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Kabwe",
+        "website": ""
+      },
+      {
+        "name": "Kafue College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Kafue",
+        "website": ""
+      },
+      {
+        "name": "Kaoma College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Kaoma",
+        "website": ""
+      },
+      {
+        "name": "Kasama College of Education",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Kasama",
+        "website": ""
+      },
+      {
+        "name": "Kitwe College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Kitwe",
+        "website": ""
+      },
+      {
+        "name": "Livingstone College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Livingstone",
+        "website": ""
+      },
+      {
+        "name": "Lusaka College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Mansa College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Mansa",
+        "website": ""
+      },
+      {
+        "name": "Michael Chilufya Sata School of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Mpika",
+        "website": ""
+      },
+      {
+        "name": "Mporokoso College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Mporokoso",
+        "website": ""
+      },
+      {
+        "name": "Mufulira College of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Mufulira",
+        "website": ""
+      },
+      {
+        "name": "Natural Resources Development College (NRDC)",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Defence Services Command and Staff College",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia Centre for Accountancy Studies (ZCAS) Professional",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia Chartered Institute of Logistics and Transport",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia College of Medicine and Surgery",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia College of Pensions and Insurance Trust",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia Institute for Diplomatic Studies (ZIDIS)",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia Institute for Marketing",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia Institute of Banking",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia Institute of Chartered Accountants",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Public",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Zambia University College of Technology",
+        "abbreviation": "",
+        "type": "Technical University College",
+        "ownership": "Public",
+        "city": "Ndola",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Africa Research University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.aru.ac.zm/"
+      },
+      {
+        "name": "African Christian University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://acu.edu.zm/"
+      },
+      {
+        "name": "Berea Theological University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://btu.ac.zm/"
+      },
+      {
+        "name": "Blessings University of Excellence",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.bue.edu.zm/"
+      },
+      {
+        "name": "Cavendish University Zambia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.cavendish.ac.zm/"
+      },
+      {
+        "name": "Central African Baptist University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kitwe",
+        "website": "https://cabu.edu.zm/"
+      },
+      {
+        "name": "Chreso University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka / Ndola",
+        "website": "https://chresouniversity.edu.zm/"
+      },
+      {
+        "name": "City University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Copperstone University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kitwe",
+        "website": "https://www.copperstone.edu.zm/"
+      },
+      {
+        "name": "DMI-St. Eugene University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Chibombo / Chipata",
+        "website": "https://www.dmiuniversity.edu.zm/"
+      },
+      {
+        "name": "Eden University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.edenuniversity.edu.zm/"
+      },
+      {
+        "name": "Evangelical University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Ndola",
+        "website": "https://www.eu.edu.zm/"
+      },
+      {
+        "name": "Gideon Robert University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka / Choma / Kitwe",
+        "website": "https://www.gru.ac.zm/"
+      },
+      {
+        "name": "Harvest University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Information and Communications University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.icu.edu.zm/"
+      },
+      {
+        "name": "Kenneth Kaunda Metropolitan University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Kopaline University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Livingstone International University of Tourism Excellence and Business Management (LIUTEBM)",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Livingstone",
+        "website": "https://www.liutebm.com/"
+      },
+      {
+        "name": "Lusaka Apex Medical University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.lamu.edu.zm/"
+      },
+      {
+        "name": "Mosa University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Chibombo",
+        "website": ""
+      },
+      {
+        "name": "Northrise University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Ndola",
+        "website": "https://www.northrise.edu.zm/"
+      },
+      {
+        "name": "Open Window University for the Creative Arts",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.openwindow.co.za/"
+      },
+      {
+        "name": "Rockview University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://rockviewuniversity.edu.zm/"
+      },
+      {
+        "name": "Rusangu University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Monze / Lusaka / Kitwe",
+        "website": "https://www.rusangu.ac.zm/"
+      },
+      {
+        "name": "St. Dominic's Major Seminary",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Supershine University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Texila American University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.tau.edu.zm/"
+      },
+      {
+        "name": "The University of Barotseland",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mongu",
+        "website": ""
+      },
+      {
+        "name": "Trans-Africa Christian University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kitwe",
+        "website": "https://www.tacu.ac.zm/"
+      },
+      {
+        "name": "Trinity University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "UNICAF University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.unicafuniversity.com/"
+      },
+      {
+        "name": "United Church of Zambia University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kitwe",
+        "website": ""
+      },
+      {
+        "name": "University of Africa",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.uofa.ac.zm/"
+      },
+      {
+        "name": "University of Edenberg",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka / Kitwe",
+        "website": ""
+      },
+      {
+        "name": "University of Lusaka",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.unilus.ac.zm/"
+      },
+      {
+        "name": "Zambia Catholic University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kalulushi",
+        "website": "https://www.zcasu.edu.zm/"
+      },
+      {
+        "name": "Zambian Christian University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Choma",
+        "website": ""
+      },
+      {
+        "name": "Zambian Open University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.zaou.ac.zm/"
+      },
+      {
+        "name": "Zambian Royal Medical University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Chibombo",
+        "website": ""
+      },
+      {
+        "name": "ZCAS University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": "https://www.zcasu.edu.zm/"
+      },
+      {
+        "name": "Ambassador International University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Chongwe",
+        "website": ""
+      },
+      {
+        "name": "Bethel University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Mongu",
+        "website": ""
+      },
+      {
+        "name": "Brook Besor University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "George Benson Christian University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Kalomo",
+        "website": ""
+      },
+      {
+        "name": "Jamodha University Zambia",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Mazabuka",
+        "website": ""
+      },
+      {
+        "name": "Justo Mwale University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "London American University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Lusaka Environmental Health University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Lusaka Goldsmiths University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Mansfield University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Oak University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Paglory University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Kabwe",
+        "website": ""
+      },
+      {
+        "name": "South Valley University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Chikankata",
+        "website": ""
+      },
+      {
+        "name": "St. Bonaventure University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Sunningdale University",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Victoria Falls University of Technology",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Livingstone",
+        "website": ""
+      },
+      {
+        "name": "Woodlands University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "Glory Academy College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Lusaka / Kafue",
+        "website": ""
+      },
+      {
+        "name": "Mukuba College of Education",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Kitwe",
+        "website": ""
+      },
+      {
+        "name": "North Western University College of Health and Applied Sciences",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Kalumbila",
+        "website": ""
+      },
+      {
+        "name": "Lusaka Open Business College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      },
+      {
+        "name": "East, Central and Southern Africa College of Obstetrics and Gynecology",
+        "abbreviation": "",
+        "type": "Specialised HEI",
+        "ownership": "Private",
+        "city": "Lusaka",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

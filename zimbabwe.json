@@ -2,8 +2,411 @@
   "country": "Zimbabwe",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Bindura University of Science Education",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Bindura",
+        "website": "https://www.buse.ac.zw/"
+      },
+      {
+        "name": "Chinhoyi University of Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Chinhoyi",
+        "website": "https://www.cut.ac.zw/"
+      },
+      {
+        "name": "Harare Institute of Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Harare",
+        "website": "https://www.hit.ac.zw/"
+      },
+      {
+        "name": "Great Zimbabwe University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Masvingo",
+        "website": "https://www.gzu.ac.zw/"
+      },
+      {
+        "name": "Gwanda State University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Gwanda",
+        "website": "https://www.gsu.ac.zw/"
+      },
+      {
+        "name": "Manicaland State University of Applied Sciences",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Mutare / Manicaland",
+        "website": "https://www.msuas.ac.zw/"
+      },
+      {
+        "name": "Midlands State University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Gweru",
+        "website": "https://www.msu.ac.zw/"
+      },
+      {
+        "name": "Marondera University of Agricultural Sciences and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Marondera",
+        "website": "https://www.muast.ac.zw/"
+      },
+      {
+        "name": "National University of Science and Technology (NUST)",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Bulawayo",
+        "website": "https://www.nust.ac.zw/"
+      },
+      {
+        "name": "University of Zimbabwe",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Harare",
+        "website": "https://www.uz.ac.zw/"
+      },
+      {
+        "name": "Lupane State University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Lupane",
+        "website": "https://www.lsu.ac.zw/"
+      },
+      {
+        "name": "Pan African Minerals University of Science and Technology (PAMUST)",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Harare",
+        "website": "https://www.pamust.ac.zw/",
+        "status": "State university; currently operating through/with UZ-PAMUST structure"
+      },
+      {
+        "name": "Zimbabwe National Defence University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Harare",
+        "website": "https://www.zndu.ac.zw/"
+      },
+      {
+        "name": "Zimbabwe Open University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Harare / nationwide",
+        "website": "https://www.zou.ac.zw/"
+      },
+      {
+        "name": "Bulawayo Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Bulawayo",
+        "website": "https://www.bulawayopoly.ac.zw/"
+      },
+      {
+        "name": "Mutare Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Mutare",
+        "website": "https://www.mutarepoly.ac.zw/"
+      },
+      {
+        "name": "Joshua Mqabuko Nkomo Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Bulawayo",
+        "website": "https://www.jmnkpoly.ac.zw/"
+      },
+      {
+        "name": "Gweru Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Gweru",
+        "website": "https://www.gwerupoly.ac.zw/"
+      },
+      {
+        "name": "Kwekwe Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Kwekwe",
+        "website": "https://www.kwekwepoly.ac.zw/"
+      },
+      {
+        "name": "Masvingo Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Masvingo",
+        "website": "https://www.masvingopoly.ac.zw/"
+      },
+      {
+        "name": "Kushinga Phikelela Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Mashonaland East",
+        "website": "https://www.kpp.ac.zw/"
+      },
+      {
+        "name": "Harare Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Harare",
+        "website": "https://www.hararepoly.ac.zw/"
+      },
+      {
+        "name": "School of Hospitality & Tourism",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Zimbabwe",
+        "website": ""
+      },
+      {
+        "name": "Bondolfi Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.bondolfitc.ac.zw/"
+      },
+      {
+        "name": "Belvedere Technical Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.belvederettc.ac.zw/"
+      },
+      {
+        "name": "Blended Education College of Southern Africa",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Morgenster Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.morgensterntc.ac.zw/"
+      },
+      {
+        "name": "Marymount Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.marymounttc.ac.zw/"
+      },
+      {
+        "name": "Mkoba Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.mkobatc.ac.zw/"
+      },
+      {
+        "name": "Hillside Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.hillsidetc.ac.zw/"
+      },
+      {
+        "name": "Madziwa Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.madziwatc.ac.zw/"
+      },
+      {
+        "name": "Masvingo Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.masvingotc.ac.zw/"
+      },
+      {
+        "name": "Morgan Zintec Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.morganzintec.ac.zw/"
+      },
+      {
+        "name": "Mutare Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.mutareteachers.ac.zw/"
+      },
+      {
+        "name": "Nyadire Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.nyadiretc.ac.zw/"
+      },
+      {
+        "name": "Seke Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.seketc.ac.zw/"
+      },
+      {
+        "name": "Hwange Teachers' College",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.hwange.tc.ac.zw/"
+      },
+      {
+        "name": "United College for Education",
+        "abbreviation": "",
+        "type": "Teachers' College",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.uce.ac.zw/"
+      },
+      {
+        "name": "Westgate Industrial Training College",
+        "abbreviation": "",
+        "type": "Industrial Training Centre",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.westgateitc.ac.zw/"
+      },
+      {
+        "name": "Mupfure Industrial Training College",
+        "abbreviation": "",
+        "type": "Industrial Training Centre",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.mupfureitc.ac.zw/"
+      },
+      {
+        "name": "Danhiko Project",
+        "abbreviation": "",
+        "type": "Industrial Training Centre",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Msasa Industrial Training College",
+        "abbreviation": "",
+        "type": "Industrial Training Centre",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.msasaitc.ac.zw/"
+      },
+      {
+        "name": "St Peters Kubatana",
+        "abbreviation": "",
+        "type": "Industrial Training Centre",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Africa University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mutare, Manicaland",
+        "website": "https://www.africau.edu/"
+      },
+      {
+        "name": "Arrupe Jesuit University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Harare",
+        "website": "https://www.arrupe.ac.zw/"
+      },
+      {
+        "name": "Catholic University in Zimbabwe",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Harare",
+        "website": "https://www.cuz.ac.zw/"
+      },
+      {
+        "name": "Reformed Church University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Masvingo",
+        "website": "https://www.rcu.ac.zw/"
+      },
+      {
+        "name": "Solusi University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Bulawayo / Matabeleland",
+        "website": "https://www.solusi.ac.zw/"
+      },
+      {
+        "name": "Women's University in Africa",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Harare",
+        "website": "https://www.wua.ac.zw/"
+      },
+      {
+        "name": "Zimbabwe Ezekiel Guti University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Bindura",
+        "website": "https://www.zegu.ac.zw/"
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

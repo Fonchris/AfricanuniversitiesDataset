@@ -2,8 +2,922 @@
   "country": "Togo",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Université de Lomé",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://univ-lome.tg/"
+      },
+      {
+        "name": "Université de Kara",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://univkara.tg/"
+      },
+      {
+        "name": "CIREL - Village du Bénin",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "École Normale Supérieure d'Atakpamé",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain d'Informatique - Togo",
+        "abbreviation": "",
+        "type": "Interstate Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://new.iai-togo.tg/officiel"
+      },
+      {
+        "name": "École Nationale des Auxiliaires Médicaux",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "CERFER",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.cerfer.org/"
+      },
+      {
+        "name": "INFA-Tové",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IRES-RDEC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "EAMAU",
+        "abbreviation": "",
+        "type": "Interstate Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.eamau.org/"
+      },
+      {
+        "name": "IFFD-OTR",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "CFMI",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.cfmi.tg/"
+      },
+      {
+        "name": "École Nationale Polytechnique",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "CFBT",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "CIB-INTA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.cibinta.tg/"
+      },
+      {
+        "name": "CPTEC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "CIFOP-Lomé",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.cifop-togo.org/"
+      },
+      {
+        "name": "Centre Omnithérapeutique Africain",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "École de Finance",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "École des Cadres",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "HEST",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "EMARITO",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESASN",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://esastogo.org/"
+      },
+      {
+        "name": "ESAG-NDE",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESAM",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESIG Global Success",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.esgis.org/"
+      },
+      {
+        "name": "ESIBA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESCEN",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESFP-FIMAC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESGIS",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.esgis.org/"
+      },
+      {
+        "name": "ESMA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESTECA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESEC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESPC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure des Sciences Économiques, de Gestion et de la Statistique Dr DJOKA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESTAC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.estactogo.fr/"
+      },
+      {
+        "name": "ESTH-SM",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "FATAD",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "FORMATEC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://formatec.tg/"
+      },
+      {
+        "name": "HTIB-ATLANTIS",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Hôtel École AVENIDA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IAEC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://iaectogo.com/"
+      },
+      {
+        "name": "IADSS",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.iadsstogo.com/"
+      },
+      {
+        "name": "IASTM",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain Le Leadership",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IFORDD",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.ifordd.org/"
+      },
+      {
+        "name": "IFTS",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://ifts-tg.com/"
+      },
+      {
+        "name": "IMaST",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.imast.tg/"
+      },
+      {
+        "name": "IRFODEL",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://irfodel.com/"
+      },
+      {
+        "name": "IPNET IT",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IGEB",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IPBTP",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut supérieur LA MAÎTRISE",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut supérieur LE TECHNOCRATE",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISAC",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISAGES",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISDI",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISM ADONAI",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISMAD",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "HETML",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISTM",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISLA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISSEC-KOUVAHEY",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut supérieur Don Bosco",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut supérieur privé de management",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "LUCAS University College",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire Global Wealth",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Ascencia Keyce Togo",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://ascencia-keyce-togo.fr/"
+      },
+      {
+        "name": "JUMAU ITA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.jumau-ita.com/"
+      },
+      {
+        "name": "ISBA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Lomé Business School",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://lome-bs.com/"
+      },
+      {
+        "name": "SIBI-Togo",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://sibitogo.org/"
+      },
+      {
+        "name": "IHERIS",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://iheris.com/"
+      },
+      {
+        "name": "ESAMOD",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "UCAO-UUT",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://ucao-uut.tg/"
+      },
+      {
+        "name": "American Institute of Commonwealth-Togo",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Centre de Formation Supérieure Tarso",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire Nobel",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://iun.tg/"
+      },
+      {
+        "name": "ESEA-Q'LS",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESAT-Togo",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "EMC-Sokodé",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESCG-Tsévié",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IFOMESS-Kara",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IFNTI-Sokodé",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISTA-Kara",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISMB-Lomé-Kara",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Knowbridge University Institute",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Consortium Saint John Révélation",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institute of Strategy and Leadership",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESIA-Aného",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Hôtel École Concordia",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure le Miel de Kpové-Zion",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Univers XOESE",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "International School of Technology and Business",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "CFS-SartenMode",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESRID",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Global University School of Science and Technology",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISBIC-ALG",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESSIG",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Adaptation Finance Academy",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "École de Droit de Lomé",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESIMS-Togo",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IFRISSE",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://ifrisse-togo.org/"
+      },
+      {
+        "name": "Institut Polytechnique Jameson",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISAPAB-Togo",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ISMIE",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "SUP-TOPO",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "SIGMA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ESTABAT",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "CFP Ancilla",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique DEFITECH",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "AGIS",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur DELXIA",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

@@ -2,9 +2,772 @@
   "country": "Sudan",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
-    "transnational": [],
+    "state": [
+      {
+        "name": "University of Khartoum",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Omdurman Islamic University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Sudan University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Gezira",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Battana University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of the Holy Quran and Islamic Sciences",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of the Holy Quran and Islamic Sciences and Originality of Sciences",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Neelain University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Zaeem Al-Azhari University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Bahri University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Shendi University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Nile Valley University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Dongola",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Red Sea University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Kassala University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Gedaref University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Sennar University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Blue Nile University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Imam Al-Mahdi University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Bakht Al-Ruda University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Kordofan",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Dalanj University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "West Kordofan University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Peace",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of El Fasher",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Nyala",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Zalingei",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Geneina",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Abdel Latif Al-Hamad Technological University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of El Daein",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Sudan Technological University",
+        "abbreviation": "",
+        "type": "Technological University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Managil University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "East Kordofan University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Technological University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Health Sciences",
+        "abbreviation": "",
+        "type": "Specialist University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Islamic Institute for Translation",
+        "abbreviation": "",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Open University of Sudan",
+        "abbreviation": "",
+        "type": "Open University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "National Ribat University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "International University of Africa",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Karary University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Ahfad University for Women",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Medical Sciences and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Sudan International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Omdurman Ahlia University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Mustaqbal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Mashreq University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Expatriates",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "National University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Ibn Sina University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Razi University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Wad Medani Ahlia University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Sheikh Abdullah Al-Badri University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Delta University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Neel University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Port Sudan Ahlia University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Darfur University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Al-Sharq Ahlia University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Royal College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Jordanian Sudanese College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Azza University College for Women",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Academy of Banking and Financial Sciences",
+        "abbreviation": "",
+        "type": "Academy",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Dar Al-Uloom College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Canadian Sudanese College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "South of the Sahara College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Fajr College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Farabi College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Jazeera College of Medical Sciences and Technology",
+        "abbreviation": "",
+        "type": "Medical College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Taibah College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "College of Engineering and Medical Sciences",
+        "abbreviation": "",
+        "type": "Engineering / Medical College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Sudanese College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Imam Al-Hadi College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Mogran College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "West Nile College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Mada'in College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Khwarizmi College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Safwa College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Jazeera Technical College",
+        "abbreviation": "",
+        "type": "Technical College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Comboni College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Manhal Academy of Sciences",
+        "abbreviation": "",
+        "type": "Academy",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Salama College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Khartoum",
+        "website": ""
+      },
+      {
+        "name": "Al-Magd College of Medical Sciences and Technology",
+        "abbreviation": "",
+        "type": "Medical College",
+        "ownership": "Private",
+        "city": "Al-Hasahisa",
+        "website": ""
+      },
+      {
+        "name": "Iqra College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Fadassi",
+        "website": ""
+      },
+      {
+        "name": "Al-Noor College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Wad Madani",
+        "website": ""
+      },
+      {
+        "name": "Abubakr Osman College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Wad Madani",
+        "website": ""
+      },
+      {
+        "name": "Al-Nokhba College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Wad Madani",
+        "website": ""
+      },
+      {
+        "name": "Al-Mosawarat College of Medical Sciences and Technology",
+        "abbreviation": "",
+        "type": "Medical College",
+        "ownership": "Private",
+        "city": "Al-Managil",
+        "website": ""
+      },
+      {
+        "name": "Nile River College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Atbara",
+        "website": ""
+      },
+      {
+        "name": "Kosti College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Kosti",
+        "website": ""
+      },
+      {
+        "name": "Gedaref College of Science and Technology",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Gedaref",
+        "website": ""
+      },
+      {
+        "name": "South of the Sahara College - New Halfa Branch",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "New Halfa",
+        "website": ""
+      },
+      {
+        "name": "Bahrain College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Damazin",
+        "website": ""
+      },
+      {
+        "name": "Shikan College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "El Obeid",
+        "website": ""
+      },
+      {
+        "name": "North Kordofan College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "El Obeid",
+        "website": ""
+      }
+    ],
+    "transnational": [
+      {
+        "name": "Arab Open University - Sudan",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private / Foreign (Arab Open University)",
+        "city": "",
+        "website": ""
+      }
+    ],
     "distanceLearning": []
   }
 }

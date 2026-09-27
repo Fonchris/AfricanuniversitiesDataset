@@ -2,8 +2,523 @@
   "country": "Tanzania",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "University of Dar es Salaam",
+        "abbreviation": "UDSM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Sokoine University of Agriculture",
+        "abbreviation": "SUA",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Morogoro",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Open University of Tanzania",
+        "abbreviation": "OUT",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "State University of Zanzibar",
+        "abbreviation": "SUZA",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Zanzibar",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Mzumbe University",
+        "abbreviation": "MU",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Morogoro",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Nelson Mandela African Institution of Science and Technology",
+        "abbreviation": "NM-AIST",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Arusha",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Muhimbili University of Health and Allied Sciences",
+        "abbreviation": "MUHAS",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Ardhi University",
+        "abbreviation": "ARU",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "University of Dodoma",
+        "abbreviation": "UDOM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Dodoma",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Mbeya University of Science and Technology",
+        "abbreviation": "MUST",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Mbeya",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Moshi Cooperative University",
+        "abbreviation": "MoCU",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Moshi",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Mwalimu Nyerere University of Agriculture and Technology",
+        "abbreviation": "MNUAT",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Musoma",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Dar es Salaam University College of Education",
+        "abbreviation": "DUCE",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Dar es Salaam",
+        "website": "",
+        "parent": "University of Dar es Salaam"
+      },
+      {
+        "name": "Mkwawa University College of Education",
+        "abbreviation": "MUCE",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Iringa",
+        "website": "",
+        "parent": "University of Dar es Salaam"
+      },
+      {
+        "name": "Mzumbe University - Dar es Salaam Campus College",
+        "abbreviation": "MU-DSM",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Dar es Salaam",
+        "website": "",
+        "parent": "Mzumbe University"
+      },
+      {
+        "name": "Mzumbe University - Mbeya Campus College",
+        "abbreviation": "MU-Mbeya",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Mbeya",
+        "website": "",
+        "parent": "Mzumbe University"
+      },
+      {
+        "name": "Mbeya College of Health and Allied Sciences",
+        "abbreviation": "MCHAS",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Mbeya",
+        "website": "",
+        "parent": "University of Dar es Salaam"
+      },
+      {
+        "name": "Mbeya University of Science and Technology - Rukwa Campus College",
+        "abbreviation": "MUST-RC",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Rukwa",
+        "website": "",
+        "parent": "Mbeya University of Science and Technology"
+      },
+      {
+        "name": "Sokoine University of Agriculture - Mizengo Pinda Campus College",
+        "abbreviation": "SUA-MPC",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Katavi",
+        "website": "",
+        "parent": "Sokoine University of Agriculture"
+      },
+      {
+        "name": "Mbeya University of Science and Technology - Mtwara Campus College of Technical Education",
+        "abbreviation": "MUST-MCCTE",
+        "type": "University College",
+        "ownership": "Public",
+        "city": "Mtwara",
+        "website": "",
+        "parent": "Mbeya University of Science and Technology"
+      },
+      {
+        "name": "Institute of Marine Sciences",
+        "abbreviation": "IMS",
+        "type": "Campus / Centre / Institute",
+        "ownership": "Public",
+        "city": "Zanzibar",
+        "website": "",
+        "parent": "University of Dar es Salaam"
+      },
+      {
+        "name": "Kizumbi Institute of Cooperative Business Education",
+        "abbreviation": "KICoB",
+        "type": "Campus / Centre / Institute",
+        "ownership": "Public",
+        "city": "Shinyanga",
+        "website": "",
+        "parent": "Moshi Cooperative University"
+      }
+    ],
+    "private": [
+      {
+        "name": "Kairuki University",
+        "abbreviation": "KU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Abdulrahman Al-Sumait University",
+        "abbreviation": "SUMAIT",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Zanzibar",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "St. Augustine University of Tanzania",
+        "abbreviation": "SAUT",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mwanza",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Zanzibar University",
+        "abbreviation": "ZU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Zanzibar",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Tumaini University Makumira",
+        "abbreviation": "TUMA",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Arusha",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Aga Khan University",
+        "abbreviation": "AKU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Catholic University of Health and Allied Sciences",
+        "abbreviation": "CUHAS",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mwanza",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "University of Arusha",
+        "abbreviation": "UoA",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Arusha",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "St. Joseph University in Tanzania",
+        "abbreviation": "SJUIT",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Teofilo Kisanji University",
+        "abbreviation": "TEKU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mbeya",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Mwenge Catholic University",
+        "abbreviation": "MWECAU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Moshi",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Muslim University of Morogoro",
+        "abbreviation": "MUM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Morogoro",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "University of Iringa",
+        "abbreviation": "UoI",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Iringa",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "St. John's University of Tanzania",
+        "abbreviation": "SJUT",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dodoma",
+        "website": "",
+        "status": "Accredited & Chartered"
+      },
+      {
+        "name": "Kampala International University in Tanzania",
+        "abbreviation": "KIUT",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "United African University of Tanzania",
+        "abbreviation": "UAUT",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Ruaha Catholic University",
+        "abbreviation": "RUCU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Iringa",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Mwanza University",
+        "abbreviation": "MzU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mwanza",
+        "website": "",
+        "status": "Provisional Licence"
+      },
+      {
+        "name": "Catholic University of Mbeya",
+        "abbreviation": "CUoM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mbeya",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Dar es Salaam Tumaini University",
+        "abbreviation": "DarTU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Rabininsia University",
+        "abbreviation": "RU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Provisional Licence"
+      },
+      {
+        "name": "University of Medical Sciences and Technology",
+        "abbreviation": "UMST",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Provisional Licence"
+      },
+      {
+        "name": "Hikmah University of East Africa",
+        "abbreviation": "HUEA",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "status": "Provisional Licence"
+      },
+      {
+        "name": "KCMC University",
+        "abbreviation": "KCMC-U",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Moshi",
+        "website": "",
+        "status": "Accredited"
+      },
+      {
+        "name": "Stefano Moshi Memorial University College",
+        "abbreviation": "SMMUCo",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Moshi",
+        "website": "",
+        "parent": "Tumaini University Makumira"
+      },
+      {
+        "name": "Archbishop Mihayo University College of Tabora",
+        "abbreviation": "AMUCTA",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Tabora",
+        "website": "",
+        "parent": "St. Augustine University of Tanzania"
+      },
+      {
+        "name": "Jordan University College",
+        "abbreviation": "JUCo",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Morogoro",
+        "website": "",
+        "parent": "St. Augustine University of Tanzania"
+      },
+      {
+        "name": "St. Francis University College of Health and Allied Sciences",
+        "abbreviation": "SFUCHAS",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Morogoro",
+        "website": "",
+        "parent": "St. Augustine University of Tanzania"
+      },
+      {
+        "name": "Stella Maris Mtwara University College",
+        "abbreviation": "STeMMUCo",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Mtwara",
+        "website": "",
+        "parent": "St. Augustine University of Tanzania"
+      },
+      {
+        "name": "Marian University College",
+        "abbreviation": "MARUCo",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Bagamoyo",
+        "website": "",
+        "parent": "St. Augustine University of Tanzania"
+      },
+      {
+        "name": "St. Joseph University College of Health and Allied Sciences",
+        "abbreviation": "SJCHAS",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "parent": "St. Joseph University in Tanzania"
+      },
+      {
+        "name": "Mwenge Catholic University - Hedaru Campus College",
+        "abbreviation": "MWECAU-HCC",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Hedaru, Kilimanjaro",
+        "website": "",
+        "parent": "Mwenge Catholic University"
+      },
+      {
+        "name": "St. Augustine University of Tanzania, Dar es Salaam Centre",
+        "abbreviation": "",
+        "type": "Campus / Centre / Institute",
+        "ownership": "Private",
+        "city": "Dar es Salaam",
+        "website": "",
+        "parent": "St. Augustine University of Tanzania"
+      },
+      {
+        "name": "Stefano Moshi Memorial University College, Mwika Centre",
+        "abbreviation": "",
+        "type": "Campus / Centre / Institute",
+        "ownership": "Private",
+        "city": "Moshi",
+        "website": "",
+        "parent": "Stefano Moshi Memorial University College"
+      },
+      {
+        "name": "St. Augustine University of Tanzania, Arusha Centre",
+        "abbreviation": "",
+        "type": "Campus / Centre / Institute",
+        "ownership": "Private",
+        "city": "Arusha",
+        "website": "",
+        "parent": "St. Augustine University of Tanzania"
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

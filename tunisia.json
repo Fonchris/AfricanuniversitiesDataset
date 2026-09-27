@@ -2,8 +2,450 @@
   "country": "Tunisia",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Université de Tunis",
+        "abbreviation": "UT",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.utunis.rnu.tn"
+      },
+      {
+        "name": "Université de Tunis El Manar",
+        "abbreviation": "UTM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.utm.rnu.tn"
+      },
+      {
+        "name": "Université de Carthage",
+        "abbreviation": "UCAR",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.ucar.rnu.tn"
+      },
+      {
+        "name": "Université de la Manouba",
+        "abbreviation": "UMA",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.uma.rnu.tn"
+      },
+      {
+        "name": "Université de Jendouba",
+        "abbreviation": "UJ",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.uj.rnu.tn"
+      },
+      {
+        "name": "Université de Sousse",
+        "abbreviation": "US",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.uc.rnu.tn"
+      },
+      {
+        "name": "Université de Monastir",
+        "abbreviation": "UM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.um.rnu.tn"
+      },
+      {
+        "name": "Université de Kairouan",
+        "abbreviation": "UK",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.univ-k.rnu.tn"
+      },
+      {
+        "name": "Université de Sfax",
+        "abbreviation": "USF",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.uss.rnu.tn"
+      },
+      {
+        "name": "Université de Gabès",
+        "abbreviation": "UG",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.univgb.rnu.tn"
+      },
+      {
+        "name": "Université de Gafsa",
+        "abbreviation": "UGAF",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.ugaf.rnu.tn"
+      },
+      {
+        "name": "Université Virtuelle de Tunis",
+        "abbreviation": "UVT",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.uvt.rnu.tn"
+      },
+      {
+        "name": "Université Zitouna",
+        "abbreviation": "UZ",
+        "type": "University",
+        "ownership": "Public",
+        "city": "",
+        "website": "https://www.uz.rnu.tn"
+      },
+      {
+        "name": "ISET de Béja",
+        "abbreviation": "ISET Béja",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Béja",
+        "website": ""
+      },
+      {
+        "name": "ISET de Bizerte",
+        "abbreviation": "ISET Bizerte",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Bizerte",
+        "website": ""
+      },
+      {
+        "name": "ISET de Charguia",
+        "abbreviation": "ISET Charguia",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Tunis",
+        "website": ""
+      },
+      {
+        "name": "ISET de Djerba",
+        "abbreviation": "ISET Djerba",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Djerba",
+        "website": ""
+      },
+      {
+        "name": "ISET de Gabès",
+        "abbreviation": "ISET Gabès",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Gabès",
+        "website": ""
+      },
+      {
+        "name": "ISET de Gafsa",
+        "abbreviation": "ISET Gafsa",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Gafsa",
+        "website": ""
+      },
+      {
+        "name": "ISET de Jendouba",
+        "abbreviation": "ISET Jendouba",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Jendouba",
+        "website": ""
+      },
+      {
+        "name": "ISET de Kairouan",
+        "abbreviation": "ISET Kairouan",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Kairouan",
+        "website": ""
+      },
+      {
+        "name": "ISET de Kébili",
+        "abbreviation": "ISET Kébili",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Kébili",
+        "website": ""
+      },
+      {
+        "name": "ISET de Ksar Hellal",
+        "abbreviation": "ISET Ksar Hellal",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Ksar Hellal",
+        "website": ""
+      },
+      {
+        "name": "ISET du Kef",
+        "abbreviation": "ISET Kef",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Le Kef",
+        "website": ""
+      },
+      {
+        "name": "ISET de Mahdia",
+        "abbreviation": "ISET Mahdia",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Mahdia",
+        "website": ""
+      },
+      {
+        "name": "ISET de Nabeul",
+        "abbreviation": "ISET Nabeul",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Nabeul",
+        "website": ""
+      },
+      {
+        "name": "ISET de Radès",
+        "abbreviation": "ISET Radès",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Radès",
+        "website": ""
+      },
+      {
+        "name": "ISET de Sfax",
+        "abbreviation": "ISET Sfax",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Sfax",
+        "website": ""
+      },
+      {
+        "name": "ISET de Sidi Bouzid",
+        "abbreviation": "ISET Sidi Bouzid",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Sidi Bouzid",
+        "website": ""
+      },
+      {
+        "name": "ISET de Siliana",
+        "abbreviation": "ISET Siliana",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Siliana",
+        "website": ""
+      },
+      {
+        "name": "ISET de Sousse",
+        "abbreviation": "ISET Sousse",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Sousse",
+        "website": ""
+      },
+      {
+        "name": "ISET de Tataouine",
+        "abbreviation": "ISET Tataouine",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Tataouine",
+        "website": ""
+      },
+      {
+        "name": "ISET de Tozeur",
+        "abbreviation": "ISET Tozeur",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Tozeur",
+        "website": ""
+      },
+      {
+        "name": "ISET de Zaghouan",
+        "abbreviation": "ISET Zaghouan",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Zaghouan",
+        "website": ""
+      },
+      {
+        "name": "ISET de Kasserine",
+        "abbreviation": "ISET Kasserine",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Kasserine",
+        "website": ""
+      },
+      {
+        "name": "ISET de Médenine",
+        "abbreviation": "ISET Médenine",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Médenine",
+        "website": ""
+      },
+      {
+        "name": "ISET de Mateur",
+        "abbreviation": "ISET Mateur",
+        "type": "Technological Institute (ISET)",
+        "ownership": "Public",
+        "city": "Mateur",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Université Centrale",
+        "abbreviation": "UC",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.universitecentrale.net"
+      },
+      {
+        "name": "ESPRIT",
+        "abbreviation": "ESPRIT",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.esprit.tn"
+      },
+      {
+        "name": "Université Internationale de Tunis",
+        "abbreviation": "UIT",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.uitunis.com"
+      },
+      {
+        "name": "Université Libre de Tunis",
+        "abbreviation": "ULT",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.ult-tunisie.com"
+      },
+      {
+        "name": "Université Tunis Carthage",
+        "abbreviation": "UTC",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.utctunisie.com"
+      },
+      {
+        "name": "Université Arabe des Sciences",
+        "abbreviation": "UAS",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.uas.ens.tn"
+      },
+      {
+        "name": "Université Privée de l'Enseignement Supérieur",
+        "abbreviation": "UPES",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.upes.com.tn"
+      },
+      {
+        "name": "Université Mahmoud Materi",
+        "abbreviation": "UMM",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.umm-tunisie.com"
+      },
+      {
+        "name": "Université Ibn Khaldoun",
+        "abbreviation": "UIK",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.uik.ens.tn"
+      },
+      {
+        "name": "SESAME",
+        "abbreviation": "SESAME",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.sesame.com.tn"
+      },
+      {
+        "name": "TIME University",
+        "abbreviation": "TIME",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.time.com.tn"
+      },
+      {
+        "name": "UPSAT",
+        "abbreviation": "UPSAT",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.upsat-ens.com"
+      },
+      {
+        "name": "Avicenne Private Business School",
+        "abbreviation": "APBS",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.apbs.tn"
+      },
+      {
+        "name": "iTeam University",
+        "abbreviation": "iTeam",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "EPI Sousse",
+        "abbreviation": "EPI",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "International School of Business",
+        "abbreviation": "ISB",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Université El Amed",
+        "abbreviation": "El Amed",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Leaders University",
+        "abbreviation": "Leaders",
+        "type": "Private Higher Education Institution",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

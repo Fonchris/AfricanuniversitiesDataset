@@ -2,8 +2,1312 @@
   "country": "Uganda",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Busitema University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Busia",
+        "website": "https://busitema.ac.ug/"
+      },
+      {
+        "name": "Gulu University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Gulu",
+        "website": "https://gu.ac.ug/"
+      },
+      {
+        "name": "Kabale University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kabale",
+        "website": "https://www.kab.ac.ug/"
+      },
+      {
+        "name": "Kyambogo University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kampala",
+        "website": "https://kyu.ac.ug/"
+      },
+      {
+        "name": "Lira University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Lira",
+        "website": "https://lirauni.ac.ug/"
+      },
+      {
+        "name": "Makerere University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kampala",
+        "website": "https://www.mak.ac.ug/"
+      },
+      {
+        "name": "Mbarara University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Mbarara",
+        "website": "https://www.must.ac.ug/"
+      },
+      {
+        "name": "Muni University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Arua",
+        "website": "https://www.muni.ac.ug/"
+      },
+      {
+        "name": "Soroti University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Soroti",
+        "website": "https://sun.ac.ug/"
+      },
+      {
+        "name": "Mulago School of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Public",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Uganda Management Institute",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Public",
+        "city": "Kampala",
+        "website": "https://umi.ac.ug/"
+      },
+      {
+        "name": "Uganda National Institute of Teacher Education",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Public",
+        "city": "Kampala",
+        "website": "https://unite.ac.ug/"
+      },
+      {
+        "name": "Bukalasa Agricultural College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Luwero",
+        "website": ""
+      },
+      {
+        "name": "Fisheries Training Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Institute of Survey and Land Management Entebbe",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "National Meteorological Training School",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "Nyabyeya Forestry College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Masindi",
+        "website": ""
+      },
+      {
+        "name": "Senior Command and Staff College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Jinja",
+        "website": ""
+      },
+      {
+        "name": "Uganda College of Commerce Tororo",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Tororo",
+        "website": ""
+      },
+      {
+        "name": "Uganda Petroleum Institute Kigumba",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Kiryandongo",
+        "website": ""
+      },
+      {
+        "name": "Uganda Technical College, Elgon",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Mbale",
+        "website": ""
+      },
+      {
+        "name": "Makerere University Business School",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Public",
+        "city": "Kampala",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Africa Renewal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": "https://aru.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Africa Rural University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kibaale",
+        "website": "https://aru.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Africa University of Science and Management",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kanungu",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "African Bible University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": "https://abu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Aga Khan University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://www.aku.edu/",
+        "status": "Provisional"
+      },
+      {
+        "name": "All Saints University, Lango",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lira",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Ankole Western University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Sheema",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Apex International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Avance International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Bishop Stuart University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mbarara",
+        "website": "https://bsu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Bugema University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Luwero",
+        "website": "https://bugemauniv.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Cavendish University Uganda",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://www.cavendish.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Clarke International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://ciu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Cornerstone University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Divine International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kabarole",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Ebenezer University Lira",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lira",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Equator University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Masaka",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Ernest Cook University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://ecu.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "FINS Medical University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Fort Portal",
+        "website": "https://finsmedicaluniversity.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Great Lakes Regional University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kanungu",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Ibanda University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Ibanda",
+        "website": "https://ibandauniversity.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "International Business, Science and Technology (ISBAT) University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://www.isbatuniversity.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "International University of East Africa",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://iuea.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Islamic Call University College",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Islamic University in Uganda",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mbale",
+        "website": "https://iuiu.ac.ug/",
+        "status": "Separate Act"
+      },
+      {
+        "name": "Jeph International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Kampala International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://www.kiu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Kampala University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://ku.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "King Ceasor University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://kcu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Kumi University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kumi",
+        "website": "https://kumiuniversity.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Limkokwing University of Creative Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mukono",
+        "website": "https://www.limkokwing.net/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Livingstone International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mbale",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Metropolitan International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kisoro",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Mountains of the Moon University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Fort Portal",
+        "website": "https://mmu.ac.ug/",
+        "status": "Registered"
+      },
+      {
+        "name": "Muteesa I Royal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Masaka",
+        "website": "https://miru.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Ndejje University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Luwero",
+        "website": "https://ndejjeuniversity.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Nexus International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Nile University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Arua",
+        "website": "https://nileuniversity.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Nkumba University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": "https://nkumbauniversity.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Rwenzori International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kasese",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Seeta University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mukono",
+        "website": "https://seetauniversity.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "St Ignatius University Kabale",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kabale",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "St. Lawrence University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://stlawrenceuni.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Team University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://teamuniversity.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Uganda Christian University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mukono",
+        "website": "https://ucu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Uganda Martyrs University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mpigi",
+        "website": "https://umu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Uganda Pentecostal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kabarole",
+        "website": "https://upu.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "Uganda Technology and Management University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://utamu.ac.ug/",
+        "status": "Provisional"
+      },
+      {
+        "name": "University of Kisubi",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": "https://unik.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "University of St. Joseph, Mbarara",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mbarara",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "University of the Sacred Heart Gulu",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Gulu",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "University of World Mission Frontiers",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "",
+        "status": "Provisional"
+      },
+      {
+        "name": "Valley University of Science and Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Bushenyi",
+        "website": "https://vust.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Victoria University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://vu.ac.ug/",
+        "status": "Chartered"
+      },
+      {
+        "name": "Africa Institute of Music",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Africa Reformation Theological Seminary",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "Afya Na Haki Institute",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": "https://afyanahaki.org/"
+      },
+      {
+        "name": "Al-Mustafa Islamic College",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Knox School of Theology Uganda",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Mbale",
+        "website": ""
+      },
+      {
+        "name": "Luigi Giussan Institute of Higher Education",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Multitech Business School",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Queen of Apostles Philosophy Centre, Jinja",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Jinja",
+        "website": ""
+      },
+      {
+        "name": "Reformed Theological College",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Shepherd Training College",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Luwero",
+        "website": ""
+      },
+      {
+        "name": "St. Paul's National Major Seminary, Kinyamasika",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Fort Portal",
+        "website": ""
+      },
+      {
+        "name": "St. John Baptist Gaaba Training Institute",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Trinity Biblical Institute",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kapchorwa",
+        "website": ""
+      },
+      {
+        "name": "Uganda Baptist Seminary",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Jinja",
+        "website": ""
+      },
+      {
+        "name": "Westminister Christian Institute",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "YMCA Comprehensive Institute",
+        "abbreviation": "",
+        "type": "ODAI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": "https://ymca.co.ug/"
+      },
+      {
+        "name": "African College of Commerce and Technology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kabale",
+        "website": ""
+      },
+      {
+        "name": "African International Christian Ministry College of Science and Technology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kabale",
+        "website": ""
+      },
+      {
+        "name": "African Population Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "All Nations Theological College and Seminary",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "Alliance College of Science and Technology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Ibanda",
+        "website": ""
+      },
+      {
+        "name": "Archbishop Janan Luwum Theological College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Gulu",
+        "website": ""
+      },
+      {
+        "name": "Artfield Institute of Design",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Bishop Balya College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kabarole",
+        "website": ""
+      },
+      {
+        "name": "Bon Institute of Business and Technology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Iganga",
+        "website": ""
+      },
+      {
+        "name": "Buganda Royal Institute of Business and Technical Education",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Bugongi Institute of Nursing and Midwifery",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Sheema",
+        "website": ""
+      },
+      {
+        "name": "Buloba Teacher Training Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "Canon Ndimbirwe Bible College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Rukungiri",
+        "website": ""
+      },
+      {
+        "name": "East Africa Institute for Management Science",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Gulu",
+        "website": ""
+      },
+      {
+        "name": "East African School of Taxation",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Glad Tidings Bible College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Hope Vocational and Technical Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Mpigi",
+        "website": ""
+      },
+      {
+        "name": "Humanity First Vocational Training Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Budaka",
+        "website": ""
+      },
+      {
+        "name": "Informatics Management Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Adjumani",
+        "website": ""
+      },
+      {
+        "name": "Institute of Advanced Leadership",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Institute of Agriculture, Business and Technology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Serere",
+        "website": ""
+      },
+      {
+        "name": "Institute of Petroleum Studies Kampala",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Insurance Training College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Jimmy Sekasi Business Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Kampala Evangelical School of Theology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Kawempe Community School of Health Sciences",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "Makerere Business Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Management Training and Advisory Centre",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Masaba College of Management and Professional Studies",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Mbale",
+        "website": ""
+      },
+      {
+        "name": "Mildmay Institute of Health Sciences",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Monaco Institute of Business and Computer Science",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kiruhura",
+        "website": ""
+      },
+      {
+        "name": "Nagenda International Academy of Art and Design",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Nile Institute of Management Studies",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Arua",
+        "website": ""
+      },
+      {
+        "name": "Nsamizi Training Institute of Social Development",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Mpigi",
+        "website": ""
+      },
+      {
+        "name": "Rukungiri Institute of Management and Technology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Rukungiri",
+        "website": ""
+      },
+      {
+        "name": "Rwentanga Farm Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Mbarara",
+        "website": ""
+      },
+      {
+        "name": "Sai Pali Institute of Technology and Management",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "SASA College of Industrial Design",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Luwero",
+        "website": ""
+      },
+      {
+        "name": "St. Benedict Technical College Kisubi",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "St. Isabel Technical Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Yumbe",
+        "website": ""
+      },
+      {
+        "name": "St. Paul's Teacher's Institute, Nazigo",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kayunga",
+        "website": ""
+      },
+      {
+        "name": "Terebinth Bible College",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Agago",
+        "website": ""
+      },
+      {
+        "name": "Uganda Hotel and Tourism Training Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Jinja",
+        "website": ""
+      },
+      {
+        "name": "Uganda Bible Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Mbarara",
+        "website": ""
+      },
+      {
+        "name": "Uganda Christian Institute for Professional Development",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Lira",
+        "website": ""
+      },
+      {
+        "name": "Uganda College of Commerce Aduku",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Apac",
+        "website": ""
+      },
+      {
+        "name": "Uganda College of Commerce Kabale",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kabale",
+        "website": ""
+      },
+      {
+        "name": "Uganda College of Commerce Pakwach",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Pakwach",
+        "website": ""
+      },
+      {
+        "name": "Uganda College of Commerce Soroti",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Soroti",
+        "website": ""
+      },
+      {
+        "name": "Uganda Cooperative College Kigumba",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kiryandongo",
+        "website": ""
+      },
+      {
+        "name": "Uganda Institute of Banking and Financial Services",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Uganda Institute of Information and Communication Technology",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Uganda Martyrs Seminary, Namugongo",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Wakiso",
+        "website": ""
+      },
+      {
+        "name": "Uganda Wildlife Research and Training Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kasese",
+        "website": ""
+      },
+      {
+        "name": "Virika Institute of Health Sciences",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kabarole",
+        "website": ""
+      },
+      {
+        "name": "YWCA Vocational Training Institute",
+        "abbreviation": "",
+        "type": "OTI",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Cavendish University, Bukoto Campus",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "Kampala",
+        "website": ""
+      },
+      {
+        "name": "Kampala International University - Western Campus",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Kampala University - affiliated campus",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Metropolitan International University campus",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Uganda Martyrs University campus",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Uganda Pentecostal University campus",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Uganda Management Institute campuses",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Islamic University in Uganda - Kampala Campus",
+        "abbreviation": "",
+        "type": "Campus",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

@@ -2,9 +2,353 @@
   "country": "South Sudan",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
-    "transnational": [],
+    "state": [
+      {
+        "name": "University of Juba",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Juba",
+        "website": "https://uoj.edu.ss/"
+      },
+      {
+        "name": "Upper Nile University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Malakal / Juba / Renk",
+        "website": "https://unu.edu.ss/"
+      },
+      {
+        "name": "University of Bahr El-Ghazal",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Wau",
+        "website": "https://www.ubg.edu.ss/"
+      },
+      {
+        "name": "Rumbek University of Science & Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Rumbek",
+        "website": "https://rust.edu.ss/"
+      },
+      {
+        "name": "Dr. John Garang Memorial University of Science & Technology",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Bor",
+        "website": ""
+      },
+      {
+        "name": "University of Aweil",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Aweil",
+        "website": "",
+        "status": "Renamed/restructured from University of Northern Bahr el Ghazal (2026); transition"
+      },
+      {
+        "name": "University of Kuajok",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kuajok",
+        "website": "",
+        "status": "Newly established 2026; operationalisation/accreditation transition"
+      },
+      {
+        "name": "University of Yei",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Yei",
+        "website": "",
+        "status": "Newly established 2026; operationalisation/accreditation transition"
+      },
+      {
+        "name": "University of Torit",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Torit",
+        "website": "",
+        "status": "Operationalisation; verify current accreditation"
+      },
+      {
+        "name": "University of Western Equatoria",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Yambio",
+        "website": "",
+        "status": "Status verify"
+      },
+      {
+        "name": "Northern Bahr el Ghazal Polytechnic College for Health Sciences",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Aweil",
+        "website": ""
+      },
+      {
+        "name": "Bentiu Technical University College of Petroleum and Gas",
+        "abbreviation": "",
+        "type": "Technical University College",
+        "ownership": "Public",
+        "city": "Bentiu",
+        "website": ""
+      },
+      {
+        "name": "Eastern Equatoria Technical University College for Engineering Sciences",
+        "abbreviation": "",
+        "type": "Technical University College",
+        "ownership": "Public",
+        "city": "Torit",
+        "website": ""
+      },
+      {
+        "name": "Western Equatoria Technical University College for Agriculture Sciences",
+        "abbreviation": "",
+        "type": "Technical University College",
+        "ownership": "Public",
+        "city": "Yambio",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "The Catholic University of South Sudan",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba / Wau / Yambio",
+        "website": "https://www.cuofssd.org/"
+      },
+      {
+        "name": "Saint Mary's College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": ""
+      },
+      {
+        "name": "Starford International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": "https://siu.edu.ss/"
+      },
+      {
+        "name": "Star International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": "https://www.starinternationaluniversity.com/"
+      },
+      {
+        "name": "South University for Medicine, Science and Technology (SUMST)",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": "https://sumst.edu.ss/"
+      },
+      {
+        "name": "Nile Theological College",
+        "abbreviation": "",
+        "type": "Theological College",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": "https://ntlijuba.com/"
+      },
+      {
+        "name": "Africa Zeal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lobonok / Juba",
+        "website": "https://azuedu.com/"
+      },
+      {
+        "name": "Kuda University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": ""
+      },
+      {
+        "name": "Emmanuel Christian University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Yei",
+        "website": "https://www.ecu-ssd.org/"
+      },
+      {
+        "name": "The Episcopal University / South Sudan",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": "https://teu.edu.ss/"
+      },
+      {
+        "name": "Destiny University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": "https://www.destinyuniversity.ss/"
+      },
+      {
+        "name": "Ayii University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": "https://ayiiuniversity.edu.ss/"
+      },
+      {
+        "name": "Akobo Heritage and Memorial University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Akobo, Jonglei",
+        "website": ""
+      },
+      {
+        "name": "Yei Agricultural and Mechanical University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Yei",
+        "website": ""
+      },
+      {
+        "name": "Bentiu Heritage and Memorial University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Bentiu",
+        "website": ""
+      },
+      {
+        "name": "Ebony University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Wau / Greater Bahr el Ghazal",
+        "website": ""
+      },
+      {
+        "name": "South Sudan Christian University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": ""
+      },
+      {
+        "name": "University of Faith",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "South Sudan",
+        "website": ""
+      },
+      {
+        "name": "Islamic University of South Sudan",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": ""
+      },
+      {
+        "name": "Equatoria International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Torit",
+        "website": ""
+      },
+      {
+        "name": "Attasons University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Torit",
+        "website": ""
+      },
+      {
+        "name": "Mikese University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Yambio",
+        "website": ""
+      },
+      {
+        "name": "Remedial University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": ""
+      },
+      {
+        "name": "Ristal University College",
+        "abbreviation": "",
+        "type": "University College",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": ""
+      },
+      {
+        "name": "Rain Computer College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Torit",
+        "website": ""
+      },
+      {
+        "name": "Hopeland Institute",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Juba",
+        "website": ""
+      },
+      {
+        "name": "Motherland Medical College",
+        "abbreviation": "",
+        "type": "Medical College",
+        "ownership": "Private",
+        "city": "Juba / Bentiu",
+        "website": ""
+      }
+    ],
+    "transnational": [
+      {
+        "name": "Kampala University South Sudan Center",
+        "abbreviation": "",
+        "type": "Foreign University Centre",
+        "ownership": "Private / Foreign (Uganda)",
+        "city": "South Sudan",
+        "website": ""
+      }
+    ],
     "distanceLearning": []
   }
 }
