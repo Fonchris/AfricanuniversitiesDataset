@@ -2,7 +2,80 @@
   "country": "Seychelles",
   "universities": {
     "federal": [],
-    "state": [],
+    "state": [
+      {
+        "name": "University of Seychelles",
+        "abbreviation": "UniSey",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Anse Royale / Mahé",
+        "website": "https://unisey.ac.sc/"
+      },
+      {
+        "name": "The Guy Morel Institute",
+        "abbreviation": "TGMI",
+        "type": "Tertiary Institute",
+        "ownership": "Public",
+        "city": "Mahé",
+        "website": ""
+      },
+      {
+        "name": "National Institute of Health and Social Studies",
+        "abbreviation": "NIHSS",
+        "type": "Health Institute",
+        "ownership": "Public",
+        "city": "Mahé",
+        "website": ""
+      },
+      {
+        "name": "Seychelles Institute of Teacher Education",
+        "abbreviation": "SITE",
+        "type": "Teacher Education Institute",
+        "ownership": "Public",
+        "city": "Mont Fleuri / Mahé",
+        "website": "https://www.site.edu.sc/"
+      },
+      {
+        "name": "Seychelles Institute of Technology",
+        "abbreviation": "SIT",
+        "type": "Technical Institute (TVET)",
+        "ownership": "Public",
+        "city": "Providence / Mahé",
+        "website": "https://www.sit.sc/"
+      },
+      {
+        "name": "Seychelles Tourism Academy",
+        "abbreviation": "STA",
+        "type": "Tourism Academy",
+        "ownership": "Public",
+        "city": "Anse Royale / Mahé",
+        "website": ""
+      },
+      {
+        "name": "Seychelles Institute of Art and Design",
+        "abbreviation": "SIAD",
+        "type": "Art and Design Institute",
+        "ownership": "Public",
+        "city": "Anse Royale / Mahé",
+        "website": "https://www.seyiad.com/"
+      },
+      {
+        "name": "Seychelles Institute of Distance and Open Learning",
+        "abbreviation": "SIDOL",
+        "type": "Distance / Open Learning Institute",
+        "ownership": "Public",
+        "city": "Mont Fleuri / Mahé",
+        "website": "https://www.sidol.edu.sc/"
+      },
+      {
+        "name": "Seychelles Maritime Academy",
+        "abbreviation": "SMA",
+        "type": "Maritime Academy",
+        "ownership": "Public",
+        "city": "Providence / Mahé",
+        "website": "https://www.sma.edu.sc/"
+      }
+    ],
     "private": [],
     "transnational": [],
     "distanceLearning": []

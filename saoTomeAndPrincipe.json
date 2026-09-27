@@ -2,9 +2,44 @@
   "country": "Sao Tome and Principe",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
-    "transnational": [],
+    "state": [
+      {
+        "name": "Universidade de São Tomé e Príncipe",
+        "abbreviation": "USTP",
+        "type": "University",
+        "ownership": "Public",
+        "city": "São Tomé",
+        "website": "https://www.ustp-edu-st.com/"
+      }
+    ],
+    "private": [
+      {
+        "name": "Universidade Lusíada de São Tomé e Príncipe",
+        "abbreviation": "ULSTP",
+        "type": "University",
+        "ownership": "Private",
+        "city": "São Tomé",
+        "website": "https://ulstp.st/"
+      },
+      {
+        "name": "Instituto Universitário de Contabilidade, Administração e Informática",
+        "abbreviation": "IUCAI",
+        "type": "University Institute",
+        "ownership": "Private",
+        "city": "São Tomé",
+        "website": ""
+      }
+    ],
+    "transnational": [
+      {
+        "name": "Pólo da Universidade de Évora em São Tomé e Príncipe",
+        "abbreviation": "UÉ STP",
+        "type": "University Branch",
+        "ownership": "Private / Foreign (Portugal)",
+        "city": "São Tomé",
+        "website": "https://www.uevora.pt/"
+      }
+    ],
     "distanceLearning": []
   }
 }

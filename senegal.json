@@ -2,8 +2,354 @@
   "country": "Senegal",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Université Cheikh Anta Diop de Dakar",
+        "abbreviation": "UCAD",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Dakar",
+        "website": "https://www.ucad.sn/"
+      },
+      {
+        "name": "Université Gaston Berger de Saint-Louis",
+        "abbreviation": "UGB",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Saint-Louis",
+        "website": "https://www.ugb.sn/"
+      },
+      {
+        "name": "Université Iba Der Thiam de Thiès",
+        "abbreviation": "UIDT",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Thiès",
+        "website": "https://www.univ-thies.sn/"
+      },
+      {
+        "name": "Université Assane Seck de Ziguinchor",
+        "abbreviation": "UASZ",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Ziguinchor",
+        "website": "https://www.uasz.sn/"
+      },
+      {
+        "name": "Université Alioune Diop de Bambey",
+        "abbreviation": "UADB",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Bambey",
+        "website": "https://uadb.edu.sn/"
+      },
+      {
+        "name": "Université Numérique Cheikh Hamidou KANE",
+        "abbreviation": "UN-CHK",
+        "type": "Digital University",
+        "ownership": "Public",
+        "city": "Dakar / online",
+        "website": "https://www.unchk.sn/"
+      },
+      {
+        "name": "Université Amadou Mahtar Mbow",
+        "abbreviation": "UAM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Diamniadio",
+        "website": "https://uam.sn/"
+      },
+      {
+        "name": "Université El Hadji Ibrahima Niasse",
+        "abbreviation": "UEIN",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kaolack / Sine-Saloum",
+        "website": ""
+      },
+      {
+        "name": "École Polytechnique de Thiès",
+        "abbreviation": "EPT",
+        "type": "Engineering School",
+        "ownership": "Public",
+        "city": "Thiès",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Supérieure d'Agriculture",
+        "abbreviation": "ENSA",
+        "type": "Agricultural School",
+        "ownership": "Public",
+        "city": "Thiès",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Enseignement Professionnel de Thiès",
+        "abbreviation": "ISEP Thiès",
+        "type": "Professional Institute",
+        "ownership": "Public",
+        "city": "Thiès",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Enseignement Professionnel de Diamniadio",
+        "abbreviation": "ISEP Diamniadio",
+        "type": "Professional Institute",
+        "ownership": "Public",
+        "city": "Diamniadio",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Enseignement Professionnel de Richard-Toll",
+        "abbreviation": "ISEP Richard-Toll",
+        "type": "Professional Institute",
+        "ownership": "Public",
+        "city": "Richard-Toll",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Enseignement Professionnel de Matam",
+        "abbreviation": "ISEP Matam",
+        "type": "Professional Institute",
+        "ownership": "Public",
+        "city": "Matam",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Enseignement Professionnel de Bignona",
+        "abbreviation": "ISEP Bignona",
+        "type": "Professional Institute",
+        "ownership": "Public",
+        "city": "Bignona",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Enseignement Professionnel de Mbacké",
+        "abbreviation": "ISEP Mbacké",
+        "type": "Professional Institute",
+        "ownership": "Public",
+        "city": "Mbacké",
+        "website": ""
+      },
+      {
+        "name": "École Inter-États des Sciences et Médecine Vétérinaires",
+        "abbreviation": "EISMV",
+        "type": "Specialist Institute",
+        "ownership": "Public",
+        "city": "Dakar",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Groupe École Supérieure de Commerce",
+        "abbreviation": "SUPDECO",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Finance",
+        "abbreviation": "ISF",
+        "type": "Higher Institute",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Gestion / Institut Supérieur de Technologie Industrielle",
+        "abbreviation": "IPG/ISTI",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire Professionnel en Santé",
+        "abbreviation": "IUP/SANTÉ",
+        "type": "Health Institute",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Univers-professionnel",
+        "abbreviation": "UNI-PRO",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Génie Industriel et Biologique",
+        "abbreviation": "ESGIB",
+        "type": "Engineering School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "SUP'INFO",
+        "abbreviation": "SUP'INFO",
+        "type": "IT School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Santé de Mbour",
+        "abbreviation": "ISS-MBOUR",
+        "type": "Health Institute",
+        "ownership": "Private",
+        "city": "Mbour",
+        "website": ""
+      },
+      {
+        "name": "Université des Sciences de la Santé de Dakar",
+        "abbreviation": "USSD",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique de Dakar Thomas Sankara",
+        "abbreviation": "IPD",
+        "type": "Polytechnic",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Commerce et de Management",
+        "abbreviation": "ISCOM",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "FNAMA Business School",
+        "abbreviation": "FNAMA",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "École Internationale des Affaires",
+        "abbreviation": "EIA",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Groupe EDICOM",
+        "abbreviation": "EDICOM",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Rufisque / Dakar",
+        "website": ""
+      },
+      {
+        "name": "ENSUP Afrique",
+        "abbreviation": "ENSUP Afrique",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "École Haute Étude de Gestion",
+        "abbreviation": "HEG",
+        "type": "Management School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "ESUP Dakar",
+        "abbreviation": "ESUP Dakar",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "ESUP Saint-Louis",
+        "abbreviation": "ESUP Saint-Louis",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Saint-Louis",
+        "website": ""
+      },
+      {
+        "name": "Performics Africa",
+        "abbreviation": "",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "EPF Engineering School",
+        "abbreviation": "EPF",
+        "type": "Engineering School",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "DIT",
+        "abbreviation": "DIT",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "EURO AFRIQUE",
+        "abbreviation": "",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institution Sainte Jeanne d'Arc",
+        "abbreviation": "ISJA",
+        "type": "Higher Institution",
+        "ownership": "Private",
+        "city": "Dakar",
+        "website": ""
+      },
+      {
+        "name": "Institut des Sciences en Santé",
+        "abbreviation": "ISSA",
+        "type": "Health Institute",
+        "ownership": "Private",
+        "city": "Kolda",
+        "website": ""
+      },
+      {
+        "name": "Mboutou Santé Kaolack",
+        "abbreviation": "",
+        "type": "Health Institute",
+        "ownership": "Private",
+        "city": "Kaolack",
+        "website": ""
+      },
+      {
+        "name": "École d'Infirmiers et Infirmières Monseigneur DIONE",
+        "abbreviation": "",
+        "type": "Health Institute",
+        "ownership": "Private",
+        "city": "Thiès",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

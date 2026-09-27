@@ -2,8 +2,227 @@
   "country": "Mauritania",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Université de Nouakchott Al Aasriya (UNA)",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": "una.mr / univ-nkc.mr"
+      },
+      {
+        "name": "Université des Sciences Islamiques d'Aioun",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Aioun",
+        "website": "uia.mr"
+      },
+      {
+        "name": "Université de Nouadhibou",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Nouadhibou",
+        "website": "univ-ndb.mr"
+      },
+      {
+        "name": "École Supérieure Polytechnique (ESP)",
+        "type": "Higher School / Grande École",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": "esp.mr"
+      },
+      {
+        "name": "Institut Supérieur de Comptabilité et d'Administration des Entreprises (ISCAE)",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": "iscae.mr"
+      },
+      {
+        "name": "Institut Supérieur du Numérique (SupNum)",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": "supnum.mr"
+      },
+      {
+        "name": "Institut Supérieur d'Études et de Recherches Islamiques (ISERI)",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": "iseri.mr"
+      },
+      {
+        "name": "École Nationale d'Administration, de Journalisme et de Magistrature (ENAJM)",
+        "type": "Higher School / Grande École",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": "enajm.mr"
+      },
+      {
+        "name": "Institut Supérieur de l'Enseignement Technologique de Rosso (ISET)",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Rosso",
+        "website": "iset.mr"
+      },
+      {
+        "name": "École Normale Supérieure de Nouakchott (ENS)",
+        "type": "Higher School / Grande École",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": "ens.mr"
+      },
+      {
+        "name": "Higher Institute of English (HIE)",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Higher Institute of Industrial Engineering",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Higher Institute of Marine Sciences",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouadhibou",
+        "website": ""
+      },
+      {
+        "name": "Higher Institute of Youth and Sports",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Higher Professional Institute of Languages, Translation, and Interpretation",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Nouadhibou",
+        "website": ""
+      },
+      {
+        "name": "National Higher School of Health Sciences",
+        "type": "Higher School / Grande École",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Greater Mahdara Chinguitiya (Grande Mahdara Chinguitiya)",
+        "type": "Higher Institute",
+        "ownership": "Public",
+        "city": "Akjoujt",
+        "website": ""
+      },
+      {
+        "name": "Nouakchott Business School",
+        "type": "School",
+        "ownership": "Public",
+        "city": "Nouakchott",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Lebanese International University (LIU Mauritanie)",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": "liu.edu.mr"
+      },
+      {
+        "name": "Université Chinguetti Al Islamiyah",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": "uchinguetti.mr"
+      },
+      {
+        "name": "Institut Supérieur des Sciences de Santé (ISSS)",
+        "type": "Higher Institute",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": "isss.mr"
+      },
+      {
+        "name": "Université des Sciences, de Technologie et de la Santé",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": "usts.mr"
+      },
+      {
+        "name": "CDD Sup",
+        "type": "School",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Cheikh Mohamed Lemine Chinguitti University",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Ecole marocaine des Sciences de l'Ingénieur",
+        "type": "School",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "GEU l'Académie",
+        "type": "School",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Grande École de Management et d'Ingénierie",
+        "type": "Higher School / Grande École",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "International School of Business",
+        "type": "School",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Modern University of Chinguitti",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Paris School of Advanced Management and Entrepreneurship - SAME-Paris",
+        "type": "School",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      },
+      {
+        "name": "Sup'Management University",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Nouakchott",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

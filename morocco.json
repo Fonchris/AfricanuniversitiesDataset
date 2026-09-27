@@ -2,8 +2,626 @@
   "country": "Morocco",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Université Mohammed V",
+        "abbreviation": "UM5",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": "https://www.um5.ac.ma/"
+      },
+      {
+        "name": "Université Hassan II de Casablanca",
+        "abbreviation": "UH2C",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Casablanca",
+        "website": "https://www.univh2c.ma/"
+      },
+      {
+        "name": "Université Sidi Mohamed Ben Abdellah",
+        "abbreviation": "USMBA",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Fès",
+        "website": "https://www.usmba.ac.ma/"
+      },
+      {
+        "name": "Université Cadi Ayyad",
+        "abbreviation": "UCA",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Marrakech",
+        "website": "https://www.uca.ma/"
+      },
+      {
+        "name": "Université Mohammed Premier",
+        "abbreviation": "UMP",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Oujda",
+        "website": "https://www.ump.ma/"
+      },
+      {
+        "name": "Université Chouaïb Doukkali",
+        "abbreviation": "UCD",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "El Jadida",
+        "website": "https://www.ucd.ac.ma/"
+      },
+      {
+        "name": "Université Abdelmalek Essaâdi",
+        "abbreviation": "UAE",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Tétouan / Tanger",
+        "website": "https://www.uae.ma/"
+      },
+      {
+        "name": "Université Moulay Ismaïl",
+        "abbreviation": "UMI",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Meknès",
+        "website": "https://www.umi.ac.ma/"
+      },
+      {
+        "name": "Université Ibn Tofaïl",
+        "abbreviation": "UIT",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Kénitra",
+        "website": "https://www.uit.ac.ma/"
+      },
+      {
+        "name": "Université Ibn Zohr",
+        "abbreviation": "UIZ",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Agadir",
+        "website": "https://www.uiz.ac.ma/"
+      },
+      {
+        "name": "Université Hassan Premier",
+        "abbreviation": "UHP",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Settat",
+        "website": "https://www.uhp.ac.ma/"
+      },
+      {
+        "name": "Université Sultan Moulay Slimane",
+        "abbreviation": "USMS",
+        "type": "Public University",
+        "ownership": "Public",
+        "city": "Béni Mellal",
+        "website": "https://www.usms.ac.ma/"
+      },
+      {
+        "name": "École Mohammadia d'Ingénieurs",
+        "abbreviation": "EMI",
+        "type": "Engineering School",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes",
+        "abbreviation": "ENSIAS",
+        "type": "Engineering School (Computing)",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "Institut National de Statistique et d'Économie Appliquée",
+        "abbreviation": "INSEA",
+        "type": "Statistics Institute",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Supérieure des Mines de Rabat",
+        "abbreviation": "ENSMR",
+        "type": "Engineering School (Mining)",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Supérieure des Arts et Métiers",
+        "abbreviation": "ENSAM",
+        "type": "Engineering School",
+        "ownership": "Public",
+        "city": "Meknès",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Supérieure d'Arts et Métiers",
+        "abbreviation": "ENSAM",
+        "type": "Engineering School",
+        "ownership": "Public",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "École Nationale d'Architecture",
+        "abbreviation": "ENA",
+        "type": "Architecture School",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Supérieure d'Architecture",
+        "abbreviation": "ENA",
+        "type": "Architecture School",
+        "ownership": "Public",
+        "city": "Multiple sites",
+        "website": ""
+      },
+      {
+        "name": "Institut Agronomique et Vétérinaire Hassan II",
+        "abbreviation": "IAV",
+        "type": "Agronomy / Veterinary Institute",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Forestière d'Ingénieurs",
+        "abbreviation": "ENFI",
+        "type": "Forestry Engineering School",
+        "ownership": "Public",
+        "city": "Salé",
+        "website": ""
+      },
+      {
+        "name": "Institut National des Postes et Télécommunications",
+        "abbreviation": "INPT",
+        "type": "Telecommunications Institute",
+        "ownership": "Public",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "École Nationale Supérieure d'Électricité et de Mécanique",
+        "abbreviation": "ENSEM",
+        "type": "Engineering School",
+        "ownership": "Public",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "École Nationale de Commerce et de Gestion",
+        "abbreviation": "ENCG",
+        "type": "Business School",
+        "ownership": "Public",
+        "city": "Multiple cities",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Université Internationale de Rabat",
+        "abbreviation": "UIR",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "Université Mohammed VI des Sciences de la Santé",
+        "abbreviation": "UM6SS",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale Abulcasis des Sciences de la Santé",
+        "abbreviation": "UIASS",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "Université Euro-Méditerranéenne de Fès",
+        "abbreviation": "UEMF",
+        "type": "State Partnership University",
+        "ownership": "Private",
+        "city": "Fès",
+        "website": ""
+      },
+      {
+        "name": "Université Mohammed VI Polytechnique",
+        "abbreviation": "UM6P",
+        "type": "State Partnership University",
+        "ownership": "Private",
+        "city": "Ben Guerir",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Marrakech Tensift El Haouz",
+        "abbreviation": "UPM",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Marrakech",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale d'Agadir - Universiapolis",
+        "abbreviation": "Universiapolis",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Agadir",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale de Casablanca",
+        "abbreviation": "UIC",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Mundiapolis",
+        "abbreviation": "Mundiapolis",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Université Privée de Fès",
+        "abbreviation": "UPF",
+        "type": "Private University",
+        "ownership": "Private",
+        "city": "Fès",
+        "website": ""
+      },
+      {
+        "name": "ESCA École de Management",
+        "abbreviation": "ESCA",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "École Centrale de Casablanca",
+        "abbreviation": "ECC",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure d'Architecture de Casablanca",
+        "abbreviation": "EAC",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "ESTEM",
+        "abbreviation": "ESTEM",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur du Génie Appliqué",
+        "abbreviation": "ISGA",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca / Rabat / Others",
+        "website": ""
+      },
+      {
+        "name": "EMSI",
+        "abbreviation": "EMSI",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca / Rabat / Tanger",
+        "website": ""
+      },
+      {
+        "name": "HEM",
+        "abbreviation": "HEM",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca / Rabat",
+        "website": ""
+      },
+      {
+        "name": "ESLSCA Business School",
+        "abbreviation": "ESLSCA",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "Com'Sup",
+        "abbreviation": "Com'Sup",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "ADALIA School of Business",
+        "abbreviation": "ADALIA",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "EMLC Business School",
+        "abbreviation": "EMLC",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "EDGE Private Business School",
+        "abbreviation": "EDGE",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Sup'RH",
+        "abbreviation": "SUP'RH",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "ESG Casablanca",
+        "abbreviation": "ESG",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "ESIG",
+        "abbreviation": "ESIG",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "HECI Casablanca",
+        "abbreviation": "HECI",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "HECI Fès",
+        "abbreviation": "HECI",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Fès",
+        "website": ""
+      },
+      {
+        "name": "ESSEM",
+        "abbreviation": "ESSEM",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "ESSCG",
+        "abbreviation": "ESSCG",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Tanger",
+        "website": ""
+      },
+      {
+        "name": "ESMS",
+        "abbreviation": "ESMS",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Agadir",
+        "website": ""
+      },
+      {
+        "name": "ESMA",
+        "abbreviation": "ESMA",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Marrakech",
+        "website": ""
+      },
+      {
+        "name": "MEDSUP Management",
+        "abbreviation": "MEDSUP",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Tanger",
+        "website": ""
+      },
+      {
+        "name": "GECM",
+        "abbreviation": "GECM",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Marrakech",
+        "website": ""
+      },
+      {
+        "name": "HECGI",
+        "abbreviation": "HECGI",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Kénitra",
+        "website": ""
+      },
+      {
+        "name": "ESAC",
+        "abbreviation": "ESAC",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "ESEJE",
+        "abbreviation": "ESEJE",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Mohammedia",
+        "website": ""
+      },
+      {
+        "name": "FINAN SUP",
+        "abbreviation": "FINAN SUP",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Tanger",
+        "website": ""
+      },
+      {
+        "name": "Orient Sup de Management",
+        "abbreviation": "",
+        "type": "Private Higher Education Establishment",
+        "ownership": "Private",
+        "city": "Taza",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure d'Optique et de Lunetterie",
+        "abbreviation": "ESOL",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Fès",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure d'Optique Appliquée et du Paramédical",
+        "abbreviation": "ESO",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Rabat",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Maghrébin d'Optique et d'Optométrie",
+        "abbreviation": "ISMOO",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Kinésithérapie et du Paramédical",
+        "abbreviation": "ESKP",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Haute École de Kinésithérapie",
+        "abbreviation": "HEK",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Psychologie",
+        "abbreviation": "ESP",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Optique Théorique et Appliquée",
+        "abbreviation": "ISOTA",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Institut Spécialisé Privé des Sciences de la Santé",
+        "abbreviation": "ISPS",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Institut des Hautes Études en Paramédical du Sud",
+        "abbreviation": "IHEPS",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Marrakech",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Études de la Santé Privé Mohammedia",
+        "abbreviation": "ISESMO",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Mohammedia",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure des Sciences de la Santé",
+        "abbreviation": "ESSS",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Institut des Hautes Études Paramédicales Souss",
+        "abbreviation": "IHEPS Agadir",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Agadir",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Études Paramédicales de Casablanca",
+        "abbreviation": "ISEP",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé des Études Paramédicales",
+        "abbreviation": "ISPEP",
+        "type": "Private Health Institution",
+        "ownership": "Private",
+        "city": "Casablanca",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

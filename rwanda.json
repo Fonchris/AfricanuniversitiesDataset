@@ -2,8 +2,298 @@
   "country": "Rwanda",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "University of Rwanda",
+        "abbreviation": "UR",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kigali",
+        "website": "https://ur.ac.rw/"
+      },
+      {
+        "name": "Rwanda Polytechnic",
+        "abbreviation": "RP",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Kigali",
+        "website": "https://www.rp.ac.rw/"
+      },
+      {
+        "name": "Institute of Legal Practice and Development",
+        "abbreviation": "ILPD",
+        "type": "Specialist Institute",
+        "ownership": "Public",
+        "city": "Nyanza",
+        "website": "https://www.ilpd.ac.rw/"
+      }
+    ],
+    "private": [
+      {
+        "name": "Independent University of Kigali",
+        "abbreviation": "ULK",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kigali",
+        "website": "https://ulk.ac.rw/"
+      },
+      {
+        "name": "Institute of Lay Adventists of Kigali",
+        "abbreviation": "INILAK",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Catholic University of Rwanda",
+        "abbreviation": "CUR",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Adventist University of Central Africa",
+        "abbreviation": "AUCA",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kigali",
+        "website": "https://auca.ac.rw/"
+      },
+      {
+        "name": "Institut Catholique de Kabgayi",
+        "abbreviation": "ICK",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Kabgayi",
+        "website": ""
+      },
+      {
+        "name": "Institut d'Enseignement Supérieur de Ruhengeri",
+        "abbreviation": "INES Ruhengeri",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Ruhengeri",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique de Byumba",
+        "abbreviation": "IPB",
+        "type": "Polytechnic",
+        "ownership": "Private",
+        "city": "Byumba",
+        "website": ""
+      },
+      {
+        "name": "Rwanda Tourism University College",
+        "abbreviation": "RTUC",
+        "type": "College",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Pédagogique de Gitwe",
+        "abbreviation": "ISPG",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Gitwe",
+        "website": ""
+      },
+      {
+        "name": "Protestant Institute of Arts and Social Sciences",
+        "abbreviation": "PIASS",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Mount Kigali University",
+        "abbreviation": "MKU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kigali",
+        "website": "https://mku.ac.rw/"
+      },
+      {
+        "name": "Kibogora Polytechnic",
+        "abbreviation": "KP",
+        "type": "Polytechnic",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Carnegie Mellon University Africa",
+        "abbreviation": "CMUA",
+        "type": "International University",
+        "ownership": "Private",
+        "city": "Kigali",
+        "website": "https://www.africa.engineering.cmu.edu/"
+      },
+      {
+        "name": "University of Kigali",
+        "abbreviation": "UoK",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kigali",
+        "website": "https://uok.ac.rw/"
+      },
+      {
+        "name": "East African University Rwanda",
+        "abbreviation": "EAUR",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Ruli Higher Institute of Health Sainte Rose de Lima",
+        "abbreviation": "RHIH",
+        "type": "Health Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Global Health Equity",
+        "abbreviation": "UGHE",
+        "type": "Specialist University",
+        "ownership": "Private",
+        "city": "Kigali / Burera",
+        "website": "https://ughe.org/"
+      },
+      {
+        "name": "African Institute of Mathematical Sciences - Rwanda",
+        "abbreviation": "AIMS Rwanda",
+        "type": "Specialist Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "African Leadership University",
+        "abbreviation": "ALU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Kigali",
+        "website": "https://www.alueducation.com/"
+      },
+      {
+        "name": "College of Surgeons of East, Central and Southern Africa",
+        "abbreviation": "COSECSA",
+        "type": "Specialist Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Vatel School Rwanda",
+        "abbreviation": "VATEL",
+        "type": "Specialist School",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Oklahoma Christian University",
+        "abbreviation": "OCU",
+        "type": "International University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Rwanda Institute for Conservation Agriculture",
+        "abbreviation": "RICA",
+        "type": "Specialist University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "African College of Theology",
+        "abbreviation": "ACT",
+        "type": "College",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "East African Christian College",
+        "abbreviation": "EACC",
+        "type": "College",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Kepler College",
+        "abbreviation": "Kepler",
+        "type": "College",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Hanika Anglican Integrated Polytechnic",
+        "abbreviation": "HAIP",
+        "type": "Polytechnic",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Muhabura Integrated Polytechnic College",
+        "abbreviation": "MIPC",
+        "type": "Polytechnic",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Saint Joseph Integrated Technical College",
+        "abbreviation": "SJITC",
+        "type": "Technical College",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ULK Polytechnic Institute",
+        "abbreviation": "ULK Polytechnic",
+        "type": "Polytechnic",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Africa Health Sciences University",
+        "abbreviation": "AFU",
+        "type": "Health University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "University of Medical Science and Technology",
+        "abbreviation": "UMST",
+        "type": "Cross-border University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "African School of Governance",
+        "abbreviation": "ASG",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

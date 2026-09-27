@@ -2,8 +2,1746 @@
   "country": "Niger",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Université d'Agadez",
+        "abbreviation": "UAZ",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Agadez",
+        "website": "https://www.univ-agadez.edu.ne/"
+      },
+      {
+        "name": "Université de Diffa",
+        "abbreviation": "UDA",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Diffa",
+        "website": "https://uda.campusniger.com/"
+      },
+      {
+        "name": "Université de Dosso",
+        "abbreviation": "UDO",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Dosso",
+        "website": "univ-dosso.ne"
+      },
+      {
+        "name": "Université Dan Dicko Dankoulodo de Maradi",
+        "abbreviation": "UDDM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Maradi",
+        "website": "https://www.uddm.edu.ne/"
+      },
+      {
+        "name": "Université Abdou Moumouni",
+        "abbreviation": "UAM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": "https://uam.edu.ne/"
+      },
+      {
+        "name": "Université Islamique au Niger",
+        "abbreviation": "UIN",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Say / Niamey",
+        "website": "https://www.uin-ne.org/"
+      },
+      {
+        "name": "Université Djibo Hamani",
+        "abbreviation": "UDH",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Tahoua",
+        "website": "https://www.udh.edu.ne/"
+      },
+      {
+        "name": "Université Boubakar Ba de Tillabéri",
+        "abbreviation": "UBB",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Tillabéri",
+        "website": ""
+      },
+      {
+        "name": "Université André Salifou",
+        "abbreviation": "UAS",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Zinder",
+        "website": "https://uas.edu.ne/"
+      },
+      {
+        "name": "Université Numérique du Niger",
+        "abbreviation": "UNN",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": "https://www.unn.ne/"
+      },
+      {
+        "name": "École Supérieure des Sciences de la Communication et des Médias",
+        "abbreviation": "ESSCOM",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Africaine de la Météorologie et de l'Aviation Civile",
+        "abbreviation": "EAMAC",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École de Formation Judiciaire du Niger",
+        "abbreviation": "EFJN",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École des Mines, de l'Industrie et de la Géologie",
+        "abbreviation": "EMIG",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Nationale de Santé Publique",
+        "abbreviation": "ENSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "École Nationale des Statistiques",
+        "abbreviation": "ENSTAT",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Nationale d'Administration",
+        "abbreviation": "ENA",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Nationale de la Protection Civile",
+        "abbreviation": "ENPC",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Nationale de la Santé Publique",
+        "abbreviation": "ENSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Diffa",
+        "website": ""
+      },
+      {
+        "name": "École Nationale de Santé Publique",
+        "abbreviation": "ENSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "École Nationale de Santé Publique Damouré Zika",
+        "abbreviation": "ENSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Nationale de Santé Publique",
+        "abbreviation": "ENSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure des Communications Électronique et de la Poste",
+        "abbreviation": "ESCEP",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut de Formation en Alphabétisation Non Formelle",
+        "abbreviation": "IFAENF",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Pratique du Développement Rural",
+        "abbreviation": "IPDR-Kollo",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Tillabéri",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Formation de Professeurs de CEG Franco-Arabe Amir Sultan",
+        "abbreviation": "",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut National de la Jeunesse, des Sports et de la Culture",
+        "abbreviation": "INJS/C",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut de Santé Publique",
+        "abbreviation": "ISP",
+        "type": "Grande École / Higher School",
+        "ownership": "Public",
+        "city": "Niamey",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Lucas Université Niger",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Swiss UMEF University of Niger",
+        "abbreviation": "SWISS UMEF",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Addar",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Africaine des Sciences Techniques et Médicales",
+        "abbreviation": "UASTM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Al Houda",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Al Moustapha International au Niger",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Albara Ibn Malik Al Ansari",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Canadienne du Niger",
+        "abbreviation": "UNICAN",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université des Sciences et Technologies",
+        "abbreviation": "UST",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université d'Excellence du Sahel",
+        "abbreviation": "UES-ESTIME",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Européenne Privée du Niger Jean Jaurès",
+        "abbreviation": "UEP-JJ",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Franco-Arabe Attadamoun",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université International Al Nahda",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale Bakaye",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale Elhadje Mahmoud Kaat",
+        "abbreviation": "UIEMK",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Moderne des Sciences de la Santé",
+        "abbreviation": "UM2S",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Africaine pour le Développement",
+        "abbreviation": "UPAD",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Ahmed Baba",
+        "abbreviation": "UPAB",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée de l'EERN au CADR Espérance",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Diaba Lompo",
+        "abbreviation": "UPDL",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Entente Internationale",
+        "abbreviation": "UPEI",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Internationale Al-Maghili",
+        "abbreviation": "UIP",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Internationale de Niamey",
+        "abbreviation": "UPIN",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Privée L'Élite de Niamey",
+        "abbreviation": "UPEN",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Université Tunisienne Internationale",
+        "abbreviation": "UTI",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Maryama Abacha American University of Niger",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Université Arrahma",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale Aboubacar Ibrahim de Maradi",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale Annahada",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Université Libre Bouzou Dan Zambadi de Maradi",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Université Privée As-Salam",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Platinum American Private University",
+        "abbreviation": "PAPU-Magaria",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Université Internationale Elhadji Mahmoud Ka'at",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Université Privée Al Anwar",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Académie Régionale de Santé",
+        "abbreviation": "ARS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "African Development Universalis",
+        "abbreviation": "ADU",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "CELECMI",
+        "abbreviation": "",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Centre d'Études Supérieures d'Administration, de Management et d'Électronique",
+        "abbreviation": "CESAME",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Centre de Formation Professionnelle aux Techniques de Gestion",
+        "abbreviation": "CEFOPROTEG",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Centre d'Ingénierie et de Techniques Pétrolières",
+        "abbreviation": "CIFOTEPE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Centre International Privé d'Études Supérieures en Gestion",
+        "abbreviation": "CIPESG",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Centre Libre d'Études et de Formation",
+        "abbreviation": "CLEF",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Complexe d'Enseignement Technique ASNI",
+        "abbreviation": "CET-ASNI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École de Comptabilité, Communication, Administration et Management",
+        "abbreviation": "ECCAM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École de Santé Publique et de l'Action Sociale",
+        "abbreviation": "ESPAS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École des Cadres",
+        "abbreviation": "EDC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École des Hautes Études Commerciales et Financières",
+        "abbreviation": "HECF",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École des Hautes Études Comptables et Financières",
+        "abbreviation": "EHECF",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École des Hautes Études en Génie de l'Eau, des Procédés Industriels et de l'Environnement",
+        "abbreviation": "HEGEPRINE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École des Techniques Économiques, Comptables, Commerciales et de Communication",
+        "abbreviation": "ETEC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Internationale d'Ingénierie",
+        "abbreviation": "EII",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Polytechnique de Niamey",
+        "abbreviation": "EPN",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Privée d'Ingénierie du Niger",
+        "abbreviation": "EPI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Privée Africaine de Formation au Métier de l'Entreprise",
+        "abbreviation": "EPAFORME",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Privée de Gestion et d'Ingénierie",
+        "abbreviation": "EPGI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Privée Supérieure des Sciences de l'Eau et de l'Environnement",
+        "abbreviation": "EP2SE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Spéciale d'Informatique et d'Électronique",
+        "abbreviation": "ESIE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Technologie et de Management",
+        "abbreviation": "ESTM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure Privée d'Ingénierie et de Management",
+        "abbreviation": "ESPIM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure d'Administration et des Gestions",
+        "abbreviation": "ESAGE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Commerce et d'Administration des Entreprises",
+        "abbreviation": "ESCAE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Communication et de Management",
+        "abbreviation": "ESCOM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Management",
+        "abbreviation": "ESM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Management et d'Administration Privée",
+        "abbreviation": "ESMA/P",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Management et de l'Industrie Privée",
+        "abbreviation": "ESMI/P",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Statistique et Informatique",
+        "abbreviation": "ESSI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure des Affaires",
+        "abbreviation": "ESA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure des Métiers de la Presse, de l'Audiovisuel, de la Communication et des TIC",
+        "abbreviation": "ESPAC-TIC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure du Transport et de la Logistique",
+        "abbreviation": "ESTEL-CATEF",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure Privée de Santé",
+        "abbreviation": "SUP-SANTE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure Privée Africaine en Management et Technologies",
+        "abbreviation": "ESPA-MT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure Privée de Gestion et des Beaux Arts du Niger",
+        "abbreviation": "EUREKA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure Privée de Journalisme et Communication",
+        "abbreviation": "ESPJ/C",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure Privée des Professions Industrielles et Commerciales",
+        "abbreviation": "ESPPIC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Grande École Privée de Gestion et d'Administration",
+        "abbreviation": "GEGA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Haute École Privée de Gestion",
+        "abbreviation": "HEPG",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Hautes Études Technologie et Commerciale",
+        "abbreviation": "HETEC-NI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain de Management Social",
+        "abbreviation": "IAMS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain de Santé Privé",
+        "abbreviation": "IASP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Africaine de Technologie",
+        "abbreviation": "IAT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Britannique de Management et de Technologie",
+        "abbreviation": "IBMT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut de Formation en Finance et Expertise Comptable",
+        "abbreviation": "IFEC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut de Formation en Sciences de la Santé",
+        "abbreviation": "IFSS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut de Santé Le Phénotype",
+        "abbreviation": "ISPH",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Études en Sciences de la Santé",
+        "abbreviation": "ISESS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut des Enseignements Professionnel et Technique La Référence",
+        "abbreviation": "IEPT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut des Sciences d'Informatique, d'Économie et de Management",
+        "abbreviation": "ISIEM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut National Sciences Appliquées, d'Ingénierie et de Gestion Privé",
+        "abbreviation": "INSA/IGP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Nigérien d'Enseignement Technologique",
+        "abbreviation": "INET",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Nigérien des Techniques Comptables et Financières",
+        "abbreviation": "INTECFI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Nigérien d'Informatique et de Maintenance Électronique",
+        "abbreviation": "INIME",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique d'Informatique, d'Électronique et de Gestion",
+        "abbreviation": "IPIEG",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Pratique de Santé Publique",
+        "abbreviation": "IPSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Hautes Études de la Santé",
+        "abbreviation": "IPHES",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé d'Études Juridiques, d'Administration Générale, Gestion des Ressources et des Projets",
+        "abbreviation": "IPEJA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé d'Études Supérieures et de Langues",
+        "abbreviation": "IPESL",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé d'Administration et de Management",
+        "abbreviation": "IPAM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé de Formation des Cadres Supérieurs de Banque et de Recyclage",
+        "abbreviation": "IPFCSBR",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé de Management et de Technologie",
+        "abbreviation": "IPMAT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé de Santé et de l'Action Sociale / Boyi",
+        "abbreviation": "IPSAS/Boyi",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé de Santé Publique et de l'Action Sociale Tondy",
+        "abbreviation": "IPSPS Tondy",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Hautes Études Managériales",
+        "abbreviation": "IPHEM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Hautes Études Commerciales",
+        "abbreviation": "IPHEC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Sciences Technologiques et de Gestion",
+        "abbreviation": "IPSTG-Leader",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé en Sciences de la Santé",
+        "abbreviation": "IPSS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé Harrisson",
+        "abbreviation": "",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé International Spécialisé en Transport-Logistique",
+        "abbreviation": "IPISTLMES",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé Maiguizo",
+        "abbreviation": "IPM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé d'Administration et de l'Entreprise",
+        "abbreviation": "IPAE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Régional de Management",
+        "abbreviation": "IREMA-AFRITECH",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Régional d'Informatique, de Marketing, d'Assurance et de Gestion / CFM",
+        "abbreviation": "IRIMAG/CFM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Agriculture et de Technologie Maga Issaka",
+        "abbreviation": "ISATMI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Commerce et Économie",
+        "abbreviation": "ISCE/SUP-ECO",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Formation en Santé",
+        "abbreviation": "ISFS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Gestion et de Technologie",
+        "abbreviation": "ISGT Wangari",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de la Sécurité Électronique et des Télécommunications",
+        "abbreviation": "ISSECTEL",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Management / École Supérieure de Gestion",
+        "abbreviation": "ISM/ESG Groupe SODESI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Santé",
+        "abbreviation": "ISS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Technologie et de Management",
+        "abbreviation": "ISTM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé",
+        "abbreviation": "ISP-Citadelle",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Fiscalité",
+        "abbreviation": "FISUP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Formation de Sport et Jeunesse",
+        "abbreviation": "IPSJ/PROSPOR",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Management et de Technologie",
+        "abbreviation": "ISMAT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Mines et de Géologie Hui Tsai Academy",
+        "abbreviation": "",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Technologie Agricole et de l'Environnement",
+        "abbreviation": "ISPTAE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé des Sciences de la Santé TANSA",
+        "abbreviation": "",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé Soudjo",
+        "abbreviation": "ISPS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Tunisien Privé de Santé",
+        "abbreviation": "ITPS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire Privé Sup-Management Niger",
+        "abbreviation": "IUPSMN",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Universitaire de Technologie Privé",
+        "abbreviation": "IUT-PN",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Management",
+        "abbreviation": "ISPM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut de Formation en Agro-Industrie et Commerce",
+        "abbreviation": "IFAC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Stratégie Évaluation et Prospective",
+        "abbreviation": "ISEP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Africain de Management Privé",
+        "abbreviation": "IAMP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut International de Management",
+        "abbreviation": "IIM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé de Hautes Études en Santé Publique",
+        "abbreviation": "IHESP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Niamey",
+        "website": ""
+      },
+      {
+        "name": "Centre Privé de Santé Publique",
+        "abbreviation": "CPSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure d'Économie et de Gestion",
+        "abbreviation": "ESEG",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure de Management",
+        "abbreviation": "ESM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Gestion du Groupe Akomili",
+        "abbreviation": "ISPG-GA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "Institut Pratique de Santé Publique Agadez",
+        "abbreviation": "IPSP-AZ",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé Tamgak",
+        "abbreviation": "IST",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de Science et de Technologie",
+        "abbreviation": "I2ST",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Agadez",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Hautes Études Commerciales",
+        "abbreviation": "IPHEC Diffa",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Diffa",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de la Santé",
+        "abbreviation": "ISS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Diffa",
+        "website": ""
+      },
+      {
+        "name": "Centre Polytechnique Mazayaki",
+        "abbreviation": "CPM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Dosso",
+        "website": ""
+      },
+      {
+        "name": "École de Formation des Agents de Santé",
+        "abbreviation": "EFAS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Dosso",
+        "website": ""
+      },
+      {
+        "name": "Institut des Professionnels de Santé Doubeyrey",
+        "abbreviation": "IPSD",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Dosso",
+        "website": ""
+      },
+      {
+        "name": "Institut International de Santé Koubeyni de Gaya",
+        "abbreviation": "IISK",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Dosso",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Paramédicaux Nightingale",
+        "abbreviation": "ISPN",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Dosso",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Professionnels de Santé",
+        "abbreviation": "ISPS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Dosso",
+        "website": ""
+      },
+      {
+        "name": "Complexe d'Enseignement Technique Arabie Saoudite Niger",
+        "abbreviation": "CET-ASNI/Maradi",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Complexe Universitaire Polytechnique",
+        "abbreviation": "SODESI",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "École Supérieure Privée de Santé",
+        "abbreviation": "SUP-SANTE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "École des Techniques Économiques, Comptables, Commerciales et de Communication",
+        "abbreviation": "ETEC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut de Santé Privée Marafa",
+        "abbreviation": "ISPM",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut Pratique de Santé Publique",
+        "abbreviation": "IPSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Sports, de la Jeunesse, de l'Animation et de l'Action Culturelle",
+        "abbreviation": "IPSJACC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Polytechnique",
+        "abbreviation": "INSUP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé des Techniques Agricoles",
+        "abbreviation": "ISPTA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Technique COTEG",
+        "abbreviation": "ISTC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut Tropical Privé de Santé",
+        "abbreviation": "ITPS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut de Formation Privé des Agents de Santé",
+        "abbreviation": "IFPAS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé d'Excellence en Sciences de la Santé",
+        "abbreviation": "IPESS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Niger Institute for Comprehensive Eye Health",
+        "abbreviation": "NICE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Maradi",
+        "website": ""
+      },
+      {
+        "name": "Centre de Formation Sanitaire de la SIM-Galmi",
+        "abbreviation": "",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "École Privée Pratique de Formation des Agents de Santé",
+        "abbreviation": "EPPFAS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "École d'Administration, des Finances, des Carrières Juridiques et Économiques",
+        "abbreviation": "EAFCJE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Marocain Privé de Santé",
+        "abbreviation": "IMPS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique des Hautes Études",
+        "abbreviation": "IPHE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Pratique de Santé Publique",
+        "abbreviation": "IPSP/Konni",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé de Droit et de Gestion",
+        "abbreviation": "IPDG",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé de Nouvelles Technologies de l'Ader",
+        "abbreviation": "IPNTA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Cadres de la Santé Publique",
+        "abbreviation": "IPCSP",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Technologies Appliquées",
+        "abbreviation": "IPTA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur d'Études en Sciences de la Santé",
+        "abbreviation": "ISESS",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tahoua",
+        "website": ""
+      },
+      {
+        "name": "École Privée de Santé",
+        "abbreviation": "EPST-Tontoni",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tillabéri",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur des Professionnels de Santé",
+        "abbreviation": "ISPS-Tillabéri",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Tillabéri",
+        "website": ""
+      },
+      {
+        "name": "École des Techniques Économiques, Comptables, Commerciales et de Communication",
+        "abbreviation": "ETEC-Zinder",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "École d'Ingénierie et de Technologie",
+        "abbreviation": "EIT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "École Polytechnique Privée des Sciences Appliquées",
+        "abbreviation": "EPPSA",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "École de Santé Publique et de l'Action Sociale",
+        "abbreviation": "ESPAS/Zinder",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Formation Professionnelle en Techniques et Pratiques de Développement Rural",
+        "abbreviation": "ISPFK",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Institut Britannique de Management et de Technologie",
+        "abbreviation": "IBMT",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Institut de Santé et de Développement Communautaire",
+        "abbreviation": "ISDC",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Institut Polytechnique d'Études Supérieures",
+        "abbreviation": "IPES",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Institut Privé des Arts et Sport",
+        "abbreviation": "IPAS-FOGASSO",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur de la Santé Environnementale",
+        "abbreviation": "ISSPE",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      },
+      {
+        "name": "Institut Supérieur Privé de Technologie et de Gestion",
+        "abbreviation": "ISP-TG/Zinder",
+        "type": "Grande École / Higher School",
+        "ownership": "Private",
+        "city": "Zinder",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

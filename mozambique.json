@@ -2,8 +2,442 @@
   "country": "Mozambique",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "Universidade Eduardo Mondlane",
+        "abbreviation": "UEM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": "uem.mz"
+      },
+      {
+        "name": "Universidade Pedagógica de Maputo",
+        "abbreviation": "UP-Maputo",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": "up.ac.mz"
+      },
+      {
+        "name": "Universidade Joaquim Chissano",
+        "abbreviation": "UJC",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": ""
+      },
+      {
+        "name": "Universidade Lúrio",
+        "abbreviation": "UniLúrio",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Nampula / Pemba / Niassa",
+        "website": "unilurio.ac.mz"
+      },
+      {
+        "name": "Universidade Zambeze",
+        "abbreviation": "UniZambeze",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Beira / Sofala",
+        "website": "unizambeze.ac.mz"
+      },
+      {
+        "name": "Universidade Save",
+        "abbreviation": "UniSave",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Gaza / Inhambane",
+        "website": "unisave.ac.mz"
+      },
+      {
+        "name": "Universidade Licungo",
+        "abbreviation": "UniLicungo",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Quelimane / Zambézia",
+        "website": "unilicungo.ac.mz"
+      },
+      {
+        "name": "Universidade Púnguè",
+        "abbreviation": "UniPúnguè",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Chimoio / Manica",
+        "website": "unipungue.ac.mz"
+      },
+      {
+        "name": "Universidade Rovuma",
+        "abbreviation": "UniRovuma",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Nampula / Cabo Delgado / Niassa",
+        "website": "unirovuma.ac.mz"
+      },
+      {
+        "name": "Instituto Superior de Relações Internacionais",
+        "abbreviation": "ISRI",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": "isri.ac.mz"
+      },
+      {
+        "name": "Instituto Superior de Artes e Cultura",
+        "abbreviation": "ISArC",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": "isarc.edu.mz"
+      },
+      {
+        "name": "Instituto Superior de Ciências de Saúde",
+        "abbreviation": "ISCISA",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": "iscisa.ac.mz"
+      },
+      {
+        "name": "Academia de Ciências Policiais",
+        "abbreviation": "ACIPOL",
+        "type": "Academy",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": "acipol.ac.mz"
+      },
+      {
+        "name": "Academia Militar Marechal Samora Machel",
+        "abbreviation": "AM",
+        "type": "Academy",
+        "ownership": "Public",
+        "city": "Nampula",
+        "website": "am.ac.mz"
+      },
+      {
+        "name": "Academia de Altos Estudios Estratégicos",
+        "abbreviation": "AAEE",
+        "type": "Academy",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Contabilidade e Auditoria de Moçambique",
+        "abbreviation": "ISCAM",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": ""
+      },
+      {
+        "name": "Instituto Politécnico de Gaza",
+        "abbreviation": "ISPG",
+        "type": "Polytechnic Institute",
+        "ownership": "Public",
+        "city": "Gaza",
+        "website": ""
+      },
+      {
+        "name": "Instituto Politécnico de Manica",
+        "abbreviation": "ISPM",
+        "type": "Polytechnic Institute",
+        "ownership": "Public",
+        "city": "Manica",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior Politécnico de Songo",
+        "abbreviation": "ISPS",
+        "type": "Polytechnic Institute",
+        "ownership": "Public",
+        "city": "Tete",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior Politécnico de Tete",
+        "abbreviation": "ISPT",
+        "type": "Polytechnic Institute",
+        "ownership": "Public",
+        "city": "Tete",
+        "website": ""
+      },
+      {
+        "name": "Escola Superior de Ciências Náuticas",
+        "abbreviation": "ESCN",
+        "type": "Higher School",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": ""
+      },
+      {
+        "name": "Escola Superior de Jornalismo",
+        "abbreviation": "ESJ",
+        "type": "Higher School",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Estudos de Defesa",
+        "abbreviation": "ISEDEF",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Maputo",
+        "website": ""
+      }
+    ],
+    "private": [
+      {
+        "name": "Universidade Católica de Moçambique",
+        "abbreviation": "UCM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Beira / Nampula / Maputo",
+        "website": "ucm.ac.mz"
+      },
+      {
+        "name": "Universidade Politécnica",
+        "abbreviation": "A Politécnica",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maputo / Quelimane / Tete",
+        "website": "apolitecnica.ac.mz"
+      },
+      {
+        "name": "Universidade Aberta ISCED",
+        "abbreviation": "UNISCED",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Universidade Adventista de Moçambique",
+        "abbreviation": "UAM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Universidade Técnica de Moçambique",
+        "abbreviation": "UDM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maputo",
+        "website": "udm.ac.mz"
+      },
+      {
+        "name": "Universidade Jean Piaget de Moçambique",
+        "abbreviation": "UJPM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Universidade Mussa Bin Bique",
+        "abbreviation": "UMBB",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Nampula",
+        "website": "umbb.ac.mz"
+      },
+      {
+        "name": "Universidade Metodista Unida de Moçambique",
+        "abbreviation": "UMUM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Universidade Nachingwea",
+        "abbreviation": "UNA",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Universidade Wutive",
+        "abbreviation": "UniTiva",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Universidade São Tomás de Moçambique",
+        "abbreviation": "USTM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Maputo",
+        "website": "ustm.ac.mz"
+      },
+      {
+        "name": "Universidade Técnica Diogo Eugénio Guilande",
+        "abbreviation": "UTDEG",
+        "type": "University",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Universidade Alberto Chipande",
+        "abbreviation": "UNIAC",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Pemba / Beira",
+        "website": "uniac.ac.mz"
+      },
+      {
+        "name": "Instituto Superior de Ciências Empresariais e Tecnológicas",
+        "abbreviation": "ISCET",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Comunicação e Imagem de Moçambique",
+        "abbreviation": "ISCIM",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Ciência e Tecnologia Alberto Chipande",
+        "abbreviation": "ISCTAC",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Ciência e Tecnologia de Moçambique",
+        "abbreviation": "ISCTEM",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Maputo",
+        "website": "isctem.ac.mz"
+      },
+      {
+        "name": "Instituto Superior Dom Bosco",
+        "abbreviation": "ISDB",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Maputo",
+        "website": "isdb.ac.mz"
+      },
+      {
+        "name": "Instituto Superior de Estudos de Desenvolvimento Local",
+        "abbreviation": "ISEDEL",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Educação e Tecnologia",
+        "abbreviation": "ISET",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Formação, Investigação e Ciência",
+        "abbreviation": "ISFIC",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Gestão, Administração e Educação",
+        "abbreviation": "ISG",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Gestão, Comércio e Finanças",
+        "abbreviation": "ISGECOF",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Maputo / Beira",
+        "website": "isgecof.ac.mz"
+      },
+      {
+        "name": "Instituto Superior de Gestão e Empreendedorismo Gwaza-Muthine",
+        "abbreviation": "ISGE-GM",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Gestão e Negócios",
+        "abbreviation": "ISGN",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior Monitor",
+        "abbreviation": "ISM",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Maputo",
+        "website": "ismonitor.ac.mz"
+      },
+      {
+        "name": "Instituto Superior Maria Mãe África",
+        "abbreviation": "ISMMA",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior Mutassa",
+        "abbreviation": "ISMU",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Instituto Superior de Transportes e Comunicações",
+        "abbreviation": "ISUTC",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Maputo",
+        "website": "isitc.ac.mz"
+      },
+      {
+        "name": "Instituto Superior de Teologia Evangélica de Moçambique",
+        "abbreviation": "ISTEM",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Maputo",
+        "website": "istem.ac.mz"
+      },
+      {
+        "name": "Escola Superior de Economia e Gestão",
+        "abbreviation": "ESEG",
+        "type": "Higher School",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

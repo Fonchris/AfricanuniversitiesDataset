@@ -2,8 +2,346 @@
   "country": "Mauritius",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "University of Mauritius",
+        "abbreviation": "UoM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Réduit",
+        "website": "https://www.uom.ac.mu/"
+      },
+      {
+        "name": "University of Technology, Mauritius",
+        "abbreviation": "UTM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Pointe aux Sables",
+        "website": "http://www.utm.ac.mu/"
+      },
+      {
+        "name": "Open University of Mauritius",
+        "abbreviation": "OU",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Réduit",
+        "website": "https://open.ac.mu/"
+      },
+      {
+        "name": "Université des Mascareignes",
+        "abbreviation": "UdM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Rose-Hill",
+        "website": "https://udm.ac.mu/"
+      },
+      {
+        "name": "Mauritius Institute of Education",
+        "abbreviation": "MIE",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Réduit",
+        "website": "https://mie.ac.mu/"
+      },
+      {
+        "name": "Mahatma Gandhi Institute",
+        "abbreviation": "MGI",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Moka",
+        "website": "https://mgi.ac.mu/"
+      },
+      {
+        "name": "Rabindranath Tagore Institute",
+        "abbreviation": "RTI",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "D'Epinay",
+        "website": "https://mgi.ac.mu/"
+      },
+      {
+        "name": "Mauritius Institute of Health",
+        "abbreviation": "MIH",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Pamplemousses",
+        "website": ""
+      },
+      {
+        "name": "Academy of Design and Innovation",
+        "abbreviation": "ADI",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Ebene",
+        "website": "https://adi.ac.mu/"
+      }
+    ],
+    "private": [
+      {
+        "name": "African Leadership Unleashed Ltd operating as African Leadership College",
+        "abbreviation": "ALC",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.alueducation.com/"
+      },
+      {
+        "name": "African Leadership (Mauritius) Ltd trading as African Leadership College of Higher Education",
+        "abbreviation": "ALC",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.alueducation.com/"
+      },
+      {
+        "name": "Amity Global Business School",
+        "abbreviation": "AGBS",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.amity.edu/mauritius/"
+      },
+      {
+        "name": "Amity Institute of Higher Education",
+        "abbreviation": "AIHE",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.amity.edu/mauritius/"
+      },
+      {
+        "name": "Analys Institute of Management Ltd",
+        "abbreviation": "AIM",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Belstar Training Services Ltd",
+        "abbreviation": "Belstar",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Centre for Legal and Business Studies Ltd",
+        "abbreviation": "CLBS",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Charles Telfair Company Ltd Trading as Charles Telfair Institute",
+        "abbreviation": "CTI",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.cti.ac.mu/"
+      },
+      {
+        "name": "Charles Telfair Company Ltd Trading as Curtin Mauritius",
+        "abbreviation": "Curtin Mauritius",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://curtinmauritius.ac.mu/"
+      },
+      {
+        "name": "Elite School of Business and Finance Ltd",
+        "abbreviation": "ESBF",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "ENSA Nantes (Mauritius)",
+        "abbreviation": "ENSA Nantes",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.ensa-nantes.fr/"
+      },
+{
+        "name": "Glamis Business School",
+        "abbreviation": "Glamis",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.glamis.ac.mu/"
+      },
+      {
+        "name": "Grant Thornton (Business School) Ltd",
+        "abbreviation": "Grant Thornton",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.grantthornton.mu/"
+      },
+      {
+        "name": "Honoris Educational Network Ltd",
+        "abbreviation": "Honoris",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.honoris.net/"
+      },
+      {
+        "name": "Institut Escoffier Ltd",
+        "abbreviation": "Institut Escoffier",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "IOMIT'S SSR Medical College",
+        "abbreviation": "SSRMC",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.ssrmedicalcollege.com/"
+      },
+      {
+        "name": "JSS Academy of Higher Education and Research (Mauritius) Ltd",
+        "abbreviation": "JSS AHER",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.jssuni.edu.in/"
+      },
+      {
+        "name": "London College of Accountancy Ltd",
+        "abbreviation": "LCA",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.lca.ac.mu/"
+      },
+      {
+        "name": "Maragdam Education Ltd operating as Anna Medical College",
+        "abbreviation": "AMC",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://annamedicalcollege.com/"
+      },
+      {
+        "name": "MCCI Business School Ltd",
+        "abbreviation": "MCCI BS",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.mcci.org/"
+      },
+      {
+        "name": "Middlesex International (Mauritius) Ltd",
+        "abbreviation": "Middlesex",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.mdx.ac.mu/"
+      },
+      {
+        "name": "Noble Arc Consulting Ltd",
+        "abbreviation": "Noble Arc",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+{
+        "name": "Polytechnics Mauritius Ltd",
+        "abbreviation": "PML",
+        "type": "Private HEI / public-sector tertiary provider",
+        "ownership": "Private",
+        "city": "Ebene",
+        "website": "https://poly.ac.mu/"
+      },
+      {
+        "name": "Royal Engineering and Architecture Ltd trading as Malaysian Consortium for Education (Mauritius)",
+        "abbreviation": "MCE",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Rushmore Ltd",
+        "abbreviation": "Rushmore",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://rushmore.ac.mu/"
+      },
+      {
+        "name": "The Education Trust",
+        "abbreviation": "Education Trust",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "Trianon Hospitality & Tourism Company Ltd",
+        "abbreviation": "Vatel Mauritius",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.vatel.mu/"
+      },
+      {
+        "name": "Uniciti Education Hub Ltd",
+        "abbreviation": "Uniciti",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "UOM Enterprise Ltd",
+        "abbreviation": "UoM Enterprise",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "UOM Trust",
+        "abbreviation": "UoM Trust",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      },
+      {
+        "name": "VIT (Mauritius) Education Ltd",
+        "abbreviation": "VIT",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://vit.ac.in/"
+      },
+      {
+        "name": "Whitefield Business School Ltd",
+        "abbreviation": "WBS",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": "https://www.whitefield.ac.mu/"
+      },
+      {
+        "name": "YK Business School Ltd",
+        "abbreviation": "YKBS",
+        "type": "Private HEI",
+        "ownership": "Private",
+        "city": "",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

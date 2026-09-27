@@ -2,9 +2,412 @@
   "country": "South Africa",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
-    "transnational": [],
+    "state": [
+      {
+        "name": "Cape Peninsula University of Technology",
+        "abbreviation": "",
+        "type": "University of Technology",
+        "ownership": "Public",
+        "city": "Cape Town",
+        "website": "https://www.cput.ac.za/"
+      },
+      {
+        "name": "Central University of Technology, Free State",
+        "abbreviation": "",
+        "type": "University of Technology",
+        "ownership": "Public",
+        "city": "Bloemfontein",
+        "website": "https://www.cut.ac.za/"
+      },
+      {
+        "name": "Durban University of Technology",
+        "abbreviation": "",
+        "type": "University of Technology",
+        "ownership": "Public",
+        "city": "Durban",
+        "website": "https://www.dut.ac.za/"
+      },
+      {
+        "name": "Mangosuthu University of Technology",
+        "abbreviation": "",
+        "type": "University of Technology",
+        "ownership": "Public",
+        "city": "Durban",
+        "website": "https://www.mut.ac.za/"
+      },
+      {
+        "name": "Nelson Mandela University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Gqeberha",
+        "website": "https://www.mandela.ac.za/"
+      },
+      {
+        "name": "North-West University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Potchefstroom / Mahikeng / Vanderbijlpark",
+        "website": "https://www.nwu.ac.za/"
+      },
+      {
+        "name": "Rhodes University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Makhanda",
+        "website": "https://www.ru.ac.za/"
+      },
+      {
+        "name": "Sefako Makgatho Health Sciences University",
+        "abbreviation": "",
+        "type": "Health Sciences University",
+        "ownership": "Public",
+        "city": "Pretoria",
+        "website": "https://www.smu.ac.za/"
+      },
+      {
+        "name": "Sol Plaatje University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Kimberley",
+        "website": "https://www.spu.ac.za/"
+      },
+      {
+        "name": "Stellenbosch University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Stellenbosch",
+        "website": "https://www.sun.ac.za/"
+      },
+      {
+        "name": "Tshwane University of Technology",
+        "abbreviation": "",
+        "type": "University of Technology",
+        "ownership": "Public",
+        "city": "Pretoria",
+        "website": "https://www.tut.ac.za/"
+      },
+      {
+        "name": "University of Cape Town",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Cape Town",
+        "website": "https://www.uct.ac.za/"
+      },
+      {
+        "name": "University of Fort Hare",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Alice / East London",
+        "website": "https://www.ufh.ac.za/"
+      },
+      {
+        "name": "University of Johannesburg",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Johannesburg",
+        "website": "https://www.uj.ac.za/"
+      },
+      {
+        "name": "University of KwaZulu-Natal",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Durban / Pietermaritzburg",
+        "website": "https://www.ukzn.ac.za/"
+      },
+      {
+        "name": "University of Limpopo",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Polokwane / Turfloop",
+        "website": "https://www.ul.ac.za/"
+      },
+      {
+        "name": "University of Mpumalanga",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Mbombela",
+        "website": "https://www.ump.ac.za/"
+      },
+      {
+        "name": "University of Pretoria",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Pretoria",
+        "website": "https://www.up.ac.za/"
+      },
+      {
+        "name": "University of South Africa (UNISA)",
+        "abbreviation": "",
+        "type": "Open / Distance Learning University",
+        "ownership": "Public",
+        "city": "Pretoria",
+        "website": "https://www.unisa.ac.za/"
+      },
+      {
+        "name": "University of the Free State",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Bloemfontein",
+        "website": "https://www.ufs.ac.za/"
+      },
+      {
+        "name": "University of the Western Cape",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Cape Town",
+        "website": "https://www.uwc.ac.za/"
+      },
+      {
+        "name": "University of the Witwatersrand",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Johannesburg",
+        "website": "https://www.wits.ac.za/"
+      },
+      {
+        "name": "University of Venda",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Thohoyandou",
+        "website": "https://www.univen.ac.za/"
+      },
+      {
+        "name": "University of Zululand",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Richards Bay / KwaDlangezwa",
+        "website": "https://www.unizulu.ac.za/"
+      },
+      {
+        "name": "Vaal University of Technology",
+        "abbreviation": "",
+        "type": "University of Technology",
+        "ownership": "Public",
+        "city": "Vanderbijlpark",
+        "website": "https://www.vut.ac.za/"
+      },
+      {
+        "name": "Walter Sisulu University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Mthatha / East London",
+        "website": "https://www.wsu.ac.za/"
+      }
+    ],
+    "private": [
+      {
+        "name": "AAA School of Advertising",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://www.aaaschool.co.za/"
+      },
+      {
+        "name": "Academy for Facility Management",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://www.a4fm.ac.za/"
+      },
+      {
+        "name": "Academy of Sound Engineering",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://www.ase.co.za/"
+      },
+      {
+        "name": "AFDA",
+        "abbreviation": "",
+        "type": "Film and Media School",
+        "ownership": "Private",
+        "city": "Gauteng / Western Cape",
+        "website": "https://www.afda.co.za/"
+      },
+      {
+        "name": "Akademia",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://www.akademia.ac.za/"
+      },
+      {
+        "name": "Baptist Theological College of Southern Africa",
+        "abbreviation": "",
+        "type": "Theological Institution",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://btc.co.za/"
+      },
+      {
+        "name": "BHC School of Design",
+        "abbreviation": "",
+        "type": "Design School",
+        "ownership": "Private",
+        "city": "Western Cape",
+        "website": "https://www.designschool.co.za/"
+      },
+      {
+        "name": "Boston City Campus",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://www.boston.co.za/"
+      },
+      {
+        "name": "CTU Training Solutions",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://www.ctutraining.co.za/"
+      },
+      {
+        "name": "Da Vinci Institute",
+        "abbreviation": "",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://www.davinci.ac.za/"
+      },
+      {
+        "name": "Damelin",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://www.damelin.co.za/"
+      },
+      {
+        "name": "Eduvos",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://www.eduvos.com/"
+      },
+      {
+        "name": "IMM Graduate School",
+        "abbreviation": "",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Gauteng / Western Cape",
+        "website": "https://www.imm.ac.za/"
+      },
+      {
+        "name": "Independent Institute of Education (IIE)",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://www.iie.ac.za/"
+      },
+      {
+        "name": "Milpark Education",
+        "abbreviation": "",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Gauteng / Western Cape",
+        "website": "https://www.milpark.ac.za/"
+      },
+      {
+        "name": "Pearson Institute of Higher Education",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://www.pearsoninstitute.africa/"
+      },
+      {
+        "name": "Regenesys Business School",
+        "abbreviation": "",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://www.regenesys.net/"
+      },
+      {
+        "name": "Richfield Graduate Institute of Technology",
+        "abbreviation": "",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://www.richfield.ac.za/"
+      },
+      {
+        "name": "Rosebank College",
+        "abbreviation": "",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://www.rosebankcollege.co.za/"
+      },
+      {
+        "name": "Stadio Higher Education",
+        "abbreviation": "",
+        "type": "Higher Education Institution",
+        "ownership": "Private",
+        "city": "Multiple",
+        "website": "https://stadio.ac.za/"
+      },
+      {
+        "name": "TSiBA Education",
+        "abbreviation": "",
+        "type": "Business School",
+        "ownership": "Private",
+        "city": "Western Cape",
+        "website": "https://www.tsiba.ac.za/"
+      },
+      {
+        "name": "Union Bible Institute",
+        "abbreviation": "",
+        "type": "Theological Institution",
+        "ownership": "Private",
+        "city": "KwaZulu-Natal",
+        "website": "https://www.ubi.ac.za/"
+      },
+      {
+        "name": "Villioti Fashion Institute",
+        "abbreviation": "",
+        "type": "Fashion Institute",
+        "ownership": "Private",
+        "city": "Gauteng",
+        "website": "https://villioti.co.za/"
+      }
+    ],
+    "transnational": [
+      {
+        "name": "Monash South Africa",
+        "abbreviation": "",
+        "type": "University Branch",
+        "ownership": "Private / Foreign (Australia)",
+        "city": "Gauteng",
+        "website": ""
+      }
+    ],
     "distanceLearning": []
   }
 }

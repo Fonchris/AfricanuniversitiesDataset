@@ -2,9 +2,180 @@
   "country": "Sierra Leone",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
-    "transnational": [],
+    "state": [
+      {
+        "name": "University of Sierra Leone",
+        "abbreviation": "USL",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Freetown",
+        "website": "https://usl.edu.sl/"
+      },
+      {
+        "name": "Njala University",
+        "abbreviation": "NU",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Njala / Bo",
+        "website": "https://njala.edu.sl/"
+      },
+      {
+        "name": "Ernest Bai Koroma University of Science and Technology",
+        "abbreviation": "EBKUST",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Magburaka",
+        "website": "https://ebkust.edu.sl/"
+      },
+      {
+        "name": "Milton Margai Technical University",
+        "abbreviation": "MMTU",
+        "type": "Technical University",
+        "ownership": "Public",
+        "city": "Freetown",
+        "website": "https://mmtu.edu.sl/"
+      },
+      {
+        "name": "Eastern Technical University of Sierra Leone",
+        "abbreviation": "ETU-SL",
+        "type": "Technical University",
+        "ownership": "Public",
+        "city": "Kenema",
+        "website": "https://etusl.edu.sl/"
+      },
+      {
+        "name": "Freetown Polytechnic",
+        "abbreviation": "",
+        "type": "Polytechnic",
+        "ownership": "Public",
+        "city": "Freetown",
+        "website": "https://freetownpolytechnic.edu.sl/"
+      }
+    ],
+    "private": [
+      {
+        "name": "University of Makeni",
+        "abbreviation": "UNIMAK",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Makeni",
+        "website": "https://unimak.edu.sl/"
+      },
+      {
+        "name": "University of Management and Technology",
+        "abbreviation": "UNIMTECH",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Freetown",
+        "website": "https://unimtech.edu.sl/"
+      },
+      {
+        "name": "United Methodist University - Sierra Leone",
+        "abbreviation": "UMU",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Freetown",
+        "website": "https://umu.edu.sl/"
+      },
+      {
+        "name": "University of Lunsar",
+        "abbreviation": "UoL",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Lunsar",
+        "website": "https://universityoflunsar.edu.sl/"
+      },
+      {
+        "name": "Central University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Mile 91, Tonkolili",
+        "website": "https://central.edu.sl/web/"
+      },
+      {
+        "name": "LICCSAL Business College",
+        "abbreviation": "LICCSAL",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Wilberforce, Freetown",
+        "website": ""
+      },
+      {
+        "name": "BlueCrest College Sierra Leone",
+        "abbreviation": "BCC",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Freetown",
+        "website": ""
+      },
+      {
+        "name": "Evangelical College of Theology",
+        "abbreviation": "ECT",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Jui",
+        "website": ""
+      },
+      {
+        "name": "Sierra Leone Theological College & Church Training Centre",
+        "abbreviation": "",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Freetown",
+        "website": ""
+      },
+      {
+        "name": "Freetown Teachers College",
+        "abbreviation": "FTC",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Jui",
+        "website": ""
+      },
+      {
+        "name": "Civil Service Training College",
+        "abbreviation": "",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Freetown",
+        "website": ""
+      },
+      {
+        "name": "Institute of Business Administration & Technology",
+        "abbreviation": "IBATECH",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Waterloo",
+        "website": ""
+      },
+      {
+        "name": "Canadian College of Modern Technology",
+        "abbreviation": "",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Mile 91",
+        "website": ""
+      },
+      {
+        "name": "Every Nation College",
+        "abbreviation": "ENC",
+        "type": "Affiliated College",
+        "ownership": "Private",
+        "city": "Bo",
+        "website": ""
+      }
+    ],
+    "transnational": [
+      {
+        "name": "Limkokwing University of Creative Technology - Sierra Leone",
+        "abbreviation": "LUCT",
+        "type": "University Branch",
+        "ownership": "Private / Foreign (Malaysia)",
+        "city": "Freetown",
+        "website": "https://www.limkokwing.net/"
+      }
+    ],
     "distanceLearning": []
   }
 }

@@ -3,7 +3,768 @@
   "universities": {
     "federal": [],
     "state": [],
-    "private": [],
+    "private": [
+      {
+        "name": "Jaamacadda Ummada Soomaaliyeed / Somali National University",
+        "abbreviation": "SNU",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": "https://snu.edu.so/"
+      },
+      {
+        "name": "Amoud University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": "https://amouduniversity.org/"
+      },
+      {
+        "name": "Nile University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "Daaru Salaam University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "Green Hope University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "University of Bosaso",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "Salaam University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": "https://salaam.edu.so/"
+      },
+      {
+        "name": "Capital University of Somalia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "Green Somalia University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Bay University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "SYL University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "University of Southern Somalia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "Baidoa University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "Qudus University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "Nugaal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "SSC",
+        "website": ""
+      },
+      {
+        "name": "Abaarso Tech University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "University of Hargeisa",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": "https://uoh.edu.so/"
+      },
+      {
+        "name": "Mogadishu University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": "https://mu.edu.so/"
+      },
+      {
+        "name": "University of Somalia",
+        "abbreviation": "UNISO",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": "https://uniso.edu.so/"
+      },
+      {
+        "name": "Jamhuriya University of Science & Technology",
+        "abbreviation": "JUST",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": "https://just.edu.so/"
+      },
+      {
+        "name": "Puntland State University",
+        "abbreviation": "PSU",
+        "type": "University",
+        "ownership": "",
+        "city": "Puntland",
+        "website": "https://psu.edu.so/"
+      },
+      {
+        "name": "Palasma University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banaadir",
+        "website": ""
+      },
+      {
+        "name": "Gollis University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": "https://gollisuniversity.com/"
+      },
+      {
+        "name": "Hormuud University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://hu.edu.so/"
+      },
+      {
+        "name": "Jobkey University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://jobkey.edu.so/"
+      },
+      {
+        "name": "Indian Ocean University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://iou.edu.so/"
+      },
+      {
+        "name": "City University of Somalia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://cityuniversity.edu.so/"
+      },
+      {
+        "name": "Jazeera University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://jazeerauniversity.edu.so/"
+      },
+      {
+        "name": "Hope University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Red-Sea University",
+        "abbreviation": "RSU",
+        "type": "University",
+        "ownership": "",
+        "city": "Puntland",
+        "website": "https://rsu.edu.so/"
+      },
+      {
+        "name": "Somalia International University",
+        "abbreviation": "SIU",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Horseed International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Juba University of Somalia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Jubaland",
+        "website": ""
+      },
+      {
+        "name": "Kismaayo University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Jubaland",
+        "website": ""
+      },
+      {
+        "name": "Edna Aadan University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "East Africa University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://eau.edu.so/"
+      },
+      {
+        "name": "Al-Imra International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Mustaqbal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Abrar University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://abrar.edu.so/"
+      },
+      {
+        "name": "Horn Africa University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Shifa University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Somaville University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Frontier University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Himilo University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Aden Ade University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Next Generation University",
+        "abbreviation": "NGU",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Zamzam University of Science and Technology",
+        "abbreviation": "ZUST",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://zust.edu.so/"
+      },
+      {
+        "name": "Alhikmah University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Kowmayn University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "PIDAP University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Puntland",
+        "website": ""
+      },
+      {
+        "name": "Sahal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Puntland",
+        "website": ""
+      },
+      {
+        "name": "Banadir State University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Hiiraan University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Hirshabelle",
+        "website": ""
+      },
+      {
+        "name": "African University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Al-Hayat Medical University",
+        "abbreviation": "AMU",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Sombridge University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Metropolitan University of Somalia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Daha International University",
+        "abbreviation": "DIU",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Modern University for Science and Technology",
+        "abbreviation": "MUST",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Gedo University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Jubaland",
+        "website": ""
+      },
+      {
+        "name": "Al-Hilaal University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Barwaaqo University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "Accord University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "The Islamic University in Somalia",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Hodmas University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Beledwein University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Hirshabelle",
+        "website": ""
+      },
+      {
+        "name": "Africa Graduate University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "Hanaano University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Galmudug",
+        "website": ""
+      },
+      {
+        "name": "Pan-African International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Tima-ade University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "Imam Shafi I University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Alpha University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "Daarul Xikmah University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Baidoa International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "Galkao University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Galmudug",
+        "website": ""
+      },
+      {
+        "name": "Adal Medical University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "Beder University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "Afgoi International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "Kasmo Afgoye University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "University of Burao",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "Sanaag University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "SSC",
+        "website": ""
+      },
+      {
+        "name": "Ganaany University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Eelo University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": "https://eelouniversity.org/"
+      },
+      {
+        "name": "Upper Jubba University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "Miltonbridge University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Swed University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "University of Holy Quran",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Somaliland",
+        "website": ""
+      },
+      {
+        "name": "Madina University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Global University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Almaas University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "Sool University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "SSC",
+        "website": ""
+      },
+      {
+        "name": "Ileys University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "SSC",
+        "website": ""
+      },
+      {
+        "name": "Barawa International University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Southwest",
+        "website": ""
+      },
+      {
+        "name": "Banaadir University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": ""
+      },
+      {
+        "name": "SIMAD University",
+        "abbreviation": "",
+        "type": "University",
+        "ownership": "",
+        "city": "Banadir",
+        "website": "https://simad.edu.so/"
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }

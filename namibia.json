@@ -2,8 +2,202 @@
   "country": "Namibia",
   "universities": {
     "federal": [],
-    "state": [],
-    "private": [],
+    "state": [
+      {
+        "name": "University of Namibia",
+        "abbreviation": "UNAM",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Windhoek",
+        "website": "https://www.unam.edu.na/"
+      },
+      {
+        "name": "Namibia University of Science and Technology",
+        "abbreviation": "NUST",
+        "type": "University",
+        "ownership": "Public",
+        "city": "Windhoek",
+        "website": "https://www.nust.na/"
+      },
+      {
+        "name": "Namibia College of Open Learning",
+        "abbreviation": "NAMCOL",
+        "type": "Open Learning Institution",
+        "ownership": "Public",
+        "city": "Windhoek",
+        "website": "https://namcol.edu.na/"
+      },
+      {
+        "name": "College of the Arts",
+        "abbreviation": "COTA",
+        "type": "Institute",
+        "ownership": "Public",
+        "city": "Windhoek",
+        "website": "cota.na"
+      }
+    ],
+    "private": [
+      {
+        "name": "International University of Management",
+        "abbreviation": "IUM",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "http://www.ium.edu.na"
+      },
+      {
+        "name": "Welwitchia University",
+        "abbreviation": "WELWITCHIA",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://www.welwitchia.com.na"
+      },
+      {
+        "name": "Botho University Namibia",
+        "abbreviation": "BOTHO",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://www.bothouniversity.com"
+      },
+      {
+        "name": "Limkokwing University of Creative Technology",
+        "abbreviation": "Limkokwing",
+        "type": "University",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://www.limkokwing.net/namibia/"
+      },
+      {
+        "name": "Triumphant College",
+        "abbreviation": "TC",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://www.triumphant.edu.na/"
+      },
+      {
+        "name": "International Training College Lingua",
+        "abbreviation": "ITCL",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "http://www.collegelingua.com"
+      },
+      {
+        "name": "Institute for Open Learning",
+        "abbreviation": "IOL",
+        "type": "Open Learning Institution",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "http://www.iol.na"
+      },
+      {
+        "name": "Sunshine Private College",
+        "abbreviation": "SPC",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "http://sunshine.edu.na/"
+      },
+      {
+        "name": "African Leadership Institute",
+        "abbreviation": "ALI",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Okahandja / Windhoek",
+        "website": "http://www.ali.com.na/"
+      },
+      {
+        "name": "Headstart Montessori Teacher Training College",
+        "abbreviation": "HMTTC",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Walvis Bay",
+        "website": "https://www.headstart.com.na/"
+      },
+      {
+        "name": "I-Care Health Training Institute",
+        "abbreviation": "I-CARE",
+        "type": "Health Institute",
+        "ownership": "Private",
+        "city": "Windhoek / Ondangwa",
+        "website": "https://icare-health.org"
+      },
+      {
+        "name": "River Higher Institute of Technology",
+        "abbreviation": "RHIT",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://riverhigherinstitute.edu.na/"
+      },
+      {
+        "name": "Namibia Evangelical Theological Seminary",
+        "abbreviation": "NETS",
+        "type": "Seminary",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "http://www.nets.edu.na"
+      },
+      {
+        "name": "Shiramed Medical Institute",
+        "abbreviation": "SMI",
+        "type": "Medical Institute",
+        "ownership": "Private",
+        "city": "Katima Mulilo",
+        "website": "https://www.shiramed.com"
+      },
+      {
+        "name": "St. Charles Lwanga Major Seminary",
+        "abbreviation": "SCLMS",
+        "type": "Seminary",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://www.stcharlesseminary.com/"
+      },
+      {
+        "name": "Philippi Trust Namibia",
+        "abbreviation": "PTN",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "http://www.philippinamibia.com"
+      },
+      {
+        "name": "Atlantic Training Institution",
+        "abbreviation": "ATI",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://atlantic-institute.com"
+      },
+      {
+        "name": "Meyfield College",
+        "abbreviation": "MC",
+        "type": "College",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "https://www.meyfield.com/"
+      },
+      {
+        "name": "Business School of Excellence",
+        "abbreviation": "BSE",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Windhoek",
+        "website": "bse.com.na"
+      },
+      {
+        "name": "Tulipohamba Training and Assessment Institute",
+        "abbreviation": "TULIP",
+        "type": "Institute",
+        "ownership": "Private",
+        "city": "Namibia",
+        "website": ""
+      }
+    ],
     "transnational": [],
     "distanceLearning": []
   }
